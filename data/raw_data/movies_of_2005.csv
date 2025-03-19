@@ -1,0 +1,330 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt0320661,Kingdom of Heaven,"Action, Adventure, Drama",action,7.3,63,330994,2005,5,8640
+tt0372784,Batman Begins,"Action, Drama",action,8.2,70,1635849,2005,6,8400
+tt0121766,Star Wars: Episode III - Revenge of the Sith,"Action, Adventure, Fantasy",action,7.6,68,873445,2005,5,8400
+tt0360486,Constantine,"Action, Fantasy, Horror",action,7.0,50,389598,2005,2,7260
+tt0120667,Fantastic Four,"Action, Adventure, Fantasy",action,5.7,40,354162,2005,7,6360
+tt0434409,V for Vendetta,"Action, Drama, Sci-Fi",action,8.1,62,1209626,2005,3,7920
+tt0407304,War of the Worlds,"Action, Adventure, Sci-Fi",action,6.5,73,487969,2005,7,7020
+tt0360717,King Kong,"Action, Adventure, Romance",action,7.2,81,457466,2005,12,11220
+tt0399146,A History of Violence,"Action, Crime, Drama",action,7.4,82,262849,2005,9,5760
+tt0379786,Serenity,"Action, Adventure, Sci-Fi",action,7.8,74,309936,2005,9,7140
+tt0399201,The Island,"Action, Sci-Fi, Thriller",action,6.8,50,333422,2005,7,8160
+tt0356910,Mr. & Mrs. Smith,"Action, Comedy, Crime",action,6.5,55,563774,2005,6,7200
+tt0405325,Sky High,"Action, Comedy, Family",action,6.3,62,97457,2005,7,6000
+tt0318649,Sahara,"Action, Adventure, Comedy",action,6.1,41,106184,2005,4,7440
+tt0357277,Elektra,"Action, Adventure, Crime",action,4.7,34,101473,2005,1,5820
+tt0388482,Transporter 2,"Action, Thriller",action,6.3,56,220328,2005,8,5220
+tt0424774,The Adventures of Sharkboy and Lavagirl 3-D,"Action, Adventure, Comedy",action,3.8,38,44243,2005,6,5580
+tt0402022,Æon Flux,"Action, Adventure, Sci-Fi",action,5.4,36,134736,2005,12,5580
+tt0419706,Doom,"Action, Horror, Sci-Fi",action,5.2,34,121046,2005,10,6300
+tt0355295,The Brothers Grimm,"Action, Adventure, Comedy",action,5.9,51,128472,2005,8,7080
+tt0395699,The Pacifier,"Action, Comedy, Drama",action,5.6,30,103499,2005,3,5700
+tt0406375,Zathura: A Space Adventure,"Action, Adventure, Comedy",action,6.3,67,119956,2005,11,6060
+tt0378109,Into the Blue,"Action, Adventure, Crime",action,5.9,45,81397,2005,9,6600
+tt0365686,Revolver,"Action, Crime, Drama",action,6.3,25,105660,2005,9,6660
+tt0430105,Four Brothers,"Action, Crime, Drama",action,6.8,49,163409,2005,7,6540
+tt0421054,Domino,"Action, Biography, Crime",action,5.9,37,70363,2005,10,7620
+tt0456912,Dalkomhan insaeng,"Action, Crime, Drama",action,7.5,N/A,44585,2005,4,7140
+tt0386140,The Legend of Zorro,"Action, Adventure, Romance",action,6.0,47,110647,2005,10,7740
+tt0403016,Supercross,"Action, Drama, Romance",action,4.4,26,4949,2005,8,4800
+tt0385307,Miss Congeniality 2: Armed and Fabulous,"Action, Comedy, Crime",action,5.2,34,82222,2005,3,6900
+tt0426459,Feast,"Action, Comedy, Horror",action,6.2,43,34906,2005,1,5700
+tt0383222,BloodRayne,"Action, Fantasy, Horror",action,3.0,18,37798,2005,1,5700
+tt0402910,Chaos,"Action, Crime, Drama",action,6.4,N/A,59164,2005,12,6360
+tt0340163,Hostage,"Action, Crime, Drama",action,6.5,44,114630,2005,3,6780
+tt0342258,Unleashed,"Action, Crime, Thriller",action,7.0,58,109801,2005,2,6180
+tt0433387,Harsh Times,"Action, Crime, Drama",action,6.8,56,69574,2005,11,6960
+tt0318081,A Sound of Thunder,"Action, Adventure, Horror",action,4.2,24,21133,2005,9,6600
+tt0382992,Stealth,"Action, Adventure, Sci-Fi",action,5.1,35,57305,2005,7,7260
+tt0398712,Assault on Precinct 13,"Action, Crime, Drama",action,6.3,54,83025,2005,1,6540
+tt0427954,Tom yum goong,"Action, Crime, Drama",action,7.0,52,39734,2005,8,6660
+tt0385700,Fainaru fantajî sebun adobento chirudoren,"Animation, Action, Adventure",action,7.1,N/A,58875,2005,9,6060
+tt0369226,Alone in the Dark,"Action, Horror, Sci-Fi",action,2.4,9,47692,2005,1,5940
+tt0402057,Beowulf & Grendel,"Action, Adventure, Drama",action,5.8,53,18873,2005,3,6240
+tt0499041,Kalyug,"Action, Crime, Drama",action,6.5,N/A,3358,2005,12,7560
+tt0329774,xXx: State of the Union,"Action, Adventure, Crime",action,4.5,37,74978,2005,4,6060
+tt0353324,The Crow: Wicked Prayer,"Action, Adventure, Comedy",action,3.0,N/A,10212,2005,9,5940
+tt0326905,The Great Raid,"Action, Drama, War",action,6.6,48,24324,2005,8,7920
+tt0290747,Man-Thing,"Action, Adventure, Horror",action,4.1,N/A,7289,2005,4,6360
+tt0399327,The Man,"Action, Comedy, Crime",action,5.5,33,27096,2005,9,4980
+tt0389957,Edison,"Action, Crime, Drama",action,5.3,N/A,16608,2005,7,5940
+tt0330373,Harry Potter and the Goblet of Fire,"Adventure, Family, Fantasy",adventure,7.7,81,712515,2005,11,9420
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure, Family, Fantasy",adventure,6.9,75,441585,2005,12,8580
+tt0367594,Charlie and the Chocolate Factory,"Adventure, Comedy, Family",adventure,6.7,72,548023,2005,7,6900
+tt0435625,The Descent,"Adventure, Horror, Thriller",adventure,7.2,71,258491,2005,7,5940
+tt0351283,Madagascar,"Animation, Adventure, Comedy",adventure,6.9,57,455358,2005,5,5160
+tt0371724,The Hitchhiker's Guide to the Galaxy,"Adventure, Comedy, Sci-Fi",adventure,6.7,63,212077,2005,4,6540
+tt0358082,Robots,"Animation, Adventure, Comedy",adventure,6.4,64,167954,2005,10,5460
+tt0312004,The Curse of the Were-Rabbit,"Animation, Adventure, Comedy",adventure,7.5,87,152593,2005,10,5100
+tt0443536,Hoodwinked!,"Animation, Adventure, Comedy",adventure,6.5,45,68598,2005,1,4800
+tt0371606,Chicken Little,"Animation, Adventure, Comedy",adventure,5.7,48,104388,2005,10,4860
+tt0452598,Cheaper by the Dozen 2,"Adventure, Comedy, Family",adventure,5.5,34,64491,2005,12,5640
+tt0402894,Casanova,"Adventure, Comedy, Drama",adventure,6.5,57,57144,2005,1,6720
+tt0402901,The Cave,"Adventure, Horror, Sci-Fi",adventure,5.2,30,42676,2005,8,5820
+tt0400497,Herbie: Fully Loaded,"Adventure, Comedy, Family",adventure,4.9,47,52279,2005,6,6060
+tt0368578,Are We There Yet?,"Adventure, Comedy, Family",adventure,4.8,27,35543,2005,1,5700
+tt0407265,Transamerica,"Adventure, Comedy, Drama",adventure,7.3,66,42833,2005,3,6180
+tt0419294,The Three Burials of Melquiades Estrada,"Adventure, Crime, Drama",adventure,7.3,77,42465,2005,11,7260
+tt0361089,Valiant,"Animation, Adventure, Comedy",adventure,5.5,45,25061,2005,8,4560
+tt0376105,Racing Stripes,"Adventure, Comedy, Drama",adventure,5.2,43,18685,2005,1,6120
+tt0409011,Love Wrecked,"Adventure, Comedy, Romance",adventure,4.8,N/A,15833,2005,6,5220
+tt0361715,Duma,"Adventure, Drama, Family",adventure,7.1,82,8807,2005,5,6000
+tt0485323,Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono,"Animation, Action, Adventure",adventure,7.3,N/A,12449,2005,7,6300
+tt0365847,San wa,"Action, Adventure, Comedy",adventure,6.1,N/A,16769,2005,5,7320
+tt0397103,Smile,"Adventure, Drama",adventure,6.2,47,1056,2005,4,6420
+tt0791188,Gekijô-ban Naruto: Daigekitotsu! Maboroshi no chitei iseki dattebayo!,"Animation, Adventure, Comedy",adventure,6.4,N/A,5519,2005,8,5820
+tt0407121,Pooh's Heffalump Movie,"Animation, Adventure, Comedy",adventure,6.4,64,8840,2005,2,4080
+tt0489015,Dangerous Men,"Action, Adventure, Crime",adventure,4.1,32,778,2005,9,4800
+tt0388377,River Queen,"Action, Adventure, Drama",adventure,5.9,N/A,2779,2005,1,6840
+tt0488763,Muyeong geom,"Action, Adventure, History",adventure,6.4,N/A,2997,2005,11,7020
+tt0121164,Corpse Bride,"Animation, Comedy, Drama",animation,7.4,83,312081,2005,9,4620
+tt0407236,Sílení,"Animation, Comedy, Drama",animation,7.1,63,4057,2005,11,7080
+tt2643846,Kureyon Shinchan: Densetsu o Yobu Buriburi: Sanpun Bokkiri Daishingeki,"Animation, Comedy",animation,5.4,N/A,178,2005,4,5520
+tt0875609,Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Myû to hadô no yûsha Rukario,"Animation, Action, Adventure",animation,6.8,N/A,5501,2005,7,6180
+tt0830199,Romeo & Juliet: Sealed with a Kiss,"Animation, Comedy, Drama",animation,3.7,N/A,482,2005,5,4560
+tt0455142,Kirikou et les bêtes sauvages,"Animation, Adventure, Family",animation,6.6,76,1856,2005,12,4500
+tt0972542,Aachi & Ssipak,"Animation, Action, Comedy",animation,6.7,N/A,1896,2005,6,5400
+tt0424958,Disaster!,"Animation, Comedy, Sci-Fi",animation,4.9,N/A,1422,2005,11,4980
+tt1133936,Meitantei Conan: Suiheisenjô no Sutoratêji,"Animation, Action, Adventure",animation,7.0,N/A,2215,2005,4,6480
+tt1018764,One piece: Omatsuri danshaku to himitsu no shima,"Animation, Action, Adventure",animation,7.2,N/A,3502,2005,3,5280
+tt0466405,Gekijôban XXXHolic Manatsu no yoru no yume,"Animation, Comedy, Drama",animation,7.1,N/A,765,2005,8,3600
+tt5252440,Hot Wheels Acceleracers the Ultimate Race,"Animation, Action, Sci-Fi",animation,8.0,N/A,449,2005,10,3600
+tt0267024,Thru the Moebius Strip,"Animation, Adventure, Sci-Fi",animation,5.1,N/A,614,2005,,5220
+tt0498465,Arashi no yoru ni,"Animation, Adventure, Drama",animation,6.9,N/A,1351,2005,12,6600
+tt2333658,Little Einsteins: Our Big Huge Adventure,"Animation, Adventure, Family",animation,6.4,N/A,109,2005,8,3660
+tt0372238,Dinotopia: Quest for the Ruby Sunstone,"Animation, Adventure, Comedy",animation,5.2,N/A,552,2005,5,4500
+tt0488836,Hanuman,Animation,animation,8.0,N/A,2059,2005,10,5340
+tt0473435,Ark,"Animation, Action, Drama",animation,5.9,N/A,626,2005,6,5040
+tt0443123,El sueño de una noche de San Juan,"Animation, Drama, Romance",animation,4.6,N/A,434,2005,7,5100
+tt0401559,Der kleine Eisbär 2: Die geheimnisvolle Insel,"Animation, Adventure, Drama",animation,5.7,N/A,297,2005,9,4800
+tt0436710,Le roman de Renart,"Animation, Family",animation,4.9,N/A,279,2005,8,5400
+tt0824696,Una película de huevos,"Animation, Comedy, Family",animation,6.5,N/A,1521,2005,4,5400
+tt0929265,"Loranga, Masarin & Dartanjang","Animation, Family",animation,6.9,N/A,397,2005,10,3120
+tt0496595,Xuxinha e Guto Contra os Monstros do Espaço,"Animation, Family, Musical",animation,2.7,N/A,744,2005,12,5100
+tt6420500,Warrior Princess,Animation,animation,9.0,N/A,51,2005,,4020
+tt0298903,Heidi,"Animation, Comedy, Family",animation,6.2,N/A,119,2005,12,4800
+tt0443769,Piratas en el Callao,"Animation, Adventure, Family",animation,3.7,N/A,173,2005,8,4680
+tt5230508,AMV Hell 3: The Motion Picture,"Animation, Comedy",animation,7.5,N/A,41,2005,9,4080
+tt0493440,Pettson & Findus - Tomtemaskinen,"Animation, Comedy, Family",animation,6.4,N/A,431,2005,11,4740
+tt0468812,Kidô senshi Z Gandamu II: Koibito tachi,"Animation, Action, Drama",animation,6.5,N/A,275,2005,10,5880
+tt0454883,Lost and Found,"Animation, Drama",animation,6.5,N/A,262,2005,1,5940
+tt0444629,Felix - Ein Hase auf Weltreise,"Family, Animation",animation,4.7,N/A,132,2005,2,4860
+tt0399085,Geppetto's Secret,Animation,animation,6.2,N/A,49,2005,N/A,N/A
+tt0486728,De tre musketerer,Animation,animation,6.1,N/A,106,2005,7,4200
+tt0451769,Imaginum,"Animation, Family, Fantasy",animation,4.3,N/A,181,2005,8,4920
+tt0327660,Lung do kei yuen,"Animation, Action, Adventure",animation,5.1,N/A,505,2005,1,5100
+tt1415872,Dejitaru monsuta no X-shinka,"Animation, Action, Sci-Fi",animation,6.2,N/A,244,2005,1,4800
+tt14128312,Deyueru masutazu: Yami no shiro no ma ryuko kasu obu za desufenikkusu,"Animation, Action, Fantasy",animation,7.1,N/A,11,2005,3,2760
+tt1107334,Gekijô ban tenisu no ôji sama: Futari no samurai - The first game,"Animation, Sport",animation,5.9,N/A,142,2005,1,3900
+tt0470745,Wanghu simcheong,"Animation, Drama, Fantasy",animation,7.0,N/A,32,2005,8,5580
+tt0396269,Wedding Crashers,"Comedy, Romance",comedy,7.0,64,385376,2005,7,7140
+tt0405422,The 40 Year Old Virgin,"Comedy, Romance",comedy,7.1,73,482862,2005,8,6960
+tt0365885,The Upside of Anger,"Comedy, Drama",comedy,6.8,63,23581,2005,4,7080
+tt0398165,The Longest Yard,"Comedy, Crime, Sport",comedy,6.4,48,202138,2005,5,6780
+tt0412019,Broken Flowers,"Comedy, Drama, Mystery",comedy,7.1,79,108449,2005,8,6360
+tt0396652,Ice Princess,"Comedy, Drama, Family",comedy,6.1,55,30180,2005,3,5880
+tt0425123,Just Like Heaven,"Comedy, Drama, Fantasy",comedy,6.7,47,120442,2005,9,5700
+tt0377818,The Dukes of Hazzard,Comedy,comedy,5.1,33,83119,2005,8,6240
+tt0348333,Waiting...,Comedy,comedy,6.7,30,109119,2005,10,5640
+tt0373469,Kiss Kiss Bang Bang,"Comedy, Crime, Mystery",comedy,7.5,73,242186,2005,11,6180
+tt0267891,The Ringer,"Comedy, Sport",comedy,5.8,46,39631,2005,12,5640
+tt0386588,Hitch,"Comedy, Romance",comedy,6.6,58,341520,2005,2,7080
+tt0421994,Imagine Me & You,"Comedy, Drama, Romance",comedy,6.8,49,37547,2005,5,5400
+tt0369441,Fun with Dick and Jane,"Comedy, Crime",comedy,6.2,47,158029,2005,12,5400
+tt0403508,The Sisterhood of the Traveling Pants,"Comedy, Drama, Romance",comedy,6.5,66,66649,2005,6,7140
+tt0372532,The Wedding Date,"Comedy, Romance",comedy,6.1,32,57618,2005,2,5400
+tt0396752,Nanny McPhee,"Comedy, Family, Fantasy",comedy,6.6,59,88316,2005,10,5820
+tt0377471,Be Cool,"Comedy, Crime, Music",comedy,5.6,37,73510,2005,3,7080
+tt0433400,Just Friends,"Comedy, Romance",comedy,6.2,47,131427,2005,11,5760
+tt0427944,Thank You for Smoking,"Comedy, Drama",comedy,7.5,71,232035,2005,4,5520
+tt0395251,The Producers,"Comedy, Crime, Musical",comedy,6.4,52,45662,2005,3,8040
+tt0398375,Rumor Has It...,"Comedy, Drama, Romance",comedy,5.5,35,63188,2005,12,5820
+tt0367089,The Squid and the Whale,"Comedy, Drama",comedy,7.3,82,92620,2005,12,4860
+tt0368709,Elizabethtown,"Comedy, Drama, Romance",comedy,6.3,45,73985,2005,10,7380
+tt0422093,Diary of a Mad Black Woman,"Comedy, Drama, Romance",comedy,5.7,36,16404,2005,2,6960
+tt0331933,Man of the House,"Comedy, Crime",comedy,5.5,35,25860,2005,2,6000
+tt0332047,Fever Pitch,"Comedy, Drama, Romance",comedy,6.2,56,48806,2005,4,6240
+tt0426550,Popstar,"Comedy, Family, Romance",comedy,2.5,N/A,3228,2005,11,5640
+tt0317132,Because of Winn-Dixie,"Comedy, Drama, Family",comedy,6.4,54,13147,2005,2,6360
+tt0411195,Breakfast on Pluto,"Comedy, Drama",comedy,7.2,59,25298,2005,1,7680
+tt0362165,Son of the Mask,"Comedy, Family, Fantasy",comedy,2.3,20,60693,2005,2,5640
+tt0401792,Sin City,"Crime, Thriller",crime,8.0,74,805411,2005,4,7440
+tt0399295,Lord of War,"Crime, Drama",crime,7.6,62,347174,2005,9,7320
+tt0285175,Havoc,"Crime, Drama",crime,5.4,N/A,21193,2005,10,5100
+tt0385002,Green Street,"Crime, Drama, Sport",crime,7.4,55,165890,2005,9,6540
+tt0379725,Capote,"Biography, Crime, Drama",crime,7.3,88,144728,2005,2,6840
+tt0395584,The Devil's Rejects,"Crime, Drama, Horror",crime,6.7,54,108364,2005,7,6420
+tt0417217,Two for the Money,"Crime, Drama, Sport",crime,6.2,50,50802,2005,10,7320
+tt0451094,Chinjeolhan geumjassi,"Crime, Drama, Thriller",crime,7.5,75,88796,2005,7,6900
+tt0393109,Brick,"Crime, Drama, Mystery",crime,7.1,72,111990,2005,4,6600
+tt0430308,Get Rich or Die Tryin',"Biography, Crime, Drama",crime,5.5,45,51845,2005,11,7020
+tt0461989,The Magician,"Crime, Drama",crime,6.5,59,2034,2005,9,5100
+tt0410097,Hustle & Flow,"Crime, Drama, Music",crime,7.3,68,44301,2005,7,6960
+tt0373450,Where the Truth Lies,"Crime, Mystery, Thriller",crime,6.4,47,19110,2005,10,6420
+tt0429715,The Business,"Crime, Drama, Thriller",crime,6.6,N/A,15691,2005,9,5820
+tt0414951,The Quiet,"Crime, Drama, Thriller",crime,6.1,29,17904,2005,7,5760
+tt0398017,Derailed,"Crime, Drama, Thriller",crime,6.6,40,77659,2005,11,6480
+tt0421238,The Proposition,"Crime, Drama, Western",crime,7.3,73,56246,2005,10,6240
+tt0445965,Feed,"Crime, Horror, Thriller",crime,5.3,N/A,6208,2005,2,6060
+tt0380599,Oliver Twist,"Crime, Drama",crime,6.8,65,34941,2005,9,7800
+tt0418455,Adams æbler,"Comedy, Crime, Drama",crime,7.7,51,56513,2005,4,5640
+tt0373926,The Interpreter,"Crime, Mystery, Thriller",crime,6.4,62,112308,2005,4,7680
+tt0426578,Sophie Scholl - Die letzten Tage,"Biography, Crime, Drama",crime,7.6,76,29214,2005,2,7200
+tt0468565,Tsotsi,"Crime, Drama",crime,7.2,70,31944,2005,12,5700
+tt0448179,Wild Things: Diamonds in the Rough,"Crime, Drama, Mystery",crime,4.5,N/A,5558,2005,2,5220
+tt0444653,Keeping Mum,"Comedy, Crime",crime,6.8,53,36762,2005,12,5940
+tt0350261,An Unfinished Life,"Drama, Family, Romance",family,7.0,49,34849,2005,9,6480
+tt0443295,"Yours, Mine & Ours","Comedy, Family, Romance",family,5.5,38,31136,2005,11,5280
+tt0384642,Kicking & Screaming,"Comedy, Family, Romance",family,5.6,45,41737,2005,5,5700
+tt0476735,Babam ve Oglum,"Drama, Family",family,8.2,N/A,96595,2005,11,6720
+tt0380623,The Perfect Man,"Comedy, Family, Romance",family,5.5,27,32635,2005,6,6000
+tt0412922,Little Manhattan,"Comedy, Family, Romance",family,7.4,52,25237,2005,1,5040
+tt0418647,Dreamer: Inspired by a True Story,"Drama, Family, Sport",family,6.8,59,14395,2005,10,6360
+tt0376108,Rebound,"Comedy, Family, Sport",family,5.2,36,13855,2005,7,5160
+tt0428803,La marche de l'empereur,"Documentary, Family",family,7.5,79,60932,2005,1,4800
+tt0417415,Aliens of the Deep,"Documentary, Family",family,6.3,71,3531,2005,8,6000
+tt0216584,Bob the Butler,"Comedy, Family",family,5.6,N/A,4311,2005,6,5400
+tt0448267,Zozo,"Drama, Family, War",family,6.5,N/A,3425,2005,9,6300
+tt0387059,Bee Season,"Drama, Family",family,5.5,54,7328,2005,11,6240
+tt0444736,The Naked Brothers Band: The Movie,"Comedy, Family, Music",family,4.1,N/A,1288,2005,5,5400
+tt0373908,The Honeymooners,"Comedy, Family, Romance",family,3.5,31,7647,2005,6,5400
+tt0432325,Die Höhle des gelben Hundes,"Drama, Family",family,7.5,73,3658,2005,7,5580
+tt0466195,Die Wilden Hühner,"Adventure, Family",family,5.9,N/A,983,2005,2,6300
+tt0409838,Come Away Home,"Drama, Family",family,6.6,N/A,657,2005,4,6120
+tt0431213,Lassie,"Adventure, Comedy, Drama",family,6.7,84,4785,2005,12,6000
+tt0398971,Down and Derby,"Comedy, Family",family,5.6,45,731,2005,12,5400
+tt0451069,The Gospel,"Adventure, Drama, Family",family,5.1,46,2290,2005,10,6300
+tt0457802,The Blue Umbrella,"Comedy, Drama, Family",family,7.3,N/A,2241,2005,8,5400
+tt0366627,The Jacket,"Drama, Fantasy, Mystery",fantasy,7.1,44,121692,2005,3,6180
+tt0374536,Bewitched,"Comedy, Fantasy, Romance",fantasy,4.8,34,76782,2005,6,6120
+tt0410764,Tideland,"Drama, Fantasy, Horror",fantasy,6.3,26,35296,2005,8,7200
+tt0366780,Mirrormask,"Drama, Fantasy",fantasy,6.7,55,23960,2005,3,6060
+tt0401815,Tamara,"Drama, Fantasy, Horror",fantasy,5.0,34,11404,2005,1,5880
+tt0473753,Angel-A,"Comedy, Drama, Fantasy",fantasy,7.0,48,36444,2005,12,5460
+tt0393685,Santa's Slay,"Comedy, Fantasy, Horror",fantasy,5.4,N/A,11768,2005,10,4680
+tt0411267,The Dark,"Drama, Fantasy, Horror",fantasy,5.3,N/A,11654,2005,1,5580
+tt0364376,The Gingerdead Man,"Comedy, Fantasy, Horror",fantasy,3.4,N/A,5008,2005,11,4200
+tt0435687,The League of Gentlemen's Apocalypse,"Comedy, Fantasy, Horror",fantasy,6.1,N/A,6034,2005,6,5460
+tt0443567,Left Behind III: World at War,"Action, Drama, Fantasy",fantasy,4.4,N/A,4378,2005,10,5700
+tt0415679,Boy Eats Girl,"Comedy, Fantasy, Horror",fantasy,4.9,N/A,4059,2005,9,4800
+tt0451850,Paheli,"Comedy, Drama, Fantasy",fantasy,6.4,N/A,14694,2005,6,8400
+tt0446476,Storm,"Drama, Fantasy, Mystery",fantasy,5.6,N/A,2771,2005,1,6600
+tt0756222,Long khong,"Fantasy, Horror, Mystery",fantasy,5.9,N/A,1762,2005,12,6000
+tt0446685,Drawing Restraint 9,Fantasy,fantasy,6.5,61,1579,2005,2,8100
+tt0417453,L'avion,"Drama, Fantasy, Mystery",fantasy,5.7,N/A,428,2005,7,6000
+tt0451829,Naisu no mori: The First Contact,"Comedy, Fantasy",fantasy,6.6,N/A,2783,2005,10,9000
+tt0365478,Man with the Screaming Brain,"Comedy, Fantasy, Sci-Fi",fantasy,5.4,N/A,5723,2005,4,5400
+tt0397065,House of Wax,"Horror, Thriller",horror,5.5,41,139013,2005,5,6780
+tt0450278,Hostel,Horror,horror,5.9,55,197266,2005,1,5640
+tt0384806,The Amityville Horror,Horror,horror,5.9,33,119901,2005,4,5400
+tt0404032,The Exorcism of Emily Rose,"Drama, Horror, Thriller",horror,6.7,46,144225,2005,9,7140
+tt0416315,Wolf Creek,"Horror, Thriller",horror,6.2,56,81301,2005,11,5940
+tt0397101,The Skeleton Key,"Drama, Horror, Mystery",horror,6.5,47,126936,2005,8,6240
+tt0432348,Saw II,"Horror, Mystery",horror,6.6,40,286333,2005,10,5580
+tt0418819,Land of the Dead,"Horror, Sci-Fi, Thriller",horror,6.2,71,102826,2005,6,5580
+tt0257516,Cursed,"Comedy, Horror, Mystery",horror,5.1,31,36173,2005,2,5820
+tt0382077,Hide and Seek,"Horror, Mystery",horror,5.9,35,90589,2005,1,6060
+tt0382628,Dark Water,"Drama, Horror, Mystery",horror,5.6,52,66614,2005,7,6300
+tt0264323,2001 Maniacs,"Comedy, Horror",horror,5.3,N/A,13624,2005,7,5220
+tt0432291,The Fog,"Horror, Mystery",horror,3.7,27,40162,2005,10,6000
+tt0377109,The Ring Two,"Horror, Mystery",horror,5.4,44,103272,2005,3,6600
+tt0428251,Venom,Horror,horror,4.6,25,11158,2005,9,5220
+tt0930083,Noroi,"Horror, Mystery, Thriller",horror,6.8,N/A,16954,2005,8,6900
+tt0384286,Cry Wolf,"Drama, Horror, Mystery",horror,5.8,39,29108,2005,9,5400
+tt0357507,Boogeyman,"Drama, Horror, Mystery",horror,4.2,32,33198,2005,2,5340
+tt0422272,Frágiles,"Horror, Mystery, Thriller",horror,6.0,N/A,17982,2005,10,6060
+tt0375210,White Noise,"Drama, Horror, Mystery",horror,5.5,30,51611,2005,1,6060
+tt0371739,The Zodiac,"Crime, Drama, Horror",horror,5.3,21,7584,2005,8,9480
+tt0429573,An American Haunting,"Drama, Horror, Mystery",horror,5.0,38,27383,2005,4,4980
+tt0405977,Chaos,"Horror, Thriller",horror,3.2,1,2325,2005,8,4440
+tt0449086,Dominion: Prequel to the Exorcist,"Drama, Horror, Thriller",horror,5.1,55,14197,2005,8,7020
+tt0446719,Isolation,"Horror, Sci-Fi, Thriller",horror,5.6,N/A,8262,2005,9,5700
+tt0492784,Kimyô na sâkasu,"Drama, Horror, Mystery",horror,6.9,N/A,6509,2005,12,6480
+tt0430239,It Waits,Horror,horror,4.0,N/A,2472,2005,10,5280
+tt0411806,Return of the Living Dead: Rave to the Grave,"Comedy, Horror, Sci-Fi",horror,3.3,N/A,4879,2005,8,5160
+tt0415167,Mortuary,"Horror, Mystery, Thriller",horror,4.2,N/A,6473,2005,,5640
+tt0478988,The Call of Cthulhu,"Horror, Mystery",horror,7.1,N/A,9225,2005,10,2820
+tt0337573,Antikörper,"Crime, Drama, Horror",horror,6.9,57,9294,2005,7,7620
+tt0395585,House of 9,"Drama, Horror, Mystery",horror,5.3,N/A,11046,2005,6,5400
+tt0294870,Rent,"Drama, Musical, Romance",musical,6.8,53,56920,2005,11,8100
+tt0368222,Romance & Cigarettes,"Comedy, Musical, Romance",musical,6.2,55,13180,2005,3,6300
+tt0409034,Marilyn Hotchkiss' Ballroom Dancing & Charm School,"Comedy, Drama, Musical",musical,6.5,40,3707,2005,1,6240
+tt0445760,Tian bian yi duo yun,"Comedy, Drama, Musical",musical,6.5,45,5800,2005,3,6840
+tt0337887,Sledge: The Untold Story,"Action, Comedy, Musical",musical,3.9,N/A,804,2005,1,4980
+tt0396690,Kisna: The Warrior Poet,"Drama, Musical, Romance",musical,4.5,N/A,1492,2005,1,10260
+tt0475645,Vaah! Life Ho Toh Aisi!,"Comedy, Drama, Family",musical,4.8,N/A,3201,2005,12,9180
+tt0454914,Ru guo · Ai,"Drama, Musical, Romance",musical,6.8,N/A,2771,2005,12,6480
+tt0450997,Boss'n Up,"Musical, Drama",musical,4.7,N/A,743,2005,6,5280
+tt0437407,Parineeta,"Drama, Musical, Romance",musical,7.2,N/A,9807,2005,6,7800
+tt0451833,No Entry,"Comedy, Drama, Musical",musical,6.6,N/A,13375,2005,8,9480
+tt0444874,Main Aisa Hi Hoon,"Drama, Family, Musical",musical,4.9,N/A,1201,2005,5,9720
+tt0457601,David & Goliath,"Drama, Family, Musical",musical,7.7,N/A,63,2005,3,3960
+tt0421528,20 centímetros,"Comedy, Musical",musical,6.6,58,1976,2005,6,6720
+tt0328503,Taj Mahal: An Eternal Love Story,"Drama, History, Musical",musical,5.2,N/A,202,2005,5,9840
+tt0470869,Neal 'N' Nikki,"Comedy, Musical, Romance",musical,3.2,N/A,1803,2005,12,7320
+tt0497335,Bosta,"Musical, War",musical,6.4,N/A,644,2005,3,8520
+tt0441674,Operetta tanuki goten,"Comedy, Fantasy, Musical",musical,6.5,N/A,829,2005,5,6660
+tt0390614,Waqt: The Race Against Time,"Comedy, Drama, Family",musical,6.7,N/A,10366,2005,4,9180
+tt0428430,Crustacés & coquillages,"Comedy, Musical, Romance",musical,6.6,47,2126,2005,3,5760
+tt0472832,Johanna,"Drama, Musical",musical,5.6,N/A,537,2005,11,5160
+tt0476057,Film Star,"Drama, Musical",musical,5.5,N/A,79,2005,8,8700
+tt0449306,Lucky: No Time for Love,"Musical, Drama, Romance",musical,4.6,N/A,3953,2005,4,10800
+tt0461918,Bølle Bob og Smukke Sally,"Family, Musical",musical,2.7,N/A,208,2005,7,4320
+tt0446312,Los 2 lados de la cama,"Comedy, Musical, Romance",musical,5.6,N/A,1463,2005,12,6240
+tt0833499,Mashooka,"Drama, Musical, Romance",musical,5.5,N/A,42,2005,7,6420
+tt0445776,U-Carmen eKhayelitsha,"Musical, Drama, Romance",musical,6.5,74,756,2005,4,7320
+tt0374923,On the One,"Comedy, Drama, Musical",musical,5.4,49,207,2005,4,6180
+tt2342249,Paskutiniai Bremeno muzikantai,Musical,musical,8.3,N/A,321,2005,9,5400
+tt0403537,State Property 2,"Musical, Action, Crime",musical,4.5,33,1588,2005,4,5640
+tt0456591,Pepot Artista,"Comedy, Drama, Musical",musical,7.7,N/A,15,2005,7,6600
+tt0463600,Mayookham,"Drama, Musical, Romance",musical,6.6,N/A,77,2005,11,N/A
+tt0448404,Camarón,"Biography, Drama, Musical",musical,6.0,N/A,748,2005,11,7140
+tt0287927,Aspects of Love,"Musical, Romance",musical,7.3,N/A,56,2005,N/A,N/A
+tt2152210,Al Abaa' al Sighar,"Comedy, Family, Musical",musical,5.8,N/A,217,2005,6,5400
+tt0443057,Iberia,"Documentary, Musical",musical,7.0,N/A,421,2005,10,5940
+tt0780076,Maxx,"Comedy, Musical",musical,6.0,N/A,1036,2005,12,6600
+tt8924916,Jonbai,"Drama, Musical, Romance",musical,8.8,N/A,34,2005,1,4260
+tt1985100,Haajar Bachhar Dhorey,"Drama, Family, Musical",musical,8.1,N/A,1203,2005,7,8220
+tt0422511,"Jack, the Last Victim","Crime, Horror, Musical",musical,4.8,N/A,21,2005,N/A,4980
+tt0437273,Kaksipäisen kotkan varjossa,"Drama, History, Musical",musical,3.5,N/A,407,2005,9,6780
+tt0439754,Pyaar Mein Twist,"Comedy, Drama, Musical",musical,5.5,N/A,209,2005,9,7380
+tt0387131,The Constant Gardener,"Drama, Mystery, Romance",mystery,7.3,82,152049,2005,8,7740
+tt0371257,Stay,"Drama, Mystery, Thriller",mystery,6.7,41,89086,2005,10,5940
+tt0408790,Flightplan,"Drama, Mystery, Thriller",mystery,6.3,53,175634,2005,9,5880
+tt0387898,Caché,"Drama, Mystery, Thriller",mystery,7.3,87,87574,2005,10,7020
+tt0453383,Naboer,"Mystery, Thriller",mystery,6.4,N/A,10880,2005,3,4500
+tt0377107,Proof,"Drama, Mystery",mystery,6.7,64,46872,2005,10,6000
+tt0454792,Bubble,"Crime, Drama, Mystery",mystery,6.5,63,8538,2005,1,4380
+tt0386751,The River King,"Drama, Mystery, Thriller",mystery,5.7,N/A,4101,2005,10,5940
+tt0433442,The Return,"Horror, Mystery, Thriller",mystery,4.7,38,12499,2005,11,5100
+tt0405861,The Deal,"Crime, Drama, Mystery",mystery,5.0,46,1969,2005,6,6420
+tt0376196,Slow Burn,"Drama, Mystery, Thriller",mystery,5.7,34,4331,2005,4,5580
+tt0462703,Namgeuk-ilgi,"Horror, Mystery, Thriller",mystery,5.9,N/A,2196,2005,5,6900
+tt0488906,Zinda,"Action, Drama, Mystery",mystery,4.9,N/A,3866,2005,1,6960
+tt0428856,La moustache,"Drama, Mystery",mystery,6.6,71,5766,2005,7,5220
+tt0414387,Pride & Prejudice,"Drama, Romance",romance,7.8,82,347700,2005,9,7740
+tt0388795,Brokeback Mountain,"Drama, Romance",romance,7.7,87,398815,2005,1,8040
+tt0418832,Lie with Me,"Drama, Romance",romance,5.2,N/A,17577,2005,1,5580
+tt0358273,Walk the Line,"Biography, Drama, Music",romance,7.8,72,273143,2005,11,8160
+tt0397535,Memoirs of a Geisha,"Drama, Romance",romance,7.3,54,166179,2005,12,8700
+tt0416320,Match Point,"Drama, Romance, Thriller",romance,7.6,72,232992,2005,1,7440
+tt0352248,Cinderella Man,"Biography, Drama, Romance",romance,8.0,69,203526,2005,6,8640
+tt0402399,The New World,"Biography, Drama, History",romance,6.7,73,91815,2005,1,8100
+tt0369735,Monster-in-Law,"Comedy, Romance",romance,5.6,31,67155,2005,5,6060
+tt0398027,Down in the Valley,"Drama, Romance, Thriller",romance,6.4,65,19222,2005,12,6480
+tt0403455,Roll Bounce,"Comedy, Drama, Music",romance,6.2,59,8015,2005,9,6720
+tt0391304,A Lot Like Love,"Comedy, Drama, Romance",romance,6.6,48,72251,2005,4,6420
+tt0356680,The Family Stone,"Comedy, Drama, Romance",romance,6.3,56,79672,2005,12,6180
+tt0388125,In Her Shoes,"Comedy, Drama, Romance",romance,6.5,60,66304,2005,10,7800
+tt0449061,London,"Drama, Romance",romance,6.3,24,25142,2005,7,5520
+tt0387514,Prime,"Comedy, Drama, Romance",romance,6.2,58,42603,2005,10,6300
+tt0380389,Goal!,"Drama, Romance, Sport",romance,6.7,53,67143,2005,9,7080
+tt0372237,Guess Who,"Comedy, Romance",romance,5.9,49,47000,2005,3,6300
+tt0361693,Happy Endings,"Comedy, Drama, Music",romance,6.3,57,9646,2005,7,7680
+tt0417001,Must Love Dogs,"Comedy, Romance",romance,5.9,46,33600,2005,7,5880
+tt0408306,Munich,"Drama, History, Thriller",thriller,7.5,74,246333,2005,12,9840
+tt0421239,Red Eye,Thriller,thriller,6.5,71,153881,2005,8,5100
+tt0377309,Three,"Drama, Thriller",thriller,4.9,N/A,10837,2005,5,5700
+tt0424136,Hard Candy,"Drama, Thriller",thriller,7.0,58,171532,2005,4,6240
+tt0365737,Syriana,"Drama, Thriller",thriller,6.9,76,136162,2005,12,7680

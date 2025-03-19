@@ -1,0 +1,328 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt3967856,Okja,"Action, Adventure, Drama",action,7.3,75,136476,2017,6,7200
+tt1856101,Blade Runner 2049,"Action, Drama, Mystery",action,8.0,81,707250,2017,10,9840
+tt3829920,Only the Brave,"Action, Biography, Drama",action,7.6,72,82356,2017,10,8040
+tt3717490,Power Rangers,"Action, Adventure, Fantasy",action,5.9,44,116389,2017,3,7440
+tt1469304,Baywatch,"Action, Comedy, Crime",action,5.5,37,210174,2017,5,6960
+tt3890160,Baby Driver,"Action, Crime, Drama",action,7.5,86,645011,2017,6,6780
+tt2283362,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",action,7.0,58,474636,2017,12,7140
+tt2250912,Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",action,7.4,73,751693,2017,7,7980
+tt5013056,Dunkirk,"Action, Drama, History",action,7.8,94,768607,2017,7,6360
+tt3532216,American Made,"Action, Comedy, Crime",action,7.1,65,218154,2017,9,6900
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",action,6.5,39,362842,2017,5,7740
+tt2345759,The Mummy,"Action, Adventure, Fantasy",action,5.4,34,213269,2017,6,6660
+tt3501632,Thor: Ragnarok,"Action, Adventure, Comedy",action,7.9,74,848994,2017,11,7800
+tt1648190,The Dark Tower,"Action, Adventure, Fantasy",action,5.6,34,150285,2017,8,5700
+tt4425200,John Wick: Chapter 2,"Action, Crime, Thriller",action,7.4,75,536137,2017,2,7320
+tt3896198,Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",action,7.6,67,788960,2017,5,8160
+tt0451279,Wonder Woman,"Action, Adventure, Fantasy",action,7.3,76,716203,2017,5,8460
+tt3315342,Logan,"Action, Drama, Sci-Fi",action,8.1,77,882758,2017,3,8220
+tt5439796,Logan Lucky,"Action, Comedy, Crime",action,7.0,78,170060,2017,8,7080
+tt3371366,Transformers: The Last Knight,"Action, Adventure, Sci-Fi",action,5.2,27,176543,2017,6,9240
+tt6738136,Revenge,"Action, Drama, Horror",action,6.4,81,57756,2017,2,6480
+tt2239822,Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy",action,6.4,51,203183,2017,7,8160
+tt0974015,Justice League,"Action, Adventure, Fantasy",action,6.0,45,489914,2017,11,7200
+tt2527336,Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy",action,6.9,84,691280,2017,12,9120
+tt4649466,Kingsman: The Golden Circle,"Action, Adventure, Comedy",action,6.7,44,382665,2017,9,8460
+tt3731562,Kong: Skull Island,"Action, Adventure, Fantasy",action,6.7,62,361258,2017,3,7080
+tt1972591,King Arthur: Legend of the Sword,"Action, Adventure, Drama",action,6.7,41,239453,2017,5,7560
+tt1219827,Ghost in the Shell,"Action, Crime, Drama",action,6.3,52,233358,2017,3,6420
+tt1981128,Geostorm,"Action, Sci-Fi, Thriller",action,5.3,21,125105,2017,10,6660
+tt4815122,Time Trap,"Action, Adventure, Mystery",action,6.2,46,47079,2017,11,5220
+tt2406566,Atomic Blonde,"Action, Thriller",action,6.7,63,213281,2017,7,6900
+tt1536537,What Happened to Monday,"Action, Crime, Fantasy",action,6.8,47,139341,2017,8,7380
+tt4116284,The Lego Batman Movie,"Animation, Action, Adventure",action,7.3,75,180998,2017,2,6240
+tt3450958,War for the Planet of the Apes,"Action, Adventure, Drama",action,7.4,82,314280,2017,7,8400
+tt1615160,The Foreigner,"Action, Crime, Thriller",action,7.0,55,127428,2017,9,6780
+tt1034385,Cold Skin,"Action, Fantasy, Horror",action,6.0,N/A,18913,2017,10,6480
+tt4630562,The Fate of the Furious,"Action, Crime, Thriller",action,6.6,56,262837,2017,4,8160
+tt1959563,The Hitman's Bodyguard,"Action, Comedy, Crime",action,6.9,47,254558,2017,8,7080
+tt1961175,American Assassin,"Action, Thriller",action,6.2,45,95795,2017,9,6660
+tt5519340,Bright,"Action, Fantasy, Thriller",action,6.3,29,205493,2017,12,7020
+tt2091256,Captain Underpants: The First Epic Movie,"Animation, Action, Adventure",action,6.2,69,34270,2017,6,5340
+tt2582576,Sand Castle,"Action, Drama, War",action,6.3,45,28954,2017,4,6780
+tt4348012,Mayhem,"Action, Comedy, Horror",action,6.4,62,27354,2017,11,5160
+tt1293847,xXx: Return of Xander Cage,"Action, Adventure, Thriller",action,5.2,42,99259,2017,1,6420
+tt3296908,HHhH,"Action, Biography, Thriller",action,6.4,N/A,19047,2017,6,7200
+tt0493405,CHIPS,"Action, Comedy, Crime",action,6.0,28,52360,2017,3,6000
+tt4731148,Prityazhenie,"Action, Drama, Romance",action,5.6,N/A,14754,2017,1,7920
+tt6349302,Sniper: Ultimate Kill,"Action, Drama, Thriller",action,5.6,N/A,7481,2017,10,5400
+tt6904062,Ri-eol,"Action, Thriller",action,4.7,N/A,1830,2017,6,8220
+tt4899370,Megan Leavey,"Action, Biography, Drama",action,7.1,66,29042,2017,6,6960
+tt2771200,Beauty and the Beast,"Adventure, Family, Fantasy",adventure,7.1,65,344969,2017,3,7740
+tt2380307,Coco,"Animation, Adventure, Drama",adventure,8.4,81,641488,2017,10,6300
+tt4468740,Paddington 2,"Adventure, Comedy, Family",adventure,7.8,88,104199,2017,11,6180
+tt3606752,Cars 3,"Animation, Adventure, Comedy",adventure,6.7,59,134096,2017,6,6120
+tt3469046,Despicable Me 3,"Animation, Adventure, Comedy",adventure,6.3,49,167264,2017,6,5340
+tt1753383,A Dog's Purpose,"Adventure, Comedy, Drama",adventure,7.3,43,82569,2017,1,6000
+tt3874544,The Boss Baby,"Animation, Adventure, Comedy",adventure,6.3,50,148380,2017,3,5820
+tt3411444,Ferdinand,"Animation, Adventure, Comedy",adventure,6.7,58,67449,2017,12,6480
+tt3758172,Jungle,"Adventure, Biography, Drama",adventure,6.7,48,66805,2017,10,6900
+tt4877122,The Emoji Movie,"Animation, Adventure, Comedy",adventure,3.4,12,74946,2017,7,5160
+tt5093026,Papillon,"Adventure, Biography, Crime",adventure,7.2,51,90788,2017,8,7980
+tt2398241,Smurfs: The Lost Village,"Animation, Adventure, Comedy",adventure,6.0,40,25627,2017,3,5400
+tt4131800,My Little Pony: The Movie,"Animation, Adventure, Comedy",adventure,6.1,39,8430,2017,10,5940
+tt3564472,Girls Trip,"Adventure, Comedy, Drama",adventure,6.2,71,41659,2017,7,7320
+tt7160070,Singwa hamkke: Jwiwa beol,"Action, Adventure, Drama",adventure,7.2,N/A,20667,2017,12,8340
+tt3014284,The Lego Ninjago Movie,"Animation, Action, Adventure",adventure,6.1,55,31614,2017,9,6060
+tt4600952,Zashchitniki,"Action, Adventure, Comedy",adventure,4.1,N/A,14961,2017,2,5340
+tt2334871,Snatched,"Action, Adventure, Comedy",adventure,4.7,45,38320,2017,5,5400
+tt1724970,Beyond Skyline,"Action, Adventure, Horror",adventure,5.3,46,24123,2017,11,6360
+tt6175394,Posledniy bogatyr,"Adventure, Comedy, Family",adventure,6.4,N/A,3694,2017,10,6840
+tt1935194,Overdrive,"Action, Adventure, Crime",adventure,5.4,N/A,17169,2017,8,5580
+tt6003368,Diary of a Wimpy Kid: The Long Haul,"Adventure, Comedy, Family",adventure,4.3,39,11713,2017,5,5460
+tt4587656,The Star,"Animation, Adventure, Comedy",adventure,6.3,42,10116,2017,11,5160
+tt7312940,Singularity,"Action, Adventure, Drama",adventure,3.6,N/A,11870,2017,11,5520
+tt6336356,Meari to majo no hana,"Animation, Adventure, Family",adventure,6.8,74,17922,2017,7,6180
+tt2114504,Woody Woodpecker,"Animation, Adventure, Comedy",adventure,4.2,N/A,5540,2017,2,5460
+tt5715410,The Son of Bigfoot,"Animation, Adventure, Comedy",adventure,6.1,N/A,8511,2017,8,5520
+tt4106376,Renegades,"Action, Adventure, Crime",adventure,5.5,33,12099,2017,9,6360
+tt3262342,Loving Vincent,"Animation, Drama, Mystery",animation,7.8,62,65868,2017,9,5640
+tt6131712,Kuso,"Animation, Comedy, Drama",animation,4.8,51,2017,2017,7,5640
+tt3901826,The Breadwinner,"Animation, Drama, Family",animation,7.7,78,29353,2017,11,5640
+tt6977240,Starship Troopers: Traitor of Mars,"Animation, Action, Sci-Fi",animation,5.5,N/A,6693,2017,8,5280
+tt6556890,Batman and Harley Quinn,"Animation, Action, Adventure",animation,5.9,N/A,15790,2017,8,4440
+tt3486626,The Nut Job 2: Nutty by Nature,"Animation, Adventure, Comedy",animation,5.5,36,7584,2017,8,5460
+tt4155534,Animal Crackers,"Animation, Adventure, Comedy",animation,5.8,60,4221,2017,7,6300
+tt6047974,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,"Animation, Action, Adventure",animation,7.3,N/A,1218,2017,2,3240
+tt5851786,Gnome Alone,"Animation, Adventure, Comedy",animation,5.6,N/A,4256,2017,10,5100
+tt6848928,Junk Head,"Animation, Action, Adventure",animation,7.3,N/A,1754,2017,10,6000
+tt5776208,Baiohazâdo: Vendetta,"Animation, Action, Adventure",animation,6.2,N/A,16224,2017,5,5820
+tt6574146,Blame!,"Animation, Action, Drama",animation,6.6,N/A,9459,2017,5,6360
+tt4054952,Gekijouban Fate/Stay Night: Heaven's Feel - I. Presage Flower,"Animation, Action, Adventure",animation,7.4,N/A,3968,2017,10,7200
+tt6335734,Yoru wa mijikashi aruke yo otome,"Animation, Adventure, Comedy",animation,7.5,65,6753,2017,4,5520
+tt5851904,Le grand méchant renard et autres contes...,"Animation, Adventure, Comedy",animation,7.4,73,3911,2017,6,4980
+tt6595896,Pokémon the Movie: I Choose You,"Animation, Action, Adventure",animation,6.3,N/A,7810,2017,7,5880
+tt3896102,Tadeo Jones 2: El secreto del Rey Midas,"Animation, Adventure, Comedy",animation,6.2,N/A,4332,2017,8,5100
+tt5979874,Gojira: Kaijû Wakusei,"Animation, Action, Sci-Fi",animation,6.0,N/A,9976,2017,11,5340
+tt7321246,Double Dutchess: Seeing Double,"Animation, Drama, Fantasy",animation,5.1,N/A,710,2017,9,3780
+tt6572702,Happy Family,"Animation, Comedy, Family",animation,4.8,N/A,5640,2017,8,5580
+tt4717402,Mutafukaz,"Animation, Action, Comedy",animation,6.7,48,5356,2017,5,5640
+tt0331314,Bunyan and Babe,"Animation, Adventure, Comedy",animation,4.8,N/A,467,2017,1,5040
+tt3615160,Gyakusatsu kikan,"Animation, Action, Sci-Fi",animation,6.4,N/A,1249,2017,2,6900
+tt5084198,Kizumonogatari III: Reiketsu-hen,"Animation, Action, Drama",animation,7.8,N/A,3716,2017,1,4980
+tt3823116,"Überflieger - Kleine Vögel, großes Geklapper","Animation, Adventure, Comedy",animation,5.8,N/A,2438,2017,5,5100
+tt8757056,Tobot Movie: Attack of Robot Force,"Animation, Action, Adventure",animation,8.8,N/A,64,2017,4,N/A
+tt4494382,Condorito: La película,"Animation, Adventure, Comedy",animation,5.2,N/A,990,2017,10,5280
+tt8100900,Kôdo Giasu: Hangyaku no Rurûshu I - Kôdô,"Animation, Action, Sci-Fi",animation,7.3,N/A,764,2017,10,8100
+tt6106526,Fiksiki: Bolshoy sekret,"Animation, Adventure, Comedy",animation,5.0,N/A,309,2017,10,4800
+tt4119208,Photon,"Animation, Drama, Mystery",animation,7.4,N/A,694,2017,10,6420
+tt7006206,Den utrolige historie om den kæmpestore pære,"Animation, Adventure, Comedy",animation,6.2,N/A,1234,2017,10,4740
+tt3837842,Birds Like Us,"Animation, Adventure, Family",animation,4.6,N/A,324,2017,1,5040
+tt5544384,Gekijô-ban Sôdo Âto Onrain: Sword Art Online - Ôdinaru sukêru -,"Animation, Action, Adventure",animation,7.3,N/A,9446,2017,2,7140
+tt7480958,Kôkyô shihen Eureka sebun Hai-eboryûshon 1,"Animation, Action, Adventure",animation,5.3,N/A,136,2017,9,5580
+tt3832326,Borley Rectory,"Animation, Drama, Horror",animation,5.7,N/A,585,2017,11,4380
+tt5027774,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",comedy,8.1,88,578627,2017,12,6900
+tt4686844,The Death of Stalin,"Comedy, Drama, History",comedy,7.3,88,119320,2017,10,6420
+tt4925292,Lady Bird,"Comedy, Drama",comedy,7.4,93,349309,2017,12,5640
+tt0491175,Suburbicon,"Comedy, Crime, Drama",comedy,5.8,42,48442,2017,10,6300
+tt5580036,"I, Tonya","Biography, Comedy, Drama",comedy,7.5,77,251986,2017,1,7140
+tt5666304,The Little Hours,"Comedy, Romance",comedy,5.8,69,26794,2017,6,5340
+tt1987680,The Upside,"Comedy, Drama",comedy,7.0,46,66271,2017,1,7560
+tt4225622,The Babysitter,"Comedy, Horror",comedy,6.4,N/A,114579,2017,10,5100
+tt3401882,Fist Fight,Comedy,comedy,5.6,37,46928,2017,2,5460
+tt3521126,The Disaster Artist,"Biography, Comedy, Drama",comedy,7.3,76,167890,2017,12,6240
+tt4565520,The Layover,"Comedy, Romance",comedy,4.8,15,17487,2017,8,5280
+tt5710514,I Don't Feel at Home in This World Anymore,"Comedy, Crime, Drama",comedy,6.9,75,65749,2017,2,5580
+tt2568862,Going in Style,"Comedy, Crime",comedy,6.6,50,95082,2017,4,5760
+tt4758646,War Machine,"Comedy, Drama, War",comedy,6.0,56,51164,2017,5,7320
+tt4765284,Pitch Perfect 3,"Comedy, Music",comedy,5.8,40,74465,2017,12,5580
+tt5308322,Happy Death Day,"Comedy, Horror, Mystery",comedy,6.6,58,174243,2017,10,5760
+tt4799050,Rough Night,Comedy,comedy,5.2,51,57254,2017,6,6060
+tt5462602,The Big Sick,"Comedy, Drama, Romance",comedy,7.5,86,146730,2017,7,7200
+tt2763304,T2 Trainspotting,"Comedy, Crime, Drama",comedy,7.1,67,136718,2017,1,7020
+tt4995790,The Square,"Comedy, Drama",comedy,7.1,73,80119,2017,8,9060
+tt5657846,Daddy's Home 2,Comedy,comedy,6.0,30,87715,2017,11,6000
+tt5719700,Home Again,"Comedy, Drama, Romance",comedy,5.8,41,36073,2017,9,5820
+tt6018306,Last Flag Flying,"Comedy, Drama, War",comedy,6.9,65,29553,2017,11,7500
+tt5962210,Ingrid Goes West,"Comedy, Drama",comedy,6.6,71,49863,2017,8,5880
+tt6359956,A Bad Moms Christmas,Comedy,comedy,5.6,42,60395,2017,11,6240
+tt5808778,Pieles,"Comedy, Drama, Fantasy",comedy,6.0,N/A,7497,2017,3,4620
+tt4622512,Battle of the Sexes,"Biography, Comedy, Drama",comedy,6.7,73,61697,2017,9,7260
+tt5362988,Wind River,"Crime, Drama, Mystery",crime,7.7,73,294207,2017,8,6420
+tt3402236,Murder on the Orient Express,"Crime, Drama, Mystery",crime,6.5,52,309201,2017,11,6840
+tt4633690,Shot Caller,"Crime, Drama, Thriller",crime,7.3,59,106725,2017,8,7260
+tt4846232,Good Time,"Crime, Drama, Thriller",crime,7.3,80,146451,2017,8,6120
+tt6705640,Trauma,"Crime, Drama, Horror",crime,4.8,N/A,3002,2017,12,6360
+tt4209788,Molly's Game,"Biography, Crime, Drama",crime,7.4,71,195971,2017,1,8400
+tt7057496,Gi-eok-ui bam,"Crime, Mystery, Thriller",crime,7.4,N/A,53102,2017,11,6480
+tt5742374,You Were Never Really Here,"Crime, Drama, Thriller",crime,6.7,84,131379,2017,11,5340
+tt1241317,Death Note,"Crime, Drama, Fantasy",crime,4.5,43,92857,2017,8,6060
+tt5112578,Super Dark Times,"Crime, Drama, Thriller",crime,6.6,75,26267,2017,9,6180
+tt5294550,All the Money in the World,"Biography, Crime, Drama",crime,6.8,72,93793,2017,12,7920
+tt1758810,The Snowman,"Crime, Drama, Mystery",crime,5.2,23,74955,2017,10,7140
+tt5390504,Detroit,"Crime, Drama, History",crime,7.3,77,57238,2017,8,8580
+tt5657856,Brawl in Cell Block 99,"Crime, Drama, Thriller",crime,7.1,79,79889,2017,10,7920
+tt6214928,1922,"Crime, Drama, Horror",crime,6.2,70,74767,2017,10,6120
+tt3416536,Hot Summer Nights,"Crime, Drama, Romance",crime,6.4,44,25357,2017,7,6420
+tt6000478,"Roman J. Israel, Esq.","Crime, Drama, Thriller",crime,6.5,58,45426,2017,11,7320
+tt2620590,Leatherface,"Crime, Horror, Thriller",crime,5.0,40,29451,2017,9,5400
+tt1869347,Crooked House,"Crime, Drama, Mystery",crime,6.3,59,28781,2017,11,6900
+tt5649108,Thoroughbreds,"Comedy, Crime, Drama",crime,6.6,75,47629,2017,3,5520
+tt5301662,Marshall,"Biography, Crime, Drama",crime,7.3,66,27580,2017,10,7080
+tt4481514,The House,"Comedy, Crime",crime,5.6,30,48593,2017,6,5280
+tt7468056,Beomjoidosi,"Action, Crime, Thriller",crime,7.2,N/A,14848,2017,10,7260
+tt3859272,Tragedy Girls,"Comedy, Crime, Horror",crime,6.0,58,12603,2017,10,5880
+tt3444312,Abducted in Plain Sight,"Documentary, Crime",crime,6.8,N/A,23357,2017,1,5460
+tt1458169,Kidnap,"Action, Crime, Thriller",crime,5.9,44,40093,2017,8,5700
+tt4080956,A Prayer Before Dawn,"Action, Biography, Crime",crime,6.8,76,27207,2017,6,6960
+tt3501112,Security,"Action, Crime, Thriller",crime,5.8,N/A,23736,2017,3,5280
+tt5723272,Aus dem Nichts,"Crime, Drama, Mystery",crime,7.1,65,36537,2017,11,6360
+tt5628302,Beast,"Crime, Drama, Mystery",crime,6.8,74,16693,2017,4,6420
+tt2543472,Wonder,"Drama, Family",family,7.9,66,187038,2017,11,6780
+tt1653665,Goodbye Christopher Robin,"Biography, Drama, Family",family,7.1,54,30648,2017,9,6420
+tt4538916,Finding Your Feet,"Comedy, Drama, Family",family,6.8,53,7518,2017,2,6660
+tt5628418,Askeladden: I Dovregubbens hall,"Adventure, Family, Fantasy",family,6.2,N/A,4552,2017,9,6240
+tt7608418,A Christmas Prince,"Comedy, Family, Romance",family,5.8,N/A,22809,2017,11,5520
+tt3838034,Seuls,"Adventure, Family, Fantasy",family,5.1,N/A,1831,2017,2,5880
+tt4526136,Scales: Mermaids Are Real,"Adventure, Family, Fantasy",family,4.1,N/A,982,2017,7,5520
+tt3305388,Mountain Top,"Drama, Family, Mystery",family,7.1,N/A,766,2017,2,6120
+tt4902904,The Resurrection of Gavin Stone,"Comedy, Drama, Family",family,6.3,36,2612,2017,1,5460
+tt4217392,Gong fu yu jia,"Action, Adventure, Comedy",family,5.2,50,11787,2017,1,6420
+tt5704912,A Cowgirl's Story,"Drama, Family",family,5.6,N/A,753,2017,4,5880
+tt5843838,Max 2: White House Hero,"Action, Family",family,5.2,N/A,1746,2017,5,5100
+tt5745450,Chef,"Comedy, Drama, Family",family,5.7,N/A,2733,2017,10,7980
+tt3891538,Undercover Grandpa,"Action, Comedy, Family",family,5.3,N/A,2518,2017,3,5640
+tt5219972,Class Rank,"Comedy, Drama, Family",family,6.5,N/A,1737,2017,5,6480
+tt5846744,Big Fat Liar 2,"Adventure, Comedy, Family",family,4.0,N/A,1122,2017,4,5640
+tt2850480,The Girl Who Invented Kissing,"Drama, Family, Romance",family,6.2,N/A,804,2017,4,6360
+tt4591840,A Christmas Star,Family,family,5.1,N/A,2128,2017,5,4920
+tt6262764,Rip Tide,"Drama, Family",family,5.5,N/A,4015,2017,9,5100
+tt6096884,Njandukalude Naattil Oridavela,"Comedy, Drama, Family",family,7.1,N/A,2072,2017,9,7860
+tt5580390,The Shape of Water,"Drama, Fantasy, Romance",fantasy,7.3,87,458921,2017,12,7380
+tt1691916,Before I Fall,"Drama, Fantasy, Mystery",fantasy,6.4,58,58375,2017,3,5880
+tt2872518,The Shack,"Drama, Fantasy",fantasy,6.3,32,40875,2017,3,7920
+tt1389072,Downsizing,"Drama, Fantasy, Sci-Fi",fantasy,5.8,64,130221,2017,12,8100
+tt6265828,A Ghost Story,"Drama, Fantasy, Mystery",fantasy,6.8,84,83443,2017,7,5520
+tt6193454,Blue My Mind,"Drama, Fantasy, Mystery",fantasy,6.1,63,3639,2017,8,5820
+tt6304046,Thelma,"Drama, Fantasy, Horror",fantasy,6.9,74,37887,2017,9,6960
+tt4030600,The Bye Bye Man,"Drama, Fantasy, Horror",fantasy,4.3,37,26864,2017,1,5760
+tt5322012,Wish Upon,"Drama, Fantasy, Horror",fantasy,5.1,32,24051,2017,7,5400
+tt5451690,American Satan,"Drama, Fantasy, Music",fantasy,5.6,N/A,4649,2017,10,6660
+tt2937366,Little Evil,"Comedy, Fantasy, Horror",fantasy,5.7,N/A,23894,2017,9,5640
+tt5770864,The Man from Earth: Holocene,"Drama, Fantasy, Sci-Fi",fantasy,5.2,N/A,10806,2017,1,5880
+tt4547194,I Kill Giants,"Drama, Fantasy, Thriller",fantasy,6.1,74,33446,2017,3,6360
+tt5607028,Hagane no renkinjutsushi,"Action, Adventure, Fantasy",fantasy,5.3,48,21453,2017,12,8100
+tt4823434,Vuelven,"Fantasy, Horror, Mystery",fantasy,6.9,76,9644,2017,11,4980
+tt1396484,It,Horror,horror,7.3,69,638866,2017,9,8100
+tt5442430,Life,"Horror, Sci-Fi, Thriller",horror,6.6,54,265798,2017,3,6240
+tt5052448,Get Out,"Horror, Mystery, Thriller",horror,7.8,85,751979,2017,2,6240
+tt5715874,The Killing of a Sacred Deer,"Drama, Horror, Mystery",horror,7.0,73,202529,2017,11,7260
+tt2316204,Alien: Covenant,"Horror, Sci-Fi, Thriller",horror,6.4,65,327782,2017,5,7320
+tt5638642,The Ritual,"Horror, Mystery, Thriller",horror,6.3,57,129829,2017,10,5640
+tt5109784,Mother!,"Drama, Horror, Mystery",horror,6.6,76,258258,2017,9,7260
+tt3748172,Gerald's Game,"Drama, Horror, Thriller",horror,6.5,77,135230,2017,9,6180
+tt5886440,Marrowbone,"Drama, Horror, Mystery",horror,6.7,63,44545,2017,10,6600
+tt3986820,The Endless,"Horror, Mystery, Sci-Fi",horror,6.5,80,52648,2017,4,6660
+tt2932536,47 Meters Down,"Horror, Mystery, Thriller",horror,5.6,52,62960,2017,6,5340
+tt5140878,Aenabel: Nirmanaya,"Horror, Mystery, Thriller",horror,6.5,62,158139,2017,8,6540
+tt3860916,Cargo,"Drama, Horror, Sci-Fi",horror,6.3,65,50116,2017,5,6300
+tt7549892,Aterrados,Horror,horror,6.5,N/A,26545,2017,5,5220
+tt4695012,It Comes at Night,"Drama, Horror, Mystery",horror,6.1,78,107173,2017,6,5460
+tt3348730,Jigsaw,"Horror, Mystery, Thriller",horror,5.7,39,97576,2017,10,5520
+tt2039338,Flatliners,"Drama, Horror, Mystery",horror,5.2,27,52364,2017,9,6540
+tt2291540,My Friend Dahmer,"Biography, Drama, Horror",horror,6.2,68,24570,2017,3,6420
+tt5159414,Escape Room,"Horror, Thriller",horror,4.2,N/A,14571,2017,9,4860
+tt7076834,Pengabdi Setan,"Drama, Horror, Mystery",horror,6.5,N/A,12352,2017,9,6420
+tt5085522,Hostile,"Drama, Horror, Romance",horror,5.3,N/A,7670,2017,9,4980
+tt0498381,Rings,"Drama, Horror, Mystery",horror,4.5,25,44309,2017,2,6120
+tt3654796,Creep 2,"Horror, Thriller",horror,6.4,75,35857,2017,10,4680
+tt5516328,Ghost Stories,"Drama, Horror, Mystery",horror,6.4,68,38426,2017,4,5880
+tt4181782,The Crucifixion,"Horror, Mystery, Thriller",horror,5.1,N/A,9776,2017,10,5400
+tt3280262,Cult of Chucky,"Horror, Thriller",horror,5.3,69,32015,2017,10,5460
+tt5462326,Mom and Dad,"Comedy, Horror, Thriller",horror,5.6,59,28763,2017,3,5160
+tt3335606,Berlin Syndrome,"Drama, Horror, Mystery",horror,6.3,70,28486,2017,4,6960
+tt7914416,Kamera o tomeru na!,"Comedy, Drama, Horror",horror,7.6,86,32472,2017,6,5760
+tt1935897,Amityville: The Awakening,"Horror, Thriller",horror,4.8,42,16074,2017,10,5220
+tt5143226,12 Feet Deep,"Horror, Thriller",horror,5.2,N/A,17665,2017,6,5100
+tt1139592,Jeepers Creepers 3,Horror,horror,3.9,N/A,25467,2017,11,6000
+tt5884784,The Super,"Crime, Drama, Horror",horror,5.2,47,22031,2017,10,5400
+tt1485796,The Greatest Showman,"Biography, Drama, Musical",musical,7.5,48,328359,2017,12,6300
+tt6346162,Newsies: The Broadway Musical,Musical,musical,8.2,N/A,3857,2017,7,8940
+tt2196053,Something Like Summer,"Drama, Musical, Romance",musical,6.0,N/A,1644,2017,6,6900
+tt6433880,Anna and the Apocalypse,"Comedy, Horror, Musical",musical,6.1,63,16555,2017,11,5580
+tt1131728,Basmati Blues,"Comedy, Musical, Romance",musical,3.9,30,2249,2017,2,6360
+tt7493366,Halloween Pussy Trap Kill Kill,"Crime, Horror, Musical",musical,3.3,N/A,554,2017,10,5160
+tt5176252,La Llamada,Musical,musical,6.1,N/A,4719,2017,9,6480
+tt6150942,Becks,"Drama, Musical, Romance",musical,6.3,64,1315,2017,2,5880
+tt3710966,Hello Again,"Drama, Music, Musical",musical,5.1,43,550,2017,11,6300
+tt13773512,Live Spectacle Naruto: Song of the Akatsuki,"Action, Fantasy, Musical",musical,8.1,N/A,102,2017,1,10200
+tt5950646,Bibi & Tina: Tohuwabohu total,"Adventure, Comedy, Drama",musical,4.1,N/A,688,2017,2,6360
+tt5502766,Phillauri,"Comedy, Drama, Fantasy",musical,6.0,N/A,4198,2017,3,8280
+tt7204006,Ammore e malavita,"Comedy, Crime, Musical",musical,6.5,N/A,1337,2017,10,8400
+tt5654600,Saturday Church,"Drama, Fantasy, Music",musical,6.4,72,1227,2017,1,4920
+tt6274750,Adults,"Comedy, Musical, Romance",musical,7.9,N/A,20,2017,8,6720
+tt5281700,Heartbeats,"Comedy, Drama, Music",musical,5.4,N/A,925,2017,2,6420
+tt6734886,Power Paandi,"Action, Drama, Musical",musical,7.4,N/A,2275,2017,4,7500
+tt4129428,Jagga Jasoos,"Adventure, Comedy, Musical",musical,6.4,N/A,12280,2017,7,9660
+tt4147596,Breaking Legs,"Comedy, Family, Musical",musical,3.9,N/A,292,2017,4,5880
+tt3696610,Stuck,"Drama, Musical",musical,5.9,36,433,2017,4,5400
+tt7122350,National Theatre Live: Follies,Musical,musical,8.3,N/A,308,2017,11,9120
+tt4807950,Cherry Pop,"Comedy, Musical",musical,4.6,N/A,1567,2017,9,4740
+tt5489156,Fags in the Fast Lane,"Action, Adventure, Comedy",musical,6.4,N/A,57,2017,6,5400
+tt4686108,Love Beats Rhymes,"Drama, Musical",musical,5.5,54,1214,2017,12,6360
+tt6680792,CarGo,"Animation, Adventure, Family",musical,2.8,N/A,648,2017,6,5760
+tt6340264,"Jeannette, l'enfance de Jeanne d'Arc","Drama, History, Musical",musical,5.9,60,1218,2017,9,6300
+tt6145612,Thomas & Friends: Journey Beyond Sodor,"Animation, Musical",musical,6.0,N/A,306,2017,8,4380
+tt6099554,Ang larawan,"Drama, Musical, Romance",musical,7.1,N/A,159,2017,1,7440
+tt6027344,Mansfield 66/67,"Documentary, Biography, Musical",musical,6.1,54,501,2017,1,5040
+tt6613814,Solo,"Action, Drama, Musical",musical,7.0,N/A,4459,2017,10,9240
+tt6846134,National Theatre Live: Amadeus,"Comedy, Drama, Musical",musical,8.2,N/A,369,2017,2,12360
+tt6411322,Holiday Inn: The New Irving Berlin Musical - Live,Musical,musical,7.3,N/A,268,2017,1,7680
+tt7013254,Sweet 20,"Comedy, Fantasy, Music",musical,7.1,N/A,508,2017,6,6600
+tt6949172,Bully,"Drama, Musical",musical,7.6,N/A,16,2017,9,3480
+tt7027850,Miseinen dakedo kodomo janai,"Comedy, Family, Musical",musical,6.1,N/A,258,2017,12,6300
+tt6135232,The Big Bang,"Documentary, Biography, History",musical,8.0,N/A,34,2017,5,6600
+tt9693482,Legally Blonde: The Musical,"Comedy, Musical",musical,8.5,N/A,20,2017,9,N/A
+tt6327400,"52Hz, I Love You","Comedy, Musical, Romance",musical,6.2,N/A,522,2017,1,6540
+tt3135074,Mr. Rudolpho's Jubilee,"Comedy, Music, Musical",musical,7.7,N/A,218,2017,8,6600
+tt5709620,Os Saltimbancos Trapalhões: Rumo a Hollywood,"Comedy, Family, Musical",musical,6.3,N/A,171,2017,1,5940
+tt6879318,Italy Italy,"Comedy, Drama, Fantasy",musical,5.3,N/A,512,2017,10,6120
+tt7554756,Godspell,"Comedy, Drama, Musical",musical,8.0,N/A,32,2017,11,N/A
+tt4998222,American Folk,"Drama, Musical",musical,6.5,62,521,2017,1,5940
+tt7051286,Sing Song,"Family, Music, Musical",musical,6.2,N/A,109,2017,7,5760
+tt5526362,Luces,"Drama, Musical",musical,7.0,N/A,37,2017,11,7200
+tt2448022,The Golden Age,"Drama, Musical",musical,5.7,N/A,105,2017,6,6120
+tt4465564,Fifty Shades Darker,"Drama, Mystery, Romance",mystery,4.6,33,116135,2017,2,7080
+tt4287320,The Circle,"Drama, Mystery, Sci-Fi",mystery,5.4,43,103003,2017,4,6600
+tt7144296,Kiss and Kill,"Drama, Mystery, Romance",mystery,2.9,N/A,1295,2017,8,4860
+tt6053438,First Reformed,"Drama, Mystery, Thriller",mystery,7.1,86,64622,2017,6,6780
+tt4411596,My Cousin Rachel,"Drama, Mystery, Romance",mystery,6.0,63,21545,2017,6,6360
+tt1131724,2:22,"Drama, Mystery, Romance",mystery,5.7,N/A,26433,2017,6,5880
+tt4581576,Aftermath,"Drama, Mystery, Thriller",mystery,5.7,44,27639,2017,4,5640
+tt2090465,Black Butterfly,"Drama, Mystery, Thriller",mystery,6.1,43,15503,2017,5,5580
+tt5862312,Verónica,"Horror, Mystery",mystery,6.2,N/A,49908,2017,8,6300
+tt5726616,Call Me by Your Name,"Drama, Romance",romance,7.8,94,336813,2017,1,7920
+tt6479178,Picture of Beauty,"Drama, Romance",romance,3.5,N/A,2071,2017,4,4200
+tt5776858,Phantom Thread,"Drama, Romance",romance,7.4,90,150908,2017,1,7800
+tt5716464,Breathe,"Biography, Drama, Romance",romance,7.1,51,25644,2017,10,7080
+tt5635086,God's Own Country,"Drama, Romance",romance,7.6,85,38045,2017,8,6240
+tt3922818,The Space Between Us,"Drama, Romance, Sci-Fi",romance,6.4,33,57344,2017,2,7200
+tt0491203,Tulip Fever,"Drama, History, Romance",romance,6.2,38,23637,2017,9,6300
+tt6408226,Newness,"Drama, Romance",romance,6.3,50,18221,2017,11,7020
+tt6367558,L'amant double,"Drama, Romance, Thriller",romance,6.2,70,14234,2017,5,6420
+tt2062700,Song to Song,"Drama, Music, Romance",romance,5.6,55,23265,2017,3,7740
+tt5978724,My Days of Mercy,"Drama, Romance",romance,6.5,N/A,6368,2017,5,6480
+tt5155780,The Discovery,"Drama, Romance, Sci-Fi",romance,6.2,54,38494,2017,3,6120
+tt3906082,Mary Shelley,"Biography, Drama, History",romance,6.4,49,18460,2017,7,7200
+tt5001718,"Everything, Everything","Drama, Romance",romance,6.3,52,43562,2017,5,5760
+tt3905764,The Neighbor,"Romance, Thriller",romance,4.8,N/A,6477,2017,1,5820
+tt5825380,Wonder Wheel,"Drama, Romance",romance,6.2,46,31884,2017,12,6060
+tt1667321,On Chesil Beach,"Drama, Music, Romance",romance,6.3,62,13041,2017,5,6600
+tt5034266,Our Souls at Night,"Drama, Romance",romance,6.9,69,15525,2017,9,6180
+tt4399952,The Lodgers,"Drama, Horror, Mystery",romance,5.1,52,9877,2017,3,5520
+tt1412528,Table 19,"Comedy, Drama, Romance",romance,5.8,40,31789,2017,3,5220
+tt3859310,How to Talk to Girls at Parties,"Comedy, Music, Romance",romance,5.7,50,12818,2017,5,6120
+tt5655222,The Hero,"Drama, Romance",romance,6.5,61,10654,2017,6,5760
+tt6658066,In Dire Need of Compassion,Romance,romance,6.2,N/A,42,2017,3,4560
+tt6194530,Ava,"Drama, Romance",romance,6.6,62,3430,2017,6,6300
+tt7308086,Desearás al hombre de tu hermana,"Comedy, Drama, Romance",romance,4.0,N/A,1835,2017,10,5580
+tt5539054,You Get Me,"Crime, Drama, Mystery",romance,4.7,N/A,14760,2017,6,5340
+tt5153236,Hampstead,"Comedy, Drama, Romance",romance,6.1,53,7717,2017,6,6120
+tt1291566,Sidney Hall,"Drama, Mystery, Romance",romance,6.8,18,12050,2017,3,7140
+tt6121444,"Mektoub, My Love: Canto Uno","Comedy, Romance",romance,6.5,59,4262,2017,3,10860
+tt6098794,A Thought of Ecstasy,"Romance, Thriller",romance,3.6,N/A,725,2017,1,5400
+tt3563262,Submergence,"Drama, Romance, Thriller",romance,5.4,38,9563,2017,4,6720
+tt1386691,Shimmer Lake,"Action, Comedy, Crime",romance,6.3,N/A,17189,2017,6,5160
+tt6294822,The Post,"Biography, Drama, History",thriller,7.2,83,166877,2017,1,6960
+tt2226597,The Mountain Between Us,"Drama, Thriller",thriller,6.4,48,85687,2017,10,6720

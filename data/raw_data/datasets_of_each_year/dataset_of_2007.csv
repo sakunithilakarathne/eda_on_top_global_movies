@@ -1,0 +1,338 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt0418279,Transformers,"Action, Adventure, Sci-Fi",action,7.1,61.0,693946,2007,7.0,8640.0,"['Shia LaBeouf', 'Megan Fox', 'Josh Duhamel']",Michael Bay,"$150,000,000 (estimated)","$709,709,780"
+tt0373889,Harry Potter and the Order of the Phoenix,"Action, Adventure, Family",action,7.5,71.0,661799,2007,7.0,8280.0,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']",David Yates,"$150,000,000 (estimated)","$942,867,374"
+tt0413300,Spider-Man 3,"Action, Adventure, Sci-Fi",action,6.3,59.0,663817,2007,5.0,8340.0,,,,
+tt0449088,Pirates of the Caribbean: At World's End,"Action, Adventure, Fantasy",action,7.1,50.0,715322,2007,5.0,10140.0,,,,
+tt0425112,Hot Fuzz,"Action, Comedy, Mystery",action,7.8,81.0,549632,2007,2.0,7260.0,,,,
+tt0822854,Shooter,"Action, Drama, Thriller",action,7.1,53.0,365127,2007,3.0,7440.0,,,,
+tt0381849,3:10 to Yuma,"Action, Crime, Drama",action,7.6,76.0,341606,2007,9.0,7320.0,"['Russell Crowe', 'Christian Bale', 'Ben Foster']",James Mangold,"$55,000,000 (estimated)","$70,016,220"
+tt0465494,Hitman,"Action, Crime, Thriller",action,6.2,35.0,182595,2007,11.0,5640.0,,,,
+tt0259324,Ghost Rider,"Action, Fantasy, Thriller",action,5.3,35.0,259687,2007,2.0,6600.0,,,,
+tt0337978,Live Free or Die Hard,"Action, Thriller",action,7.1,69.0,428078,2007,6.0,7680.0,,,,
+tt0293564,Rush Hour 3,"Action, Comedy, Crime",action,6.2,44.0,190325,2007,8.0,5460.0,"['Jackie Chan', 'Chris Tucker', 'Max von Sydow']",Brett Ratner,"$140,000,000 (estimated)","$258,097,122"
+tt1077258,Planet Terror,"Action, Comedy, Horror",action,7.0,,227859,2007,4.0,6300.0,,,,
+tt0442933,Beowulf,"Animation, Action, Adventure",action,6.3,59.0,176969,2007,11.0,6900.0,"['Ray Winstone', 'Crispin Glover', 'Angelina Jolie']",Robert Zemeckis,"$150,000,000 (estimated)","$196,393,745"
+tt0440963,The Bourne Ultimatum,"Action, Mystery, Thriller",action,8.0,85.0,669501,2007,8.0,6900.0,"['Matt Damon', 'Edgar Ramírez', 'Joan Allen']",Paul Greengrass,"$110,000,000 (estimated)","$442,824,138"
+tt0435705,Next,"Action, Sci-Fi, Thriller",action,6.2,42.0,170020,2007,4.0,5760.0,,,,
+tt0486576,4: Rise of the Silver Surfer,"Action, Adventure, Fantasy",action,5.6,45.0,284941,2007,6.0,5520.0,,,,
+tt0465234,National Treasure: Book of Secrets,"Action, Adventure, Mystery",action,6.5,48.0,260465,2007,12.0,7440.0,,,,
+tt0499556,War,"Action, Thriller",action,6.2,36.0,98869,2007,8.0,6180.0,"['Jet Li', 'Jason Statham', 'Nadine Velazquez']",Philip G. Atwell,"$25,000,000 (estimated)","$42,653,739"
+tt0490086,Big Stan,"Action, Comedy",action,6.2,,49236,2007,6.0,6300.0,,,,
+tt0453556,TMNT,"Animation, Action, Adventure",action,6.2,41.0,70621,2007,3.0,5220.0,"['Patrick Stewart', 'Mako', 'Chris Evans']",Kevin Munroe,"$34,000,000 (estimated)","$95,802,916"
+tt0758730,AVPR: Aliens vs Predator - Requiem,"Action, Horror, Sci-Fi",action,4.6,29.0,139999,2007,12.0,5640.0,"['Reiko Aylesworth', 'Steven Pasquale', 'Shareeka Epps']",Colin Strause,"$40,000,000 (estimated)","$130,290,885"
+tt0432021,Resident Evil: Extinction,"Action, Horror, Sci-Fi",action,6.2,41.0,209983,2007,9.0,5640.0,,,,
+tt0861739,Tropa de Elite,"Action, Crime, Drama",action,8.0,33.0,114346,2007,10.0,6900.0,"['Wagner Moura', 'André Ramiro', 'Caio Junqueira']",José Padilha,"$4,000,000 (estimated)","$14,759,148"
+tt0486946,Wild Hogs,"Action, Adventure, Comedy",action,5.9,27.0,125450,2007,3.0,6000.0,,,,
+tt0431197,The Kingdom,"Action, Drama, Thriller",action,7.0,56.0,134747,2007,9.0,6600.0,,,,
+tt0465602,Shoot 'Em Up,"Action, Comedy, Thriller",action,6.6,49.0,156952,2007,9.0,5160.0,,,,
+tt0901507,Rise of the Footsoldier,"Action, Biography, Crime",action,6.7,,22310,2007,9.0,7140.0,"['Ricci Harnett', 'Craig Fairbrass', 'Terry Stone']",Julian Gilbey,"$4,000,000 (estimated)","$355,345"
+tt0486640,Postal,"Action, Comedy, Crime",action,4.5,22.0,24737,2007,10.0,6000.0,,,,
+tt0462396,The Last Legion,"Action, Adventure, History",action,5.4,37.0,37646,2007,8.0,6060.0,,,,
+tt0460780,In the Name of the King: A Dungeon Siege Tale,"Action, Adventure, Fantasy",action,3.8,15.0,51955,2007,11.0,7620.0,,,,
+tt0479528,Rogue,"Action, Drama, Horror",action,6.2,,34657,2007,11.0,5940.0,,,,
+tt0804461,Death Sentence,"Action, Crime, Thriller",action,6.7,36.0,76122,2007,8.0,6300.0,,,,
+tt0467110,Underdog,"Action, Adventure, Comedy",action,4.8,37.0,23254,2007,8.0,6000.0,"['Peter Dinklage', 'Jason Lee', 'Amy Adams']",Frederik Du Chau,,"$65,270,477"
+tt0443473,The Condemned,"Action, Crime, Thriller",action,6.0,23.0,55173,2007,4.0,6840.0,,,,
+tt0473188,The Death and Life of Bobby Z,"Action, Crime, Thriller",action,5.8,,15584,2007,4.0,5820.0,,,,
+tt0446013,Pathfinder,"Action, Adventure, Drama",action,5.4,29.0,46881,2007,4.0,5940.0,"['Karl Urban', 'Clancy Brown', 'Moon Bloodgood']",Marcus Nispel,"$45,000,000 (estimated)","$30,984,583"
+tt0837106,Arn: Tempelriddaren,"Action, Drama, Romance",action,6.6,,23614,2007,12.0,8340.0,"['Joakim Nätterqvist', 'Sofia Helin', 'Stellan Skarsgård']",Peter Flinth,"€25,000,000 (estimated)","$21,287,566"
+tt0923811,Evangelion Shin Gekijôban: Jo,"Animation, Action, Drama",action,7.5,66.0,29268,2007,9.0,5880.0,,,,
+tt0768212,The Last Mimzy,"Action, Adventure, Drama",action,6.2,59.0,22516,2007,3.0,5400.0,,,,
+tt0845046,Son of Rambow,"Action, Adventure, Comedy",action,7.0,66.0,33271,2007,4.0,5760.0,,,,
+tt0772193,Primeval,"Action, Adventure, Crime",action,4.8,35.0,15481,2007,1.0,5580.0,,,,
+tt0416044,Mongol,"Action, Biography, Drama",action,7.2,74.0,50255,2007,9.0,7560.0,"['Tadanobu Asano', 'Amadu Mamadakov', 'Khulan Chuluun']",Sergei Bodrov,"$18,000,000 (estimated)","$26,527,510"
+tt1020937,Awarapan,"Action, Crime, Drama",action,7.4,,8480,2007,6.0,7560.0,,,,
+tt1121794,Sutorenjia: Mukô hadan,"Animation, Action, Adventure",action,7.7,,18935,2007,9.0,6180.0,,,,
+tt0389328,Rise,"Action, Crime, Horror",action,4.9,,12776,2007,7.0,5820.0,"['Lucy Liu', 'Michael Chiklis', 'Carla Gugino']",Sebastian Gutierrez,,"$2,850,927"
+tt0790665,Flood,"Action, Drama, Thriller",action,4.8,,7313,2007,8.0,6600.0,,,,
+tt0758762,The Last Sentinel,"Action, Sci-Fi, Thriller",action,3.6,,1971,2007,3.0,5580.0,,,,
+tt1206585,Winx Club: Il segreto del Regno Perduto,"Animation, Action, Adventure",action,5.6,,1580,2007,11.0,5100.0,,,,
+tt0758771,Outlaw,"Action, Crime, Drama",action,5.7,45.0,12914,2007,3.0,6180.0,"['Sean Bean', 'Danny Dyer', 'Rupert Friend']",Nick Love,"£2,500,000 (estimated)","$3,345,818"
+tt1024943,Om Shanti Om,"Action, Comedy, Drama",action,6.8,,52085,2007,11.0,9720.0,"['Shah Rukh Khan', 'Deepika Padukone', 'Arjun Rampal']",Farah Khan,,"$39,997,274"
+tt0382932,Ratatouille,"Animation, Adventure, Comedy",adventure,8.1,96.0,876143,2007,6.0,6660.0,"['Brad Garrett', 'Lou Romano', 'Patton Oswalt']",Brad Bird,"$150,000,000 (estimated)","$623,729,380"
+tt0758758,Into the Wild,"Adventure, Biography, Drama",adventure,8.1,73.0,676041,2007,10.0,8880.0,,,,
+tt0486655,Stardust,"Adventure, Fantasy, Romance",adventure,7.6,66.0,291193,2007,8.0,7620.0,,,,
+tt0437954,Virgin Territory,"Adventure, Comedy, Romance",adventure,4.7,,9358,2007,7.0,5820.0,,,,
+tt0413267,Shrek the Third,"Animation, Adventure, Comedy",adventure,6.1,58.0,345194,2007,5.0,5580.0,,,,
+tt0461770,Enchanted,"Animation, Adventure, Comedy",adventure,7.1,75.0,222953,2007,11.0,6420.0,,,,
+tt0389790,Bee Movie,"Animation, Adventure, Comedy",adventure,6.1,54.0,186958,2007,11.0,5460.0,,,,
+tt0396555,Meet the Robinsons,"Animation, Adventure, Comedy",adventure,6.8,61.0,115983,2007,3.0,5700.0,,,,
+tt0838221,The Darjeeling Limited,"Adventure, Comedy, Drama",adventure,7.2,67.0,222567,2007,10.0,5460.0,,,,
+tt0423294,Surf's Up,"Animation, Adventure, Comedy",adventure,6.7,64.0,95786,2007,6.0,5100.0,"['Shia LaBeouf', 'Zooey Deschanel', 'Jon Heder']",Ash Brannon,"$100,000,000 (estimated)","$152,005,713"
+tt0952640,Alvin and the Chipmunks,"Adventure, Comedy, Family",adventure,5.3,39.0,98963,2007,12.0,5520.0,,,,
+tt0385752,The Golden Compass,"Adventure, Family, Fantasy",adventure,6.1,51.0,200015,2007,12.0,6780.0,"['Nicole Kidman', 'Daniel Craig', 'Dakota Blue Richards']",Chris Weitz,"$180,000,000 (estimated)","$372,234,864"
+tt0799949,Epic Movie,"Adventure, Comedy, Fantasy",adventure,2.4,17.0,111129,2007,1.0,5160.0,,,,
+tt0462538,The Simpsons Movie,"Animation, Adventure, Comedy",adventure,7.3,80.0,356539,2007,7.0,5220.0,,,,
+tt0825232,The Bucket List,"Adventure, Comedy, Drama",adventure,7.4,42.0,265384,2007,2.0,5820.0,,,,
+tt0367959,Hannibal Rising,"Adventure, Crime, Drama",adventure,6.1,35.0,118735,2007,2.0,7260.0,"['Gaspard Ulliel', 'Rhys Ifans', 'Gong Li']",Peter Webber,"$75,000,000 (estimated)","$82,169,884"
+tt0816436,Black Water,"Adventure, Drama, Horror",adventure,5.8,,16529,2007,2.0,5400.0,,,,
+tt0760329,The Water Horse,"Adventure, Family, Fantasy",adventure,6.4,71.0,43739,2007,12.0,6720.0,"['Emily Watson', 'David Morrissey', 'Alex Etel']",Jay Russell,"$40,000,000 (estimated)","$103,967,384"
+tt0455782,The Hunting Party,"Adventure, Comedy, Drama",adventure,6.8,54.0,26329,2007,9.0,6060.0,"['Richard Gere', 'Terrence Howard', 'Jesse Eisenberg']",Richard Shepard,"$25,000,000 (estimated)","$7,674,033"
+tt0486051,Wind Chill,"Adventure, Drama, Horror",adventure,5.8,52.0,25783,2007,8.0,5460.0,,,,
+tt0468536,Prey,"Adventure, Drama, Horror",adventure,4.7,,8856,2007,4.0,5520.0,"['Bridget Moynahan', 'Peter Weller', 'Carly Schroeder']",Darrell Roodt,,"$3,643,652"
+tt0455326,Aqua Teen Hunger Force Colon Movie Film for Theaters,"Animation, Action, Adventure",adventure,6.7,54.0,14672,2007,4.0,5160.0,"['Dana Snyder', 'Dave Willis', 'Carey Means']",Matt Maiellaro,"$750,000 (estimated)","$5,520,368"
+tt0484562,The Seeker: The Dark Is Rising,"Adventure, Drama, Family",adventure,4.8,38.0,16018,2007,10.0,5940.0,"['Alexander Ludwig', 'Ian McShane', 'Christopher Eccleston']",David L. Cunningham,"$45,000,000 (estimated)","$31,852,619"
+tt0988982,Gekijô-ban Naruto shippûden,"Animation, Action, Adventure",adventure,6.7,,5209,2007,8.0,5640.0,,,,
+tt0800003,Delta Farce,"Action, Adventure, Comedy",adventure,3.7,17.0,11618,2007,5.0,5400.0,"['Larry the Cable Guy', 'Bill Engvall', 'DJ Qualls']",C.B. Harding,,"$8,729,473"
+tt0796307,La misma luna,"Adventure, Drama",adventure,7.3,59.0,7643,2007,3.0,6360.0,,,,
+tt0858486,Terra,"Animation, Action, Adventure",adventure,6.5,54.0,12373,2007,5.0,5400.0,,,,
+tt0913968,Tau ming chong,"Action, Adventure, Drama",adventure,7.0,70.0,28193,2007,12.0,7560.0,"['Jet Li', 'Andy Lau', 'Takeshi Kaneshiro']",Peter Ho-Sun Chan,"$40,000,000 (estimated)","$42,883,181"
+tt0845448,Dhamaal,"Action, Adventure, Comedy",adventure,7.5,,19676,2007,9.0,8160.0,,,,
+tt0498525,Lissi und der wilde Kaiser,"Animation, Adventure, Comedy",adventure,5.1,,4547,2007,10.0,5100.0,,,,
+tt1169841,Return of Hanuman,"Animation, Action, Adventure",adventure,7.5,,1878,2007,12.0,6600.0,,,,
+tt1629741,Tomb Raider Ascension,"Action, Adventure, Fantasy",adventure,4.3,,241,2007,11.0,3600.0,,,,
+tt0808417,Persepolis,"Animation, Biography, Drama",animation,8.0,90.0,102493,2007,6.0,5760.0,,,,
+tt0983213,Byôsoku 5 senchimêtoru,"Animation, Drama, Family",animation,7.5,,67031,2007,3.0,3780.0,,,,
+tt0479008,Dante's Inferno,"Animation, Comedy",animation,6.6,,1567,2007,1.0,5280.0,,,,
+tt1155650,Gekijô ban Kara no kyôkai: Dai isshô - Fukan fûkei,"Animation, Action, Crime",animation,6.9,,2947,2007,12.0,2940.0,"['Maaya Sakamoto', ""Ken'ichi Suzumura"", 'Takako Honda']",Ei Aoki,,
+tt0905979,Chicago 10,"Documentary, Animation, History",animation,7.3,69.0,1453,2007,1.0,6600.0,,,,
+tt0826570,Macskafogó 2 - A sátán macskája,"Animation, Comedy, Fantasy",animation,5.2,,2311,2007,12.0,5400.0,,,,
+tt0419704,Donkey Xote,"Animation, Adventure, Comedy",animation,4.5,,2324,2007,12.0,5400.0,"['José Luis Gil', 'Andreu Buenafuente', 'Luis Posada']",Jose Pozo,"$18,000,000 (estimated)","$7,365,250"
+tt1037116,One Piece: Episode of Alabaster - Sabaku no Ojou to Kaizoku Tachi,"Animation, Action, Adventure",animation,6.8,,2405,2007,3.0,5400.0,,,,
+tt0836682,Nocturna,"Animation, Adventure, Family",animation,7.2,,2638,2007,10.0,4800.0,,,,
+tt0970472,Bekushiru: 2077 Nihon sakoku,"Animation, Action, Sci-Fi",animation,6.7,,7918,2007,8.0,6540.0,,,,
+tt0997274,Clannad,"Animation, Comedy, Drama",animation,7.3,,2256,2007,9.0,5640.0,"['Kenji Nojima', 'Mai Nakahara', 'Ryôtarô Okiayu']",Osamu Dezaki,,
+tt0796232,Röllin sydän,"Animation, Adventure, Family",animation,5.6,,408,2007,12.0,4680.0,,,,
+tt1226251,Gekijô ban poketto monsutâ: Daiamondo pâru - Diaruga vs Parukia vs Dâkurai,"Animation, Action, Adventure",animation,6.4,,4264,2007,7.0,5700.0,"['Rica Matsumoto', 'Ikue Ôtani', 'Yûji Ueda']",Kunihiko Yuyama,,"$42,496,749"
+tt1179773,Kappa no Kû to natsuyasumi,"Animation, Adventure, Comedy",animation,7.4,,2256,2007,7.0,8280.0,,,,
+tt0448150,Die drei Räuber,"Animation, Comedy, Crime",animation,7.0,,961,2007,10.0,4500.0,,,,
+tt1068997,El arca,"Animation, Adventure, Comedy",animation,5.1,,581,2007,7.0,5280.0,,,,
+tt1148261,Gekijô ban Bleach: Za Daiyamondo Dasuto Reberion - Mô hitotsu no hyôrinmaru,"Animation, Action, Thriller",animation,7.0,,3744,2007,12.0,5520.0,,,,
+tt0792992,Tous à l'Ouest: Une aventure de Lucky Luke,"Animation, Adventure, Comedy",animation,6.3,,1700,2007,12.0,5400.0,"['Lambert Wilson', 'Clovis Cornillac', 'François Morel']",Olivier Jean-Marie,,"$6,041,435"
+tt1003009,La leyenda de la Nahuala,"Animation, Family, Fantasy",animation,6.2,,750,2007,11.0,4920.0,,,,
+tt0460811,Elf Bowling the Movie: The Great North Pole Elf Strike,"Animation, Comedy, Family",animation,1.8,,646,2007,10.0,4920.0,,,,
+tt1160710,Cinnamon the Movie,Animation,animation,7.2,,109,2007,12.0,2700.0,,,,
+tt6490990,JoJo's Bizarre Adventure: Phantom Blood,"Animation, Action, Adventure",animation,7.8,,1641,2007,2.0,6000.0,,,,
+tt1043842,Appurushido: Ekusu makina,"Animation, Action, Adventure",animation,7.0,,9936,2007,10.0,6300.0,,,,
+tt0922366,"Blanche Neige, la suite","Animation, Comedy, Fantasy",animation,4.6,,499,2007,1.0,4920.0,"['Cécile de France', 'Jean-Paul Rouve', 'Marie Vincent']",Picha,,"$50,111"
+tt1135522,Shin kyûseishu densetsu Hokuto no Ken: Raô den - Gekitô no shô,"Animation, Action",animation,7.1,,560,2007,4.0,5100.0,,,,
+tt1077274,Cheon-nyeon-yeo-woo-yeo-woo-bi,"Animation, Adventure, Drama",animation,6.7,,1014,2007,1.0,5160.0,,,,
+tt0792986,Peur(s) du noir,"Animation, Horror, Mystery",animation,6.6,69.0,3272,2007,2.0,4980.0,,,,
+tt1155651,Gekijô ban Kara no kyôkai: Dai ni shô - Satsujin kôsatsu (zen),"Animation, Action, Crime",animation,7.1,,2199,2007,12.0,3660.0,,,,
+tt1189893,Ilya Muromets i Solovey Razboynik,"Animation, Adventure, Comedy",animation,6.8,,2398,2007,12.0,4800.0,,,,
+tt0962762,Genius Party,"Animation, Action, Adventure",animation,6.9,,1751,2007,7.0,6120.0,,,,
+tt1146290,Meitantei Conan: Konpeki no Jorî Rojâ,"Animation, Action, Adventure",animation,6.3,,1940,2007,4.0,6360.0,,,,
+tt0955411,The Ten Commandments,"Animation, Family, History",animation,2.9,25.0,2548,2007,10.0,5280.0,,,,
+tt0486321,Fly Me to the Moon,"Animation, Adventure, Family",animation,4.5,36.0,4876,2007,1.0,5040.0,,,,
+tt0829482,Superbad,Comedy,comedy,7.6,76.0,659045,2007,8.0,6780.0,,,,
+tt0427327,Hairspray,"Comedy, Drama, Musical",comedy,6.7,81.0,141910,2007,7.0,7020.0,,,,
+tt0467406,Juno,"Comedy, Drama",comedy,7.4,81.0,560787,2007,12.0,5760.0,"['Elliot Page', 'Michael Cera', 'Jennifer Garner']",Jason Reitman,"$7,500,000 (estimated)","$232,373,066"
+tt0478311,Knocked Up,"Comedy, Romance",comedy,6.9,85.0,391299,2007,6.0,7740.0,,,,
+tt0477051,Norbit,"Comedy, Romance",comedy,4.2,27.0,82882,2007,2.0,6180.0,,,,
+tt0473308,Waitress,"Comedy, Drama, Romance",comedy,7.0,75.0,50027,2007,5.0,6480.0,,,,
+tt0780622,Teeth,"Comedy, Fantasy, Horror",comedy,5.4,57.0,48119,2007,4.0,5640.0,,,,
+tt0906108,Why Did I Get Married?,"Comedy, Drama, Romance",comedy,5.9,54.0,14301,2007,10.0,6780.0,,,,
+tt0431308,P.S. I Love You,"Comedy, Drama, Romance",comedy,7.0,39.0,221865,2007,12.0,7560.0,,,,
+tt0791304,Georgia Rule,"Comedy, Drama",comedy,5.9,25.0,28071,2007,5.0,6780.0,"['Jane Fonda', 'Lindsay Lohan', 'Felicity Huffman']",Garry Marshall,"$20,000,000 (estimated)","$25,000,167"
+tt0762107,I Now Pronounce You Chuck & Larry,"Comedy, Romance",comedy,5.9,37.0,156892,2007,7.0,6900.0,"['Adam Sandler', 'Kevin James', 'Jessica Biel']",Dennis Dugan,"$85,000,000 (estimated)","$187,134,117"
+tt0408839,The Heartbreak Kid,"Comedy, Romance",comedy,5.8,46.0,97989,2007,10.0,6960.0,,,,
+tt0795368,Death at a Funeral,Comedy,comedy,7.3,67.0,124156,2007,7.0,5400.0,"['Matthew Macfadyen', 'Peter Dinklage', 'Ewen Bremner']",Frank Oz,"$9,000,000 (estimated)","$46,789,726"
+tt0805564,Lars and the Real Girl,"Comedy, Drama, Romance",comedy,7.3,70.0,161331,2007,11.0,6360.0,,,,
+tt0472062,Charlie Wilson's War,"Biography, Comedy, Drama",comedy,7.0,67.0,127536,2007,12.0,6120.0,"['Tom Hanks', 'Julia Roberts', 'Philip Seymour Hoffman']",Mike Nichols,"$75,000,000 (estimated)","$119,483,446"
+tt0787475,Hot Rod,"Comedy, Sport",comedy,6.7,43.0,95919,2007,8.0,5280.0,"['Andy Samberg', 'Isla Fisher', 'Ian McShane']",Akiva Schaffer,,"$14,354,608"
+tt0445934,Blades of Glory,"Comedy, Sport",comedy,6.3,64.0,181098,2007,3.0,5580.0,"['Will Ferrell', 'Jon Heder', 'Amy Poehler']",Josh Gordon,"$61,000,000 (estimated)","$145,710,347"
+tt0452625,Good Luck Chuck,"Comedy, Romance",comedy,5.6,19.0,96590,2007,9.0,6060.0,,,,
+tt0841046,Walk Hard: The Dewey Cox Story,"Comedy, Music",comedy,6.8,63.0,79011,2007,12.0,5760.0,,,,
+tt0862856,Trick 'r Treat,"Comedy, Horror",comedy,6.7,,109468,2007,11.0,4920.0,,,,
+tt0413099,Evan Almighty,"Comedy, Family, Fantasy",comedy,5.4,37.0,158608,2007,6.0,5760.0,,,,
+tt0964587,St. Trinian's,"Comedy, Family",comedy,5.8,39.0,24073,2007,12.0,6060.0,"['Talulah Riley', 'Rupert Everett', 'Gemma Arterton']",Oliver Parker,"£7,000,000 (estimated)","$29,068,027"
+tt0815244,Sydney White,"Comedy, Drama, Romance",comedy,6.2,45.0,52369,2007,9.0,6480.0,,,,
+tt0465375,After Sex,"Comedy, Drama, Romance",comedy,5.4,,8776,2007,2.0,4620.0,"['Marc Blucas', 'Jose Pablo Cantillo', 'Emmanuelle Chriqui']",Eric Amadio,"$825,000 (estimated)",
+tt0489237,The Nanny Diaries,"Comedy, Drama, Romance",comedy,6.2,46.0,65567,2007,8.0,6360.0,,,,
+tt0453451,Mr. Bean's Holiday,"Comedy, Family",comedy,6.4,56.0,137706,2007,3.0,5400.0,,,,
+tt0758766,Music and Lyrics,"Comedy, Music, Romance",comedy,6.5,59.0,109268,2007,2.0,6240.0,,,,
+tt0472205,Watching the Detectives,"Comedy, Romance",comedy,6.2,,7392,2007,9.0,5640.0,"['Cillian Murphy', 'Lucy Liu', 'Jason Sudeikis']",Paul Soter,"$2,000,000 (estimated)","$15,006"
+tt0492956,The Game Plan,"Comedy, Family, Sport",comedy,6.4,44.0,102222,2007,9.0,6600.0,"['Dwayne Johnson', 'Kyra Sedgwick', 'Madison Pettis']",Andy Fickman,"$22,000,000 (estimated)","$147,880,543"
+tt0480242,Dan in Real Life,"Comedy, Drama, Romance",comedy,6.8,65.0,108829,2007,10.0,5880.0,,,,
+tt0477348,No Country for Old Men,"Crime, Drama, Thriller",crime,8.2,92.0,1112642,2007,11.0,7320.0,"['Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin']",Ethan Coen,"$25,000,000 (estimated)","$171,632,777"
+tt0443706,Zodiac,"Crime, Drama, Mystery",crime,7.7,79.0,630614,2007,3.0,9420.0,"['Jake Gyllenhaal', 'Robert Downey Jr.', 'Mark Ruffalo']",David Fincher,"$65,000,000 (estimated)","$84,786,496"
+tt0830558,The Girl Next Door,"Crime, Drama, Horror",crime,6.5,29.0,30641,2007,10.0,5460.0,,,,
+tt0765429,American Gangster,"Biography, Crime, Drama",crime,7.8,76.0,469545,2007,11.0,9420.0,,,,
+tt0452623,Gone Baby Gone,"Crime, Drama, Mystery",crime,7.6,72.0,300973,2007,10.0,6840.0,"['Morgan Freeman', 'Ed Harris', 'Casey Affleck']",Ben Affleck,"$19,000,000 (estimated)","$34,612,443"
+tt0496806,Ocean's Thirteen,"Crime, Thriller",crime,6.9,62.0,376042,2007,6.0,7320.0,,,,
+tt0808279,Funny Games,"Crime, Drama, Thriller",crime,6.5,44.0,106920,2007,4.0,6660.0,,,,
+tt0465538,Michael Clayton,"Crime, Drama, Mystery",crime,7.2,82.0,177879,2007,10.0,7140.0,,,,
+tt0292963,Before the Devil Knows You're Dead,"Crime, Drama, Thriller",crime,7.3,86.0,116201,2007,10.0,7020.0,,,,
+tt0765443,Eastern Promises,"Crime, Drama, Thriller",crime,7.6,83.0,269582,2007,9.0,6000.0,,,,
+tt0463998,Freedom Writers,"Biography, Crime, Drama",crime,7.6,64.0,88362,2007,1.0,7380.0,"['Hilary Swank', 'Imelda Staunton', 'Patrick Dempsey']",Richard LaGravenese,"$21,000,000 (estimated)","$43,095,175"
+tt0802948,An American Crime,"Biography, Crime, Drama",crime,7.2,,38679,2007,12.0,5880.0,,,,
+tt0488120,Fracture,"Crime, Drama, Thriller",crime,7.2,68.0,226207,2007,4.0,6780.0,"['Anthony Hopkins', 'Ryan Gosling', 'David Strathairn']",Gregory Hoblit,,"$92,011,561"
+tt0443680,The Assassination of Jesse James by the Coward Robert Ford,"Biography, Crime, Drama",crime,7.5,68.0,197403,2007,10.0,9600.0,,,,
+tt0780571,Mr. Brooks,"Crime, Drama, Mystery",crime,7.3,45.0,160142,2007,6.0,7200.0,"['Kevin Costner', 'Demi Moore', 'William Hurt']",Bruce A. Evans,"$20,000,000 (estimated)","$48,443,734"
+tt0481369,The Number 23,"Crime, Mystery, Thriller",crime,6.4,,216764,2007,2.0,5880.0,,,,
+tt0486822,Disturbia,"Crime, Drama, Mystery",crime,6.8,62.0,264127,2007,8.0,6300.0,,,,
+tt0211933,Awake,"Crime, Drama, Mystery",crime,6.5,33.0,83009,2007,11.0,5040.0,"['Hayden Christensen', 'Jessica Alba', 'Terrence Howard']",Joby Harold,"$8,600,000 (estimated)","$32,730,062"
+tt0476964,The Brave One,"Crime, Drama, Thriller",crime,6.7,56.0,64552,2007,9.0,7320.0,,,,
+tt0780516,Flawless,"Crime, Drama, Thriller",crime,6.7,57.0,27269,2007,11.0,6480.0,,,,
+tt0401997,Breach,"Biography, Crime, Drama",crime,7.0,74.0,62940,2007,2.0,6600.0,,,,
+tt0457433,Perfect Stranger,"Crime, Mystery, Thriller",crime,5.7,31.0,52758,2007,4.0,6540.0,"['Halle Berry', 'Bruce Willis', 'Giovanni Ribisi']",James Foley,"$60,795,000 (estimated)","$73,534,117"
+tt0435670,The Invisible,"Crime, Drama, Fantasy",crime,6.1,36.0,36887,2007,4.0,6120.0,,,,
+tt0498399,We Own the Night,"Crime, Drama, Thriller",crime,6.8,59.0,94794,2007,10.0,7020.0,,,,
+tt0478134,In the Valley of Elah,"Crime, Drama, Mystery",crime,7.2,65.0,76238,2007,9.0,7260.0,,,,
+tt0424823,Balls of Fury,"Comedy, Crime, Sport",crime,5.4,38.0,45667,2007,8.0,5400.0,,,,
+tt0804516,P2,"Crime, Horror, Thriller",crime,5.9,37.0,37754,2007,11.0,5880.0,"['Rachel Nichols', 'Wes Bentley', 'Simon Reynolds']",Franck Khalfoun,"$8,000,000 (estimated)","$7,766,240"
+tt0479500,Nancy Drew,"Comedy, Crime, Family",crime,5.9,53.0,21956,2007,6.0,5940.0,,,,
+tt0891527,Lions for Lambs,"Crime, Drama, Mystery",crime,6.2,47.0,54057,2007,11.0,5520.0,,,,
+tt0411061,88 Minutes,"Crime, Drama, Mystery",crime,5.9,17.0,79262,2007,4.0,6480.0,"['Al Pacino', 'Alicia Witt', 'Ben McKenzie']",Jon Avnet,"$30,000,000 (estimated)","$32,593,385"
+tt0896798,Cleaner,"Crime, Thriller",crime,6.1,49.0,46480,2007,1.0,5280.0,,,,
+tt0489664,Butterfly on a Wheel,"Crime, Drama, Thriller",crime,6.6,,34268,2007,8.0,5700.0,,,,
+tt0427470,The Lookout,"Crime, Drama, Thriller",crime,6.9,73.0,61138,2007,3.0,5940.0,,,,
+tt0399095,Trade,"Crime, Drama, Thriller",crime,7.3,42.0,18376,2007,10.0,7200.0,,,,
+tt0455960,The Hitcher,"Crime, Thriller",crime,5.6,28.0,46583,2007,1.0,5040.0,"['Sean Bean', 'Sophia Bush', 'Zachary Knighton']",Dave Meyers,"$10,000,000 (estimated)","$25,399,945"
+tt0795493,Cassandra's Dream,"Crime, Drama, Romance",crime,6.6,49.0,54559,2007,10.0,6480.0,,,,
+tt0499554,Reno 911!: Miami,"Comedy, Crime",crime,5.9,47.0,28315,2007,2.0,4800.0,,,,
+tt0775488,Illegal Tender,"Crime, Drama, Thriller",crime,5.4,40.0,2803,2007,8.0,6480.0,,,,
+tt0398808,Bridge to Terabithia,"Drama, Family, Fantasy",family,7.2,74.0,180948,2007,2.0,5760.0,,,,
+tt0986264,Taare Zameen Par,"Drama, Family",family,8.3,,215918,2007,12.0,9720.0,,,,
+tt0457419,Mr. Magorium's Wonder Emporium,"Comedy, Family, Fantasy",family,6.2,48.0,48415,2007,11.0,5580.0,,,,
+tt0804452,Bratz,"Comedy, Family, Music",family,3.1,21.0,25244,2007,8.0,6600.0,,,,
+tt0422774,Are We Done Yet?,"Comedy, Family",family,4.3,36.0,23137,2007,4.0,5520.0,,,,
+tt0486583,Fred Claus,"Comedy, Family, Fantasy",family,5.7,42.0,49422,2007,11.0,6960.0,,,,
+tt0462244,Daddy Day Camp,"Comedy, Family",family,3.2,13.0,18313,2007,8.0,5340.0,,,,
+tt0476995,Firehouse Dog,"Action, Comedy, Family",family,5.5,43.0,6456,2007,4.0,6660.0,"['Josh Hutcherson', 'Bruce Greenwood', 'Bree Turner']",Todd Holland,,"$17,384,424"
+tt0415965,Martian Child,"Comedy, Drama, Family",family,6.7,48.0,21177,2007,11.0,6360.0,"['John Cusack', 'Amanda Peet', 'Bobby Coleman']",Menno Meyjes,"$27,000,000 (estimated)","$9,411,042"
+tt0871510,Chak De! India,"Drama, Family, Sport",family,8.1,68.0,86817,2007,8.0,9180.0,"['Shah Rukh Khan', 'Vidya Malvade', 'Sagarika Ghatge']",Shimit Amin,,"$21,505,244"
+tt0804505,Married Life,"Biography, Crime, Drama",family,6.2,65.0,9913,2007,3.0,5460.0,,,,
+tt0469429,Her Best Move,"Comedy, Family, Romance",family,5.4,,2410,2007,9.0,6060.0,,,,
+tt0828065,Moondance Alexander,"Drama, Family",family,6.2,,1505,2007,10.0,5640.0,"['Kay Panabaker', 'Don Johnson', 'Lori Loughlin']",Michael Damian,,"$37,895"
+tt1573843,Yin xing de chi bang,Family,family,7.0,,33,2007,9.0,5580.0,,,,
+tt0772176,Joulutarina,"Drama, Family, Fantasy",family,7.1,,4983,2007,11.0,4980.0,,,,
+tt0918628,Fishtales,"Comedy, Family, Fantasy",family,4.6,,2023,2007,8.0,5640.0,,,,
+tt1048164,K3 en de kattenprins,"Adventure, Comedy, Family",family,5.2,,184,2007,12.0,4380.0,,,,
+tt0826711,Le voyage du ballon rouge,"Drama, Family",family,6.5,86.0,4238,2007,1.0,6900.0,,,,
+tt0454962,Taking 5,"Comedy, Family, Music",family,5.5,,1002,2007,4.0,5400.0,,,,
+tt0882742,Alice Upside Down,"Adventure, Comedy, Drama",family,5.2,,1302,2007,10.0,5460.0,,,,
+tt0756683,The Man from Earth,"Drama, Fantasy, Mystery",fantasy,7.8,,207687,2007,11.0,5220.0,"['David Lee Smith', 'Tony Todd', 'John Billingsley']",Richard Schenkman,"$200,000 (estimated)",
+tt0450385,1408,"Fantasy, Horror, Mystery",fantasy,6.8,64.0,303111,2007,6.0,6240.0,,,,
+tt0445922,Across the Universe,"Drama, Fantasy, History",fantasy,7.3,56.0,115852,2007,9.0,7980.0,,,,
+tt0477071,Premonition,"Drama, Fantasy, Mystery",fantasy,5.9,29.0,83073,2007,3.0,5760.0,,,,
+tt0848557,Diary of the Dead,"Fantasy, Horror, Sci-Fi",fantasy,5.5,66.0,50076,2007,2.0,5700.0,,,,
+tt0810988,The Nines,"Drama, Fantasy, Mystery",fantasy,6.2,52.0,34988,2007,11.0,6000.0,,,,
+tt0815178,The Life Before Her Eyes,"Drama, Fantasy, Mystery",fantasy,6.2,38.0,15086,2007,9.0,5400.0,"['Uma Thurman', 'Evan Rachel Wood', 'Eva Amurri']",Vadim Perelman,"$13,000,000 (estimated)","$7,248,490"
+tt0397044,Blood and Chocolate,"Drama, Fantasy, Horror",fantasy,5.3,33.0,18548,2007,1.0,5880.0,,,,
+tt0857376,Gabriel,"Action, Drama, Fantasy",fantasy,5.5,,14425,2007,11.0,6840.0,"['Andy Whitfield', 'Dwaine Stevenson', 'Samantha Noble']",Shane Abbess,"A$200,000 (estimated)","$1,395,610"
+tt0372873,D-War,"Action, Drama, Fantasy",fantasy,3.5,33.0,25645,2007,8.0,6420.0,,,,
+tt0497972,Sex and Death 101,"Comedy, Drama, Fantasy",fantasy,5.9,24.0,11753,2007,2.0,7020.0,,,,
+tt0481797,Youth Without Youth,"Drama, Fantasy, Mystery",fantasy,6.1,43.0,14529,2007,10.0,7440.0,"['Tim Roth', 'Alexandra Maria Lara', 'Bruno Ganz']",Francis Ford Coppola,"$5,000,000 (estimated)","$2,624,759"
+tt0489235,My Name Is Bruce,"Comedy, Fantasy, Horror",fantasy,6.1,36.0,25369,2007,4.0,5040.0,"['Bruce Campbell', 'Taylor Sharpe', 'Logan Martin']",Bruce Campbell,"$1,500,000 (estimated)","$173,066"
+tt0484111,The Good Night,"Comedy, Drama, Fantasy",fantasy,5.7,49.0,8822,2007,1.0,5580.0,"['Martin Freeman', 'Gwyneth Paltrow', 'Penélope Cruz']",Jake Paltrow,"$15,000,000 (estimated)","$508,084"
+tt0496436,White Noise 2: The Light,"Drama, Fantasy, Horror",fantasy,5.7,,13963,2007,9.0,5940.0,,,,
+tt0484881,Puffball,"Drama, Fantasy, Horror",fantasy,4.3,,1194,2007,10.0,7200.0,"['Rita Tushingham', 'Kelly Reilly', 'Oscar Pearce']",Nicolas Roeg,"£2,600,000 (estimated)","$3,844"
+tt0431265,Metamorphosis,"Fantasy, Horror, Thriller",fantasy,3.6,,1444,2007,3.0,5880.0,,,,
+tt0787495,Netherbeast Incorporated,"Comedy, Fantasy, Horror",fantasy,5.5,,1501,2007,3.0,5580.0,,,,
+tt0454065,La antena,"Drama, Fantasy, Sci-Fi",fantasy,7.3,,4782,2007,4.0,5940.0,,,,
+tt0769507,Tai yang zhao chang sheng qi,"Drama, Fantasy",fantasy,7.2,,2708,2007,9.0,6960.0,,,,
+tt0463854,28 Weeks Later,"Horror, Sci-Fi",horror,6.9,78.0,307577,2007,5.0,6000.0,,,,
+tt0884328,The Mist,"Horror, Sci-Fi, Thriller",horror,7.1,58.0,356145,2007,11.0,7560.0,,,,
+tt1010271,The Poughkeepsie Tapes,"Horror, Mystery, Thriller",horror,5.9,,27952,2007,4.0,4860.0,"['Stacy Chbosky', 'Ben Messmer', 'Samantha Robson']",John Erick Dowdle,,
+tt0480249,I Am Legend,"Drama, Horror, Sci-Fi",horror,7.2,65.0,844606,2007,12.0,6060.0,,,,
+tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,"Drama, Horror, Musical",horror,7.3,83.0,396336,2007,12.0,6960.0,,,,
+tt0389722,30 Days of Night,"Horror, Thriller",horror,6.6,53.0,194823,2007,10.0,6780.0,"['Josh Hartnett', 'Melissa George', 'Danny Huston']",David Slade,"$30,000,000 (estimated)","$75,513,170"
+tt1038988,[Rec],"Horror, Mystery, Thriller",horror,7.4,71.0,205870,2007,11.0,4680.0,,,,
+tt0498353,Hostel: Part II,Horror,horror,5.5,46.0,98876,2007,6.0,5640.0,,,,
+tt0462322,Grindhouse,"Horror, Thriller",horror,7.5,77.0,193607,2007,4.0,11460.0,,,,
+tt0455760,Dead Silence,"Horror, Mystery, Thriller",horror,6.1,34.0,104924,2007,3.0,5340.0,,,,
+tt0373883,Halloween,Horror,horror,6.0,47.0,134579,2007,8.0,6540.0,"['Scout Taylor-Compton', 'Malcolm McDowell', 'Tyler Mane']",Rob Zombie,"$15,000,000 (estimated)","$80,460,948"
+tt1179904,Paranormal Activity,"Horror, Mystery",horror,6.3,68.0,263858,2007,10.0,5160.0,,,,
+tt0464141,El orfanato,"Drama, Horror, Mystery",horror,7.4,74.0,166925,2007,10.0,6300.0,"['Belén Rueda', 'Fernando Cayo', 'Roger Príncep']",J.A. Bayona,"€3,400,000 (estimated)","$78,638,987"
+tt0856288,À l'intérieur,Horror,horror,6.7,,46530,2007,6.0,4920.0,,,,
+tt0452702,Vacancy,"Horror, Thriller",horror,6.2,54.0,110504,2007,4.0,5100.0,"['Kate Beckinsale', 'Luke Wilson', 'Frank Whaley']",Nimród Antal,"$19,000,000 (estimated)","$35,442,935"
+tt0480669,Los cronocrímenes,"Horror, Mystery, Sci-Fi",horror,7.1,68.0,71392,2007,6.0,5520.0,"['Karra Elejalde', 'Candela Fernández', 'Bárbara Goenaga']",Nacho Vigalondo,"$2,600,000 (estimated)","$553,198"
+tt0890870,Saw IV,"Horror, Mystery, Thriller",horror,5.9,36.0,170474,2007,10.0,5580.0,,,,
+tt0800069,The Hills Have Eyes II,"Horror, Thriller",horror,5.1,32.0,69328,2007,3.0,5340.0,"['Daniella Alonso', 'Jacob Vargas', 'Michael Bailey Smith']",Martin Weisz,"$15,000,000 (estimated)","$37,697,773"
+tt0814685,Frontière(s),Horror,horror,6.2,44.0,29709,2007,1.0,6480.0,"['Karina Testa', 'Aurélien Wiik', 'Patrick Ligardes']",Xavier Gens,"$3,000,000 (estimated)","$2,783,535"
+tt0943326,Naked Fear,"Horror, Thriller",horror,5.1,,3139,2007,4.0,6480.0,,,,
+tt0897361,I Know Who Killed Me,"Horror, Mystery, Thriller",horror,3.6,16.0,31469,2007,7.0,6360.0,,,,
+tt0800367,Storm Warning,"Horror, Thriller",horror,5.8,,7971,2007,1.0,5160.0,"['Nadia Farès', 'Robert Taylor', 'David Lyons']",Jamie Blanks,,"$260,346"
+tt0775480,Hellphone,"Comedy, Horror",horror,5.1,,2060,2007,3.0,5880.0,,,,
+tt0444682,The Reaping,"Horror, Thriller",horror,5.6,36.0,45229,2007,4.0,5940.0,,,,
+tt0425430,The Messengers,"Drama, Horror, Mystery",horror,5.3,34.0,41769,2007,2.0,5400.0,,,,
+tt0984118,Snuff 102,"Horror, Thriller",horror,3.5,,1264,2007,3.0,6300.0,,,,
+tt0943946,100 Tears,Horror,horror,4.2,,1952,2007,6.0,5700.0,,,,
+tt0452592,Borderland,"Crime, Horror, Thriller",horror,5.6,,10942,2007,4.0,6300.0,,,,
+tt0374563,Captivity,"Crime, Horror, Mystery",horror,4.6,24.0,23964,2007,3.0,5760.0,"['Elisha Cuthbert', 'Daniel Gillies', 'Pruitt Taylor Vince']",Roland Joffé,"$17,000,000 (estimated)","$10,921,200"
+tt0804507,La terza madre,"Drama, Horror, Thriller",horror,5.0,52.0,11515,2007,10.0,6120.0,,,,
+tt0972555,Exhibit A,"Crime, Drama, Horror",horror,6.1,,3661,2007,10.0,5100.0,,,,
+tt0466766,Drive Thru,"Comedy, Horror",horror,4.5,,4887,2007,5.0,4980.0,"['Leighton Meester', ""Nicholas D'Agosto"", 'Melora Hardin']",Brendan Cowles,"$500,000 (estimated)",
+tt0804552,w Delta z,"Crime, Drama, Horror",horror,5.7,,9543,2007,2.0,6240.0,,,,
+tt0484090,Alone,"Drama, Horror, Thriller",horror,6.4,,5946,2007,3.0,6300.0,"['Marsha Wattanapanich', 'Vittaya Wasukraipaisan', 'Rachanu Boonchuduang']",Banjong Pisanthanakun,,"$9,559,978"
+tt0393956,Viva,"Comedy, Drama, Musical",musical,5.8,58.0,1575,2007,5.0,7200.0,"['Anna Biller', 'Jared Sanford', 'Bridget Brno']",Anna Biller,,
+tt0996605,Les chansons d'amour,"Drama, Musical, Romance",musical,7.0,70.0,10377,2007,5.0,5460.0,,,,
+tt0829193,Honeydripper,"Crime, Drama, History",musical,6.7,68.0,2233,2007,5.0,7440.0,,,,
+tt0385277,Santouri,"Drama, Musical, Romance",musical,7.5,,9641,2007,2.0,6420.0,,,,
+tt0800956,Life in a Metro,"Comedy, Drama, Musical",musical,7.4,,13422,2007,5.0,7920.0,,,,
+tt0493160,Razzle Dazzle: A Journey Into Dance,"Comedy, Music, Musical",musical,6.6,,620,2007,3.0,5700.0,,,,
+tt0954348,Sanky Panky,"Comedy, Musical",musical,6.1,,609,2007,2.0,6600.0,"['Fausto Mata', 'Zdenka Kalina', 'Tony Pascual']",José Enrique Pintor,"$1,000,000 (estimated)",
+tt0860454,MP3: Mera Pehla Pehla Pyaar,"Comedy, Drama, Musical",musical,7.0,,2423,2007,6.0,7080.0,,,,
+tt1079450,Die Stille vor Bach,Musical,musical,6.7,70.0,711,2007,12.0,6120.0,,,,
+tt0758053,Saawariya,"Drama, Musical, Romance",musical,5.2,44.0,8590,2007,11.0,8520.0,,,,
+tt0928413,Naked Boys Singing!,"Comedy, Musical",musical,6.0,,836,2007,2.0,5700.0,,,,
+tt0977642,Chega de Saudade,"Drama, Musical, Romance",musical,7.2,,512,2007,3.0,5700.0,"['Leonardo Villar', 'Tônia Carrero', 'Cássia Kis']",Laís Bodanzky,,"$926,400"
+tt3011164,Vyabari,"Drama, Musical, Romance",musical,3.8,,186,2007,7.0,9720.0,,,,
+tt0833476,Jhoom Barabar Jhoom,"Comedy, Drama, Musical",musical,3.7,,3564,2007,6.0,8280.0,,,,
+tt0485272,Salaam-E-Ishq,"Comedy, Drama, Musical",musical,5.2,,5919,2007,1.0,12960.0,,,,
+tt0489486,"Good Boy, Bad Boy","Comedy, Musical",musical,3.9,,2057,2007,5.0,6900.0,,,,
+tt0877621,La France,"Drama, Musical, Romance",musical,6.3,,594,2007,11.0,6120.0,,,,
+tt0845535,Shakalaka Boom Boom,"Drama, Musical, Romance",musical,2.6,,752,2007,4.0,7740.0,,,,
+tt0835457,Sunny & Share Love You,"Comedy, Musical",musical,8.5,,83,2007,7.0,6120.0,,,,
+tt1056422,Fados,"Documentary, Musical",musical,7.1,70.0,852,2007,10.0,5580.0,,,,
+tt30988720,Pagal Premi,"Action, Comedy, Drama",musical,0.0,,0,2007,6.0,7920.0,"['Ritwick Chakraborty', 'Yash Daasguptaa', 'Arpita Mukherjee']",Hara Patnaik,,
+tt0897249,Cumbia callera,"Crime, Drama, Musical",musical,5.8,,284,2007,10.0,5640.0,"['Fernanda García Castañeda', 'Oliver Cantú Lozano', 'Andul Zambrano']",René Villarreal,"$1,000,000 (estimated)","$49,484"
+tt0760332,Z: A Zombie Musical,"Comedy, Musical",musical,5.4,,56,2007,10.0,5880.0,,,,
+tt0473310,Ram Gopal Varma Ki Aag,"Action, Adventure, Comedy",musical,1.4,,7162,2007,8.0,10260.0,,,,
+tt0827727,Mosquita muerta,Musical,musical,3.8,,53,2007,10.0,5820.0,,,,
+tt3557294,Madeline in Tahiti,"Animation, Family, Musical",musical,7.1,,26,2007,,4380.0,"['Chantal Strand', 'Azuure', 'Ashleigh Ball']",Kent Butterworth,,
+tt0808182,J'aurais voulu être un danseur,Musical,musical,5.6,,178,2007,4.0,6180.0,"['Vincent Elbaz', 'Cécile de France', 'Jean-Pierre Cassel']",Alain Berliner,,"$64,919"
+tt1149400,Note by Note: The Making of Steinway L1037,"Documentary, Family, Musical",musical,8.0,,425,2007,11.0,4860.0,"['Pierre-Laurent Aimard', 'Harry Connick Jr.', 'Hélène Grimaud']",Ben Niles,,
+tt0979847,881,"Comedy, Drama, Musical",musical,6.4,,360,2007,8.0,6900.0,,,,
+tt2175739,"Karnavalnaya noch 2, ili 50 let spustya","Comedy, Musical",musical,2.2,,193,2007,1.0,9600.0,,,,
+tt1073221,The Legend of God's Gun,"Fantasy, Musical, Western",musical,3.8,,205,2007,8.0,4680.0,,,,
+tt1073549,Ángeles S.A.,"Comedy, Family, Fantasy",musical,4.5,,127,2007,12.0,6000.0,,,,
+tt1024995,Sleepwalking Through the Mekong,"Documentary, Musical",musical,8.1,,73,2007,5.0,4080.0,,,,
+tt1116944,"Maré, Nossa História de Amor","Drama, Musical",musical,5.8,,240,2007,4.0,6240.0,,,,
+tt4771828,Minister Fatakesto,"Action, Drama, Musical",musical,6.1,,260,2007,,10500.0,,,,
+tt1144442,Rock N' Roll,"Comedy, Drama, Musical",musical,4.0,,406,2007,11.0,,"['Mohanlal', 'Raai Laxmi', 'Harisree Ashokan']",Ranjith,,
+tt1045798,4,"Documentary, Music, Musical",musical,8.1,,72,2007,5.0,5280.0,,,,
+tt5911156,Hair: Let the Sun Shine In,"Documentary, Musical, War",musical,0.0,,0,2007,7.0,3240.0,"['Michael Butler', 'Keith Carradine', 'Bertrand Castelli']",Pola Rapaport,,
+tt1486648,Shipwrecked Adventures of Donkey Ollie,"Animation, Action, Family",musical,6.3,,39,2007,10.0,4680.0,"['Victor Perrotti', 'Craig Quist', 'Brian Stewart']",Douglas Aberle,"$750,000 (estimated)",
+tt4772974,Krishnakanter Will,"Drama, Family, Musical",musical,7.0,,126,2007,10.0,8700.0,"['Soumitra Chatterjee', 'Jeet', 'Swastika Mukherjee']",Raja Sen,,
+tt0896515,56 csepp vér,Musical,musical,4.6,,128,2007,4.0,5400.0,"['Attila Kaszás', 'Róbert Alföldi', 'Tamás Palcsó']",Attila Bokor,,
+tt0783233,Atonement,"Drama, Mystery, Romance",mystery,7.8,85.0,311822,2007,9.0,7380.0,,,,
+tt0473356,The Flock,"Crime, Drama, Mystery",mystery,5.7,,12523,2007,8.0,6300.0,"['Richard Gere', 'Claire Danes', 'KaDee Strickland']",Wai Keung Lau,"$35,000,000 (estimated)","$7,155,358"
+tt0445935,Bordertown,"Crime, Mystery, Thriller",mystery,6.0,,11662,2007,5.0,6720.0,"['Jennifer Lopez', 'Antonio Banderas', 'Maya Zapata']",Gregory Nava,"$21,000,000 (estimated)","$8,332,427"
+tt0842929,Paranoid Park,"Crime, Drama, Mystery",mystery,6.6,84.0,32360,2007,10.0,5100.0,,,,
+tt0492486,Shrooms,"Comedy, Horror, Mystery",mystery,4.6,,18056,2007,11.0,5040.0,"['Lindsey Haun', 'Jack Huston', 'Max Kasch']",Paddy Breathnach,,"$4,998,560"
+tt0857265,Sleuth,"Crime, Drama, Mystery",mystery,6.3,49.0,33431,2007,11.0,5280.0,,,,
+tt0995031,Bhool Bhulaiyaa,"Comedy, Horror, Mystery",mystery,7.5,,35782,2007,10.0,9540.0,,,,
+tt1016301,La habitación de Fermat,"Mystery, Thriller",mystery,6.6,,23330,2007,11.0,5340.0,"['Alejo Sauras', 'Elena Ballesteros', 'Lluís Homar']",Luis Piedrahita,,"$1,028,290"
+tt0446750,Nightwatching,"Biography, Drama, History",mystery,6.5,,3535,2007,11.0,8040.0,,,,
+tt0466816,Hallam Foe,"Drama, Mystery, Romance",mystery,6.9,62.0,13330,2007,8.0,5700.0,"['Jamie Bell', 'Ruth Milne', 'John Paul Lawler']",David Mackenzie,"£3,800,000 (estimated)","$2,149,799"
+tt0765487,The Wizard of Gore,"Horror, Mystery",mystery,4.7,,3001,2007,6.0,5640.0,,,,
+tt0995740,No Smoking,"Drama, Horror, Mystery",mystery,7.3,,9581,2007,10.0,7680.0,,,,
+tt0415127,A londoni férfi,"Crime, Drama, Mystery",mystery,7.0,,4625,2007,1.0,8340.0,,,,
+tt0808357,"Se, jie","Drama, History, Romance",romance,7.5,61.0,46758,2007,9.0,9420.0,,,,
+tt0427309,The Great Debaters,"Biography, Drama, Romance",romance,7.5,65.0,64808,2007,12.0,7560.0,,,,
+tt0416508,Becoming Jane,"Biography, Drama, Romance",romance,7.0,55.0,66551,2007,3.0,7200.0,"['Anne Hathaway', 'James McAvoy', 'Julie Walters']",Julian Jarrold,"$16,500,000 (estimated)","$37,311,672"
+tt0942384,Shelter,"Drama, Romance, Sport",romance,7.6,66.0,24786,2007,4.0,5820.0,,,,
+tt0450188,La Môme,"Biography, Drama, Music",romance,7.5,66.0,92154,2007,2.0,8400.0,,,,
+tt0829297,Ten Inch Hero,"Comedy, Drama, Romance",romance,7.3,,13717,2007,4.0,6120.0,"['Elisabeth Harnois', 'Clea DuVall', 'Sean Patrick Flanery']",David Mackay,,
+tt0490084,Because I Said So,"Comedy, Romance",romance,5.6,26.0,40913,2007,2.0,6120.0,,,,
+tt0481141,No Reservations,"Comedy, Drama, Romance",romance,6.3,50.0,81055,2007,7.0,6240.0,,,,
+tt0460745,Chaos Theory,"Comedy, Drama, Romance",romance,6.6,44.0,34256,2007,10.0,5220.0,,,,
+tt0455805,Then She Found Me,"Comedy, Drama, Romance",romance,5.9,56.0,10430,2007,5.0,6000.0,,,,
+tt0419843,In the Land of Women,"Comedy, Drama, Romance",romance,6.4,47.0,33124,2007,4.0,5820.0,,,,
+tt0466839,I Could Never Be Your Woman,"Comedy, Drama, Romance",romance,6.0,,20021,2007,5.0,5820.0,"['Michelle Pfeiffer', 'Paul Rudd', 'Saoirse Ronan']",Amy Heckerling,"$24,000,000 (estimated)","$9,576,495"
+tt0869977,Naissance des pieuvres,"Drama, Romance",romance,6.7,67.0,14365,2007,8.0,5100.0,,,,
+tt0765120,My Blueberry Nights,"Drama, Romance",romance,6.6,51.0,57543,2007,11.0,5700.0,,,,
+tt0762114,License to Wed,"Comedy, Romance",romance,5.3,25.0,41192,2007,7.0,5460.0,,,,
+tt0484740,Love in the Time of Cholera,"Drama, Romance",romance,6.4,43.0,24502,2007,11.0,8340.0,"['Javier Bardem', 'Giovanna Mezzogiorno', 'Benjamin Bratt']",Mike Newell,"$45,000,000 (estimated)","$31,575,877"
+tt0425413,Run Fatboy Run,"Comedy, Romance, Sport",romance,6.5,48.0,70414,2007,9.0,6000.0,"['Simon Pegg', 'Thandiwe Newton', 'Hank Azaria']",David Schwimmer,"$10,000,000 (estimated)","$33,478,921"
+tt0423977,Charlie Bartlett,"Comedy, Drama, Romance",romance,6.9,54.0,67413,2007,2.0,5820.0,,,,
+tt0775539,Stomp the Yard,"Drama, Music, Romance",romance,5.4,44.0,26799,2007,1.0,6900.0,,,,
+tt0338216,Lucky You,"Drama, Romance, Sport",romance,5.9,49.0,21368,2007,5.0,7440.0,,,,
+tt0772157,Broken English,"Comedy, Drama, Romance",romance,6.3,61.0,7260,2007,7.0,5820.0,,,,
+tt0437526,Une vieille maîtresse,"Drama, Romance",romance,6.2,78.0,3897,2007,5.0,6540.0,,,,
+tt0787462,Elvis and Anabelle,"Drama, Romance",romance,7.1,,6227,2007,,6360.0,"['Max Minghella', 'Blake Lively', 'Joe Mantegna']",Will Geiger,,
+tt1028528,Death Proof,"Drama, Thriller",thriller,7.0,,322931,2007,5.0,7620.0,"['Kurt Russell', 'Zoë Bell', 'Rosario Dawson']",Quentin Tarantino,,"$31,126,421"
+tt0448134,Sunshine,"Sci-Fi, Thriller",thriller,7.2,64.0,275105,2007,4.0,6420.0,,,,
+tt0427392,The Invasion,"Sci-Fi, Thriller",thriller,5.9,45.0,85205,2007,8.0,5940.0,,,,

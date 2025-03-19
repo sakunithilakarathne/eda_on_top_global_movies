@@ -1,0 +1,327 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt2911666,John Wick,"Action, Crime, Thriller",action,7.5,68,773731,2014,10,6060
+tt2015381,Guardians of the Galaxy,"Action, Adventure, Comedy",action,8.0,76,1309969,2014,8,7260
+tt0455944,The Equalizer,"Action, Crime, Thriller",action,7.3,57,441866,2014,9,7920
+tt2802144,Kingsman: The Secret Service,"Action, Adventure, Comedy",action,7.7,60,747824,2014,1,7740
+tt1631867,Edge of Tomorrow,"Action, Adventure, Sci-Fi",action,7.9,71,767524,2014,6,6780
+tt2713180,Fury,"Action, Drama, War",action,7.6,64,574026,2014,10,8040
+tt1587310,Maleficent,"Action, Adventure, Drama",action,6.9,56,411292,2014,5,5820
+tt1840309,Divergent,"Action, Adventure, Drama",action,6.6,48,503035,2014,3,8340
+tt1843866,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",action,7.7,70,928378,2014,4,8160
+tt1790864,The Maze Runner,"Action, Mystery, Sci-Fi",action,6.8,57,532043,2014,9,6780
+tt2179136,American Sniper,"Action, Biography, Drama",action,7.3,73,547411,2014,1,7980
+tt2397535,Predestination,"Action, Drama, Sci-Fi",action,7.4,69,319956,2014,8,5820
+tt2245084,Big Hero 6,"Animation, Action, Adventure",action,7.8,74,524976,2014,11,6120
+tt1291150,Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy",action,5.8,31,224749,2014,8,6060
+tt1872181,The Amazing Spider-Man 2,"Action, Adventure, Sci-Fi",action,6.6,53,559612,2014,5,8520
+tt2980592,The Guest,"Action, Mystery, Thriller",action,6.7,76,111039,2014,9,6000
+tt1877832,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",action,7.9,75,766882,2014,5,7920
+tt1490017,The Lego Movie,"Animation, Action, Adventure",action,7.7,83,399755,2014,2,6000
+tt2109248,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",action,5.6,32,339487,2014,6,9900
+tt1234721,RoboCop,"Action, Crime, Sci-Fi",action,6.1,52,243817,2014,2,7020
+tt0831387,Godzilla,"Action, Adventure, Sci-Fi",action,6.4,62,452455,2014,5,7380
+tt2872732,Lucy,"Action, Sci-Fi, Thriller",action,6.4,62,553610,2014,7,5340
+tt1951265,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",action,6.6,64,520824,2014,11,7380
+tt1646971,How to Train Your Dragon 2,"Animation, Action, Adventure",action,7.8,77,378725,2014,6,6120
+tt0458481,Sin City: A Dame to Kill For,"Action, Crime, Thriller",action,6.5,46,174097,2014,8,6120
+tt2294449,22 Jump Street,"Action, Comedy, Crime",action,7.0,71,420567,2014,6,6720
+tt3157224,We Still Kill the Old Way,"Action, Comedy, Crime",action,6.0,N/A,5245,2014,12,5640
+tt1253863,300: Rise of an Empire,"Action, Drama",action,6.2,48,322504,2014,3,6120
+tt2369135,Need for Speed,"Action, Crime, Drama",action,6.4,39,182148,2014,3,7920
+tt2103281,Dawn of the Planet of the Apes,"Action, Adventure, Drama",action,7.6,79,498214,2014,7,7800
+tt1959490,Noah,"Action, Adventure, Drama",action,5.8,68,270943,2014,3,8280
+tt1528100,Exodus: Gods and Kings,"Action, Adventure, Drama",action,6.0,52,182774,2014,12,9000
+tt1921064,Pompeii,"Action, Adventure, Drama",action,5.5,41,119579,2014,2,6300
+tt0829150,Dracula Untold,"Action, Drama, Fantasy",action,6.2,40,215060,2014,10,5520
+tt2333784,The Expendables 3,"Action, Adventure, Comedy",action,6.1,35,200697,2014,8,7560
+tt1267297,Hercules,"Action, Adventure, Fantasy",action,6.0,47,167737,2014,7,5880
+tt2452200,Son of a Gun,"Action, Crime, Drama",action,6.4,49,30219,2014,10,6480
+tt2788710,The Interview,"Action, Adventure, Comedy",action,6.5,52,365490,2014,12,6720
+tt2265171,Serbuan maut 2: Berandal,"Action, Crime, Thriller",action,7.9,71,134863,2014,3,9000
+tt1911658,Penguins of Madagascar,"Animation, Action, Adventure",action,6.6,53,108041,2014,11,5520
+tt2024469,Non-Stop,"Action, Mystery, Thriller",action,6.9,56,281564,2014,2,6360
+tt1686821,Vampire Academy,"Action, Comedy, Drama",action,5.4,31,57728,2014,2,6240
+tt0365907,A Walk Among the Tombstones,"Action, Crime, Drama",action,6.5,57,129531,2014,9,6840
+tt2446042,Taken 3,"Action, Thriller",action,6.0,26,209468,2014,1,6480
+tt1205537,Jack Ryan: Shadow Recruit,"Action, Drama, Thriller",action,6.2,57,140301,2014,1,6300
+tt2614684,'71,"Action, Crime, Drama",action,7.2,83,63021,2014,10,5940
+tt2467046,Left Behind,"Action, Fantasy, Sci-Fi",action,3.1,12,43514,2014,10,6600
+tt2345737,The Rover,"Action, Crime, Drama",action,6.4,64,52776,2014,6,6180
+tt1121096,Seventh Son,"Action, Adventure, Fantasy",action,5.5,30,81902,2014,1,6120
+tt2975578,The Purge: Anarchy,"Action, Horror, Sci-Fi",action,6.4,50,167411,2014,7,6180
+tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",adventure,8.7,74,2311911,2014,11,10140
+tt2278388,The Grand Budapest Hotel,"Adventure, Comedy, Crime",adventure,8.1,88,920668,2014,3,5940
+tt1109624,Paddington,"Adventure, Comedy, Family",adventure,7.3,77,145451,2014,11,5700
+tt2310332,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",adventure,7.4,59,593495,2014,12,8640
+tt2883512,Chef,"Adventure, Comedy, Drama",adventure,7.3,68,240827,2014,5,6840
+tt2180411,Into the Woods,"Adventure, Comedy, Drama",adventure,5.9,69,150605,2014,12,7500
+tt2305051,Wild,"Adventure, Biography, Drama",adventure,7.1,74,142555,2014,12,6900
+tt2262227,The Book of Life,"Animation, Adventure, Comedy",adventure,7.2,67,80713,2014,10,5700
+tt2692250,Night at the Museum: Secret of the Tomb,"Adventure, Comedy, Family",adventure,6.2,47,141413,2014,12,5880
+tt2357291,Rio 2,"Animation, Adventure, Comedy",adventure,6.3,49,105562,2014,4,6060
+tt0864835,Mr. Peabody & Sherman,"Animation, Adventure, Comedy",adventure,6.7,59,80736,2014,2,5520
+tt1224378,Viy,"Adventure, Fantasy, Mystery",adventure,5.2,N/A,6790,2014,1,7800
+tt1865505,Song of the Sea,"Animation, Adventure, Drama",adventure,8.0,85,65356,2014,12,5580
+tt2106361,Into the Storm,"Action, Adventure, Drama",adventure,5.8,44,72988,2014,8,5340
+tt2261331,Black Sea,"Adventure, Drama, Thriller",adventure,6.4,62,42128,2014,12,6840
+tt1043726,The Legend of Hercules,"Action, Adventure, Fantasy",adventure,4.3,22,56989,2014,1,5940
+tt2944198,Backcountry,"Adventure, Drama, Horror",adventure,6.0,62,25716,2014,8,5520
+tt2402157,The November Man,"Action, Adventure, Crime",adventure,6.3,38,71778,2014,8,6480
+tt2281587,Muppets Most Wanted,"Adventure, Comedy, Crime",adventure,6.4,61,38040,2014,3,6420
+tt0787474,The Boxtrolls,"Animation, Adventure, Comedy",adventure,6.8,61,63044,2014,9,5760
+tt3138104,The Hungover Games,"Adventure, Comedy, Fantasy",adventure,3.5,N/A,17474,2014,2,5100
+tt2295722,Falcon Rising,"Action, Adventure",adventure,5.8,49,9566,2014,9,6180
+tt1361318,Good People,"Action, Adventure, Crime",adventure,5.5,42,17600,2014,8,5400
+tt2980706,Planes: Fire & Rescue,"Animation, Adventure, Comedy",adventure,5.9,48,20659,2014,7,4980
+tt3858372,Mune: Le Gardien de la Lune,"Animation, Adventure, Comedy",adventure,7.1,N/A,8411,2014,10,5100
+tt3253930,La isla mínima,"Action, Adventure, Crime",adventure,7.2,N/A,37478,2014,9,6300
+tt3398268,Omoide no Mânî,"Animation, Drama, Family",animation,7.6,72,51281,2014,7,6180
+tt1821658,The Nut Job,"Animation, Adventure, Comedy",animation,5.7,37,31134,2014,1,5100
+tt3638012,Appleseed Alpha,"Animation, Action, Adventure",animation,6.5,N/A,9335,2014,7,5580
+tt3759416,Astérix : Le domaine des dieux,"Animation, Adventure, Comedy",animation,6.9,N/A,16004,2014,11,5100
+tt3139072,Son of Batman,"Animation, Action, Adventure",animation,6.7,N/A,32400,2014,4,4440
+tt3717532,The Last: Naruto the Movie,"Animation, Action, Adventure",animation,7.6,N/A,18844,2014,12,6720
+tt3885932,Winx Club: Il mistero degli abissi,"Animation, Action, Adventure",animation,5.6,N/A,939,2014,9,4980
+tt3331846,Stand by Me Doraemon,"Animation, Comedy, Drama",animation,7.3,N/A,10062,2014,8,5700
+tt2062622,Postman Pat: The Movie,"Animation, Comedy, Family",animation,4.7,44,2025,2014,5,5280
+tt0498351,The Hero of Color City,"Animation, Adventure, Family",animation,3.9,33,777,2014,7,4620
+tt3646944,Gekijouban Shingeki no kyojin Zenpen: Guren no yumiya,"Animation, Action, Adventure",animation,7.6,N/A,4112,2014,11,7140
+tt2006753,Heavenly Sword,"Animation, Action, Adventure",animation,5.3,N/A,2249,2014,,5100
+tt2378401,Meet the Patels,"Documentary, Animation, Comedy",animation,7.1,70,3602,2014,9,5280
+tt3477554,Snezhnaya Koroleva 2: Perezamorozka,"Animation, Adventure, Comedy",animation,5.8,N/A,2572,2014,1,4860
+tt3455204,Meitantei Conan: Ijigen no sunaipâ,"Animation, Action, Adventure",animation,6.7,N/A,1822,2014,4,6600
+tt3871940,Eiga Kureyon Shinchan: Gachinko! Gyakushuu no Robotôchan,"Animation, Adventure, Comedy",animation,7.2,N/A,621,2014,4,5820
+tt6417868,Chhota Bheem Aur Mayavi Gorgan,"Animation, Action, Adventure",animation,6.4,N/A,142,2014,,3900
+tt1640718,The Prophet,"Animation, Drama",animation,7.0,61,5161,2014,8,5100
+tt5714216,Black Butler: Book of Murder,"Animation, Adventure, Crime",animation,7.9,N/A,1438,2014,10,6960
+tt3246908,The Boxcar Children,"Animation, Adventure, Family",animation,6.5,N/A,651,2014,4,5160
+tt6442758,Chhota Bheem Paanch Ajoobe,"Animation, Action, Adventure",animation,6.2,N/A,126,2014,,4080
+tt3830998,Lupin the IIIrd: Jigen Daisuke no Bohyô,"Animation, Action, Crime",animation,7.2,N/A,1089,2014,6,3060
+tt3921852,Barbie and the Secret Door,"Animation, Family",animation,5.7,N/A,2157,2014,8,4860
+tt2066048,Ribbit,"Animation, Adventure, Comedy",animation,4.1,N/A,772,2014,9,5280
+tt2339505,Kochadaiiyaan,"Animation, Action, Adventure",animation,6.2,N/A,5454,2014,5,7080
+tt2859246,Rakuen Tsuiho: Expelled from Paradise,"Animation, Action, Adventure",animation,6.6,N/A,1899,2014,11,6240
+tt3178174,Jobanni no shima,"Animation, Drama, History",animation,7.3,N/A,2328,2014,2,6120
+tt3480110,Resan till fjäderkungens rike,"Animation, Adventure, Family",animation,6.0,N/A,910,2014,3,4680
+tt2371399,Muumit Rivieralla,"Animation, Comedy, Family",animation,6.0,59,1541,2014,10,4800
+tt4168188,Chaar Sahibzaade,"Animation, History",animation,7.7,N/A,8015,2014,11,8100
+tt3336368,Maya the Bee Movie,"Animation, Adventure, Comedy",animation,5.9,49,2384,2014,9,5340
+tt1686027,The Creep Behind the Camera,"Animation, Biography, Drama",animation,5.8,N/A,295,2014,4,6660
+tt6417978,Chhota Bheem Ki Baazi,"Animation, Action, Adventure",animation,8.2,N/A,94,2014,,N/A
+tt3600950,Belka i Strelka: Lunnye priklyucheniya,"Animation, Adventure, Comedy",animation,3.8,N/A,489,2014,2,5400
+tt4168022,Yôkai Watch: Tanjô no himitsuda nyan,"Animation, Action, Comedy",animation,5.7,N/A,333,2014,12,5820
+tt3413018,Tamako rabu sutôrî,"Animation, Comedy, Drama",animation,7.0,N/A,3186,2014,4,4980
+tt3529198,My Little Pony: Equestria Girls - Rainbow Rocks,"Animation, Adventure, Comedy",animation,7.0,N/A,3935,2014,9,4500
+tt0892062,Hamlet A.D.D.,"Animation, Comedy, Fantasy",animation,6.1,N/A,122,2014,4,5700
+tt1290393,The Clockwork Girl,"Animation, Adventure, Fantasy",animation,5.0,N/A,828,2014,6,5040
+tt2182256,Premature,"Comedy, Drama, Fantasy",comedy,5.7,34,10977,2014,7,5580
+tt1086772,Blended,"Comedy, Romance",comedy,6.5,31,150919,2014,5,7020
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",comedy,7.7,87,680183,2014,11,7140
+tt3099498,Tusk,"Comedy, Horror",comedy,5.4,55,67758,2014,9,6120
+tt2203939,The Other Woman,"Comedy, Romance",comedy,6.0,39,156113,2014,4,6540
+tt1823664,Annie,"Comedy, Drama, Family",comedy,5.4,33,41944,2014,12,7080
+tt1791528,Inherent Vice,"Comedy, Crime, Drama",comedy,6.6,81,113774,2014,1,8880
+tt3416742,What We Do in the Shadows,"Comedy, Horror",comedy,7.6,76,207214,2014,6,5160
+tt1638002,"Love, Rosie","Comedy, Romance",comedy,7.1,44,161634,2014,10,6120
+tt3128900,Miss Meadows,"Comedy, Crime, Drama",comedy,5.8,43,10786,2014,11,5280
+tt3011894,Relatos salvajes,"Comedy, Drama, Thriller",comedy,8.1,77,226534,2014,8,7320
+tt2557490,A Million Ways to Die in the West,"Comedy, Western",comedy,6.1,44,204437,2014,5,6960
+tt1371150,This Is Where I Leave You,"Comedy, Drama",comedy,6.6,44,91644,2014,9,6180
+tt2170593,St. Vincent,"Comedy, Drama",comedy,7.2,64,110595,2014,10,6120
+tt2355495,Barefoot,"Comedy, Drama, Romance",comedy,6.5,22,27944,2014,9,5400
+tt2177771,The Monuments Men,"Biography, Comedy, Drama",comedy,6.1,52,145276,2014,2,7080
+tt1567437,The Voices,"Comedy, Crime, Horror",comedy,6.3,58,65050,2014,2,6180
+tt2980648,The Hundred-Foot Journey,"Comedy, Drama",comedy,7.3,55,89284,2014,8,7320
+tt2004420,Neighbors,Comedy,comedy,6.3,68,336937,2014,5,5820
+tt1800246,That Awkward Moment,"Comedy, Romance",comedy,6.1,36,108867,2014,1,5640
+tt0443465,Before We Go,"Comedy, Drama, Romance",comedy,6.8,31,66252,2014,7,5700
+tt2096672,Dumb and Dumber To,Comedy,comedy,5.6,36,149073,2014,11,6540
+tt1956620,Sex Tape,"Comedy, Romance",comedy,5.1,36,120456,2014,7,5640
+tt2314824,Behaving Badly,"Comedy, Romance",comedy,4.4,18,12611,2014,7,5820
+tt2338151,PK,"Comedy, Drama, Sci-Fi",comedy,8.1,N/A,209482,2014,12,9180
+tt2784512,Zombeavers,"Comedy, Horror",comedy,4.8,44,21533,2014,3,4620
+tt3169706,Pride,"Biography, Comedy, Drama",comedy,7.8,79,63335,2014,9,7140
+tt2170439,Horrible Bosses 2,"Comedy, Crime",comedy,6.3,40,188948,2014,11,6480
+tt2121382,Turist,"Comedy, Drama",comedy,7.2,87,70136,2014,8,7200
+tt2756032,The One I Love,"Comedy, Drama, Fantasy",comedy,7.0,66,44990,2014,8,5460
+tt2872718,Nightcrawler,"Crime, Drama, Thriller",crime,7.8,76,632556,2014,10,7020
+tt1872194,The Judge,"Crime, Drama, Mystery",crime,7.4,48,212735,2014,10,8460
+tt1600196,The Drop,"Crime, Drama, Mystery",crime,7.0,69,165614,2014,9,6360
+tt1126590,Big Eyes,"Biography, Crime, Drama",crime,7.0,62,102025,2014,12,6360
+tt2937898,A Most Violent Year,"Crime, Drama, Thriller",crime,6.9,79,79689,2014,1,7500
+tt1972571,A Most Wanted Man,"Crime, Drama, Thriller",crime,6.7,73,82240,2014,8,7320
+tt2377322,Deliver Us from Evil,"Crime, Horror, Mystery",crime,6.2,40,88389,2014,7,7080
+tt2802154,Leviathan,"Crime, Drama",crime,7.6,92,58285,2014,2,8400
+tt1742334,Sabotage,"Action, Crime, Drama",crime,5.7,41,67348,2014,3,6540
+tt2039393,The Gambler,"Crime, Drama, Thriller",crime,6.0,55,75430,2014,12,6660
+tt2771372,Veronica Mars,"Crime, Drama, Mystery",crime,6.7,62,55535,2014,3,6420
+tt1408253,Ride Along,"Action, Comedy, Crime",crime,6.1,41,126040,2014,1,5940
+tt2234003,Calvary,"Crime, Drama, Mystery",crime,7.4,77,66091,2014,4,6120
+tt1924435,Let's Be Cops,"Action, Comedy, Crime",crime,6.4,30,141831,2014,8,6240
+tt2376218,The Forger,"Crime, Drama, Thriller",crime,5.8,32,13672,2014,4,5700
+tt1216491,Kill the Messenger,"Biography, Crime, Drama",crime,6.9,60,49446,2014,10,6720
+tt2891174,99 Homes,"Crime, Drama",crime,7.1,76,39568,2014,10,6720
+tt0780548,Kid Cannabis,"Biography, Comedy, Crime",crime,6.4,54,10723,2014,4,6600
+tt2326612,The Captive,"Crime, Drama, Mystery",crime,5.9,36,36589,2014,9,6720
+tt2044801,Kite,"Action, Crime, Thriller",crime,4.4,19,7003,2014,6,5400
+tt2923316,American Heist,"Action, Crime, Drama",crime,5.0,23,17878,2014,7,5640
+tt2675914,Kraftidioten,"Action, Comedy, Crime",crime,7.1,74,30029,2014,2,6960
+tt2180994,A Good Marriage,"Action, Crime, Drama",crime,5.3,43,13339,2014,10,6120
+tt1976000,The Two Faces of January,"Crime, Mystery, Romance",crime,6.2,66,34473,2014,5,5760
+tt2316801,La belle et la bête,"Drama, Family, Fantasy",family,6.4,39,23320,2014,2,6720
+tt1929263,Heaven Is for Real,"Biography, Drama, Family",family,5.9,47,29230,2014,4,5940
+tt1698641,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Comedy, Drama, Family",family,6.2,54,47528,2014,10,4860
+tt1647668,Million Dollar Arm,"Biography, Drama, Family",family,7.0,56,48530,2014,5,7440
+tt3200980,Where Hope Grows,"Drama, Family",family,6.6,41,4441,2014,5,5700
+tt2247476,When the Game Stands Tall,"Biography, Drama, Family",family,6.6,41,17220,2014,8,6900
+tt4009460,Saving Christmas,"Comedy, Family",family,1.3,18,16989,2014,11,4740
+tt2978462,Dolphin Tale 2,"Drama, Family",family,6.4,58,10012,2014,9,6420
+tt1717715,Xi you ji: Da nao tian gong,"Action, Adventure, Family",family,4.9,N/A,5495,2014,1,7140
+tt3260022,Saphirblau,"Action, Adventure, Drama",family,6.2,N/A,4634,2014,12,6960
+tt3270108,Jackie & Ryan,"Drama, Family, Music",family,5.9,55,4843,2014,7,5400
+tt3254796,Big Stone Gap,"Comedy, Family, Mystery",family,5.8,39,3389,2014,5,6180
+tt2183034,Earth to Echo,"Adventure, Family, Sci-Fi",family,5.7,53,20070,2014,7,5460
+tt1977087,Tom Sawyer & Huckleberry Finn,"Action, Adventure, Drama",family,5.1,N/A,1065,2014,4,5400
+tt3064356,The Beat Beneath My Feet,"Comedy, Drama, Family",family,6.4,N/A,1909,2014,7,5460
+tt1935940,Get Santa,"Comedy, Family, Fantasy",family,6.3,52,5027,2014,12,6120
+tt3488462,Honig im Kopf,"Comedy, Drama, Family",family,6.6,N/A,7356,2014,12,8340
+tt4008866,Bibi & Tina voll verhext!,"Adventure, Family",family,5.2,N/A,872,2014,12,8220
+tt3511364,In the Dog House,Family,family,3.9,N/A,79,2014,9,4860
+tt3064620,Isabelle Dances Into the Spotlight,"Drama, Family",family,5.6,N/A,459,2014,7,6000
+tt0329539,Rice Girl,"Adventure, Comedy, Family",family,3.6,N/A,146,2014,7,5700
+tt3278950,Under the Blood-Red Sun,"Drama, Family, History",family,5.9,N/A,129,2014,9,5940
+tt2390283,Midnight Sun,"Adventure, Drama, Family",family,6.0,N/A,1028,2014,11,5880
+tt1355630,If I Stay,"Drama, Fantasy, Music",fantasy,6.7,46,129756,2014,8,6420
+tt1418377,"I, Frankenstein","Action, Fantasy, Sci-Fi",fantasy,5.1,30,84813,2014,1,5520
+tt3203616,The Cobbler,"Comedy, Drama, Fantasy",fantasy,5.8,23,62404,2014,3,5940
+tt1837709,Winter's Tale,"Drama, Fantasy, Mystery",fantasy,6.1,31,58051,2014,2,7080
+tt1403241,Wolves,"Action, Fantasy, Horror",fantasy,5.3,37,10788,2014,8,5460
+tt2828996,A Haunted House 2,"Comedy, Fantasy, Horror",fantasy,4.7,17,24376,2014,4,5160
+tt2101569,In Your Eyes,"Fantasy, Romance",fantasy,6.9,N/A,32486,2014,4,6360
+tt2345613,Leprechaun: Origins,"Fantasy, Horror",fantasy,3.2,N/A,6815,2014,8,5400
+tt2581244,Life After Beth,"Comedy, Fantasy, Horror",fantasy,5.7,50,25105,2014,7,5340
+tt2714380,The Remaining,"Drama, Fantasy, Horror",fantasy,4.3,38,9312,2014,9,5280
+tt2366608,Lost River,"Drama, Fantasy, Mystery",fantasy,5.7,42,19475,2014,4,5700
+tt3177316,Honeymoon,"Drama, Fantasy, Horror",fantasy,5.7,65,27957,2014,9,5220
+tt3405714,Mythica: A Quest for Heroes,"Action, Adventure, Fantasy",fantasy,5.4,N/A,5359,2014,12,5520
+tt1572306,Don't Blink,"Fantasy, Horror, Mystery",fantasy,4.9,N/A,7400,2014,10,5520
+tt3343136,Sleeping Beauty,"Adventure, Fantasy, Horror",fantasy,2.8,N/A,2085,2014,7,5340
+tt3029558,Rurôni Kenshin: Kyôto taika-hen,"Action, Adventure, Drama",fantasy,7.5,N/A,19101,2014,8,8280
+tt3029556,Rurôni Kenshin: Densetsu no saigo-hen,"Action, Adventure, Drama",fantasy,7.5,N/A,15311,2014,9,8040
+tt1883180,En duva satt på en gren och funderade på tillvaron,"Comedy, Drama, Fantasy",fantasy,6.9,81,20038,2014,10,6060
+tt3122436,The Secret Path,"Fantasy, Horror, Mystery",fantasy,3.3,N/A,198,2014,6,4620
+tt3120314,Shark Exorcist,"Comedy, Fantasy, Horror",fantasy,1.4,N/A,2054,2014,7,4260
+tt3235888,It Follows,"Horror, Mystery, Thriller",horror,6.8,83,285107,2014,3,6000
+tt2321549,The Babadook,"Drama, Horror, Mystery",horror,6.8,86,259329,2014,5,5640
+tt2870612,"As Above, So Below","Horror, Mystery, Thriller",horror,6.3,39,121328,2014,8,5580
+tt3322940,Annabelle,"Horror, Mystery, Thriller",horror,5.5,37,182785,2014,10,5940
+tt2428170,Creep,"Horror, Thriller",horror,6.3,74,75025,2014,6,4620
+tt2965466,Last Shift,"Horror, Mystery",horror,5.8,N/A,25287,2014,10,5280
+tt3387648,The Taking,"Horror, Mystery, Thriller",horror,6.0,N/A,44477,2014,10,5400
+tt3395184,Spring,"Drama, Horror, Romance",horror,6.7,70,32604,2014,3,6540
+tt5334704,Twin Peaks: The Missing Pieces,"Drama, Horror, Mystery",horror,7.5,N/A,13982,2014,8,5460
+tt1780798,Clown,"Horror, Thriller",horror,5.7,42,27735,2014,6,6000
+tt3713166,Unfriended,"Horror, Mystery, Thriller",horror,5.6,59,84365,2014,4,4980
+tt2577172,Girlhouse,"Horror, Thriller",horror,5.5,N/A,10175,2014,2,6060
+tt3086442,"Ich seh, Ich seh","Horror, Mystery, Thriller",horror,6.7,81,61981,2014,1,5940
+tt2326554,A Girl Walks Home Alone at Night,"Drama, Horror, Romance",horror,6.9,81,40026,2014,4,6060
+tt2793490,Starry Eyes,"Horror, Mystery",horror,6.0,49,23243,2014,11,5880
+tt3339674,Burying the Ex,"Comedy, Horror, Romance",horror,5.4,37,11826,2014,6,5340
+tt2251281,Dark Was the Night,"Drama, Horror, Thriller",horror,5.6,40,11699,2014,7,5940
+tt1772264,Stonehearst Asylum,"Drama, Horror, Mystery",horror,6.8,52,62384,2014,10,6720
+tt1204977,Ouija,"Horror, Mystery, Thriller",horror,4.5,38,59812,2014,10,5340
+tt2490326,Cooties,"Action, Comedy, Horror",horror,5.7,49,29572,2014,9,5280
+tt2059171,13 Sins,"Horror, Thriller",horror,6.3,44,40658,2014,4,5580
+tt3504048,Housebound,"Comedy, Horror, Mystery",horror,6.7,76,38693,2014,9,6420
+tt1975159,Flight 7500,"Drama, Horror, Sci-Fi",horror,4.8,N/A,17668,2014,7,4800
+tt2561546,The Town That Dreaded Sundown,"Horror, Mystery, Thriller",horror,5.6,47,17866,2014,10,5160
+tt2799166,The Pyramid,"Horror, Mystery, Thriller",horror,4.6,24,28056,2014,12,5340
+tt2473682,Paranormal Activity: The Marked Ones,"Horror, Mystery",horror,5.1,42,46545,2014,1,5040
+tt3354222,Kamisama no iu tôri,"Adventure, Horror, Sci-Fi",horror,6.3,N/A,8832,2014,11,7020
+tt2832470,Død snø 2,"Action, Comedy, Horror",horror,6.8,59,27611,2014,2,6000
+tt4128382,American Guinea Pig: Bouquet of Guts and Gore,Horror,horror,4.0,N/A,862,2014,10,4380
+tt2417854,Lucky Bastard,"Crime, Drama, Horror",horror,4.4,36,1389,2014,2,5640
+tt3106120,See No Evil 2,"Action, Horror, Thriller",horror,4.7,N/A,8047,2014,10,5400
+tt1649443,[Rec] 4: Apocalipsis,"Action, Horror, Thriller",horror,5.3,53,21259,2014,10,5700
+tt2960930,Extraterrestrial,"Action, Horror, Mystery",horror,5.0,38,17116,2014,4,6060
+tt2517658,The Canal,"Drama, Horror, Mystery",horror,5.8,55,15170,2014,5,5520
+tt2474024,The Last Five Years,"Comedy, Drama, Musical",musical,5.9,60,10982,2014,2,5640
+tt2107861,Walking on Sunshine,"Comedy, Drama, Musical",musical,5.4,N/A,6566,2014,6,5820
+tt2190838,Stage Fright,"Comedy, Horror, Musical",musical,5.2,39,5185,2014,4,5340
+tt3528906,Our RoboCop Remake,"Action, Comedy, Crime",musical,6.4,N/A,538,2014,2,6480
+tt1555440,Girltrash: All Night Long,"Comedy, Crime, Drama",musical,6.3,N/A,1508,2014,2,5160
+tt2574698,Gunday,"Action, Drama, Musical",musical,2.7,N/A,60689,2014,2,9120
+tt10936328,Les Miserables: The Broadway Musical,Musical,musical,8.8,N/A,70,2014,,N/A
+tt2905838,Bang Bang,"Action, Adventure, Comedy",musical,5.6,N/A,26990,2014,10,9180
+tt2808986,Tokyo Tribe,"Action, Fantasy, Musical",musical,6.4,58,3711,2014,8,6960
+tt3685836,Madea's Neighbors from Hell,"Comedy, Drama, Musical",musical,4.4,N/A,719,2014,4,8280
+tt3872778,Monty Python Live (Mostly),"Documentary, Comedy, Musical",musical,7.6,N/A,2882,2014,7,8220
+tt2655734,Bang Bang Baby,"Drama, Fantasy, Musical",musical,5.1,N/A,697,2014,11,5400
+tt2404593,Lucky Stiff,"Comedy, Musical",musical,5.4,32,188,2014,7,4680
+tt4164442,ANI: A Parody,"Comedy, Musical, Sci-Fi",musical,7.1,N/A,280,2014,10,7320
+tt3060244,Tri bratri,"Comedy, Family, Fantasy",musical,5.6,N/A,560,2014,8,5400
+tt3906650,Sinfonia da Necrópole,"Comedy, Horror, Musical",musical,6.9,N/A,487,2014,4,5100
+tt2484530,Amapola,"Comedy, Drama, Fantasy",musical,4.8,N/A,350,2014,6,5100
+tt3129656,Bamse och tjuvstaden,"Animation, Adventure, Comedy",musical,6.1,N/A,808,2014,1,3960
+tt10818298,Planet of the Baybes,"Adventure, Comedy, Musical",musical,4.6,N/A,22,2014,6,7200
+tt3576220,After Film School,"Comedy, Musical",musical,8.1,N/A,97,2014,2,5580
+tt3365690,Jaatishwar,"Biography, Drama, History",musical,8.0,N/A,3136,2014,1,9000
+tt2773382,The Amateur,"Comedy, Drama, Music",musical,7.1,N/A,38,2014,N/A,5700
+tt2504690,Volando Bajo,"Comedy, Drama, Musical",musical,5.7,N/A,195,2014,6,5760
+tt4673872,Bangali Babu English Mem,"Comedy, Musical, Romance",musical,5.4,N/A,360,2014,1,8760
+tt3570168,Dyke Hard,"Action, Adventure, Comedy",musical,4.6,N/A,430,2014,3,5400
+tt2741090,Waiting in the Wings: The Musical,"Comedy, Music, Musical",musical,6.0,N/A,234,2014,4,6420
+tt2309762,Eternity: The Movie,"Comedy, Music, Musical",musical,7.1,28,66,2014,10,5280
+tt4773112,Bindaas,"Action, Comedy, Musical",musical,5.0,N/A,429,2014,7,9600
+tt3713076,The Cocksure Lads Movie,"Comedy, Drama, Musical",musical,7.1,N/A,97,2014,8,5760
+tt3555534,Ho Gana Pokuna,"Drama, Family, Musical",musical,8.5,N/A,639,2014,12,7200
+tt4253462,From Here to Eternity: The Musical,Musical,musical,7.3,N/A,84,2014,7,9300
+tt4040086,VeggieTales: Beauty and the Beet,"Animation, Comedy, Family",musical,7.1,N/A,118,2014,10,3420
+tt3985472,VeggieTales: Celery Night Fever,"Animation, Comedy, Family",musical,7.0,N/A,132,2014,8,3180
+tt3231686,She Lights Up Well,"Comedy, Musical",musical,8.4,N/A,21,2014,9,4620
+tt1745959,The Bloody Indulgent,"Comedy, Horror, Musical",musical,5.1,N/A,81,2014,8,4800
+tt2614400,Casanova Variations,"Biography, Drama, Fantasy",musical,5.9,N/A,275,2014,11,7080
+tt3315284,Who Can I Run To,Musical,musical,7.6,N/A,34,2014,10,N/A
+tt1920871,College Musical,Musical,musical,5.8,N/A,189,2014,9,5460
+tt3459472,Brabançonne,Musical,musical,6.1,N/A,437,2014,12,6000
+tt3659764,Songs She Wrote About People She Knows,"Comedy, Music, Musical",musical,6.4,N/A,74,2014,9,4800
+tt2463692,Quando Eu Era Vivo,"Drama, Horror, Musical",musical,6.2,N/A,803,2014,1,6480
+tt3831696,My America,"Drama, Musical",musical,4.9,N/A,42,2014,7,4680
+tt4872166,VeggieTales: Veggies in Space: The Fennel Frontier,"Animation, Adventure, Comedy",musical,7.0,N/A,83,2014,3,3000
+tt2402751,Qué le dijiste a Dios?,"Comedy, Musical",musical,4.0,N/A,414,2014,1,5280
+tt2267998,Gone Girl,"Drama, Mystery, Thriller",mystery,8.1,79,1113182,2014,10,8940
+tt2910814,The Signal,"Drama, Mystery, Sci-Fi",mystery,6.0,54,70769,2014,7,5820
+tt1850397,The Loft,"Mystery, Romance, Thriller",mystery,6.3,24,61395,2014,10,6480
+tt2884206,I Origins,"Drama, Mystery, Romance",mystery,7.3,57,136813,2014,7,6360
+tt2318092,Endless Love,"Drama, Mystery, Romance",mystery,6.2,30,48357,2014,2,6240
+tt1726592,Before I Go to Sleep,"Drama, Mystery, Thriller",mystery,6.3,41,86467,2014,9,5520
+tt2172584,Maps to the Stars,"Comedy, Drama, Mystery",mystery,6.2,68,43612,2014,5,6660
+tt3294200,The Falling,"Drama, Mystery, Thriller",mystery,5.3,71,8439,2014,4,6120
+tt2669336,Time Lapse,"Mystery, Sci-Fi, Thriller",mystery,6.5,50,51067,2014,5,6240
+tt2238050,White Bird in a Blizzard,"Drama, Mystery, Thriller",mystery,6.4,51,30635,2014,9,5460
+tt1791682,While We're Young,"Comedy, Drama, Mystery",mystery,6.3,77,54682,2014,4,5820
+tt2505294,Ask Me Anything,"Comedy, Drama, Mystery",mystery,6.0,N/A,13258,2014,12,6000
+tt2980516,The Theory of Everything,"Biography, Drama, Romance",romance,7.7,71,494562,2014,2,7380
+tt0435651,The Giver,"Drama, Romance, Sci-Fi",romance,6.4,47,128051,2014,8,5820
+tt2582846,The Fault in Our Stars,"Drama, Romance",romance,7.6,69,413174,2014,6,7560
+tt1972779,The Best of Me,"Drama, Romance",romance,6.7,29,79189,2014,10,7080
+tt2205401,Addicted,"Drama, Romance, Thriller",romance,5.0,32,12710,2014,10,6360
+tt2639254,A Little Chaos,"Drama, Romance",romance,6.5,51,26134,2014,4,7020
+tt1247690,Serena,"Drama, History, Romance",romance,5.4,36,31229,2014,11,6540
+tt3094816,Diet of Sex,"Comedy, Drama, Romance",romance,4.3,N/A,2166,2014,2,4320
+tt2570858,The Duke of Burgundy,"Drama, Romance",romance,6.5,87,14768,2014,2,6240
+tt2140619,Two Night Stand,"Comedy, Romance",romance,6.3,45,75116,2014,9,5160
+tt2103254,Tammy,"Comedy, Romance",romance,4.9,39,55913,2014,7,5820
+tt2239832,Think Like a Man Too,"Comedy, Romance",romance,5.7,38,23576,2014,6,6360
+tt2509850,The Rewrite,"Comedy, Romance",romance,6.3,51,23088,2014,2,6420
+tt2139555,Playing It Cool,"Comedy, Romance",romance,5.9,30,31032,2014,5,5640
+tt1571249,The Skeleton Twins,"Comedy, Drama, Romance",romance,6.8,74,45778,2014,9,5580
+tt0900387,Suite Française,"Drama, History, Romance",romance,7.0,63,29522,2014,3,6420
+tt2528814,God's Not Dead,"Drama, Romance",romance,4.6,16,45983,2014,3,6780
+tt2626350,Step Up All In,"Drama, Music, Romance",romance,5.9,45,36723,2014,8,6720
+tt1441953,Testament of Youth,"Biography, Drama, History",romance,7.2,76,31167,2014,1,7740
+tt2622874,My Mistress,"Drama, Romance",romance,5.4,N/A,2149,2014,11,6240
+tt0470752,Ex Machina,"Drama, Sci-Fi, Thriller",thriller,7.7,78,614024,2014,1,6480
+tt2084970,The Imitation Game,"Biography, Drama, Thriller",thriller,8.0,71,849165,2014,12,6840
+tt2209764,Transcendence,"Drama, Sci-Fi, Thriller",thriller,6.2,42,242385,2014,4,7140
+tt2824852,Deadly Virtues: Love.Honour.Obey.,"Drama, Thriller",thriller,4.8,N/A,1958,2014,9,5220

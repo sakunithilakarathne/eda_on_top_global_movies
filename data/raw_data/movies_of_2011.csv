@@ -1,0 +1,329 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt0458339,Captain America: The First Avenger,"Action, Adventure, Sci-Fi",action,6.9,66,926624,2011,7,7440
+tt0780504,Drive,"Action, Drama",action,7.8,79,731805,2011,9,6000
+tt1270798,X: First Class,"Action, Sci-Fi",action,7.7,65,743587,2011,6,7860
+tt0800369,Thor,"Action, Fantasy",action,7.0,57,927884,2011,5,6900
+tt1298650,Pirates of the Caribbean: On Stranger Tides,"Action, Adventure, Fantasy",action,6.6,45,582959,2011,5,8220
+tt1637688,In Time,"Action, Sci-Fi, Thriller",action,6.7,53,464113,2011,10,6540
+tt1650062,Super 8,"Action, Sci-Fi, Thriller",action,7.0,72,373204,2011,6,6720
+tt0978764,Sucker Punch,"Action, Adventure, Fantasy",action,6.1,33,256336,2011,3,6600
+tt1291584,Warrior,"Action, Drama, Sport",action,8.1,71,511734,2011,9,8400
+tt1229238,Mission: Impossible - Ghost Protocol,"Action, Adventure, Thriller",action,7.4,73,540620,2011,12,7920
+tt0945513,Source Code,"Action, Drama, Mystery",action,7.5,74,565115,2011,4,5580
+tt1464540,I Am Number Four,"Action, Adventure, Sci-Fi",action,6.1,36,249396,2011,2,6660
+tt1899353,Serbuan maut,"Action, Crime, Thriller",action,7.6,73,222835,2011,3,6060
+tt0433035,Real Steel,"Action, Drama, Sci-Fi",action,7.1,56,368652,2011,10,7620
+tt1399103,Transformers: Dark of the Moon,"Action, Adventure, Sci-Fi",action,6.2,42,442552,2011,6,9240
+tt1509767,The Three Musketeers,"Action, Adventure, Fantasy",action,5.7,35,113732,2011,9,6600
+tt1253864,Immortals,"Action, Drama, Fantasy",action,6.0,46,179724,2011,11,6600
+tt1192628,Rango,"Animation, Action, Adventure",action,7.3,75,303367,2011,3,6420
+tt0999913,Straw Dogs,"Action, Drama, Thriller",action,5.8,45,36806,2011,9,6600
+tt1502404,Drive Angry,"Action, Comedy, Fantasy",action,5.4,44,104926,2011,2,6240
+tt1596343,Fast Five,"Action, Crime, Thriller",action,7.3,66,418603,2011,4,7800
+tt0993842,Hanna,"Action, Adventure, Drama",action,6.7,65,210366,2011,4,6660
+tt0448694,Puss in Boots,"Animation, Action, Adventure",action,6.6,65,200290,2011,11,5400
+tt1318514,Rise of the Planet of the Apes,"Action, Drama, Sci-Fi",action,7.6,68,590782,2011,8,6300
+tt0822847,Priest,"Action, Fantasy, Horror",action,5.7,41,126351,2011,5,5220
+tt1133985,Green Lantern,"Action, Adventure, Sci-Fi",action,5.5,39,302532,2011,6,6840
+tt0472399,The Mechanic,"Action, Crime, Thriller",action,6.5,49,177598,2011,1,5580
+tt1657507,Colombiana,"Action, Crime, Drama",action,6.4,45,111093,2011,7,6480
+tt1515091,Sherlock Holmes: A Game of Shadows,"Action, Adventure, Mystery",action,7.4,48,490783,2011,12,7740
+tt0409847,Cowboys & Aliens,"Action, Drama, Sci-Fi",action,6.0,50,236775,2011,7,7140
+tt1506999,Haywire,"Action, Drama, Thriller",action,5.8,67,91204,2011,1,5580
+tt1302011,Kung Fu Panda 2,"Animation, Action, Adventure",action,7.3,67,336272,2011,5,5400
+tt0816462,Conan the Barbarian,"Action, Adventure, Fantasy",action,5.2,36,104007,2011,8,6780
+tt1416801,Kill the Irishman,"Action, Biography, Crime",action,7.0,50,52928,2011,5,6360
+tt0983193,The Adventures of Tintin,"Animation, Action, Adventure",action,7.3,68,248307,2011,12,6420
+tt1601913,The Grey,"Action, Adventure, Drama",action,6.7,64,268475,2011,1,7020
+tt1297919,Blitz,"Action, Adventure, Crime",action,6.1,N/A,93600,2011,5,5820
+tt1071875,Ghost Rider: Spirit of Vengeance,"Action, Fantasy, Thriller",action,4.3,34,129788,2011,2,5760
+tt1240982,Your Highness,"Action, Adventure, Comedy",action,5.5,31,105880,2011,4,6120
+tt1093357,The Darkest Hour,"Action, Adventure, Horror",action,4.9,18,64821,2011,12,5340
+tt1438176,Fright Night,"Action, Comedy, Drama",action,6.4,64,116426,2011,8,6360
+tt1478964,Attack the Block,"Action, Adventure, Comedy",action,6.7,75,113301,2011,5,5280
+tt1034389,The Eagle,"Action, Adventure, Drama",action,6.2,55,75743,2011,2,6840
+tt1448755,Killer Elite,"Action, Crime, Thriller",action,6.4,44,137696,2011,9,6960
+tt1401152,Unknown,"Action, Mystery, Thriller",action,6.8,56,272667,2011,2,6780
+tt0479997,Season of the Witch,"Action, Adventure, Fantasy",action,5.4,28,100248,2011,1,5700
+tt0873886,Red State,"Action, Horror, Thriller",action,6.1,50,68858,2011,9,5280
+tt1217613,Battle: Los Angeles,"Action, Adventure, Sci-Fi",action,5.7,37,187214,2011,3,6960
+tt1600195,Abduction,"Action, Drama, Mystery",action,5.1,25,84503,2011,9,6360
+tt0990407,The Green Hornet,"Action, Comedy, Crime",action,5.8,39,166521,2011,1,7140
+tt1201607,Harry Potter and the Deathly Hallows - Part 2,"Adventure, Family, Fantasy",adventure,8.1,85,989674,2011,7,7800
+tt1092026,Paul,"Adventure, Comedy, Sci-Fi",adventure,6.9,57,272937,2011,2,6240
+tt1216475,Cars 2,"Animation, Adventure, Comedy",adventure,6.2,57,233272,2011,6,6360
+tt1436562,Rio,"Animation, Adventure, Comedy",adventure,6.9,63,259494,2011,4,5760
+tt0970179,Hugo,"Adventure, Drama, Family",adventure,7.5,83,342444,2011,11,7560
+tt1568911,War Horse,"Adventure, Drama, War",adventure,7.2,72,168940,2011,12,8760
+tt1324999,The Twilight Saga: Breaking Dawn - Part 1,"Adventure, Drama, Fantasy",adventure,4.9,45,261935,2011,11,7020
+tt0377981,Gnomeo & Juliet,"Animation, Adventure, Comedy",adventure,5.9,53,61522,2011,2,5040
+tt0472181,The Smurfs,"Animation, Adventure, Comedy",adventure,5.4,30,99970,2011,7,6180
+tt1204342,The Muppets,"Adventure, Comedy, Family",adventure,7.1,75,98666,2011,11,7200
+tt1411704,Hop,"Animation, Adventure, Comedy",adventure,5.4,41,38534,2011,4,5700
+tt1067774,Monte Carlo,"Adventure, Comedy, Family",adventure,5.8,43,50352,2011,7,6540
+tt1449283,Winnie the Pooh,"Animation, Adventure, Comedy",adventure,7.1,74,29402,2011,8,3780
+tt1615918,Alvin and the Chipmunks: Chipwrecked,"Adventure, Comedy, Family",adventure,4.4,24,41594,2011,12,5220
+tt1634122,Johnny English Reborn,"Action, Adventure, Comedy",adventure,6.3,46,144968,2011,10,6060
+tt1402488,Happy Feet Two,"Animation, Adventure, Comedy",adventure,5.8,50,49079,2011,11,7020
+tt0477302,Extremely Loud & Incredibly Close,"Adventure, Drama, Mystery",adventure,6.9,46,106417,2011,1,7740
+tt1517489,Spy Kids: All the Time in the World,"Action, Adventure, Comedy",adventure,3.6,37,29404,2011,8,5340
+tt1440345,This Must Be the Place,"Adventure, Comedy, Drama",adventure,6.7,61,37822,2011,8,7080
+tt1629705,Blackthorn,"Action, Adventure, Drama",adventure,6.5,61,11018,2011,7,6120
+tt0881320,Sanctum,"Action, Adventure, Drama",adventure,5.9,42,57939,2011,2,6480
+tt1646980,The Double,"Action, Adventure, Crime",adventure,5.9,37,32096,2011,12,5880
+tt1305591,Mars Needs Moms,"Animation, Adventure, Family",adventure,5.4,49,24575,2011,3,5280
+tt0961097,Un monstre à Paris,"Animation, Adventure, Comedy",adventure,6.7,N/A,23350,2011,10,5400
+tt1703148,The Hunter,"Adventure, Drama, Thriller",adventure,6.7,63,41862,2011,10,6120
+tt0844993,Hoodwinked Too! Hood vs. Evil,"Animation, Adventure, Comedy",adventure,4.7,20,14361,2011,4,5220
+tt1268799,A Very Harold & Kumar 3D Christmas,"Adventure, Comedy",adventure,6.2,61,73930,2011,11,5400
+tt1798188,Kokuriko-zaka kara,"Animation, Comedy, Drama",animation,7.4,71,55496,2011,7,5460
+tt1839494,Hoshi o ou kodomo,"Animation, Adventure, Drama",animation,7.1,N/A,17699,2011,5,6960
+tt2061702,Hotarubi no mori e,"Animation, Drama, Fantasy",animation,7.8,N/A,23333,2011,9,2700
+tt6442670,Chhota Bheem Master of Shaolin,"Animation, Action, Adventure",animation,7.0,N/A,442,2011,,4500
+tt1629374,Ronal Barbaren,"Animation, Action, Adventure",animation,6.5,N/A,14264,2011,9,5340
+tt1430607,Arthur Christmas,"Animation, Adventure, Comedy",animation,7.1,69,70245,2011,11,5820
+tt1776196,Hagane no renkinjutsushi: Mirosu no seinaru hoshi,"Animation, Action, Adventure",animation,6.8,54,5632,2011,7,6600
+tt1999167,Gekijouban Naruto: Buraddo purizun,"Animation, Action, Mystery",animation,7.1,N/A,6200,2011,7,6480
+tt1891769,Le tableau,"Animation, Adventure, Drama",animation,7.3,70,4634,2011,11,4800
+tt1851909,Eiga Doraemon Shin Nobita to tetsujin heidan: Habatake tenshitachi,"Animation, Action, Adventure",animation,7.9,N/A,2429,2011,3,6480
+tt2113091,To aru hikuushi e no tsuioku,"Animation, Action, Adventure",animation,7.0,N/A,1328,2011,10,5940
+tt1821680,Don gato y su pandilla,"Animation, Action, Comedy",animation,4.7,N/A,1993,2011,9,5400
+tt1563776,Jensen & Jensen,"Animation, Action, Comedy",animation,3.5,N/A,581,2011,8,5400
+tt1381803,Den kæmpestore bjørn,"Animation, Adventure, Family",animation,5.6,N/A,715,2011,2,4500
+tt1828224,La Leyenda de la Llorona,"Animation, Adventure, Family",animation,6.2,N/A,765,2011,10,4500
+tt1241721,Hetjur Valhallar - Þór,"Animation, Adventure, Comedy",animation,5.0,N/A,1174,2011,10,4740
+tt1507564,The Greening of Whitney Brown,"Animation, Adventure, Family",animation,5.3,33,705,2011,1,4980
+tt1764666,The Little Engine That Could,"Animation, Family",animation,5.6,N/A,443,2011,5,4980
+tt2141789,Ivan Tsarevich i Seryy Volk,"Animation, Adventure, Comedy",animation,6.2,N/A,1653,2011,12,4500
+tt3565112,Towa no Quon 1: Utakata no Kaben,"Animation, Action, Fantasy",animation,6.6,N/A,237,2011,6,2880
+tt2086830,Dwae-ji-ui wang,"Animation, Drama, Thriller",animation,6.7,N/A,1886,2011,11,5820
+tt1686865,Tezuka Osamu no budda: Akai sabaku yo! Utsukushiku,"Animation, Adventure, Biography",animation,6.3,N/A,514,2011,5,6660
+tt1853614,Momo e no tegami,"Animation, Adventure, Comedy",animation,7.2,65,8399,2011,4,7200
+tt1891905,SeeFood,"Animation, Adventure, Comedy",animation,4.3,N/A,1231,2011,3,5580
+tt16235600,Chhota Bheem aur Krishna: Mayanagari,"Animation, Action, Adventure",animation,7.4,N/A,303,2011,,3960
+tt1961324,Gekijôban Pokketo Monsutâ Besuto Wisshu: Bikutini to shiroki eiyû Reshiramu,"Animation, Action, Adventure",animation,5.6,N/A,1465,2011,7,5280
+tt1990421,Majikku tsurî hausu,"Animation, Adventure, Family",animation,6.3,N/A,189,2011,1,6300
+tt1822239,Jock,"Animation, Adventure, Comedy",animation,4.3,N/A,667,2011,7,5340
+tt2124046,Kikōriki: Parājaya Kaḷa Nohæki Kaṇḍāyama,"Animation, Action, Adventure",animation,5.8,N/A,580,2011,12,5400
+tt0176694,Az ember tragédiája,"Animation, Drama, History",animation,8.0,N/A,1261,2011,12,9600
+tt1828229,Les contes de la nuit,"Animation, Family, Fantasy",animation,6.9,66,1731,2011,7,5040
+tt1840372,Meitantei Conan: Chinmoku no kuôtâ,"Animation, Action, Adventure",animation,6.6,N/A,2129,2011,4,6540
+tt1212022,The Lion of Judah,Animation,animation,3.5,N/A,726,2011,6,5220
+tt1876517,Tu xia chuan qi,"Animation, Action, Adventure",animation,3.2,N/A,720,2011,7,5400
+tt1931569,El gran milagro,"Animation, Drama, Family",animation,4.6,N/A,429,2011,10,4200
+tt1545319,Orla Frøsnapper,"Animation, Comedy, Family",animation,5.0,N/A,701,2011,6,4680
+tt1570728,"Crazy, Stupid, Love.","Comedy, Drama, Romance",comedy,7.4,68,588410,2011,7,7080
+tt1564367,Just Go with It,"Comedy, Romance",comedy,6.4,33,276039,2011,2,7020
+tt1675434,Intouchables,"Comedy, Drama",comedy,8.5,57,970743,2011,11,6720
+tt1033575,The Descendants,"Comedy, Drama",comedy,7.3,84,255724,2011,12,6900
+tt1478338,Bridesmaids,Comedy,comedy,6.8,75,316035,2011,8,7500
+tt1583420,Larry Crowne,"Comedy, Drama, Romance",comedy,6.1,41,73234,2011,7,5880
+tt1632708,Friends with Benefits,"Comedy, Romance",comedy,6.5,63,407345,2011,7,6540
+tt1605783,Midnight in Paris,"Comedy, Fantasy, Romance",comedy,7.6,81,460086,2011,5,5640
+tt1068242,Footloose,"Comedy, Drama, Music",comedy,5.9,58,54068,2011,10,6780
+tt1912398,God Bless America,"Comedy, Crime, Drama",comedy,7.1,56,72907,2011,5,6300
+tt1411238,No Strings Attached,"Comedy, Romance",comedy,6.2,50,249248,2011,1,6480
+tt1499658,Horrible Bosses,"Comedy, Crime",comedy,6.9,57,478016,2011,7,5880
+tt1411697,The Hangover Part II,Comedy,comedy,6.5,44,552964,2011,5,6120
+tt1488555,The Change-Up,"Comedy, Fantasy",comedy,6.3,39,200477,2011,8,6720
+tt1284575,Bad Teacher,"Comedy, Romance",comedy,5.7,47,216875,2011,6,5520
+tt0480687,Hall Pass,"Comedy, Romance",comedy,5.9,45,133313,2011,2,6300
+tt0810922,Take Me Home Tonight,"Comedy, Drama, Romance",comedy,6.3,42,56661,2011,3,6840
+tt1389137,We Bought a Zoo,"Comedy, Drama, Family",comedy,7.0,58,155537,2011,12,7440
+tt1655442,The Artist,"Comedy, Drama, Romance",comedy,7.8,89,251802,2011,10,6000
+tt1716772,The Inbetweeners Movie,Comedy,comedy,6.7,44,88652,2011,8,5820
+tt1456635,Goon,"Comedy, Drama, Sport",comedy,6.8,64,92424,2011,2,5520
+tt0810913,Jack and Jill,Comedy,comedy,3.3,23,92777,2011,11,5460
+tt1306980,50/50,"Comedy, Drama, Romance",comedy,7.6,72,347320,2011,9,6000
+tt1704573,Bernie,"Biography, Comedy, Crime",comedy,6.8,75,65386,2011,6,5940
+tt0803061,Red Dog,"Biography, Comedy, Drama",comedy,7.3,N/A,20091,2011,8,5520
+tt1540133,The Guard,"Comedy, Crime, Thriller",comedy,7.3,78,98475,2011,7,5760
+tt1231586,A Good Old Fashioned Orgy,"Comedy, Romance",comedy,6.1,44,24043,2011,9,5700
+tt1396218,Mr. Popper's Penguins,"Comedy, Family, Fantasy",comedy,6.0,53,108850,2011,6,5640
+tt1692486,Carnage,"Comedy, Drama",comedy,7.1,61,135417,2011,11,4800
+tt1412386,The Best Exotic Marigold Hotel,"Comedy, Drama, Romance",comedy,7.2,62,101716,2011,2,7440
+tt0491152,Something Borrowed,"Comedy, Drama, Romance",comedy,5.8,36,66330,2011,5,6720
+tt1715873,10 Years,"Comedy, Drama, Romance",comedy,6.1,61,27964,2011,10,6600
+tt1053810,The Big Year,Comedy,comedy,6.2,53,49272,2011,10,6120
+tt1650043,Diary of a Wimpy Kid: Rodrick Rules,"Comedy, Family",comedy,6.6,51,38926,2011,3,6000
+tt1568346,The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",crime,7.8,71,510999,2011,12,9480
+tt1189340,The Lincoln Lawyer,"Crime, Drama, Mystery",crime,7.3,63,261193,2011,3,7080
+tt1726669,Killer Joe,"Crime, Drama, Thriller",crime,6.7,62,85502,2011,6,6120
+tt1385826,The Adjustment Bureau,"Crime, Drama, Mystery",crime,7.0,60,276445,2011,3,6360
+tt1437358,Mientras duermes,"Crime, Drama, Thriller",crime,7.2,70,48293,2011,10,6120
+tt2070649,Do-ga-ni,"Crime, Drama, Thriller",crime,8.0,N/A,24327,2011,9,7500
+tt1788391,Kill List,"Crime, Drama, Horror",crime,6.4,67,47257,2011,9,5700
+tt1680114,Snowtown,"Biography, Crime, Drama",crime,6.6,66,21425,2011,5,7140
+tt1389127,Texas Killing Fields,"Crime, Drama, History",crime,5.7,49,22960,2011,10,6300
+tt0471042,Tower Heist,"Action, Comedy, Crime",crime,6.2,59,153895,2011,11,6240
+tt1674784,Trespass,"Crime, Drama, Mystery",crime,5.3,37,46470,2011,10,5460
+tt1622547,30 Minutes or Less,"Action, Comedy, Crime",crime,6.0,49,107994,2011,8,4980
+tt1614989,Hodejegerne,"Action, Crime, Thriller",crime,7.5,72,109078,2011,8,6000
+tt1839591,Recoil,"Action, Crime, Drama",crime,5.2,N/A,6041,2011,3,5640
+tt1334102,The Resident,"Crime, Drama, Horror",crime,5.3,N/A,30091,2011,3,5460
+tt1586752,Machine Gun Preacher,"Action, Biography, Crime",crime,6.7,43,69992,2011,11,7740
+tt1808454,Sala samobójców,"Crime, Drama, Thriller",crime,6.6,N/A,12079,2011,3,6960
+tt1827487,Bir Zamanlar Anadolu'da,"Crime, Drama, Thriller",crime,7.8,82,51949,2011,9,9420
+tt1640459,Hobo with a Shotgun,"Action, Comedy, Crime",crime,6.1,55,49491,2011,5,5160
+tt1422136,A Lonely Place to Die,"Crime, Thriller",crime,6.2,N/A,31382,2011,9,5940
+tt1661099,Exit,"Crime, Drama, Thriller",crime,5.5,N/A,7530,2011,11,5400
+tt1680045,360,"Crime, Drama, Mystery",crime,6.1,43,17714,2011,7,6600
+tt1640548,Rampart,"Crime, Drama",crime,5.8,70,25637,2011,2,6480
+tt1634136,Violet & Daisy,"Action, Comedy, Crime",crime,6.0,43,13550,2011,6,5280
+tt1535612,The Son of No One,"Action, Crime, Drama",crime,5.1,36,18279,2011,7,5400
+tt1381418,You May Not Kiss the Bride,"Action, Comedy, Crime",crime,5.4,N/A,7927,2011,6,5940
+tt1821593,Rundskop,"Crime, Drama",crime,7.3,68,24661,2011,2,7740
+tt1464174,"Big Mommas: Like Father, Like Son","Action, Comedy, Crime",crime,4.5,22,30292,2011,2,6420
+tt1560671,Jägarna 2,"Crime, Mystery, Thriller",crime,6.5,N/A,5929,2011,8,7740
+tt1911600,Miss Bala,"Action, Crime, Drama",crime,6.5,79,9548,2011,9,6780
+tt1795702,Wild Bill,"Comedy, Crime, Drama",crime,7.2,N/A,14875,2011,3,5880
+tt1541160,Flypaper,"Comedy, Crime, Mystery",crime,6.3,37,34532,2011,8,5220
+tt1536410,Faces in the Crowd,"Crime, Drama, Mystery",crime,5.7,N/A,20469,2011,10,6180
+tt1285241,Don 2,"Action, Crime, Thriller",crime,7.1,49,59647,2011,12,8880
+tt1596346,Soul Surfer,"Biography, Drama, Family",family,7.0,53,54267,2011,4,6720
+tt1222817,Zookeeper,"Comedy, Family, Fantasy",family,5.2,30,67140,2011,7,6120
+tt1564349,Dolphin Tale,"Drama, Family",family,6.8,64,26185,2011,9,6780
+tt1645080,The Art of Getting By,"Comedy, Drama, Family",family,6.5,36,61562,2011,6,4980
+tt1547230,Judy Moody and the Not Bummer Summer,"Comedy, Family",family,4.4,37,3540,2011,6,5580
+tt1684555,Horrid Henry: The Movie,"Adventure, Comedy, Family",family,3.7,N/A,3262,2011,7,5580
+tt1604171,Prom,"Comedy, Drama, Family",family,5.4,50,15878,2011,4,6240
+tt1628055,Touchback,"Drama, Family, Fantasy",family,6.5,56,4629,2011,4,7080
+tt1720182,October Baby,"Drama, Family, Mystery",family,6.6,32,7973,2011,3,6420
+tt1663187,The Chaperone,"Action, Comedy, Family",family,5.1,33,5511,2011,3,6240
+tt2342071,Dorothy and the Witches of Oz,"Action, Family, Fantasy",family,4.4,N/A,514,2011,10,6060
+tt1341340,A Warrior's Heart,"Action, Drama, Family",family,5.2,24,2546,2011,12,5160
+tt2150209,Dedemin Insanlari,"Comedy, Drama, Family",family,8.0,N/A,11612,2011,11,7560
+tt1762308,Midway to Heaven,"Comedy, Family, Romance",family,6.1,N/A,689,2011,2,4800
+tt1846445,Ye habe ghand,"Comedy, Drama, Family",family,7.1,N/A,4379,2011,10,6960
+tt1715802,How to Die in Oregon,"Documentary, Drama, Family",family,8.2,N/A,2055,2011,1,6420
+tt0478304,The Tree of Life,"Drama, Fantasy",fantasy,6.8,85,187471,2011,5,8340
+tt1486185,Red Riding Hood,"Fantasy, Horror, Mystery",fantasy,5.4,29,117463,2011,3,6000
+tt1152398,Beastly,"Drama, Fantasy, Romance",fantasy,5.5,40,80870,2011,3,5160
+tt1440161,A Little Bit of Heaven,"Comedy, Drama, Fantasy",fantasy,6.2,14,30163,2011,5,6420
+tt1756851,Twixt,"Comedy, Fantasy, Horror",fantasy,4.8,40,12293,2011,4,5280
+tt1727516,Livide,"Fantasy, Horror",fantasy,5.7,N/A,8053,2011,12,5520
+tt1615075,Suing the Devil,"Drama, Fantasy",fantasy,4.1,N/A,4370,2011,8,5820
+tt1634121,Intruders,"Fantasy, Horror, Thriller",fantasy,5.4,45,21624,2011,10,6000
+tt1407065,The Moth Diaries,"Drama, Fantasy, Horror",fantasy,4.9,38,7024,2011,5,4920
+tt1707391,4:44 Last Day on Earth,"Drama, Fantasy, Sci-Fi",fantasy,4.6,54,5872,2011,12,4920
+tt1743922,Donovan's Echo,"Drama, Fantasy, Mystery",fantasy,6.2,N/A,2103,2011,9,5460
+tt2027178,O Homem do Futuro,"Adventure, Comedy, Fantasy",fantasy,7.0,N/A,7350,2011,9,6360
+tt2185022,Love on a Leash,"Comedy, Drama, Fantasy",fantasy,7.8,N/A,8076,2011,,5400
+tt1259521,The Cabin in the Woods,"Horror, Mystery, Thriller",horror,7.0,72,469553,2011,4,5700
+tt1087461,Megan Is Missing,"Drama, Horror, Thriller",horror,4.6,N/A,17901,2011,5,5340
+tt1410051,Retreat,"Drama, Horror, Thriller",horror,5.8,N/A,13128,2011,4,5400
+tt1530509,The Human Centipede II (Full Sequence),Horror,horror,3.8,17,45141,2011,11,5460
+tt1622979,Final Destination 5,"Horror, Thriller",horror,5.9,50,130864,2011,8,5520
+tt1262416,Scream 4,"Horror, Mystery",horror,6.2,52,179382,2011,4,6660
+tt0905372,The Thing,"Horror, Mystery, Sci-Fi",horror,6.2,49,149829,2011,10,6180
+tt1853739,You're Next,"Drama, Horror, Mystery",horror,6.6,66,114686,2011,8,5700
+tt1265990,The Roommate,"Drama, Horror, Thriller",horror,4.8,23,42406,2011,2,5640
+tt1703199,Grave Encounters,"Horror, Mystery",horror,6.1,33,67317,2011,8,5520
+tt1714208,The Woman,"Drama, Horror, Thriller",horror,6.0,58,26723,2011,8,6180
+tt1535616,The Divide,"Drama, Horror, Sci-Fi",horror,5.7,28,39500,2011,4,6720
+tt1687901,The Awakening,"Drama, Horror, Mystery",horror,6.5,53,70351,2011,11,6120
+tt1522846,The Bunny Game,Horror,horror,3.4,N/A,2988,2011,10,4560
+tt1795369,National Theatre Live: Frankenstein,"Drama, Horror, Sci-Fi",horror,8.5,N/A,4426,2011,3,7800
+tt1633356,Shark Night 3D,"Action, Horror, Thriller",horror,4.1,22,27640,2011,9,5400
+tt1594562,The Innkeepers,"Drama, Horror, Mystery",horror,5.5,64,38289,2011,3,6060
+tt1735485,The Tunnel,"Horror, Mystery, Thriller",horror,5.8,N/A,24427,2011,5,5640
+tt1772240,Apollo 18,"Horror, Mystery, Sci-Fi",horror,5.2,24,59043,2011,9,5160
+tt1767382,Silent House,"Horror, Thriller",horror,5.2,49,25111,2011,3,5160
+tt1610996,Absentia,"Drama, Horror, Mystery",horror,5.8,N/A,20816,2011,4,5220
+tt1161864,The Rite,"Drama, Horror, Mystery",horror,6.0,38,104172,2011,1,6840
+tt1778304,Paranormal Activity 3,"Horror, Mystery, Thriller",horror,5.8,59,101824,2011,10,4980
+tt1027820,The Incident,"Horror, Thriller",horror,5.6,N/A,5476,2011,5,5100
+tt1697878,Bite Marks,"Comedy, Horror",horror,4.2,N/A,747,2011,6,5040
+tt1701990,Detention,"Comedy, Horror, Mystery",horror,5.6,45,16908,2011,4,5700
+tt1699231,Quarantine 2: Terminal,"Horror, Sci-Fi, Thriller",horror,5.2,N/A,21578,2011,6,5160
+tt1877543,247°F,"Horror, Thriller",horror,4.8,N/A,7119,2011,9,5280
+tt1743724,Koi no tsumi,"Drama, Horror, Romance",horror,6.8,56,6077,2011,11,8640
+tt1716747,Hellraiser: Revelations,Horror,horror,2.7,N/A,10403,2011,10,4500
+tt1756799,The Day,"Action, Drama, Horror",horror,5.2,41,13572,2011,9,5220
+tt1643222,Hell,"Horror, Sci-Fi, Thriller",horror,5.9,N/A,12555,2011,9,5340
+tt1711018,Vile,"Horror, Mystery",horror,4.8,N/A,6851,2011,7,5280
+tt1727252,Chillerama,"Action, Comedy, Horror",horror,5.6,N/A,5017,2011,8,7200
+tt1723124,Inbred,"Comedy, Horror",horror,5.2,N/A,5892,2011,9,5880
+tt1870527,Remains,"Action, Drama, Horror",horror,4.3,N/A,2514,2011,12,5280
+tt1504403,Husk,"Horror, Thriller",horror,5.1,N/A,10984,2011,11,4980
+tt1727261,Father's Day,"Comedy, Horror",horror,5.7,N/A,3500,2011,1,5940
+tt2131579,Maleficarum,"Drama, History, Horror",horror,4.6,N/A,234,2011,10,6120
+tt1562872,Zindagi Na Milegi Dobara,"Comedy, Drama, Musical",musical,8.2,N/A,89797,2011,7,9300
+tt2077886,The Phantom of the Opera at the Royal Albert Hall,"Drama, Musical, Romance",musical,8.8,N/A,10352,2011,10,8220
+tt1645141,Sironia,"Drama, Musical",musical,6.3,N/A,194,2011,10,6300
+tt1942831,Company,"Comedy, Drama, Musical",musical,7.7,N/A,1504,2011,3,8700
+tt1954206,The Dirty Picture,"Biography, Comedy, Drama",musical,6.6,N/A,10817,2011,12,8700
+tt1815799,Les bien-aimés,"Comedy, Drama, Musical",musical,6.1,55,2617,2011,8,7980
+tt1307926,Go for It!,"Drama, Musical",musical,3.7,44,1255,2011,5,6300
+tt1801113,The Worst Movie Ever!,"Action, Comedy, Musical",musical,3.7,N/A,206,2011,7,4560
+tt1956594,Paul Williams: Still Alive,"Documentary, Biography, Comedy",musical,6.9,72,992,2011,9,5220
+tt1247693,Sister Mary,"Comedy, Musical",musical,3.2,N/A,134,2011,7,6000
+tt1869640,Rajanna,"Action, Drama, History",musical,6.3,N/A,618,2011,12,7920
+tt1754104,Leave It on the Floor,"Comedy, Drama, Musical",musical,6.3,N/A,460,2011,8,6300
+tt1941657,Soundtrack,"Comedy, Drama, Musical",musical,7.1,N/A,895,2011,10,7920
+tt1651118,Shapito-shou: Lyubov i druzhba,"Comedy, Musical",musical,7.6,N/A,1611,2011,1,6420
+tt2007932,Bob Marley: The Making of a Legend,"Documentary, Biography, Musical",musical,6.7,N/A,123,2011,6,5400
+tt1997289,Bennie Stout,"Adventure, Family, Musical",musical,6.2,N/A,379,2011,10,5580
+tt2191715,Into the Woods,"Comedy, Musical",musical,7.9,N/A,152,2011,3,9180
+tt1758576,Bombay Beach,"Documentary, Drama, Musical",musical,7.0,74,1439,2011,10,4800
+tt2044863,Starship,"Fantasy, Musical, Sci-Fi",musical,8.1,N/A,798,2011,4,10320
+tt2153891,Metal Warrior,Musical,musical,4.3,N/A,1661,2011,12,6000
+tt1867612,Swor-The Melody of Dreams,Musical,musical,9.6,N/A,65,2011,1,N/A
+tt1718807,Jamie and Jessie Are Not Together,"Comedy, Musical, Romance",musical,5.0,N/A,263,2011,6,5700
+tt1881005,Maria XXX,Musical,musical,7.0,N/A,8,2011,5,5400
+tt1612793,A Heartbeat Away,"Comedy, Musical",musical,4.7,N/A,300,2011,3,5460
+tt1592556,Magi i luften,"Drama, Musical",musical,5.1,N/A,141,2011,6,5400
+tt1265295,Memphis Rising: Elvis Returns,"Action, Adventure, Comedy",musical,6.8,N/A,66,2011,1,6060
+tt14050144,Pistachio - The Little Boy That Woodn't,"Animation, Family, Fantasy",musical,6.8,N/A,22,2011,6,3480
+tt7693920,Annie,"Comedy, Musical",musical,7.5,N/A,21,2011,N/A,N/A
+tt1613874,Potpourri,"Comedy, Fantasy, Horror",musical,4.8,N/A,134,2011,10,5400
+tt0880569,Mama I Want to Sing,"Drama, Family, Musical",musical,4.3,N/A,369,2011,1,6000
+tt1748062,Jig,"Documentary, Musical",musical,6.6,53,368,2011,5,5940
+tt2342613,Forever Crazy,"Documentary, Musical",musical,7.2,N/A,21,2011,2,5700
+tt2033947,Aazaan,"Action, Musical, Thriller",musical,4.4,N/A,384,2011,10,7500
+tt2671420,Octopus1: White forehead,"Adventure, Comedy, Family",musical,5.3,N/A,146,2011,10,5400
+tt3794344,Carmen: Handa Opera on Sydney Harbour,Musical,musical,7.6,N/A,16,2011,7,8520
+tt8513070,Shapito-shou: Uvazhenie i sotrudnichestvo,"Comedy, Musical",musical,7.6,N/A,449,2011,1,6660
+tt1678054,Onna no kappa,"Comedy, Drama, Fantasy",musical,5.5,N/A,865,2011,10,5220
+tt1712191,Memphis: The Musical,Musical,musical,8.2,N/A,292,2011,4,9900
+tt1946205,El Gusto,"Documentary, Musical",musical,7.7,N/A,174,2011,1,5280
+tt1582270,The Dead Inside,"Horror, Musical",musical,5.4,N/A,392,2011,7,5880
+tt4773084,Romeo,"Comedy, Drama, Musical",musical,4.5,N/A,289,2011,11,6540
+tt1675742,Jonah and the Great Fish,"Adventure, Family, Musical",musical,6.0,N/A,43,2011,11,4980
+tt1808192,If You Could Hear My Own Tune,"Drama, Music, Musical",musical,7.1,N/A,15,2011,1,7200
+tt1967534,Janapriyan,"Drama, Family, Musical",musical,6.4,N/A,317,2011,6,9000
+tt1189073,La piel que habito,"Drama, Mystery, Thriller",mystery,7.6,70,173118,2011,9,7200
+tt1340800,Tinker Tailor Soldier Spy,"Drama, Mystery, Thriller",mystery,7.0,85,218906,2011,9,7620
+tt1242460,We Need to Talk About Kevin,"Drama, Mystery, Thriller",mystery,7.4,68,173710,2011,10,6720
+tt1229822,Jane Eyre,"Drama, Mystery, Romance",mystery,7.3,76,95210,2011,4,7200
+tt1441326,Martha Marcy May Marlene,"Drama, Mystery, Thriller",mystery,6.8,75,56948,2011,12,6120
+tt1588398,Sleeping Beauty,"Drama, Mystery, Romance",mystery,5.3,61,35331,2011,6,6060
+tt1549572,Another Earth,"Drama, Mystery, Romance",mystery,6.9,66,102015,2011,10,5520
+tt1772250,La cara oculta,"Drama, Mystery, Thriller",mystery,7.3,N/A,47896,2011,9,5820
+tt0466893,Margaret,"Drama, Mystery",mystery,6.5,61,18808,2011,6,9000
+tt1462041,Dream House,"Drama, Mystery, Thriller",mystery,6.0,35,70255,2011,9,5520
+tt0480239,Atlas Shrugged: Part I,"Drama, Mystery, Sci-Fi",mystery,5.6,28,14529,2011,4,5820
+tt1631707,Enter Nowhere,"Mystery, Sci-Fi, Thriller",mystery,6.5,N/A,13426,2011,4,5400
+tt1214962,Seeking Justice,"Action, Drama, Mystery",mystery,6.1,38,48674,2011,9,6300
+tt1582271,The Good Doctor,"Drama, Mystery, Thriller",mystery,5.5,52,7518,2011,8,5460
+tt1879030,Q,"Drama, Romance",romance,5.4,N/A,9338,2011,9,6180
+tt1563738,One Day,"Drama, Romance",romance,7.0,48,174019,2011,8,6420
+tt1859522,Kyss mig,"Drama, Romance",romance,6.8,N/A,12393,2011,7,6300
+tt1181614,Wuthering Heights,"Drama, Romance",romance,6.0,70,11355,2011,11,7740
+tt1439572,Perfect Sense,"Drama, Romance, Sci-Fi",romance,7.0,55,65399,2011,10,5520
+tt1571222,A Dangerous Method,"Biography, Drama, Romance",romance,6.4,76,110127,2011,11,5940
+tt1067583,Water for Elephants,"Drama, Romance",romance,6.9,52,122105,2011,4,7320
+tt1758692,Like Crazy,"Drama, Romance",romance,6.6,68,63923,2011,1,5160
+tt1616195,J. Edgar,"Biography, Drama, Romance",romance,6.5,59,135501,2011,11,8220
+tt1714210,Weekend,"Drama, Romance",romance,7.6,81,33661,2011,11,5820
+tt0770703,What's Your Number?,"Comedy, Romance",romance,6.0,35,89545,2011,9,6360
+tt0893412,From Prada to Nada,"Action, Comedy, Drama",romance,5.5,39,15957,2011,1,6420
+tt1410063,Jin ling shi san chai,"Drama, History, Romance",romance,7.5,46,56918,2011,12,8760
+tt1650407,"Få meg på, for faen","Comedy, Romance",romance,6.3,70,9837,2011,8,4560
+tt1233301,Ironclad,"Action, Drama, History",romance,6.1,42,44315,2011,3,7260
+tt1625150,"Noordzee, Texas","Drama, Romance",romance,7.1,63,10404,2011,3,5880
+tt1598778,Contagion,"Drama, Thriller",thriller,6.8,70,322897,2011,9,6360
+tt1615147,Margin Call,"Drama, Thriller",thriller,7.1,76,151655,2011,9,6420
+tt1219289,Limitless,"Sci-Fi, Thriller",thriller,7.4,59,627067,2011,3,6300
+tt1124035,The Ides of March,"Drama, Thriller",thriller,7.1,67,234918,2011,10,6060
+tt1675192,Take Shelter,"Drama, Thriller",thriller,7.3,85,112005,2011,11,7260

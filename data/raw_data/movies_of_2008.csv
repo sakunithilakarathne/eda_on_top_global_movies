@@ -1,0 +1,342 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt0468569,The Dark Knight,"Action, Crime, Drama",action,9.0,84,2996308,2008,7.0,9120
+tt0800080,The Incredible Hulk,"Action, Adventure, Sci-Fi",action,6.6,61,540606,2008,6.0,6720
+tt0942385,Tropic Thunder,"Action, Comedy, War",action,7.1,71,464995,2008,8.0,6420
+tt0371746,Iron Man,"Action, Adventure, Sci-Fi",action,7.9,79,1165102,2008,5.0,7560
+tt0936501,Taken,"Action, Crime, Thriller",action,7.7,51,652319,2008,2.0,5400
+tt0441773,Kung Fu Panda,"Animation, Action, Adventure",action,7.6,74,546834,2008,6.0,5520
+tt1060277,Cloverfield,"Action, Horror, Sci-Fi",action,7.0,64,431889,2008,1.0,5100
+tt0960144,You Don't Mess with the Zohan,"Action, Comedy",action,5.6,54,219958,2008,6.0,6780
+tt0493464,Wanted,"Action, Crime, Thriller",action,6.7,64,418644,2008,6.0,6600
+tt0448157,Hancock,"Action, Comedy, Drama",action,6.4,49,525392,2008,7.0,5520
+tt0830515,Quantum of Solace,"Action, Adventure, Mystery",action,6.5,58,481472,2008,10.0,6360
+tt1190539,Chugyeokja,"Action, Crime, Drama",action,7.8,64,76011,2008,2.0,7500
+tt0426592,Superhero Movie,"Action, Comedy, Sci-Fi",action,4.7,33,79172,2008,3.0,4500
+tt0499448,The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family",action,6.5,62,231779,2008,5.0,9000
+tt1032755,RocknRolla,"Action, Crime, Thriller",action,7.2,53,269812,2008,9.0,6840
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure",action,6.2,65,501327,2008,5.0,7320
+tt0770752,Fool's Gold,"Action, Adventure, Comedy",action,5.7,29,86714,2008,2.0,6720
+tt0462499,Rambo,"Action, Thriller",action,7.0,46,250214,2008,1.0,5520
+tt0910936,Pineapple Express,"Action, Comedy, Crime",action,6.9,64,364096,2008,8.0,6660
+tt1023111,Never Back Down,"Action, Drama, Sport",action,6.5,39,108656,2008,3.0,6780
+tt0452608,Death Race,"Action, Sci-Fi, Thriller",action,6.4,43,223285,2008,8.0,6300
+tt0450314,Punisher: War Zone,"Action, Crime, Drama",action,5.9,30,68755,2008,12.0,6180
+tt0421073,Street Kings,"Action, Crime, Thriller",action,6.8,55,123371,2008,4.0,6540
+tt0811080,Speed Racer,"Action, Adventure, Comedy",action,6.1,37,80344,2008,5.0,8100
+tt0489099,Jumper,"Action, Adventure, Sci-Fi",action,6.1,35,330329,2008,2.0,5280
+tt0859163,The Mummy: Tomb of the Dragon Emperor,"Action, Adventure, Fantasy",action,5.2,31,174930,2008,7.0,6720
+tt0416236,The Spiderwick Chronicles,"Action, Adventure, Drama",action,6.5,62,105468,2008,2.0,5760
+tt0373051,Journey to the Center of the Earth,"Action, Adventure, Family",action,5.8,57,135540,2008,7.0,5580
+tt0425061,Get Smart,"Action, Adventure, Comedy",action,6.5,54,232661,2008,6.0,6600
+tt0411477,Hellboy II: The Golden Army,"Action, Adventure, Fantasy",action,7.0,78,292434,2008,7.0,7200
+tt1172570,Bronson,"Action, Crime, Drama",action,7.0,71,144378,2008,3.0,5520
+tt1034303,Defiance,"Action, Drama, History",action,7.1,58,158305,2008,1.0,8220
+tt0758774,Body of Lies,"Action, Drama, Thriller",action,7.0,57,244337,2008,10.0,7680
+tt1059786,Eagle Eye,"Action, Mystery, Thriller",action,6.6,43,197994,2008,9.0,7080
+tt1129442,Transporter 3,"Action, Thriller",action,6.1,51,180929,2008,11.0,6240
+tt0483607,Doomsday,"Action, Sci-Fi, Thriller",action,5.9,51,81165,2008,3.0,6780
+tt1220719,Ip Man,"Action, Biography, Drama",action,8.0,59,237758,2008,12.0,6360
+tt0443649,"10,000 BC","Action, Adventure, Drama",action,5.1,34,137316,2008,3.0,6540
+tt0865556,The Forbidden Kingdom,"Action, Adventure, Fantasy",action,6.5,57,111277,2008,4.0,6240
+tt1117385,Felon,"Action, Drama, Thriller",action,7.4,58,85686,2008,7.0,6240
+tt0831887,The Spirit,"Action, Crime, Fantasy",action,4.7,30,63536,2008,12.0,6180
+tt0462465,Outlander,"Action, Adventure, Sci-Fi",action,6.2,40,79969,2008,7.0,6900
+tt0467197,Max Payne,"Action, Crime, Drama",action,5.3,31,131866,2008,10.0,6000
+tt1128075,Ai no mukidashi,"Action, Comedy, Drama",action,8.0,78,16751,2008,1.0,14220
+tt0844286,The Brothers Bloom,"Action, Adventure, Comedy",action,6.7,55,53258,2008,6.0,6840
+tt0443274,Vantage Point,"Action, Drama, Thriller",action,6.6,40,155703,2008,2.0,5400
+tt0364970,Babylon A.D.,"Action, Adventure, Sci-Fi",action,5.5,26,99432,2008,8.0,5400
+tt0988047,Traitor,"Action, Crime, Drama",action,6.9,61,60003,2008,8.0,6840
+tt0425637,Chi bi,"Action, Adventure, Drama",action,7.3,73,49369,2008,7.0,8700
+tt0443559,Killshot,"Action, Crime, Drama",action,6.0,N/A,22431,2008,11.0,5700
+tt0910970,WALL·E,"Animation, Adventure, Family",adventure,8.4,95,1251128,2008,6.0,5880
+tt0970416,The Day the Earth Stood Still,"Adventure, Drama, Sci-Fi",adventure,5.5,40,182189,2008,12.0,6240
+tt0397892,Bolt,"Animation, Adventure, Comedy",adventure,6.8,67,237586,2008,11.0,5760
+tt0876563,Gake no ue no Ponyo,"Animation, Adventure, Comedy",adventure,7.6,86,173138,2008,7.0,6060
+tt0479952,Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy",adventure,6.6,61,257917,2008,11.0,5340
+tt0451079,Horton Hears a Who!,"Animation, Adventure, Comedy",adventure,6.8,71,154034,2008,3.0,5160
+tt0949731,The Happening,"Adventure, Drama, Sci-Fi",adventure,5.0,34,221924,2008,6.0,5460
+tt0960731,Bedtime Stories,"Adventure, Comedy, Family",adventure,6.0,33,103442,2008,12.0,5940
+tt0970411,City of Ember,"Adventure, Drama, Family",adventure,6.4,58,71287,2008,10.0,5400
+tt0963794,The Ruins,"Adventure, Horror, Thriller",adventure,5.9,44,87268,2008,4.0,5400
+tt0396707,The Secret of Moonacre,"Adventure, Family, Fantasy",adventure,6.0,N/A,11410,2008,2.0,6180
+tt0455824,Australia,"Adventure, Drama, Romance",adventure,6.6,53,131797,2008,11.0,9900
+tt0494238,Inkheart,"Adventure, Family, Fantasy",adventure,6.1,49,83730,2008,12.0,6360
+tt0481536,Harold & Kumar Escape from Guantanamo Bay,"Adventure, Comedy",adventure,6.5,57,143877,2008,4.0,6840
+tt1185834,Star Wars: The Clone Wars,"Animation, Action, Adventure",adventure,5.9,35,75910,2008,8.0,5880
+tt1014775,Beverly Hills Chihuahua,"Adventure, Comedy, Drama",adventure,4.0,41,26597,2008,10.0,5460
+tt0901487,"Joeun nom, napun nom, esanghan nom","Action, Adventure, Comedy",adventure,7.2,69,38784,2008,7.0,8340
+tt0765476,Meet Dave,"Adventure, Comedy, Family",adventure,5.1,43,44757,2008,7.0,5400
+tt0410377,Nim's Island,"Adventure, Family, Fantasy",adventure,6.0,55,37521,2008,4.0,5760
+tt0489282,Strange Wilderness,"Adventure, Comedy",adventure,5.2,12,23130,2008,2.0,5220
+tt0420238,The Tale of Despereaux,"Animation, Adventure, Comedy",adventure,6.1,53,40664,2008,12.0,5580
+tt0357668,The Flyboys,"Action, Adventure, Drama",adventure,6.8,N/A,3552,2008,8.0,7080
+tt1107365,Open Season 2,"Animation, Adventure, Comedy",adventure,5.5,N/A,27601,2008,9.0,4560
+tt0400426,Far Cry,"Action, Adventure, Sci-Fi",adventure,3.2,N/A,15267,2008,10.0,5700
+tt0482603,Space Chimps,"Animation, Adventure, Comedy",adventure,4.5,36,12909,2008,7.0,4860
+tt0940709,Cheung gong 7 hou,"Adventure, Comedy, Drama",adventure,6.4,46,17841,2008,1.0,5280
+tt0490181,Mutant Chronicles,"Action, Adventure, Mystery",adventure,5.2,N/A,27426,2008,10.0,6660
+tt0365675,Der Rote Baron,"Action, Adventure, Biography",adventure,6.3,N/A,13377,2008,4.0,6360
+tt0463872,Astérix aux jeux olympiques,"Adventure, Comedy, Family",adventure,5.2,N/A,33639,2008,1.0,6960
+tt1095423,Rejsen til Saturn,"Animation, Action, Adventure",adventure,5.7,N/A,3278,2008,9.0,5400
+tt1185616,Vals Im Bashir,"Documentary, Animation, Biography",animation,8.0,91,61583,2008,6.0,5400
+tt1260502,Kôkaku kidôtai 2.0,"Animation, Action, Crime",animation,7.8,N/A,15578,2008,7.0,4980
+tt1174954,Baiohazâdo: Dijenerêshon,"Animation, Action, Horror",animation,6.4,N/A,33821,2008,10.0,5820
+tt1160524,Gekijô ban Naruto: Shippûden - Kizuna,"Animation, Action, Fantasy",animation,6.8,N/A,5681,2008,8.0,5880
+tt0465502,Igor,"Animation, Comedy, Family",animation,5.9,40,24655,2008,9.0,5220
+tt1288461,Gekijô ban Tengen toppa guren ragan: Guren hen,"Animation, Action, Comedy",animation,7.6,N/A,2021,2008,9.0,6720
+tt0361500,Delgo,"Animation, Adventure, Comedy",animation,4.3,27,3255,2008,12.0,5640
+tt1193627,Immigrants (L.A. Dolce Vita),"Animation, Comedy",animation,5.7,N/A,902,2008,10.0,4680
+tt0944834,Chasseurs de dragons,"Animation, Action, Adventure",animation,6.5,N/A,13626,2008,3.0,4800
+tt0951333,El lince perdido,"Animation, Action, Adventure",animation,5.2,N/A,1299,2008,12.0,5820
+tt1050739,Roadside Romeo,"Animation, Adventure, Comedy",animation,4.9,N/A,1785,2008,10.0,5580
+tt1206326,"One Piece: Episôdo obu Choppâ + Fuyu ni saku, kiseki no sakura","Animation, Action, Comedy",animation,6.9,N/A,1884,2008,3.0,6780
+tt1220673,Kureyon Shin-chan: Chô arashi wo yobu kinpoko no yûsha,"Animation, Adventure, Comedy",animation,5.4,N/A,302,2008,4.0,5400
+tt1160525,Gekijôban Poketto Monsutâ Daiyamondo & Pâru: Giratina to sora no hanataba Sheimi,"Animation, Action, Adventure",animation,6.0,N/A,3094,2008,7.0,6000
+tt1308650,Kozí príbeh,"Animation, Comedy, Fantasy",animation,3.3,N/A,864,2008,10.0,4920
+tt1172203,Sita Sings the Blues,"Animation, Comedy, Fantasy",animation,7.6,93,5037,2008,8.0,4920
+tt0475998,The Pirates Who Don't Do Anything: A VeggieTales Movie,"Animation, Adventure, Comedy",animation,5.6,49,3190,2008,1.0,5100
+tt0815096,Agent Crush,"Animation, Action, Adventure",animation,5.7,N/A,221,2008,,5580
+tt1371126,Thomas & Friends: The Great Discovery - The Movie,"Animation, Family",animation,6.8,N/A,455,2008,9.0,3600
+tt1155652,Gekijô ban Kara no kyôkai: Dai san shô - Tsukakû zanryû,"Animation, Action, Crime",animation,7.3,N/A,2097,2008,2.0,3480
+tt1086797,Unstable Fables: 3 Pigs & a Baby,"Animation, Comedy, Family",animation,5.1,N/A,921,2008,9.0,4560
+tt0830861,Kis Vuk,"Animation, Adventure, Family",animation,1.3,N/A,9102,2008,4.0,5100
+tt1305678,Genius Party Beyond,"Animation, Fantasy, Music",animation,7.0,N/A,1151,2008,10.0,5100
+tt1340108,Killer Bean Forever,"Animation, Action, Adventure",animation,6.6,N/A,4982,2008,10.0,5100
+tt2882912,Bratz Girlz Really Rock,Animation,animation,5.6,N/A,175,2008,1.0,4680
+tt1087841,Disco Ormene,"Animation, Comedy, Family",animation,4.6,N/A,1185,2008,10.0,4500
+tt1278060,Gekijô ban Kara no kyôkai: Dai go shô - Mujun rasen,"Animation, Action, Crime",animation,7.9,N/A,2255,2008,8.0,6840
+tt30397483,Jumbo,"Animation, Family",animation,7.7,N/A,82,2008,,5280
+tt1043748,Tales of the Riverbank,"Animation, Family",animation,4.7,N/A,300,2008,9.0,4560
+tt1313120,Heruzu enjueruzu,"Animation, Adventure, Comedy",animation,6.3,N/A,476,2008,2.0,7020
+tt0456978,Shin Kyûseishu densetsu Hokuto no Ken - Kenshirô den,"Animation, Action",animation,6.8,N/A,523,2008,10.0,4980
+tt1233474,Gekijô ban Kara no kyôkai: Dai yon shô - Garan no dô,"Animation, Action, Crime",animation,7.1,N/A,1915,2008,5.0,2760
+tt1245891,Kurt blir grusom,"Animation, Comedy, Family",animation,6.3,N/A,1085,2008,10.0,4440
+tt1319695,31 Minutos: La Película,"Animation, Adventure, Comedy",animation,6.8,N/A,679,2008,3.0,5220
+tt1210117,Urmel voll in Fahrt,"Animation, Adventure, Comedy",animation,4.4,N/A,518,2008,5.0,5040
+tt0907678,Edison & Leo,"Animation, Adventure, Comedy",animation,5.5,N/A,262,2008,9.0,4740
+tt1180304,Doraemon: Nobita to midori no kyojinden,"Animation, Adventure, Comedy",animation,6.6,N/A,1160,2008,3.0,6720
+tt1476250,Cher Ami... ¡y yo!,"Animation, Adventure, Family",animation,5.6,N/A,130,2008,6.0,5100
+tt1013607,Idiots and Angels,"Animation, Comedy, Drama",animation,7.0,N/A,3503,2008,1.0,4680
+tt0795421,Mamma Mia!,"Comedy, Musical, Romance",comedy,6.5,51,288664,2008,7.0,6480
+tt0780536,In Bruges,"Comedy, Crime, Drama",comedy,7.9,67,476958,2008,2.0,6420
+tt1135985,Sex Drive,"Comedy, Romance",comedy,6.5,49,93709,2008,10.0,6540
+tt0838283,Step Brothers,Comedy,comedy,6.9,51,329334,2008,7.0,5880
+tt1007028,Zack and Miri Make a Porno,"Comedy, Romance",comedy,6.5,56,184301,2008,10.0,6060
+tt0800039,Forgetting Sarah Marshall,"Comedy, Drama, Romance",comedy,7.1,67,309366,2008,4.0,6660
+tt0497465,Vicky Cristina Barcelona,"Comedy, Drama, Romance",comedy,7.1,70,273905,2008,8.0,5760
+tt0832266,"Definitely, Maybe","Comedy, Drama, Romance",comedy,7.1,59,177785,2008,2.0,6720
+tt0852713,The House Bunny,Comedy,comedy,5.6,55,92610,2008,8.0,5820
+tt0988595,27 Dresses,"Comedy, Romance",comedy,6.1,47,180229,2008,1.0,6660
+tt1068680,Yes Man,"Comedy, Romance",comedy,6.8,46,393177,2008,12.0,6240
+tt0430770,The Women,"Comedy, Drama",comedy,5.0,27,23722,2008,9.0,6840
+tt0887883,Burn After Reading,"Comedy, Crime, Drama",comedy,7.0,63,362560,2008,9.0,5760
+tt0430922,Role Models,Comedy,comedy,6.8,61,245115,2008,11.0,5940
+tt1000774,Sex and the City,"Comedy, Drama, Romance",comedy,5.7,53,130074,2008,5.0,8700
+tt1213644,Disaster Movie,"Comedy, Sci-Fi",comedy,1.9,15,95969,2008,8.0,5220
+tt0866439,Made of Honor,"Comedy, Romance",comedy,5.8,37,77754,2008,5.0,6060
+tt0808399,"New York, I Love You","Comedy, Drama, Romance",comedy,6.2,49,48857,2008,10.0,6180
+tt1024255,Wild Child,Comedy,comedy,6.1,N/A,66145,2008,8.0,5880
+tt0976060,Tokyo!,"Comedy, Drama, Fantasy",comedy,7.0,63,12239,2008,8.0,6720
+tt1073498,Meet the Spartans,"Comedy, Fantasy",comedy,2.8,9,113146,2008,1.0,5220
+tt0995039,Ghost Town,"Comedy, Drama, Fantasy",comedy,6.7,72,79164,2008,9.0,6120
+tt0806147,Extreme Movie,Comedy,comedy,3.7,N/A,11734,2008,7.0,5160
+tt0839980,Semi-Pro,"Comedy, Sport",comedy,5.8,47,87606,2008,2.0,5460
+tt1024715,Choke,"Comedy, Drama",comedy,6.4,47,34193,2008,10.0,5520
+tt0960890,Zombie Strippers!,"Comedy, Horror, Sci-Fi",comedy,4.1,45,19232,2008,9.0,5640
+tt0962726,High School Musical 3: Senior Year,"Comedy, Drama, Family",comedy,5.0,57,69726,2008,10.0,6720
+tt0914797,Bottle Shock,"Comedy, Drama",comedy,6.8,56,18483,2008,9.0,6600
+tt0963743,"Angus, Thongs and Perfect Snogging","Comedy, Drama, Romance",comedy,6.3,N/A,30948,2008,7.0,6000
+tt1033643,What Happens in Vegas,"Comedy, Romance",comedy,6.1,36,191343,2008,5.0,5940
+tt1175491,W.,"Biography, Comedy, Drama",comedy,6.3,56,50743,2008,10.0,7740
+tt1046163,My Best Friend's Girl,"Comedy, Romance",comedy,5.8,34,47249,2008,9.0,6060
+tt1433775,Garoojigi,"Comedy, Fantasy",comedy,5.3,N/A,1104,2008,4.0,7200
+tt1152758,Dear Zachary: A Letter to a Son About His Father,"Documentary, Biography, Crime",crime,8.5,82,42820,2008,12.0,5580
+tt1010048,Slumdog Millionaire,"Crime, Drama, Romance",crime,8.0,84,892990,2008,12.0,7200
+tt0478087,21,"Crime, Drama, Thriller",crime,6.8,48,272793,2008,3.0,7380
+tt0800308,Appaloosa,"Crime, Drama, Romance",crime,6.7,64,66158,2008,10.0,6900
+tt0200465,The Bank Job,"Crime, Thriller",crime,7.2,69,192851,2008,2.0,6660
+tt0824747,Changeling,"Biography, Crime, Drama",crime,7.7,63,269992,2008,10.0,8460
+tt0986233,Hunger,"Biography, Crime, Drama",crime,7.5,82,74993,2008,10.0,5760
+tt1031280,Splinter,"Crime, Horror, Sci-Fi",crime,6.1,58,42244,2008,4.0,4920
+tt0947802,Lakeview Terrace,"Crime, Drama, Thriller",crime,6.2,47,57570,2008,9.0,6600
+tt0482572,Pride and Glory,"Crime, Drama, Thriller",crime,6.6,45,64526,2008,10.0,7800
+tt1068641,The Burning Plain,"Crime, Drama, Mystery",crime,6.7,45,21693,2008,11.0,6420
+tt1034331,Righteous Kill,"Crime, Mystery, Thriller",crime,6.0,36,93700,2008,9.0,6060
+tt0443701,The X Files: I Want to Believe,"Crime, Drama, Horror",crime,5.9,47,95087,2008,7.0,6240
+tt1073241,Nothing But the Truth,"Crime, Drama, Mystery",crime,7.1,64,40678,2008,7.0,6480
+tt0800240,Deception,"Crime, Drama, Mystery",crime,6.0,31,41576,2008,4.0,6420
+tt0865554,The Informers,"Crime, Drama, Thriller",crime,4.9,20,17784,2008,4.0,5880
+tt0880578,Untraceable,"Crime, Mystery, Thriller",crime,6.2,32,53942,2008,1.0,6060
+tt0765432,Der Baader Meinhof Komplex,"Action, Biography, Crime",crime,7.3,76,40882,2008,9.0,9000
+tt0996967,Otis,"Comedy, Crime, Horror",crime,5.9,N/A,5368,2008,3.0,6000
+tt0929425,Gomorra,"Crime, Drama",crime,7.0,87,52112,2008,5.0,8220
+tt0964539,Pathology,"Crime, Horror, Thriller",crime,5.9,55,34031,2008,4.0,5700
+tt0951216,Mad Money,"Comedy, Crime, Thriller",crime,5.9,41,23426,2008,1.0,6240
+tt0988849,Donkey Punch,"Crime, Drama, Horror",crime,5.2,43,11735,2008,7.0,5940
+tt0817538,Drillbit Taylor,"Action, Comedy, Crime",crime,5.7,41,63189,2008,3.0,6600
+tt0800241,Transsiberian,"Crime, Drama, Mystery",crime,6.6,72,55541,2008,9.0,6660
+tt1029235,Max Manus,"Action, Biography, Crime",crime,7.3,60,30682,2008,12.0,7080
+tt1133991,What Doesn't Kill You,"Crime, Drama, Thriller",crime,6.5,71,13600,2008,9.0,6000
+tt1280558,A Wednesday,"Action, Crime, Drama",crime,8.1,N/A,83854,2008,9.0,6240
+tt0780534,My Mom's New Boyfriend,"Comedy, Crime, Romance",crime,5.3,N/A,12704,2008,4.0,7140
+tt0814022,Bangkok Dangerous,"Action, Crime, Thriller",crime,5.3,24,58902,2008,9.0,5940
+tt1155592,Man on Wire,"Documentary, Biography, Crime",crime,7.7,89,59618,2008,8.0,5640
+tt0926762,Loft,"Crime, Drama, Mystery",crime,7.3,N/A,25477,2008,10.0,7080
+tt0486578,First Sunday,"Comedy, Crime, Drama",crime,4.6,41,12011,2008,1.0,5880
+tt0822832,Marley & Me,"Drama, Family",family,7.0,53,171469,2008,12.0,6660
+tt0846308,Kit Kittredge: An American Girl,"Comedy, Drama, Family",family,6.5,63,6473,2008,7.0,6060
+tt0997047,College Road Trip,"Adventure, Comedy, Drama",family,4.3,36,16953,2008,3.0,4980
+tt1091751,The Longshots,"Biography, Comedy, Drama",family,5.6,52,4579,2008,8.0,5640
+tt0997246,Avaze gonjeshk-ha,"Drama, Family",family,7.9,74,11483,2008,10.0,5760
+tt0821810,All Roads Lead Home,"Drama, Family",family,5.8,N/A,948,2008,1.0,6480
+tt0484831,Spy School,"Adventure, Comedy, Family",family,4.5,N/A,1741,2008,3.0,5160
+tt1070858,The Secrets of Jonathan Sperry,"Drama, Family",family,6.9,N/A,1700,2008,9.0,5760
+tt0836700,L'heure d'été,"Drama, Family",family,7.1,86,8340,2008,3.0,6180
+tt1059980,Soccer Mom,"Comedy, Family, Sport",family,5.0,N/A,1287,2008,9.0,5520
+tt1083470,The Rainbow Tribe,"Comedy, Drama, Family",family,6.0,N/A,749,2008,2.0,5400
+tt1161064,Super Capers: The Origins of Ed and the Missing Bullion,"Action, Adventure, Comedy",family,3.2,N/A,1194,2008,4.0,5880
+tt0953382,Les enfants de Timpelbach,"Adventure, Family, Fantasy",family,5.8,N/A,1145,2008,12.0,5820
+tt3124676,Little Rascals: Best of Our Gang,"Comedy, Family",family,7.7,N/A,294,2008,7.0,5040
+tt0493406,Chinaman's Chance: America's Other Slaves,"Action, Adventure, Drama",family,6.1,N/A,207,2008,,5400
+tt1515736,Balkonas,"Drama, Family",family,7.6,N/A,605,2008,10.0,2880
+tt1099212,Twilight,"Drama, Fantasy, Romance",fantasy,5.3,56,503564,2008,11.0,7320
+tt0421715,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",fantasy,7.8,70,718050,2008,12.0,9960
+tt1139797,Låt den rätte komma in,"Drama, Fantasy, Horror",fantasy,7.8,82,232603,2008,10.0,6840
+tt0785007,Over Her Dead Body,"Comedy, Fantasy, Romance",fantasy,5.3,30,25960,2008,2.0,5700
+tt0893402,Franklyn,"Drama, Fantasy, Sci-Fi",fantasy,6.0,N/A,18368,2008,2.0,5880
+tt1190617,An American Carol,"Comedy, Fantasy",fantasy,4.0,20,10228,2008,10.0,4980
+tt1151384,"Otto; or, Up with Dead People","Comedy, Drama, Fantasy",fantasy,5.1,34,2110,2008,9.0,5640
+tt1059773,The Adventures of Food Boy,"Comedy, Fantasy",fantasy,3.8,N/A,1136,2008,4.0,5400
+tt1297389,Günesin Oglu,"Comedy, Fantasy",fantasy,7.0,N/A,6368,2008,11.0,5340
+tt1253859,Road to Hell,"Action, Fantasy, Musical",fantasy,5.0,N/A,966,2008,1.0,5220
+tt0447166,The Gamers: Dorkness Rising,"Action, Adventure, Comedy",fantasy,7.3,N/A,3401,2008,8.0,6300
+tt1161646,Gingerdead Man 2: Passion of the Crust,"Comedy, Fantasy, Horror",fantasy,4.0,N/A,1567,2008,7.0,4320
+tt0476550,God Tussi Great Ho,"Comedy, Fantasy",fantasy,3.7,N/A,5173,2008,8.0,9120
+tt1006929,The Other Side of the Tracks,"Drama, Fantasy, Mystery",fantasy,4.9,N/A,802,2008,3.0,5520
+tt0945580,Odysseus & the Isle of Mists,"Action, Adventure, Fantasy",fantasy,4.2,N/A,851,2008,4.0,5280
+tt1858396,Arai Enn 305-il Kadavul,"Comedy, Fantasy",fantasy,5.9,N/A,385,2008,4.0,9840
+tt0469640,Bathory,"Biography, Drama, Fantasy",fantasy,5.7,N/A,4769,2008,7.0,8460
+tt1029234,Martyrs,Horror,horror,7.0,N/A,112727,2008,9.0,5940
+tt1020530,Eden Lake,"Horror, Thriller",horror,6.7,65,101186,2008,9.0,5460
+tt0482606,The Strangers,"Horror, Mystery, Thriller",horror,6.1,47,150960,2008,5.0,5160
+tt0816556,Lake Mungo,"Drama, Horror, Mystery",horror,6.2,N/A,33023,2008,6.0,5220
+tt0963194,Repo! The Genetic Opera,"Horror, Musical, Sci-Fi",horror,6.4,32,27324,2008,11.0,5880
+tt1082868,Quarantine,"Horror, Sci-Fi, Thriller",horror,6.0,53,80103,2008,10.0,5340
+tt0805570,The Midnight Meat Train,"Horror, Mystery, Thriller",horror,6.0,58,73316,2008,10.0,5880
+tt0790686,Mirrors,"Horror, Mystery",horror,6.1,35,116221,2008,8.0,6600
+tt0482599,Shutter,"Horror, Mystery, Thriller",horror,5.2,37,38530,2008,3.0,5100
+tt0926129,Prom Night,Horror,horror,4.0,17,38873,2008,4.0,5280
+tt0896534,Deadgirl,Horror,horror,5.5,36,20327,2008,4.0,6060
+tt1132626,Saw V,"Horror, Thriller",horror,5.8,20,142732,2008,10.0,5520
+tt0406759,The Eye,"Horror, Mystery",horror,5.4,36,57672,2008,2.0,5880
+tt0479968,One Missed Call,"Horror, Mystery",horror,4.0,24,34641,2008,1.0,5220
+tt1183732,Tôkyô zankoku keisatsu,"Action, Comedy, Horror",horror,5.9,N/A,13298,2008,10.0,6600
+tt1226681,Pontypool,"Horror, Sci-Fi",horror,6.5,54,36849,2008,9.0,5580
+tt1087853,Gutterballs,"Comedy, Horror, Mystery",horror,4.5,N/A,3796,2008,1.0,5760
+tt0974977,Bad Biology,"Comedy, Horror",horror,4.7,N/A,4796,2008,6.0,5100
+tt1979309,ReGOREgitated Sacrifice,Horror,horror,3.2,N/A,1092,2008,6.0,3900
+tt0445939,The Burrowers,"Horror, Thriller, Western",horror,5.7,N/A,9649,2008,9.0,5760
+tt1015474,Train,"Horror, Thriller",horror,4.7,N/A,7141,2008,5.0,5640
+tt1050160,Kataude mashin gâru,"Action, Comedy, Horror",horror,5.9,N/A,10935,2008,5.0,5760
+tt1314363,Live Animals,Horror,horror,3.4,N/A,815,2008,10.0,5040
+tt0892899,Outpost,"Action, Horror, Sci-Fi",horror,5.8,N/A,18202,2008,5.0,5400
+tt0926063,Dance of the Dead,"Action, Comedy, Horror",horror,5.8,N/A,12143,2008,3.0,5220
+tt0465430,The Cottage,"Comedy, Crime, Horror",horror,6.1,N/A,13419,2008,3.0,5520
+tt0899128,100 Feet,"Horror, Mystery, Thriller",horror,5.4,N/A,13395,2008,7.0,5760
+tt0902290,I Sell the Dead,"Comedy, Horror",horror,6.0,62,11365,2008,10.0,5100
+tt1063056,From Within,"Horror, Mystery, Thriller",horror,5.6,N/A,8119,2008,6.0,5340
+tt1045655,The Haunting of Molly Hartley,"Drama, Horror, Thriller",horror,3.9,28,10285,2008,10.0,5100
+tt0837796,House,Horror,horror,4.5,24,6320,2008,11.0,5280
+tt0473267,Solstice,"Horror, Mystery",horror,5.3,N/A,6939,2008,1.0,5460
+tt1292575,See prang,"Drama, Horror, Mystery",horror,6.6,N/A,3789,2008,4.0,6720
+tt0988083,Killer Movie,"Comedy, Horror, Mystery",horror,4.4,N/A,3181,2008,4.0,5580
+tt0319115,Brothel,"Drama, Horror",horror,3.6,N/A,448,2008,2.0,6120
+tt1267319,Home Movie,"Drama, Horror, Thriller",horror,5.5,N/A,5050,2008,7.0,4620
+tt0923600,Baghead,"Comedy, Drama, Horror",horror,6.0,62,5733,2008,1.0,5040
+tt0822868,Make It Happen,"Drama, Musical",musical,5.4,N/A,6554,2008,8.0,5400
+tt0490170,Love Story 2050,"Action, Adventure, Drama",musical,2.6,N/A,2721,2008,7.0,10800
+tt1518814,Mera Pind: My Home,"Comedy, Drama, Musical",musical,6.1,N/A,117,2008,9.0,9900
+tt0948535,Faubourg 36,"Drama, Music, Musical",musical,6.5,40,2987,2008,9.0,7200
+tt0476991,Were the World Mine,"Adventure, Comedy, Fantasy",musical,6.8,N/A,5974,2008,5.0,5700
+tt1156148,Karzzzz,"Action, Drama, Musical",musical,2.3,N/A,1447,2008,10.0,8520
+tt1049948,Casi divas,"Comedy, Fantasy, Musical",musical,6.2,55,791,2008,4.0,6420
+tt1180583,Vaaranam Aayiram,"Action, Drama, Musical",musical,8.2,N/A,14982,2008,11.0,10140
+tt1398944,Bhalobasa Bhalobasa,"Comedy, Drama, Musical",musical,6.9,N/A,185,2008,10.0,9300
+tt1105747,Yuvvraaj,"Comedy, Drama, Musical",musical,4.1,N/A,4793,2008,11.0,9060
+tt1124397,Skate or Die,"Action, Comedy, Crime",musical,4.0,N/A,658,2008,6.0,5520
+tt1114725,Heroes,"Action, Adventure, Comedy",musical,5.7,N/A,2403,2008,10.0,8340
+tt1283913,High School Musical: El Desafío,"Family, Musical, Romance",musical,3.8,N/A,389,2008,7.0,5400
+tt1157547,La Bohème,"Music, Musical, Romance",musical,7.2,N/A,406,2008,10.0,6900
+tt1043537,Risto Räppääjä,"Comedy, Family, Musical",musical,5.5,N/A,501,2008,2.0,4680
+tt1773441,Gaalipata,"Comedy, Musical, Romance",musical,8.3,N/A,1438,2008,1.0,8760
+tt1217608,Yaar Meri Zindagi,"Drama, Family, Musical",musical,4.6,N/A,61,2008,4.0,N/A
+tt0926213,Na lepom plavom Dunavu,"Drama, Musical",musical,5.0,N/A,178,2008,3.0,6300
+tt1068632,Agathe Cléry,"Comedy, Musical",musical,4.6,N/A,876,2008,12.0,6780
+tt0773306,Rome & Jewel,"Drama, Musical",musical,4.0,N/A,157,2008,11.0,5460
+tt0496225,Aniceto,"Drama, Musical, Romance",musical,7.1,N/A,297,2008,6.0,4920
+tt0456122,Os Desafinados,"Drama, Musical",musical,6.1,N/A,440,2008,8.0,8340
+tt1262896,Forever Plaid,"Comedy, Musical",musical,7.4,N/A,95,2008,7.0,5400
+tt1233224,Poveste de cartier,"Drama, Musical",musical,3.2,N/A,916,2008,5.0,5400
+tt1006901,Journey to the Moon,"Adventure, Comedy, Family",musical,6.7,N/A,32,2008,,5400
+tt1475099,Antisex,"Comedy, Drama, Fantasy",musical,3.9,N/A,57,2008,11.0,4440
+tt1168764,Urduja,"Animation, Action, Comedy",musical,7.5,N/A,72,2008,6.0,6000
+tt0848638,Sakkarakatti,"Comedy, Drama, Musical",musical,3.0,N/A,178,2008,9.0,7080
+tt0996962,Modern Love,"Comedy, Musical, Romance",musical,5.3,N/A,347,2008,3.0,6000
+tt1289413,King of the Camp,"Comedy, Family, Musical",musical,2.9,N/A,128,2008,6.0,5820
+tt1094576,Accident,"Musical, Romance, Thriller",musical,7.4,N/A,106,2008,3.0,N/A
+tt1235450,Youssou Ndour: I Bring What I Love,"Documentary, Music, Musical",musical,6.6,59,183,2008,4.0,6120
+tt1062964,The Seventh Python,"Documentary, Animation, Biography",musical,8.7,N/A,43,2008,6.0,5640
+tt0834171,Taarka,"Biography, Comedy, Drama",musical,6.5,N/A,172,2008,8.0,5640
+tt1560202,The Price,Musical,musical,0.0,N/A,0,2008,10.0,5340
+tt1334076,Un capitalisme sentimental,"Comedy, Drama, Musical",musical,6.7,N/A,61,2008,10.0,5520
+tt1584838,Habibi Na'eman,"Adventure, Comedy, Musical",musical,3.6,N/A,576,2008,12.0,5700
+tt1240979,Yaariyan,"Comedy, Drama, Musical",musical,6.2,N/A,87,2008,1.0,9840
+tt13939728,Het Huis Anubis Show: De Graal Van De Eeuwige Vriendschap,"Family, Musical, Mystery",musical,7.9,N/A,28,2008,12.0,4260
+tt1431056,Drupadi,"Drama, Fantasy, History",musical,6.9,N/A,67,2008,12.0,2700
+tt1258187,Universalove,Musical,musical,5.7,N/A,136,2008,9.0,4980
+tt1239426,Stilyagi,"Drama, Musical, Romance",musical,7.0,67,5471,2008,12.0,7800
+tt1394310,Bajimaat,"Drama, Musical, Romance",musical,7.1,N/A,27,2008,6.0,9600
+tt1074648,Rainbow Around the Sun,"Musical, Romance",musical,7.1,N/A,71,2008,3.0,4500
+tt0976051,The Reader,"Drama, Mystery, Romance",mystery,7.6,58,267678,2008,1.0,7440
+tt0814314,Seven Pounds,"Drama, Mystery, Thriller",mystery,7.6,36,320226,2008,12.0,7380
+tt0918927,Doubt,"Drama, Mystery",mystery,7.5,68,140801,2008,12.0,6240
+tt0861689,Blindness,"Drama, Mystery, Thriller",mystery,6.5,45,76121,2008,9.0,7260
+tt0449487,Passengers,"Mystery, Romance, Thriller",mystery,5.8,40,40094,2008,9.0,5580
+tt0974613,The Other Man,"Drama, Mystery, Thriller",mystery,5.4,34,12716,2008,5.0,5280
+tt0464041,The Lazarus Project,"Drama, Mystery, Thriller",mystery,6.0,N/A,19675,2008,,6000
+tt0818165,The Alphabet Killer,"Crime, Mystery, Thriller",mystery,5.2,N/A,9123,2008,12.0,5880
+tt0791303,Genova,"Drama, Mystery, Romance",mystery,6.0,N/A,6878,2008,3.0,5580
+tt1166100,Ghajini,"Action, Mystery, Thriller",mystery,7.4,N/A,68831,2008,12.0,11160
+tt0488604,The Oxford Murders,"Crime, Mystery, Thriller",mystery,6.1,N/A,31135,2008,1.0,6480
+tt0409345,Surveillance,"Crime, Drama, Mystery",mystery,6.3,31,18765,2008,7.0,5820
+tt0870204,Boot Camp,"Crime, Drama, Mystery",mystery,5.8,N/A,9456,2008,5.0,5940
+tt1018818,Assassination of a High School President,"Comedy, Crime, Mystery",mystery,6.2,N/A,16504,2008,4.0,5580
+tt0880648,Shuttle,"Crime, Drama, Mystery",mystery,5.6,N/A,6245,2008,2.0,6420
+tt0938706,The Last Lullaby,"Drama, Mystery",mystery,6.1,N/A,1036,2008,3.0,5580
+tt1224366,Afterschool,"Drama, Mystery",mystery,6.0,66,5028,2008,10.0,6420
+tt0912597,L: Change the World,"Crime, Drama, Mystery",mystery,6.0,N/A,9002,2008,2.0,7740
+tt1414863,Toxic Skies,"Crime, Drama, Mystery",mystery,5.0,N/A,1102,2008,11.0,5400
+tt1074191,The Betrayed,"Crime, Drama, Mystery",mystery,5.8,N/A,2670,2008,12.0,5880
+tt1043838,Conspiracy,"Mystery, Thriller",mystery,4.6,N/A,4233,2008,9.0,5400
+tt0467200,The Other Boleyn Girl,"Biography, Drama, History",romance,6.7,50,122766,2008,2.0,6900
+tt0959337,Revolutionary Road,"Drama, Romance",romance,7.3,69,229577,2008,1.0,7140
+tt0864761,The Duchess,"Biography, Drama, History",romance,6.9,62,88665,2008,9.0,6600
+tt1023481,Step Up 2: The Streets,"Drama, Music, Romance",romance,6.2,50,92678,2008,2.0,5880
+tt1103275,Two Lovers,"Drama, Romance",romance,7.0,74,44633,2008,11.0,6600
+tt0830570,I Can't Think Straight,"Drama, Romance",romance,6.4,N/A,9722,2008,4.0,4920
+tt0981227,Nick and Norah's Infinite Playlist,"Comedy, Drama, Music",romance,6.6,64,96276,2008,10.0,5400
+tt1084950,Rachel Getting Married,"Drama, Romance",romance,6.7,85,52266,2008,10.0,6780
+tt0811138,The Love Guru,"Comedy, Romance, Sport",romance,3.8,24,55842,2008,6.0,5220
+tt0809504,The Accidental Husband,"Comedy, Romance",romance,5.6,14,26046,2008,2.0,5400
+tt0819714,The Edge of Love,"Biography, Drama, Romance",romance,6.1,39,19372,2008,6.0,6600
+tt1129423,Fireproof,"Drama, Romance",romance,6.5,28,24826,2008,9.0,7320
+tt0455538,How to Lose Friends & Alienate People,"Biography, Comedy, Drama",romance,6.4,35,71400,2008,10.0,6600
+tt1018785,The Sisterhood of the Traveling Pants 2,"Comedy, Drama, Romance",romance,6.2,63,31315,2008,8.0,7140
+tt0412536,Brideshead Revisited,"Drama, Romance",romance,6.6,64,13923,2008,8.0,8040
+tt1045670,Happy-Go-Lucky,"Comedy, Drama, Romance",romance,7.0,84,41744,2008,4.0,7080
+tt0369436,Four Christmases,"Comedy, Drama, Romance",romance,5.7,41,84687,2008,11.0,5280
+tt0804492,The Hottie & the Nottie,"Comedy, Romance",romance,2.0,7,39391,2008,2.0,5460
+tt0887912,The Hurt Locker,"Drama, Thriller, War",thriller,7.5,95,483171,2008,7.0,7860
+tt0985699,Valkyrie,"Drama, History, Thriller",thriller,7.1,56,265699,2008,12.0,7260
+tt1063669,Die Welle,"Drama, Thriller",thriller,7.6,N/A,118009,2008,3.0,6420

@@ -1,0 +1,348 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt0266697,Kill Bill: Vol. 1,"Action, Crime, Thriller",action,8.2,69,1242490,2003,10,6660
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",action,8.1,63,1256847,2003,7,8580
+tt0364569,Oldeuboi,"Action, Drama, Mystery",action,8.3,78,672701,2003,11,7200
+tt0287978,Daredevil,"Action, Crime, Drama",action,5.3,42,234927,2003,2,6180
+tt0286716,Hulk,"Action, Sci-Fi",action,5.6,54,284821,2003,6,8280
+tt0234215,The Matrix Reloaded,"Action, Sci-Fi",action,7.2,62,649054,2003,5,8280
+tt0320691,Underworld,"Action, Fantasy, Thriller",action,7.0,42,292772,2003,9,7260
+tt0325710,The Last Samurai,"Action, Drama",action,7.8,55,486460,2003,12,9240
+tt0322259,2 Fast 2 Furious,"Action, Crime, Thriller",action,5.9,38,308441,2003,6,6420
+tt0317740,The Italian Job,"Action, Crime, Thriller",action,7.0,68,397308,2003,5,6660
+tt0290334,X2,"Action, Sci-Fi, Thriller",action,7.4,68,594985,2003,5,8040
+tt0181852,Terminator 3: Rise of the Machines,"Action, Sci-Fi",action,6.3,66,426904,2003,7,6540
+tt0311113,Master and Commander: The Far Side of the World,"Action, Adventure, Drama",action,7.5,81,245507,2003,11,8280
+tt0316356,Open Range,"Action, Drama, Romance",action,7.4,67,81022,2003,8,8340
+tt0311429,The League of Extraordinary Gentlemen,"Action, Adventure, Fantasy",action,5.8,30,187593,2003,7,6600
+tt0242653,The Matrix Revolutions,"Action, Sci-Fi",action,6.7,47,558734,2003,11,7740
+tt0329101,Freddy vs. Jason,"Action, Horror",action,5.7,37,131276,2003,8,5820
+tt0305357,Charlie's Angels: Full Throttle,"Action, Adventure, Comedy",action,4.9,48,135888,2003,6,6360
+tt0172156,Bad Boys II,"Action, Comedy, Crime",action,6.6,38,279889,2003,7,8820
+tt0338459,Spy Kids 3: Game Over,"Action, Adventure, Comedy",action,4.4,57,68555,2003,7,5040
+tt0257076,S.W.A.T.,"Action, Adventure, Crime",action,6.1,45,156722,2003,8,7020
+tt0300556,Timeline,"Action, Adventure, Sci-Fi",action,5.6,29,67283,2003,11,6960
+tt0314353,Tears of the Sun,"Action, Drama, Thriller",action,6.6,48,133982,2003,3,7260
+tt0327850,The Rundown,"Action, Adventure, Comedy",action,6.7,59,145992,2003,9,6240
+tt0285823,Once Upon a Time in Mexico,"Action, Crime, Thriller",action,6.3,56,173130,2003,9,6120
+tt0325703,Lara Croft: Tomb Raider - The Cradle of Life,"Action, Adventure, Fantasy",action,5.5,43,147988,2003,7,7020
+tt0298814,The Core,"Action, Adventure, Sci-Fi",action,5.5,48,109787,2003,3,8100
+tt0274166,Johnny English,"Action, Adventure, Comedy",action,6.3,51,179424,2003,4,5340
+tt0271668,National Security,"Action, Comedy, Crime",action,5.6,31,56055,2003,1,5280
+tt0313911,Agent Cody Banks,"Action, Adventure, Comedy",action,5.1,41,37937,2003,3,6120
+tt0368909,Ong-Bak,"Action, Crime, Thriller",action,7.1,69,79640,2003,10,6480
+tt0338337,Paycheck,"Action, Mystery, Sci-Fi",action,6.3,43,115068,2003,12,7140
+tt0269347,The Hunted,"Action, Crime, Drama",action,6.1,40,52933,2003,3,5640
+tt0317676,House of the Dead,"Action, Adventure, Horror",action,2.1,15,39191,2003,10,5400
+tt0300471,Shanghai Knights,"Action, Adventure, Comedy",action,6.2,58,114773,2003,2,6840
+tt0292506,The Recruit,"Action, Thriller",action,6.6,56,144466,2003,1,6900
+tt0257568,Kangaroo Jack,"Action, Adventure, Comedy",action,4.5,16,34671,2003,1,5340
+tt0326769,Biker Boyz,"Action, Drama",action,4.7,36,14405,2003,1,6600
+tt0306685,Cradle 2 the Grave,"Action, Crime, Drama",action,5.8,36,47626,2003,2,6060
+tt0329717,Hollywood Homicide,"Action, Comedy, Crime",action,5.3,47,40327,2003,6,6960
+tt0266465,A Man Apart,"Action, Crime, Drama",action,6.0,36,50232,2003,4,6540
+tt0339230,Kopps,"Action, Comedy",action,6.7,N/A,23496,2003,2,5400
+tt0245803,Bulletproof Monk,"Action, Comedy, Fantasy",action,5.5,40,52957,2003,4,6240
+tt0288045,The Medallion,"Action, Comedy, Fantasy",action,5.2,38,44908,2003,8,5280
+tt0277941,Ned Kelly,"Action, Adventure, Biography",action,6.4,56,28609,2003,3,6600
+tt0327409,Alien Hunter,"Action, Adventure, Sci-Fi",action,5.1,N/A,5183,2003,7,5520
+tt0339135,In Hell,"Action, Drama, Thriller",action,6.1,N/A,22129,2003,8,5880
+tt0363226,Zatôichi,"Action, Comedy, Crime",action,7.4,75,52364,2003,9,6960
+tt0373283,Saints and Soldiers,"Action, Drama, War",action,6.7,56,21718,2003,3,5400
+tt0314786,The In-Laws,"Action, Comedy, Thriller",action,5.7,46,18159,2003,5,5880
+tt0167260,The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",adventure,9.0,94,2063547,2003,12,12060
+tt0311289,Holes,"Adventure, Comedy, Drama",adventure,7.0,71,104439,2003,4,7020
+tt0266543,Finding Nemo,"Animation, Adventure, Comedy",adventure,8.2,90,1152369,2003,5,6000
+tt0319061,Big Fish,"Adventure, Drama, Fantasy",adventure,8.0,58,467830,2003,1,7500
+tt0312528,The Cat in the Hat,"Adventure, Comedy, Family",adventure,4.1,19,90420,2003,11,4920
+tt0316396,Peter Pan,"Adventure, Family, Fantasy",adventure,6.8,64,82314,2003,12,6780
+tt0159365,Cold Mountain,"Adventure, Drama, Romance",adventure,7.2,73,160041,2003,12,9240
+tt0306841,The Lizzie McGuire Movie,"Adventure, Comedy, Family",adventure,5.6,56,43355,2003,5,5640
+tt0328880,Brother Bear,"Animation, Adventure, Comedy",adventure,6.9,48,129422,2003,11,5100
+tt0319343,Elf,"Adventure, Comedy, Family",adventure,7.1,66,328816,2003,11,5820
+tt0338077,Grind,"Adventure, Comedy, Sport",adventure,5.9,30,13769,2003,8,6300
+tt0338188,The Missing,"Adventure, Drama, Thriller",adventure,6.5,55,40088,2003,11,8220
+tt0318155,Looney Tunes: Back in Action,"Animation, Adventure, Comedy",adventure,5.8,64,41587,2003,11,5580
+tt0374102,Open Water,"Adventure, Drama, Horror",adventure,5.8,63,57735,2003,8,4740
+tt0165982,Sinbad: Legend of the Seven Seas,"Animation, Adventure, Comedy",adventure,6.7,48,61604,2003,7,5280
+tt0388473,Tôkyô goddofâzâzu,"Animation, Adventure, Comedy",adventure,7.8,75,50566,2003,11,5520
+tt0286244,Les triplettes de Belleville,"Animation, Adventure, Comedy",adventure,7.7,91,58123,2003,6,4800
+tt0308152,Dead End,"Adventure, Horror, Mystery",adventure,6.5,N/A,33749,2003,9,5100
+tt0379557,Touching the Void,"Documentary, Adventure, Drama",adventure,7.9,82,38985,2003,12,6360
+tt0283426,The Jungle Book 2,"Animation, Adventure, Comedy",adventure,5.3,38,18684,2003,2,4320
+tt0337721,The Snow Walker,"Adventure, Drama",adventure,7.3,N/A,11670,2003,3,6180
+tt0337711,Rugrats Go Wild,"Animation, Adventure, Comedy",adventure,5.6,38,9272,2003,6,4860
+tt0368667,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,"Animation, Adventure, Music",adventure,7.8,53,16888,2003,5,4080
+tt0323642,Piglet's Big Movie,"Animation, Adventure, Comedy",adventure,6.1,62,9071,2003,4,4500
+tt0294357,Beyond Borders,"Adventure, Drama, Romance",adventure,6.4,32,29368,2003,10,7620
+tt0338763,Batoru rowaiaru II: Chinkonka,"Action, Adventure, Drama",adventure,4.6,N/A,21853,2003,7,7980
+tt0327919,I Am David,"Adventure, Drama",adventure,7.1,47,8331,2003,11,5400
+tt0365043,The Challenge,"Adventure, Comedy, Family",adventure,5.2,N/A,3369,2003,5,5520
+tt0365513,Monster Man,"Adventure, Comedy, Horror",adventure,5.6,N/A,5360,2003,3,5700
+tt0420076,Gekijouban Poketto monsutâ Adobansu jenerêshon: Nanayo no negaiboshi Jirâchi,"Animation, Action, Adventure",adventure,5.7,N/A,4847,2003,7,4860
+tt0297753,Kaena: La prophétie,"Animation, Adventure, Family",adventure,6.0,40,4268,2003,6,5520
+tt0367088,Spymate,"Adventure, Comedy, Family",adventure,4.0,N/A,1482,2003,2,4860
+tt0356176,Villmark,"Adventure, Horror, Mystery",adventure,6.1,N/A,5936,2003,2,5100
+tt0309987,The Dreamers,"Drama, Romance",romance,7.1,63,136908,2003,10,6900
+tt0322330,Freaky Friday,"Comedy, Family, Fantasy",romance,6.3,70,159619,2003,8,5820
+tt0314331,Love Actually,"Comedy, Drama, Romance",romance,7.6,55,557048,2003,11,8100
+tt0251127,How to Lose a Guy in 10 Days,"Comedy, Romance",romance,6.5,45,294432,2003,2,6960
+tt0337741,Something's Gotta Give,"Comedy, Drama, Romance",romance,6.7,66,132470,2003,12,7680
+tt0286788,What a Girl Wants,"Comedy, Drama, Family",romance,5.8,41,68325,2003,4,6300
+tt0328589,Under the Tuscan Sun,"Comedy, Drama, Romance",romance,6.7,52,62535,2003,9,6780
+tt0263757,Uptown Girls,"Comedy, Drama, Romance",romance,6.2,33,46383,2003,8,5520
+tt0305711,Just Married,"Comedy, Romance",romance,5.5,28,75949,2003,1,5700
+tt0372909,Fallo!,"Drama, Romance",romance,4.9,N/A,3211,2003,8,7200
+tt0301357,Good Bye Lenin!,"Comedy, Drama, Romance",romance,7.7,68,155915,2003,2,7260
+tt0335119,Girl with a Pearl Earring,"Biography, Drama, Romance",romance,6.9,72,84005,2003,1,6000
+tt0299458,All the Real Girls,"Drama, Romance",romance,6.7,71,11177,2003,8,6480
+tt0374546,Bom yeoreum gaeul gyeoul geurigo bom,"Drama, Romance",romance,8.0,85,88642,2003,9,6180
+tt0309530,Down with Love,"Comedy, Romance",romance,6.3,52,45686,2003,5,6060
+tt0322589,Honey,"Drama, Music, Romance",romance,5.3,37,48365,2003,12,5640
+tt0242888,The Sleeping Dictionary,"Drama, Romance",romance,6.5,N/A,9509,2003,1,6540
+tt0308383,The Human Stain,"Drama, Romance, Thriller",romance,6.2,57,32932,2003,12,6360
+tt0299930,Gigli,"Comedy, Crime, Romance",romance,2.6,18,51425,2003,8,7260
+tt0347304,Kal Ho Naa Ho,"Comedy, Drama, Musical",romance,7.9,54,78049,2003,11,11160
+tt0372782,Baramnan gajok,"Drama, Romance",romance,6.1,N/A,2030,2003,8,6240
+tt0138524,Intolerable Cruelty,"Comedy, Crime, Romance",romance,6.3,71,103541,2003,10,6000
+tt0318374,The Cooler,"Drama, Romance",romance,6.9,69,36259,2003,1,6060
+tt0264150,View from the Top,"Comedy, Romance",romance,5.3,27,29566,2003,3,5220
+tt0306734,Le divorce,"Comedy, Drama, Romance",romance,4.9,51,12343,2003,8,7020
+tt0362511,Dorm Daze,"Comedy, Crime, Mystery",romance,4.6,N/A,8393,2003,8,5760
+tt0346336,La meglio gioventù,"Drama, Romance",romance,8.5,89,25173,2003,6,22440
+tt0364517,Jeux d'enfants,"Comedy, Drama, Romance",romance,7.5,45,73364,2003,9,5580
+tt0332658,Intermission,"Comedy, Crime, Drama",romance,6.8,64,16917,2003,8,6300
+tt0313792,Anything Else,"Comedy, Romance",romance,6.3,43,33363,2003,9,6480
+tt0270980,My Boss's Daughter,"Comedy, Romance",romance,4.7,15,31108,2003,8,5160
+tt0295289,A Guy Thing,"Comedy, Romance",romance,5.6,27,18818,2003,1,6060
+tt0339034,From Justin to Kelly,"Comedy, Music, Musical",romance,1.9,14,27172,2003,6,4860
+tt0300015,I Capture the Castle,"Drama, Romance",romance,6.8,63,8179,2003,5,6780
+tt0337592,Love Don't Cost a Thing,"Comedy, Romance, Drama",romance,5.2,37,9736,2003,12,6000
+tt0345551,Latter Days,"Comedy, Drama, Romance",romance,7.0,45,18974,2003,7,6420
+tt0373981,Kontroll,"Comedy, Crime, Drama",romance,7.6,72,27630,2003,11,6660
+tt0191133,The Fighting Temptations,"Comedy, Drama, Music",romance,5.6,53,7805,2003,9,7380
+tt0314412,My Life Without Me,"Drama, Romance",romance,7.4,57,26181,2003,3,6360
+tt0366920,Pride and Prejudice,"Comedy, Romance",romance,5.0,N/A,2861,2003,12,6240
+tt0318283,Alex & Emma,"Comedy, Romance",romance,5.5,32,14078,2003,6,5760
+tt0314431,Hope Springs,"Comedy, Romance",romance,5.4,N/A,8115,2003,5,5520
+tt0302886,Old School,Comedy,comedy,7.0,54,249634,2003,2,5280
+tt0335266,Lost in Translation,"Comedy, Drama",comedy,7.7,91,508352,2003,10,6120
+tt0332379,School of Rock,"Comedy, Music",comedy,7.2,82,343042,2003,10,6540
+tt0315327,Bruce Almighty,"Comedy, Fantasy",comedy,6.8,46,449896,2003,5,6060
+tt0327137,Secondhand Lions,"Comedy, Drama, Family",comedy,7.5,52,63927,2003,9,6660
+tt0317303,Daddy Day Care,"Comedy, Family",comedy,5.6,39,76017,2003,5,5520
+tt0305224,Anger Management,Comedy,comedy,6.3,52,234111,2003,4,6360
+tt0333780,"Legally Blonde 2: Red, White & Blonde",Comedy,comedy,4.8,47,75362,2003,7,5700
+tt0349205,Cheaper by the Dozen,"Comedy, Family",comedy,5.9,46,111939,2003,12,5880
+tt0306047,Scary Movie 3,Comedy,comedy,5.6,49,163516,2003,10,5040
+tt0328828,American Wedding,Comedy,comedy,6.3,43,222384,2003,8,5760
+tt0310281,A Mighty Wind,"Comedy, Music",comedy,7.2,81,30138,2003,5,5460
+tt0325805,Matchstick Men,"Comedy, Crime, Drama",comedy,7.3,61,141666,2003,9,6960
+tt0340377,The Station Agent,"Comedy, Drama",comedy,7.6,81,75280,2003,12,5340
+tt0307987,Bad Santa,"Comedy, Crime, Drama",comedy,7.0,70,161122,2003,11,5520
+tt0341376,Gettin' Square,"Comedy, Crime, Thriller",comedy,6.6,N/A,3375,2003,10,6000
+tt0338094,The Haunted Mansion,"Comedy, Family, Fantasy",comedy,5.2,34,58872,2003,11,5940
+tt0329028,Dumb and Dumberer: When Harry Met Lloyd,Comedy,comedy,3.5,19,43407,2003,6,5100
+tt0328099,Malibu's Most Wanted,"Comedy, Crime",comedy,5.2,43,21446,2003,4,5160
+tt0313542,Runaway Jury,"Crime, Drama, Thriller",crime,7.1,61,111876,2003,10,7620
+tt0353969,Salinui chueok,"Crime, Drama, Mystery",crime,8.1,82,237036,2003,5,7860
+tt0327056,Mystic River,"Crime, Drama, Mystery",crime,7.9,84,501363,2003,10,8280
+tt0340855,Monster,"Biography, Crime, Drama",crime,7.3,74,167060,2003,1,6540
+tt0276919,Dogville,"Crime, Drama",crime,8.0,61,163243,2003,5,10260
+tt0363589,Elephant,"Crime, Drama, Thriller",crime,7.1,70,100103,2003,11,4860
+tt0324133,Swimming Pool,"Crime, Drama, Mystery",crime,6.7,70,49775,2003,5,6120
+tt0289992,The Life of David Gale,"Crime, Drama, Mystery",crime,7.5,31,129048,2003,2,7800
+tt0315733,21 Grams,"Crime, Drama, Thriller",crime,7.6,70,249447,2003,1,7440
+tt0313443,Out of Time,"Crime, Drama, Mystery",crime,6.5,63,67912,2003,10,6300
+tt0264395,Basic,"Crime, Drama, Mystery",crime,6.4,34,67900,2003,3,5880
+tt0315983,House of Sand and Fog,"Crime, Drama",crime,7.5,71,74218,2003,1,7560
+tt0320244,Party Monster,"Biography, Crime, Drama",crime,6.2,36,17660,2003,10,5880
+tt0335563,Wonderland,"Crime, Drama, Mystery",crime,6.5,43,23925,2003,10,6240
+tt0289635,Young Adam,"Crime, Drama",crime,6.3,67,14962,2003,9,5880
+tt0331811,11:14,"Comedy, Crime, Drama",crime,7.1,65,51128,2003,8,5160
+tt0285861,Owning Mahowny,"Crime, Drama, Thriller",crime,7.0,70,15290,2003,9,6240
+tt0312549,Veronica Guerin,"Biography, Crime, Drama",crime,6.8,55,22511,2003,7,5880
+tt0310910,Confidence,"Crime, Thriller",crime,6.6,59,35863,2003,4,5820
+tt0342172,Capturing the Friedmans,"Documentary, Biography, Crime",crime,7.6,90,27841,2003,7,6420
+tt0293007,Carandiru,"Crime, Drama",crime,7.6,71,23276,2003,4,8700
+tt0356614,Foolproof,"Action, Comedy, Crime",crime,6.4,N/A,11459,2003,10,5640
+tt0319531,I'll Sleep When I'm Dead,"Crime, Drama, Mystery",crime,5.8,56,9201,2003,4,6180
+tt0192788,Where the Red Fern Grows,"Drama, Family",family,6.4,N/A,1433,2003,5,5160
+tt0326900,Good Boy!,"Comedy, Drama, Family",family,5.1,49,4762,2003,10,5280
+tt0297144,Ghosts of the Abyss,"Documentary, Family",family,6.8,67,6574,2003,9,3660
+tt0367960,The Legend of Johnny Lingo,"Action, Adventure, Family",family,6.1,N/A,873,2003,8,5520
+tt0341540,The R.M.,"Comedy, Crime, Family",family,6.1,N/A,894,2003,1,6060
+tt0338552,When Zachary Beaver Came to Town,"Comedy, Drama, Family",family,5.7,N/A,867,2003,10,5100
+tt0350022,Quigley,"Comedy, Family, Fantasy",family,2.6,N/A,619,2003,2,5340
+tt0376990,"Die Wilden Kerle: Alles ist gut, solange du wild bist!",Family,family,5.0,N/A,2077,2003,10,5640
+tt0356154,Ulvesommer,"Adventure, Drama, Family",family,5.9,N/A,1271,2003,2,5220
+tt0315000,El Cid: La leyenda,"Animation, Adventure, Biography",family,5.4,N/A,1063,2003,12,5400
+tt0390159,Kaptein Sabeltann,"Animation, Family",family,5.5,N/A,270,2003,11,4500
+tt0373861,Die Geschichte vom weinenden Kamel,"Documentary, Drama, Family",family,7.4,81,6479,2003,1,5580
+tt0300069,Kart Racer,"Comedy, Drama, Family",family,5.6,N/A,698,2003,5,5640
+tt0308443,Just for Kicks,"Adventure, Comedy, Family",family,3.0,N/A,1425,2003,5,5520
+tt0311141,Das fliegende Klassenzimmer,"Comedy, Drama, Family",family,6.2,N/A,1460,2003,1,6600
+tt0327210,Uncle Nino,"Comedy, Drama, Family",family,6.5,44,887,2003,10,6240
+tt0368811,Jajantaram Mamantaram,"Action, Adventure, Comedy",family,6.0,N/A,1730,2003,5,7320
+tt0327116,The Road Home,"Action, Drama, Family",family,5.6,N/A,455,2003,6,6240
+tt0387463,Olsenbanden Junior går under vann,"Comedy, Family",family,5.1,N/A,779,2003,2,5700
+tt1149379,Kureyon Shinchan: Arashi wo Yobu Eikou no Yakiniku Road,"Animation, Adventure, Comedy",family,6.6,N/A,464,2003,4,5280
+tt0309372,Blizzard,"Comedy, Family",family,5.8,N/A,1318,2003,12,5700
+tt0377119,Till Eulenspiegel,"Animation, Adventure, Family",family,4.9,N/A,286,2003,9,5100
+tt0362174,Spin,"Drama, Family",family,6.3,N/A,551,2003,10,6420
+tt0331851,Armaan,"Drama, Family, Romance",family,5.3,N/A,1234,2003,5,9480
+tt0400771,Los reyes magos,"Animation, Family",family,5.4,N/A,497,2003,12,4560
+tt0282209,Darkness Falls,"Fantasy, Horror, Mystery",fantasy,5.0,23,34354,2003,1,5160
+tt0263265,The Devil and Daniel Webster,"Comedy, Drama, Fantasy",fantasy,5.4,N/A,6550,2003,,6360
+tt0347585,The Mummy's Kiss,"Fantasy, Horror, Romance",fantasy,3.4,N/A,695,2003,8,5280
+tt0339840,Undead,"Action, Comedy, Fantasy",fantasy,5.3,34,14995,2003,9,6240
+tt0309150,DreamKeeper,"Drama, Fantasy",fantasy,7.5,N/A,1789,2003,12,10440
+tt0254481,Koi... Mil Gaya,"Action, Drama, Fantasy",fantasy,7.1,N/A,29099,2003,8,10260
+tt0366526,Gojira tai Mosura tai Mekagojira: Tôkyô S.O.S.,"Action, Adventure, Fantasy",fantasy,6.4,N/A,5471,2003,12,5460
+tt1006926,Wan Pîsu Za Mûbî: Deddo Endo no Bôken,"Animation, Action, Adventure",fantasy,7.2,N/A,3041,2003,3,5700
+tt0338470,Sumuru,"Adventure, Sci-Fi, Fantasy",fantasy,3.6,N/A,856,2003,4,5640
+tt0372921,Flesh for the Beast,"Fantasy, Horror",fantasy,3.6,28,1432,2003,9,5340
+tt0384819,Azumi,"Action, Adventure, Drama",fantasy,6.7,49,15346,2003,5,7680
+tt0322659,Northfork,"Drama, Fantasy",fantasy,6.2,64,5653,2003,8,6180
+tt0365289,Grimm,"Adventure, Comedy, Drama",fantasy,6.3,N/A,2097,2003,12,6180
+tt0298482,Nothing,"Comedy, Fantasy",fantasy,6.1,N/A,6181,2003,7,5400
+tt0349880,Neverland,"Drama, Fantasy",fantasy,4.9,N/A,518,2003,6,4980
+tt0387693,Womb Raider,"Adventure, Fantasy",fantasy,3.5,N/A,576,2003,12,5400
+tt0403990,Dopperugengâ,"Comedy, Fantasy, Thriller",fantasy,6.3,N/A,1525,2003,9,6420
+tt0395558,Ghosts of Hamilton Street,"Fantasy, Mystery, Drama",fantasy,5.8,N/A,154,2003,10,6360
+tt0396659,Eiga Inuyasha Tenka Hadô no Ken,"Animation, Action, Adventure",fantasy,7.6,N/A,2481,2003,5,5940
+tt0362417,Aragami,"Action, Fantasy, Horror",fantasy,6.6,N/A,2335,2003,4,4680
+tt0391165,Fun2shh... Dudes in the 10th Century,"Adventure, Comedy, Family",fantasy,4.7,N/A,1111,2003,12,7800
+tt0358722,Swing,"Comedy, Fantasy, Romance",fantasy,5.6,36,222,2003,10,5880
+tt0352394,Hellborn,"Fantasy, Horror",fantasy,3.4,N/A,687,2003,7,5400
+tt0339357,Histoire de Marie et Julien,"Drama, Fantasy, Mystery",fantasy,6.8,N/A,1977,2003,11,9000
+tt0296619,Les enfants de la pluie,"Animation, Adventure, Fantasy",fantasy,6.8,N/A,860,2003,6,5400
+tt1992236,The Cremaster Cycle,"Drama, Fantasy, Horror",fantasy,7.0,N/A,311,2003,4,23880
+tt0340096,The Emperor's Wife,"Adventure, Drama, Fantasy",fantasy,5.3,N/A,637,2003,9,6000
+tt0338095,Haute tension,Horror,horror,6.7,42,80216,2003,6,5460
+tt0309593,Final Destination 2,"Horror, Thriller",horror,6.2,38,191286,2003,1,5400
+tt0295700,Wrong Turn,"Horror, Thriller",horror,6.1,32,138328,2003,5,5040
+tt0324216,The Texas Chainsaw Massacre,Horror,horror,6.2,38,156623,2003,10,5880
+tt0251736,House of 1000 Corpses,Horror,horror,6.0,31,96820,2003,4,5340
+tt0365376,"Janghwa, Hongryun","Drama, Horror, Mystery",horror,7.1,65,70790,2003,6,6840
+tt0285531,Dreamcatcher,"Drama, Horror, Sci-Fi",horror,5.5,35,98160,2003,3,8160
+tt0348836,Gothika,"Horror, Mystery, Thriller",horror,5.8,38,121756,2003,2,5880
+tt0301470,Jeepers Creepers 2,Horror,horror,5.7,36,73220,2003,8,6360
+tt0310357,Willard,"Drama, Horror, Thriller",horror,6.1,61,20912,2003,3,6000
+tt0294594,The Gathering,"Horror, Thriller",horror,5.6,N/A,9183,2003,5,5760
+tt0366292,Chakushin ari,"Horror, Mystery",horror,6.2,54,19958,2003,1,6720
+tt0304711,The Order,"Horror, Mystery, Thriller",horror,5.1,21,18763,2003,9,6120
+tt0354668,Jigureul jikyeora!,"Comedy, Crime, Drama",horror,7.2,70,9084,2003,4,7080
+tt0222812,Beyond Re-Animator,"Comedy, Horror, Sci-Fi",horror,5.7,N/A,13456,2003,7,5760
+tt0339385,Midsommer,"Drama, Horror, Mystery",horror,5.7,N/A,2971,2003,2,5640
+tt0361668,Gokudô kyôfu dai-gekijô: Gozu,"Crime, Drama, Horror",horror,6.9,58,13068,2003,7,7800
+tt0315110,Twentynine Palms,"Drama, Horror",horror,5.1,43,5259,2003,9,7140
+tt0367913,Ju-on 2,"Drama, Horror, Mystery",horror,6.3,N/A,11497,2003,9,5520
+tt0388230,Malevolence,"Crime, Horror, Mystery",horror,5.1,43,4433,2003,7,5400
+tt0318040,Evil Breed: The Legend of Samhain,"Comedy, Horror",horror,3.2,N/A,1663,2003,3,4680
+tt0342508,Hangman's Curse,"Horror, Mystery, Thriller",horror,4.8,N/A,2764,2003,9,6360
+tt0328077,Love Object,"Drama, Horror, Romance",horror,6.3,45,3866,2003,9,5460
+tt0330691,Il cartaio,"Horror, Mystery, Thriller",horror,4.9,48,5776,2003,1,6180
+tt3533690,Keung gaan 5: Gwong goh yau wak,"Crime, Horror, Thriller",horror,3.9,N/A,60,2003,,5280
+tt0349340,Dead Bodies,"Comedy, Drama, Horror",horror,6.0,N/A,1139,2003,4,5280
+tt0366894,Penetration Angst,"Comedy, Horror",horror,4.2,N/A,730,2003,7,6120
+tt0337659,LD 50 Lethal Dose,Horror,horror,3.9,N/A,1028,2003,11,5820
+tt0313285,Black Cadillac,"Horror, Thriller",horror,5.7,N/A,3542,2003,5,5580
+tt0362387,2LDK,"Comedy, Drama, Horror",horror,6.8,N/A,4034,2003,10,4200
+tt0331466,Descendant,"Horror, Thriller",horror,4.1,N/A,497,2003,6,5160
+tt0319728,The Last Horror Movie,"Horror, Thriller",horror,5.5,N/A,4132,2003,5,4800
+tt0337744,Vlad,"Horror, Thriller",horror,3.3,N/A,1620,2003,2,5880
+tt0372937,Geoul sogeuro,"Horror, Mystery, Thriller",horror,6.4,N/A,3696,2003,8,6780
+tt0312358,Anatomie 2,"Horror, Sci-Fi, Thriller",horror,5.1,46,4040,2003,2,6060
+tt0365674,Rectuma,"Comedy, Horror",horror,4.4,N/A,334,2003,12,5700
+tt0297780,Beyond the Limits,"Horror, Thriller",horror,4.7,N/A,1261,2003,3,6660
+tt0388365,Red Riding Hood,"Drama, Horror, Thriller",horror,4.6,N/A,699,2003,,5520
+tt0342167,Camp,"Comedy, Musical, Drama",musical,6.2,55,6273,2003,8,6840
+tt0314676,The Singing Detective,"Comedy, Crime, Musical",musical,5.4,45,9067,2003,11,6540
+tt0366996,The Saddest Music in the World,"Comedy, Musical",musical,7.0,78,6431,2003,5,6000
+tt0365609,Pakners,"Action, Comedy, Musical",musical,7.0,N/A,56,2003,5,7020
+tt0362107,S Club Seeing Double,"Comedy, Drama, Musical",musical,4.1,N/A,1162,2003,4,5460
+tt0361498,Death of a Dynasty,"Musical, Comedy",musical,3.6,41,436,2003,7,5520
+tt0265148,Main Prem Ki Diwani Hoon,"Comedy, Drama, Musical",musical,3.8,N/A,5317,2003,6,11820
+tt0325352,I'll Be There,"Comedy, Musical, Romance",musical,6.4,N/A,2180,2003,6,6300
+tt0356999,Pas sur la bouche,"Comedy, Musical, Romance",musical,6.4,N/A,1718,2003,12,6900
+tt0354538,Ek Aur Ek Gyarah: By Hook or by Crook,"Action, Comedy, Crime",musical,5.3,N/A,2358,2003,3,8640
+tt0446439,Priyamana Thozhi,"Musical, Drama, Romance",musical,5.9,N/A,443,2003,7,8940
+tt0326805,Chori Chori,"Comedy, Romance, Musical",musical,4.8,N/A,974,2003,8,8100
+tt0378262,Karlik Nos,"Animation, Fantasy, Musical",musical,6.7,N/A,1237,2003,3,4920
+tt0379307,Greendale,"Musical, Drama",musical,6.2,52,456,2003,9,5220
+tt0399778,Totò Sapore e la magica storia della pizza,"Animation, Adventure, Comedy",musical,6.1,N/A,402,2003,12,4680
+tt0377994,Gramaphone,"Comedy, Drama, Musical",musical,6.5,N/A,399,2003,2,8700
+tt0348521,Aapko Pehle Bhi Kahin Dekha Hai,"Action, Comedy, Drama",musical,4.7,N/A,341,2003,1,8700
+tt0349679,Khwahish,"Drama, Romance, Musical",musical,4.2,N/A,232,2003,6,9120
+tt0367091,Starlight Express 3D,"Action, Fantasy, Musical",musical,8.2,N/A,40,2003,N/A,N/A
+tt0330217,Dil Ka Rishta,"Drama, Musical, Romance",musical,4.9,N/A,2009,2003,1,9000
+tt0379174,"Apolônio Brasil, Campeão da Alegria","Comedy, Drama, Music",musical,7.2,N/A,66,2003,8,7020
+tt0288244,Tangy Guacamole,"Comedy, Adventure, Fantasy",musical,1.7,N/A,519,2003,11,5340
+tt0345466,Just Another Story,"Comedy, Drama, Musical",musical,3.7,N/A,140,2003,7,6000
+tt0352489,Kash... Aap Hamare Hote,"Drama, Musical, Romance",musical,5.0,N/A,104,2003,2,N/A
+tt0366816,Ennaku 20 Unakku 18,"Drama, Musical, Romance",musical,5.5,N/A,476,2003,12,8700
+tt0344859,Askepop - The Movie,"Comedy, Family, Musical",musical,3.8,N/A,327,2003,2,4920
+tt0365531,Mundo civilizado,"Documentary, Musical",musical,4.7,N/A,62,2003,6,6000
+tt0388544,Woodenhead,"Fantasy, Musical, Romance",musical,6.1,N/A,144,2003,8,5400
+tt0371924,Sadanandante Samayam,"Musical, Romance",musical,5.6,N/A,284,2003,5,N/A
+tt0346507,Andaaz,"Drama, Musical, Romance",musical,5.2,N/A,2837,2003,5,8700
+tt0354405,Bas Yun Hi,"Comedy, Musical, Romance",musical,5.6,N/A,64,2003,2,N/A
+tt0385664,The Dr. Jekyll & Mr. Hyde Rock 'n Roll Musical,"Comedy, Horror, Musical",musical,6.5,N/A,99,2003,9,5460
+tt0374001,To Be a Star,"Comedy, Drama, Musical",musical,7.3,N/A,31,2003,7,5700
+tt4251142,Sangee,"Drama, Musical, Romance",musical,7.1,N/A,532,2003,6,9360
+tt0381090,Chupke Se,"Comedy, Musical, Romance",musical,5.5,N/A,130,2003,9,9840
+tt0382842,Meerayude Dukhavum Muthuvinte Swapnavum,"Drama, Musical",musical,3.7,N/A,227,2003,7,7980
+tt0387015,Hua jai tor ra nong,"Action, Comedy, Musical",musical,5.6,N/A,412,2003,11,5400
+tt7903324,Bezumnyy den ili zhenitba Figaro,"Comedy, Musical",musical,4.7,N/A,75,2003,,N/A
+tt0806957,Crespià,"Comedy, Musical",musical,5.2,N/A,68,2003,,5040
+tt4773122,Amar Mayer Shapath,"Action, Drama, Musical",musical,6.6,N/A,77,2003,1,7980
+tt0396041,Gory Gory Hallelujah,"Comedy, Fantasy, Horror",musical,4.1,N/A,327,2003,7,5760
+tt0403965,Dead End Run,"Action, Musical, Thriller",musical,6.4,N/A,367,2003,10,3540
+tt0357033,Polígono Sur,"Documentary, Drama, Musical",musical,5.9,N/A,114,2003,3,6600
+tt0309698,Identity,"Mystery, Thriller",mystery,7.3,64,277955,2003,4,5400
+tt0199626,In the Cut,"Mystery, Thriller",mystery,5.4,47,27134,2003,10,7140
+tt0331468,Cold Creek Manor,"Drama, Mystery, Thriller",mystery,5.0,37,25430,2003,9,7080
+tt0338135,Les invasions barbares,"Comedy, Crime, Drama",mystery,7.5,70,30509,2003,9,5940
+tt0258816,The Reckoning,"Crime, Drama, Mystery",mystery,6.4,49,6535,2003,6,6720
+tt0323998,Smala Sussie,"Comedy, Crime, Mystery",mystery,6.9,N/A,10715,2003,10,5820
+tt0326977,Io non ho paura,"Crime, Drama, Mystery",mystery,7.4,73,17141,2003,3,6480
+tt0321442,The Big Empty,"Comedy, Drama, Mystery",mystery,6.0,N/A,4513,2003,8,5640
+tt0337881,Blind Horizon,"Drama, Mystery, Thriller",mystery,5.5,N/A,5053,2003,3,5940
+tt0322700,I Love Your Work,"Drama, Mystery",mystery,5.1,39,2036,2003,9,6660
+tt0367098,Sotto falso nome,"Drama, Mystery, Romance",mystery,6.2,N/A,981,2004,2,6300
+tt0338706,Alexandra's Project,"Drama, Mystery, Thriller",mystery,6.5,62,5271,2003,5,6180
+tt0314170,La hija del caníbal,"Adventure, Comedy, Crime",mystery,6.0,51,1093,2003,1,6600
+tt0355611,Jonny Vang,"Comedy, Drama, Mystery",mystery,6.3,N/A,1544,2003,2,5100
+tt0375782,"Gone, But Not Forgotten","Drama, Mystery, Romance",mystery,5.6,N/A,2514,2003,10,5640
+tt0338159,Jericho Mansions,"Drama, Mystery, Thriller",mystery,5.4,N/A,1041,2003,9,5880
+tt0301989,Visitors,"Drama, Horror, Mystery",mystery,5.0,N/A,1425,2003,11,6000
+tt0343449,The Bone Snatcher,"Horror, Mystery, Sci-Fi",mystery,4.4,N/A,2922,2003,2,5340
+tt0384491,Samay: When Time Strikes,"Crime, Mystery, Thriller",mystery,7.1,N/A,2104,2003,10,8160
+tt0416873,Jake's Booty Call,"Animation, Adventure, Comedy",animation,3.8,N/A,182,2003,4,4620
+tt0304931,Werner - Gekotzt wird später!,"Animation, Comedy",animation,5.6,N/A,2378,2003,7,4560
+tt0382868,Nasu: Andalusia no natsu,"Animation, Action, Sport",animation,7.0,N/A,460,2003,6,2820
+tt1133935,Meitantei Konan Meikyû no Kurosurôdo,"Animation, Action, Adventure",animation,7.1,N/A,2707,2003,4,6480
+tt0372763,The Animation Show,"Animation, Comedy",animation,7.5,N/A,568,2003,7,5640
+tt0353014,Wonderful Days,"Animation, Action, Adventure",animation,6.6,53,9524,2003,7,5160
+tt0332318,Pinocchio 3000,"Animation, Family, Fantasy",animation,3.9,N/A,1571,2003,7,4800
+tt0135991,Dominator,"Animation, Comedy, Sci-Fi",animation,4.1,N/A,181,2003,5,6000
+tt0365659,La prophétie des grenouilles,"Animation, Adventure, Family",animation,6.6,N/A,1065,2003,12,5400
+tt0376995,Y Mabinogi,"Animation, Adventure, Fantasy",animation,5.8,N/A,175,2003,6,6480
+tt0356577,Elysium,"Animation, Action, Comedy",animation,3.9,N/A,362,2003,8,5100
+tt0473474,Doraemon: Nobita to fushigi kazetsukai,"Animation, Adventure, Comedy",animation,7.0,N/A,993,2003,3,5040
+tt0422702,Majinkaiza: Shitô! Ankoku dai shôgun,"Animation, Action, Fantasy",animation,6.8,N/A,181,2003,7,3600
+tt0427580,Mécanix,"Animation, Fantasy, Horror",animation,6.2,N/A,184,2003,7,4200
+tt0237622,Pumuckl und sein Zirkusabenteuer,"Animation, Comedy, Family",animation,5.4,N/A,128,2003,10,5220
+tt0386611,Magos y gigantes,"Animation, Adventure, Comedy",animation,5.3,N/A,133,2003,11,5100
+tt0384057,The Dream-Quest of Unknown Kadath,"Adventure, Animation, Fantasy",animation,5.8,N/A,212,2003,10,6000
+tt0400244,Bolívar: el héroe,"Animation, Biography",animation,1.4,N/A,695,2003,12,4500
+tt1298836,Eiga Atashin'chi,"Animation, Adventure, Comedy",animation,6.4,N/A,61,2003,12,5700
+tt0347458,La légende de Parva,Animation,animation,5.8,N/A,66,2003,2,5100
+tt0387472,Opopomoz,"Animation, Family",animation,6.1,N/A,220,2003,12,4500
+tt1672136,Zéro un,"Animation, Comedy, Drama",animation,5.5,N/A,60,2003,6,5100
+tt0374574,"Le chien, le général et les oiseaux",Animation,animation,6.3,N/A,177,2003,10,4500
+tt0430293,The Legend of the Sky Kingdom,"Animation, Adventure, Family",animation,6.3,N/A,71,2003,10,4380
+tt0340336,"Sex, Lies & Superheroes","Animation, Documentary, Fantasy",animation,7.5,N/A,35,2003,2,3300
+tt0380724,Son of Alladin,"Adventure, Animation, Fantasy",animation,3.1,N/A,176,2003,8,N/A
+tt0386127,Xevious,Animation,animation,4.2,N/A,10,2003,8,4500
+tt0359784,Oseam,"Animation, Family",animation,6.9,N/A,761,2003,4,4500

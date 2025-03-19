@@ -1,0 +1,330 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt1392170,The Hunger Games,"Action, Adventure, Sci-Fi",action,7.2,68,1035378,2012,3,8520
+tt0790724,Jack Reacher,"Action, Thriller",action,7.0,50,377421,2012,12,7800
+tt1345836,The Dark Knight Rises,"Action, Drama, Thriller",action,8.4,78,1900364,2012,7,9840
+tt1232829,21 Jump Street,"Action, Comedy, Crime",action,7.2,69,619361,2012,3,6540
+tt0848228,The Avengers,"Action, Sci-Fi",action,8.0,69,1500129,2012,5,8580
+tt1855199,End of Watch,"Action, Crime, Drama",action,7.6,68,279246,2012,9,6540
+tt1409024,Men in Black³,"Action, Adventure, Comedy",action,6.8,58,398847,2012,5,6360
+tt0948470,The Amazing Spider-Man,"Action, Sci-Fi",action,6.9,66,728274,2012,7,8160
+tt1074638,Skyfall,"Action, Adventure, Thriller",action,7.8,81,747911,2012,10,8580
+tt1343727,Dredd,"Action, Crime, Sci-Fi",action,7.1,60,303374,2012,9,5700
+tt1217209,Brave,"Animation, Action, Adventure",action,7.1,69,459235,2012,6,5580
+tt1735898,Snow White and the Huntsman,"Action, Adventure, Drama",action,6.1,57,308391,2012,5,7620
+tt1440129,Battleship,"Action, Adventure, Sci-Fi",action,5.8,41,262449,2012,4,7860
+tt1276104,Looper,"Action, Drama, Sci-Fi",action,7.4,84,615248,2012,9,7140
+tt0401729,John Carter,"Action, Adventure, Sci-Fi",action,6.6,51,292137,2012,3,7920
+tt1386703,Total Recall,"Action, Adventure, Sci-Fi",action,6.2,43,271143,2012,8,7080
+tt1656190,Safe,"Action, Crime, Thriller",action,6.5,55,121216,2012,4,5640
+tt1194173,The Bourne Legacy,"Action, Adventure, Thriller",action,6.6,61,321249,2012,8,8100
+tt1397514,Journey 2: The Mysterious Island,"Action, Adventure, Comedy",action,5.7,41,115818,2012,2,5640
+tt1596350,This Means War,"Action, Comedy, Romance",action,6.3,31,197050,2012,2,6180
+tt1855325,Resident Evil: Retribution,"Action, Horror, Sci-Fi",action,5.3,39,154161,2012,9,5700
+tt1764651,The Expendables 2,"Action, Adventure, Thriller",action,6.6,51,327805,2012,8,6180
+tt0857190,The Sweeney,"Action, Crime, Drama",action,6.1,48,20781,2012,9,6720
+tt1034314,Iron Sky,"Action, Adventure, Comedy",action,5.9,N/A,97424,2012,4,5580
+tt1646987,Wrath of the Titans,"Action, Adventure, Fantasy",action,5.7,37,198887,2012,3,5940
+tt1446192,Rise of the Guardians,"Animation, Action, Adventure",action,7.2,58,199864,2012,11,5820
+tt1366365,The Cold Light of Day,"Action, Adventure, Thriller",action,4.9,22,40458,2012,4,5580
+tt1234719,Red Dawn,"Action, War",action,5.3,31,82104,2012,11,5580
+tt1397280,Taken 2,"Action, Crime, Thriller",action,6.2,45,329802,2012,10,5520
+tt1648179,Here Comes the Boom,"Action, Comedy, Sport",action,6.4,40,96881,2012,10,6300
+tt1611224,Abraham Lincoln: Vampire Hunter,"Action, Fantasy, Horror",action,5.9,42,164470,2012,6,6300
+tt1599348,Safe House,"Action, Thriller",action,6.7,52,243343,2012,2,6900
+tt1712170,Alex Cross,"Action, Crime, Mystery",action,5.2,30,36154,2012,10,6060
+tt1308729,Bullet to the Head,"Action, Crime, Thriller",action,5.7,48,53279,2012,2,5520
+tt1838544,Gone,"Action, Adventure, Mystery",action,5.9,36,47167,2012,2,5640
+tt1496025,Underworld: Awakening,"Action, Fantasy, Thriller",action,6.3,39,164115,2012,1,5280
+tt1592525,Lockout,"Action, Sci-Fi, Thriller",action,6.0,48,102027,2012,4,5700
+tt1524137,Contraband,"Action, Adventure, Crime",action,6.4,51,127656,2012,1,6540
+tt1598828,One for the Money,"Action, Comedy, Crime",action,5.3,22,44678,2012,1,5460
+tt1591479,Act of Valor,"Action, Adventure, Thriller",action,6.4,40,72832,2012,2,6600
+tt1667310,Deadfall,"Action, Adventure, Crime",action,6.2,52,41696,2012,11,5700
+tt1568338,Man on a Ledge,"Action, Crime, Thriller",action,6.6,40,160317,2012,1,6120
+tt1547234,Premium Rush,"Action, Thriller",action,6.5,66,120122,2012,8,5460
+tt1430626,The Pirates! In an Adventure with Scientists!,"Animation, Action, Adventure",action,6.7,73,52759,2012,3,5280
+tt1438173,Bait,"Action, Fantasy, Horror",action,5.2,N/A,20329,2012,9,5580
+tt1567609,Get the Gringo,"Action, Drama, Thriller",action,6.9,60,113001,2012,6,5760
+tt1836944,The Baytown Outlaws,"Action, Comedy, Crime",action,6.3,33,16449,2012,12,5880
+tt1258972,The Man with the Iron Fists,Action,action,5.4,51,64803,2012,11,5700
+tt1954470,Gangs of Wasseypur,"Action, Comedy, Crime",action,8.2,89,106983,2012,6,19260
+tt0249516,Foodfight!,"Animation, Action, Adventure",action,1.3,N/A,12252,2012,2,5460
+tt0903624,The Hobbit: An Unexpected Journey,"Adventure, Fantasy",adventure,7.8,58,898927,2012,12,10140
+tt1446714,Prometheus,"Adventure, Mystery, Sci-Fi",adventure,7.0,64,673835,2012,6,7440
+tt1673434,The Twilight Saga: Breaking Dawn - Part 2,"Adventure, Drama, Fantasy",adventure,5.6,52,270739,2012,11,6900
+tt1482459,The Lorax,"Animation, Adventure, Comedy",adventure,6.4,46,135979,2012,3,5160
+tt0454876,Life of Pi,"Adventure, Drama, Fantasy",adventure,7.9,79,682517,2012,11,7620
+tt1748122,Moonrise Kingdom,"Adventure, Comedy, Drama",adventure,7.8,84,373294,2012,6,5640
+tt1935179,Mud,"Adventure, Drama",adventure,7.4,76,193826,2012,5,7800
+tt1772341,Wreck-It Ralph,"Animation, Adventure, Comedy",adventure,7.7,72,476666,2012,11,6060
+tt2261719,Dzhungli,"Adventure, Comedy",adventure,5.0,N/A,1306,2012,11,4800
+tt1667353,Mirror Mirror,"Adventure, Comedy, Drama",adventure,5.6,46,92731,2012,3,6360
+tt1706593,Chronicle,"Adventure, Drama, Sci-Fi",adventure,7.0,69,269183,2012,2,5340
+tt1667889,Ice Age: Continental Drift,"Animation, Adventure, Comedy",adventure,6.5,49,233351,2012,7,5280
+tt1277953,Madagascar 3: Europe's Most Wanted,"Animation, Adventure, Comedy",adventure,6.8,60,206484,2012,6,5700
+tt0337692,On the Road,"Adventure, Drama, Romance",adventure,6.0,56,43956,2012,5,7440
+tt1307068,Seeking a Friend for the End of the World,"Adventure, Comedy, Drama",adventure,6.7,59,121076,2012,6,6060
+tt1623288,ParaNorman,"Animation, Adventure, Comedy",adventure,7.0,72,113166,2012,8,5520
+tt1862079,Safety Not Guaranteed,"Adventure, Comedy, Drama",adventure,6.9,72,132856,2012,6,5160
+tt1613750,Kon-Tiki,"Adventure, Biography, Drama",adventure,7.1,62,53191,2012,8,7080
+tt2125435,Beasts of the Southern Wild,"Adventure, Drama, Fantasy",adventure,7.2,86,85819,2012,7,5580
+tt1829012,Passion,"Adventure, Drama, Horror",adventure,5.3,54,24777,2012,2,6120
+tt1816518,Ernest et Célestine,"Animation, Adventure, Comedy",adventure,7.8,86,23140,2012,12,4800
+tt2097307,Hit and Run,"Action, Adventure, Comedy",adventure,6.1,50,38085,2012,8,6000
+tt2210479,Berserk: Ougon Jidai-hen I - Haou no Tamago,"Animation, Action, Adventure",adventure,7.5,N/A,15005,2012,4,4560
+tt1979319,Rurôni Kenshin: Meiji kenkaku romantan,"Action, Adventure, Drama",adventure,7.4,N/A,30016,2012,8,8040
+tt0765446,Escape from Planet Earth,"Animation, Adventure, Comedy",adventure,5.8,35,27379,2012,2,5340
+tt2098627,Attack of the 50 Foot Cheerleader,"Adventure, Comedy, Romance",adventure,4.4,N/A,1655,2012,,4980
+tt2023690,Sightseers,"Adventure, Comedy, Crime",adventure,6.5,69,30884,2012,11,5280
+tt1507563,Dark Tide,"Adventure, Drama, Thriller",adventure,4.3,23,9626,2012,4,6840
+tt1766094,So Undercover,"Action, Adventure, Comedy",adventure,5.0,N/A,21630,2012,12,5640
+tt0837562,Hotel Transylvania,"Animation, Comedy, Family",animation,7.0,47,294876,2012,9,5460
+tt1142977,Frankenweenie,"Animation, Comedy, Drama",animation,6.9,74,121542,2012,10,5220
+tt2140203,Ôkami kodomo no Ame to Yuki,"Animation, Drama, Family",animation,8.1,76,51713,2012,7,7020
+tt1217213,Secret of the Wings,"Animation, Family, Fantasy",animation,7.0,N/A,15066,2012,8,4500
+tt2396224,It's Such a Beautiful Day,"Animation, Comedy, Drama",animation,8.4,90,1692,2012,5,3720
+tt2085930,Starship Troopers: Invasion,"Animation, Action, Sci-Fi",animation,5.8,N/A,12174,2012,7,5340
+tt0860907,Evangelion Shin Gekijôban: Kyu,"Animation, Action, Drama",animation,6.9,45,19876,2012,11,5760
+tt2358911,Berserk: Ougon jidai-hen II - Dorudorei koryaku,"Animation, Action, Adventure",animation,7.7,N/A,12531,2012,6,5700
+tt1753496,Baiohazâdo Damunêshon,"Animation, Action, Horror",animation,6.4,N/A,23015,2012,10,6000
+tt2095004,Where the Dead Go to Die,"Animation, Fantasy, Horror",animation,3.9,N/A,1519,2012,1,5700
+tt6442774,Chhota Bheem: Dholakpur to Kathmandu,Animation,animation,7.7,N/A,203,2012,7,4140
+tt0851471,Sir Billi,"Animation, Adventure, Comedy",animation,2.8,17,836,2012,4,4560
+tt1331294,O Apóstolo,"Animation, Horror",animation,6.8,N/A,963,2012,4,5040
+tt1559036,The Motel Life,"Animation, Drama, Mystery",animation,5.9,61,3861,2012,11,5100
+tt1764625,Las aventuras de Tadeo Jones,"Animation, Adventure, Comedy",animation,5.9,N/A,9461,2012,8,5520
+tt2375379,One Piece Film Z,"Animation, Action, Adventure",animation,7.7,N/A,10481,2012,12,6480
+tt2396690,Barbie: The Princess & the Popstar,"Animation, Family, Musical",animation,5.9,N/A,3275,2012,9,5160
+tt2290828,Road to Ninja: Naruto the Movie,"Animation, Action, Adventure",animation,7.6,N/A,8786,2012,7,6540
+tt3028018,Ao no ekusoshisuto: Gekijôban,"Animation, Action, Adventure",animation,7.1,N/A,2636,2012,12,5280
+tt1941466,Gekijouban Blood-C: The Last Dark,"Animation, Action, Adventure",animation,6.1,N/A,1437,2012,6,6420
+tt1655413,Le magasin des suicides,"Animation, Comedy, Musical",animation,6.2,N/A,8900,2012,9,4740
+tt2271315,Eiga Doraemon: Nobita to kiseki no shima - Animaru adobenchâ,"Animation, Action, Adventure",animation,6.7,N/A,733,2012,3,6000
+tt2322457,Gummi T,"Animation, Comedy, Family",animation,4.3,N/A,849,2012,5,4800
+tt1867086,The Outback,"Animation, Adventure, Family",animation,4.7,N/A,1129,2012,1,5100
+tt1946347,Gladiatori di Roma,"Animation, Adventure, Comedy",animation,5.2,N/A,1677,2012,10,5640
+tt1321862,Dino Time,"Animation, Adventure, Comedy",animation,4.7,N/A,1752,2012,6,5160
+tt2328505,Ashura,"Animation, Action, Drama",animation,6.6,N/A,1474,2012,9,4560
+tt2431934,Seinto oniisan,"Animation, Comedy",animation,6.7,N/A,955,2012,12,5400
+tt2320924,War of the Worlds: Goliath,"Animation, Action, Adventure",animation,5.4,33,1291,2012,11,5100
+tt2164058,Pa-dak pa-dak,"Animation, Drama, Horror",animation,7.1,N/A,541,2012,7,4680
+tt1709652,Dragon Age: Dawn of the Seeker,"Animation, Action, Adventure",animation,5.7,N/A,3146,2012,2,5400
+tt2798620,Chhota Bheem and the Curse of Damyaan,"Animation, Action, Adventure",animation,6.6,N/A,527,2012,5,5280
+tt2085795,Gekijouban Fairy Tail: Houou no miko,"Animation, Action, Adventure",animation,7.0,N/A,2541,2012,8,5160
+tt2284790,Ot vinta 3D,"Animation, Adventure, Comedy",animation,3.0,N/A,754,2012,8,5040
+tt5779650,The Adventures of Panda Warrior,"Animation, Action, Adventure",animation,1.7,N/A,327,2012,8,4680
+tt3354096,Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita,"Animation, Action, Adventure",animation,6.6,N/A,1143,2012,7,3600
+tt1693039,Pinocchio,"Animation, Adventure, Family",animation,6.0,N/A,395,2012,2,4500
+tt1979172,A Liar's Autobiography: The Untrue Story of Monty Python's Graham Chapman,"Animation, Comedy",animation,5.8,45,1866,2012,2,5100
+tt1232200,That's My Boy,"Comedy, Drama",comedy,5.6,31,114475,2012,6,6960
+tt1981677,Pitch Perfect,"Comedy, Music, Romance",comedy,7.1,66,339180,2012,10,6720
+tt1637725,Ted,Comedy,comedy,6.9,62,679235,2012,8,6360
+tt1758830,This Is 40,"Comedy, Drama, Romance",comedy,6.2,59,154655,2012,12,8040
+tt1045658,Silver Linings Playbook,"Comedy, Drama, Romance",comedy,7.7,81,757360,2012,12,7320
+tt1636826,Project X,Comedy,comedy,6.7,46,243995,2012,3,5280
+tt1645170,The Dictator,Comedy,comedy,6.5,58,348657,2012,5,4980
+tt1605630,American Reunion,Comedy,comedy,6.7,49,228387,2012,4,6780
+tt1077368,Dark Shadows,"Comedy, Fantasy, Horror",comedy,6.2,55,287279,2012,5,6780
+tt0383010,The Three Stooges,"Comedy, Family",comedy,5.1,56,33777,2012,4,5520
+tt1915581,Magic Mike,"Comedy, Drama, Music",comedy,6.1,72,149890,2012,6,6600
+tt1931533,Seven Psychopaths,"Comedy, Crime",comedy,7.1,66,280201,2012,10,6600
+tt1790886,The Campaign,Comedy,comedy,6.1,50,138933,2012,8,5100
+tt1714203,Piranha 3DD,"Comedy, Horror, Sci-Fi",comedy,3.8,24,46582,2012,5,4980
+tt1621045,Think Like a Man,"Comedy, Romance",comedy,6.5,51,51543,2012,4,7380
+tt1195478,The Five-Year Engagement,"Comedy, Drama, Romance",comedy,6.2,62,103716,2012,4,7440
+tt2023453,Diary of a Wimpy Kid: Dog Days,"Comedy, Family",comedy,6.3,54,31542,2012,8,5640
+tt1336608,Rock of Ages,"Comedy, Drama, Musical",comedy,5.9,47,82898,2012,6,7380
+tt1298649,The Watch,"Comedy, Sci-Fi",comedy,5.7,36,134923,2012,7,6120
+tt2347569,Frances Ha,"Comedy, Drama, Romance",comedy,7.4,82,98031,2012,5,5160
+tt1389096,Stand Up Guys,"Comedy, Crime, Thriller",comedy,6.4,41,58652,2012,2,5700
+tt1655460,Wanderlust,"Comedy, Romance",comedy,5.6,53,81848,2012,2,5880
+tt2205697,Stuck in Love,"Comedy, Drama, Romance",comedy,7.2,49,93662,2012,5,5820
+tt1586265,What to Expect When You're Expecting,"Comedy, Drama, Romance",comedy,5.7,41,76930,2012,5,6600
+tt1763303,The First Time,"Comedy, Drama, Romance",comedy,6.8,55,74600,2012,2,5700
+tt2112210,My Awkward Sexual Adventure,"Comedy, Romance",comedy,6.1,N/A,10476,2012,2,5880
+tt1984153,Excision,"Comedy, Drama, Horror",comedy,6.1,N/A,25697,2012,11,4860
+tt1592873,LOL,"Comedy, Drama, Romance",comedy,4.4,N/A,58989,2012,3,5820
+tt1866249,The Sessions,"Biography, Comedy, Drama",comedy,7.2,79,44476,2012,11,5700
+tt2101441,Spring Breakers,"Crime, Drama, Thriller",crime,5.3,63,151494,2012,3,5640
+tt1817273,The Place Beyond the Pines,"Crime, Drama, Thriller",crime,7.3,68,297701,2012,4,8400
+tt1212450,Lawless,"Biography, Crime, Drama",crime,7.2,58,257898,2012,8,6960
+tt1764234,Killing Them Softly,"Crime, Drama, Thriller",crime,6.2,64,156412,2012,11,5820
+tt1989475,Chained,"Crime, Drama, Horror",crime,6.4,N/A,22128,2012,7,5640
+tt1615065,Savages,"Crime, Drama, Thriller",crime,6.4,59,136536,2012,7,7860
+tt1971352,Compliance,"Crime, Drama, Thriller",crime,6.4,68,39191,2012,9,5400
+tt1937149,El cuerpo,"Crime, Drama, Mystery",crime,7.6,N/A,75556,2012,12,6720
+tt1491044,The Iceman,"Biography, Crime, Drama",crime,6.8,60,81684,2012,5,6360
+tt2103217,Maniac,"Crime, Horror, Thriller",crime,6.1,47,41511,2012,1,5340
+tt1496422,The Paperboy,"Crime, Drama, Mystery",crime,5.7,45,40810,2012,10,6420
+tt1433811,Disconnect,"Crime, Drama, Mystery",crime,7.5,64,78999,2012,7,6900
+tt1440732,Bel Ami,"Crime, Drama, History",crime,5.4,42,19578,2012,3,6120
+tt2375605,The Act of Killing,"Documentary, Biography, Crime",crime,8.2,92,42132,2012,11,7020
+tt1480656,Cosmopolis,"Crime, Drama, Mystery",crime,5.1,58,51121,2012,5,6540
+tt2147319,Herutâ sukerutâ,"Crime, Drama, Horror",crime,6.4,N/A,3855,2012,7,7620
+tt2215285,Madea's Witness Protection,"Comedy, Crime, Drama",crime,5.0,42,11603,2012,6,6840
+tt1486192,The Raven,"Crime, Mystery, Thriller",crime,6.4,44,89235,2012,4,6600
+tt0404978,Gambit,"Comedy, Crime",crime,5.7,N/A,26401,2012,11,5340
+tt2318625,Out in the Dark,"Crime, Drama, Romance",crime,7.5,69,9582,2012,2,5760
+tt1966604,The Imposter,"Documentary, Biography, Crime",crime,7.4,77,51640,2012,8,5940
+tt1990314,Robot & Frank,"Comedy, Crime, Drama",crime,7.0,67,66439,2012,8,5340
+tt1925431,Fire with Fire,"Action, Crime, Mystery",crime,5.6,N/A,27943,2012,12,5820
+tt1924394,The Angels' Share,"Comedy, Crime, Drama",crime,7.0,66,27579,2012,6,6060
+tt1658837,The Tall Man,"Crime, Drama, Horror",crime,5.9,52,44018,2012,9,6360
+tt1821427,Offender,"Crime, Drama, Thriller",crime,6.0,N/A,5045,2012,8,6120
+tt1734433,Eden,"Crime, Drama, Thriller",crime,6.6,63,9706,2012,7,5880
+tt1656186,Stolen,"Action, Crime, Thriller",crime,5.5,43,46991,2012,9,5760
+tt1663143,Fun Size,"Adventure, Comedy, Crime",crime,5.4,37,15569,2012,10,5160
+tt1424310,Shi er shengxiao,"Action, Adventure, Comedy",crime,6.0,29,25229,2012,12,7320
+tt1462769,The Odd Life of Timothy Green,"Comedy, Drama, Family",family,6.6,47,49398,2012,8,6300
+tt1047540,Parental Guidance,"Comedy, Family",family,6.0,36,27083,2012,12,6300
+tt2041488,Thunderstruck,"Comedy, Family, Fantasy",family,5.1,N/A,6084,2012,8,5640
+tt1597522,Astérix & Obélix : Au service de sa Majesté,"Adventure, Comedy, Family",family,5.3,N/A,17275,2012,10,6600
+tt1520498,The Oogieloves in the Big Balloon Adventure,"Adventure, Family, Fantasy",family,1.7,32,15636,2012,8,5280
+tt1748260,Tiger Eyes,"Drama, Family, Mystery",family,6.2,56,2106,2012,6,5520
+tt2181931,English Vinglish,"Comedy, Drama, Family",family,7.8,N/A,40630,2012,10,8040
+tt1800372,Achtste-groepers huilen niet,"Drama, Family, Sport",family,7.4,N/A,4234,2012,2,5760
+tt1368858,The Forger,"Drama, Family, Mystery",family,5.3,N/A,4928,2012,7,5640
+tt1969175,McKenna Shoots for the Stars,"Drama, Family, Sport",family,5.7,N/A,900,2012,7,5580
+tt2089750,Nativity 2: Danger in the Manger!,"Comedy, Family",family,5.4,N/A,4679,2012,11,6300
+tt2081266,Die Abenteuer des Huck Finn,"Adventure, Family",family,5.8,N/A,405,2012,12,5940
+tt2290845,Yedyanchi Jatra,Family,family,7.8,N/A,69,2012,2,N/A
+tt2742164,Mithunam,"Drama, Family",family,8.1,N/A,377,2012,12,7200
+tt1847615,Ira Finkelstein's Christmas,"Comedy, Family",family,5.4,N/A,625,2012,11,6000
+tt2325491,12 Dogs of Christmas: Great Puppy Rescue,"Adventure, Comedy, Family",family,5.1,N/A,524,2012,10,6120
+tt2071648,Vampire Dog,"Comedy, Family, Fantasy",family,4.2,N/A,1296,2012,11,5460
+tt2186562,Die Vampirschwestern,"Adventure, Comedy, Drama",family,5.6,N/A,961,2012,12,5820
+tt2400377,Kaksparsh,"Drama, Family, History",family,8.1,N/A,986,2012,5,8400
+tt1748179,Red Lights,"Drama, Fantasy, Mystery",fantasy,6.2,36,68119,2012,3,6840
+tt1596365,The Woman in Black,"Drama, Fantasy, Horror",fantasy,6.4,62,196164,2012,2,5700
+tt1531901,Byzantium,"Drama, Fantasy, Horror",fantasy,6.5,66,47050,2012,5,7080
+tt1839492,Ruby Sparks,"Comedy, Drama, Fantasy",fantasy,7.2,67,106881,2012,9,6240
+tt2076220,Holy Motors,"Drama, Fantasy",fantasy,7.0,85,50048,2012,7,6900
+tt0763831,A Thousand Words,"Comedy, Drama, Fantasy",fantasy,5.9,26,46222,2012,3,5460
+tt1783732,John Dies at the End,"Comedy, Fantasy, Horror",fantasy,6.3,53,41038,2012,12,5940
+tt2332623,Fateful Findings,"Comedy, Drama, Fantasy",fantasy,4.3,N/A,6818,2012,1,6000
+tt1935902,The Brass Teapot,"Comedy, Fantasy, Thriller",fantasy,6.3,43,17483,2012,4,6060
+tt1702009,Strippers vs Werewolves,"Action, Comedy, Crime",fantasy,3.0,N/A,2362,2012,4,5580
+tt1854513,Blancanieves,"Drama, Fantasy",fantasy,7.5,82,11870,2012,9,6240
+tt1462757,The Ghostmaker,"Fantasy, Horror, Sci-Fi",fantasy,4.9,N/A,2409,2012,11,5460
+tt1924273,Promoción fantasma,"Adventure, Comedy, Fantasy",fantasy,6.3,N/A,3787,2012,2,5280
+tt1799508,After,"Drama, Fantasy, Horror",fantasy,5.4,N/A,6281,2012,10,5400
+tt2318405,Belyy tigr,"Action, Adventure, Fantasy",fantasy,6.1,N/A,5082,2012,5,6240
+tt0829176,Gallowwalkers,"Action, Adventure, Fantasy",fantasy,3.6,N/A,8535,2012,3,5520
+tt1872204,The Raid,"Documentary, Adventure, Biography",fantasy,7.2,N/A,203,2012,N/A,2760
+tt2112287,Thale,"Drama, Fantasy, Horror",fantasy,5.5,N/A,6262,2012,2,4560
+tt1922777,Sinister,"Horror, Mystery, Thriller",horror,6.8,53,296994,2012,10,6600
+tt2105044,V/H/S,"Horror, Mystery, Thriller",horror,5.8,54,72123,2012,9,6960
+tt1999995,Would You Rather,"Horror, Thriller",horror,5.7,20,47388,2012,6,5580
+tt1959332,American Mary,"Drama, Horror",horror,6.2,46,29553,2012,1,6180
+tt1555093,The Seasoning House,"Drama, Horror, Thriller",horror,6.1,N/A,11728,2012,6,5400
+tt2332514,La fille de nulle part,"Drama, Horror, Mystery",horror,6.0,N/A,1222,2012,2,5460
+tt0938330,Silent Hill: Revelation,"Horror, Mystery, Thriller",horror,4.9,16,68363,2012,10,5700
+tt2040560,The Pact,"Horror, Mystery, Thriller",horror,5.7,54,25777,2012,6,5340
+tt1582507,House at the End of the Street,"Drama, Horror, Mystery",horror,5.5,31,82952,2012,9,6060
+tt0431021,The Possession,"Horror, Mystery, Thriller",horror,5.9,45,64527,2012,8,5520
+tt1763264,No One Lives,"Horror, Thriller",horror,6.0,26,25564,2012,5,5160
+tt1852770,Dracula 3D,"Drama, Horror, Romance",horror,3.6,25,5548,2012,11,6600
+tt1748227,The Collection,"Horror, Thriller",horror,6.1,38,55997,2012,11,4920
+tt1545106,Vamps,"Comedy, Horror, Romance",horror,5.3,57,11837,2012,11,5520
+tt1991245,Chernobyl Diaries,"Horror, Mystery, Thriller",horror,5.0,32,69519,2012,5,5160
+tt2149360,Found,"Drama, Horror, Thriller",horror,5.8,41,5782,2012,1,6180
+tt1713476,The Bay,"Horror, Sci-Fi, Thriller",horror,5.7,65,30816,2012,11,5100
+tt2099556,Antiviral,"Horror, Mystery, Sci-Fi",horror,5.7,55,16048,2012,2,6480
+tt1977895,Resolution,"Drama, Horror, Mystery",horror,6.4,80,20511,2012,1,5580
+tt2385074,Thanatomorphose,Horror,horror,4.5,N/A,2071,2012,10,6000
+tt1728975,Elevator,"Horror, Thriller",horror,5.3,N/A,7421,2012,1,5040
+tt1731697,The Lords of Salem,"Horror, Thriller",horror,5.2,57,33330,2012,4,6060
+tt1935896,The ABCs of Death,"Comedy, Horror",horror,4.7,43,20846,2012,4,7740
+tt2109184,Paranormal Activity 4,"Horror, Mystery",horror,4.7,40,71891,2012,10,5280
+tt1930294,Black Rock,"Horror, Thriller",horror,4.8,46,10084,2012,5,4980
+tt1640218,Evidence,"Horror, Sci-Fi",horror,5.0,N/A,5547,2012,9,4680
+tt2231554,Grave Encounters 2,"Horror, Mystery",horror,5.1,N/A,28704,2012,2,5880
+tt1659343,Universal Soldier: Day of Reckoning,"Action, Horror, Mystery",horror,5.1,58,21792,2012,10,6840
+tt1433822,The Apparition,"Horror, Thriller",horror,4.1,18,20906,2012,8,4980
+tt1362058,Cockneys vs Zombies,"Action, Comedy, Horror",horror,5.9,52,20688,2012,8,5280
+tt1525366,Grabbers,"Action, Adventure, Comedy",horror,6.3,62,20027,2012,8,5640
+tt1838722,Truth or Dare,"Horror, Mystery",horror,5.6,N/A,10755,2012,8,5760
+tt1707386,Les Misérables,"Drama, Musical, Romance",musical,7.5,63,353318,2012,12,9480
+tt2204379,The Devil's Carnival,"Horror, Musical",musical,5.9,N/A,4767,2012,3,3360
+tt2243393,Love Never Dies,"Drama, Music, Musical",musical,6.6,N/A,3226,2012,4,7260
+tt1754633,The Ghastly Love of Johnny X,"Comedy, Fantasy, Musical",musical,5.6,N/A,527,2012,3,6360
+tt1995260,Battlefield America,"Drama, Musical",musical,2.6,31,1518,2012,6,6360
+tt1980986,Housefull 2,"Action, Comedy, Drama",musical,5.4,N/A,16665,2012,4,8700
+tt2059244,Main dans la main,Musical,musical,6.0,N/A,682,2012,12,4860
+tt2556342,Feu: Crazy Horse Paris,"Documentary, Musical",musical,6.3,N/A,212,2012,3,5400
+tt2062645,Hecho en México,"Documentary, History, Music",musical,6.9,N/A,703,2012,9,5880
+tt1614955,Marco Macaco,"Animation, Comedy, Family",musical,3.8,N/A,466,2012,10,4800
+tt2364616,I Do Bidoo Bidoo: Heto nApo sila!,"Comedy, Musical, Romance",musical,7.9,N/A,68,2012,8,7200
+tt1990218,Adventures Into the Woods: A Sexy Musical,"Comedy, Fantasy, Musical",musical,4.0,N/A,273,2012,8,6000
+tt1959409,Imaginaerum,"Drama, Fantasy, Musical",musical,6.1,N/A,6745,2012,11,5160
+tt2397561,Shirdi Sai,"Biography, Drama, Musical",musical,6.5,N/A,391,2012,9,8700
+tt1843840,A Última Vez Que Vi Macau,"Crime, Drama, Musical",musical,6.2,69,589,2012,8,4920
+tt1980033,Ai to makoto,"Action, Comedy, Musical",musical,6.4,N/A,820,2012,6,7980
+tt2355765,Ordinary,"Comedy, Drama, Musical",musical,6.7,N/A,1064,2012,3,9000
+tt1819603,Mondomanila: Kung paano ko inayos ang buhok ko matapos ang mahaba-haba ring paglalakbay,"Comedy, Horror, Musical",musical,6.2,N/A,197,2012,11,4500
+tt2316465,Big Easy Express,"Documentary, Musical",musical,7.5,N/A,1027,2012,6,5880
+tt4634272,Kolah Ghermezi and Bache Nane,"Adventure, Comedy, Family",musical,6.3,N/A,938,2012,8,6000
+tt1678055,"You, Me & The Circus",Musical,musical,8.1,N/A,130,2012,9,5760
+tt2310958,Summertime,"Comedy, Horror, Musical",musical,3.1,N/A,242,2012,9,5580
+tt2198263,Twelfth Night,Musical,musical,7.7,N/A,46,2012,3,7200
+tt1978567,The Reef 2: High Tide,"Animation, Adventure, Comedy",musical,3.7,N/A,1150,2012,10,4800
+tt2034058,My Last Valentine in Beirut in 3D,"Comedy, Fantasy, Musical",musical,5.6,N/A,113,2012,11,5100
+tt1411274,Laulu koti-ikävästä,"Documentary, Drama, Music",musical,7.1,N/A,360,2012,3,5400
+tt2409642,Ghetuputra Komola,"Drama, Musical",musical,7.5,N/A,1981,2012,9,6060
+tt12880464,VeggieTales: The Princess and the Popstar,"Animation, Family, Musical",musical,5.8,N/A,16,2012,12,N/A
+tt2925942,O Que Se Move,"Drama, Musical",musical,6.8,58,105,2012,5,5820
+tt3091982,Jaaneman,"Action, Drama, Musical",musical,5.2,N/A,216,2012,5,9780
+tt2195896,A F**kload of Scotch Tape,"Crime, Drama, Musical",musical,5.7,N/A,84,2012,N/A,5640
+tt2665168,"Damn You, Roland Ruby!","Comedy, Music, Musical",musical,7.3,N/A,8,2012,N/A,6900
+tt1956433,Ata Pata Lapatta,"Comedy, Musical",musical,5.5,N/A,100,2012,11,7200
+tt11576176,Mazhavillinattam Vare,"Musical, Romance, Sport",musical,0.0,N/A,0,2012,,N/A
+tt1786650,Risto Räppääjä ja viileä Venla,"Comedy, Family, Musical",musical,5.1,N/A,375,2012,2,4320
+tt2418248,Ivan Megharoopan,"Biography, Drama, Musical",musical,7.5,N/A,37,2012,7,6600
+tt13912120,VeggieTales: The Little Drummer Boy!,"Animation, Comedy, Family",musical,6.1,N/A,23,2012,11,3240
+tt2631210,Pretville,Musical,musical,5.0,N/A,75,2012,11,5460
+tt2182099,Satrangi Re,"Music, Musical",musical,6.7,N/A,55,2012,2,8100
+tt4643086,Ávaxtakarfan,"Comedy, Family, Musical",musical,7.5,N/A,31,2012,8,5160
+tt2191721,Jodi Breakers,"Comedy, Musical, Romance",musical,3.7,N/A,1251,2012,2,7620
+tt1732518,Abril en Nueva York,"Drama, Musical, Romance",musical,5.6,N/A,178,2012,11,5760
+tt2726410,Muck,Musical,musical,4.4,N/A,58,2012,3,5400
+tt1371111,Cloud Atlas,"Drama, Mystery, Sci-Fi",mystery,7.4,55,380265,2012,10,10320
+tt1327194,The Lucky One,"Drama, Mystery, Romance",mystery,6.4,39,116008,2012,4,6060
+tt1964624,Dans la maison,"Drama, Mystery, Thriller",mystery,7.3,72,35097,2012,10,6300
+tt1840417,The Words,"Drama, Mystery, Romance",mystery,7.0,37,82958,2012,9,6120
+tt1745686,Die Wand,"Drama, Mystery, Sci-Fi",mystery,6.7,67,7569,2012,10,6480
+tt1132285,The Factory,"Crime, Mystery, Thriller",mystery,5.8,N/A,12030,2012,6,6240
+tt1606339,Sushi Girl,"Crime, Mystery, Thriller",mystery,6.0,N/A,5446,2012,11,5880
+tt1745958,Rites of Passage,"Action, Horror, Mystery",mystery,4.0,N/A,1766,2012,2,6180
+tt1787988,Talaash,"Crime, Drama, Mystery",mystery,7.3,65,46631,2012,11,8400
+tt2468774,Naega sarinbeomida,"Action, Crime, Mystery",mystery,7.0,N/A,12312,2012,11,7140
+tt1928337,Mine Games,"Horror, Mystery, Thriller",mystery,5.3,N/A,4577,2012,9,5520
+tt1985017,Atlas Shrugged II: The Strike,"Drama, Mystery, Sci-Fi",mystery,5.3,26,7775,2012,10,6660
+tt2025667,Smiley,"Horror, Mystery, Thriller",mystery,3.3,25,10035,2012,10,5700
+tt1684925,Wish You Were Here,"Drama, Mystery, Thriller",mystery,5.9,62,6312,2012,4,5340
+tt1781769,Anna Karenina,"Drama, Romance",romance,6.6,63,109297,2012,9,7740
+tt1823059,A Perfect Ending,"Drama, Romance",romance,5.6,N/A,5113,2012,6,6600
+tt1606389,The Vow,"Drama, Romance",romance,6.8,43,209147,2012,2,6240
+tt2083383,Trouble with the Curve,"Drama, Romance, Sport",romance,6.8,58,70240,2012,9,6660
+tt2053425,De rouille et d'os,"Drama, Romance",romance,7.4,73,71706,2012,5,7200
+tt1276419,En kongelig affære,"Biography, Drama, History",romance,7.5,73,52512,2012,3,8220
+tt1920849,Bachelorette,"Comedy, Romance",romance,5.3,53,49605,2012,10,5220
+tt1374992,Upside Down,"Drama, Romance, Sci-Fi",romance,6.3,45,74867,2012,5,6540
+tt1535438,Hope Springs,"Comedy, Drama, Romance",romance,6.3,65,45166,2012,8,6000
+tt1595656,To the Wonder,"Drama, Romance",romance,5.8,58,30388,2012,2,6720
+tt2544120,Hoo-goong: Je-wang-eui cheob,"Drama, History, Romance",romance,6.0,N/A,2796,2012,6,7320
+tt0975645,Hitchcock,"Biography, Drama, Romance",romance,6.8,55,80736,2012,12,5880
+tt2024519,The Broken Circle Breakdown,"Drama, Music, Romance",romance,7.7,70,44302,2012,10,6660
+tt1872818,Liberal Arts,"Comedy, Drama, Romance",romance,6.7,55,41255,2012,10,5820
+tt1800741,Step Up Revolution,"Drama, Music, Romance",romance,6.4,43,59005,2012,7,5940
+tt1859650,To Rome with Love,"Comedy, Music, Romance",romance,6.3,54,91973,2012,4,6720
+tt1836808,Great Expectations,"Drama, Romance",romance,6.3,60,13955,2012,11,7680
+tt2124074,28 Hotel Rooms,"Drama, Romance",romance,5.7,50,3749,2012,11,4920
+tt1753584,Chroniques sexuelles d'une famille d'aujourd'hui,"Comedy, Drama, Romance",romance,5.2,34,4974,2012,5,5100
+tt1441951,Quartet,"Comedy, Drama, Music",romance,6.8,64,21782,2012,1,5880
+tt1673697,The Sapphires,"Biography, Comedy, Drama",romance,7.0,67,15587,2012,8,6180
+tt1790885,Zero Dark Thirty,"Drama, History, Thriller",thriller,7.4,95,328995,2012,1,9420
+tt1649419,Lo imposible,"Drama, History, Thriller",thriller,7.5,73,254477,2012,10,6840
+tt1024648,Argo,"Biography, Drama, History",thriller,7.7,86,650505,2012,10,7200
+tt1907668,Flight,"Drama, Thriller",thriller,7.3,76,385564,2012,11,8280
+tt1764183,Arbitrage,"Drama, Thriller",thriller,6.6,73,56181,2012,9,6420
+tt1381404,The Company You Keep,"Drama, Thriller",thriller,6.4,57,36432,2012,4,7500

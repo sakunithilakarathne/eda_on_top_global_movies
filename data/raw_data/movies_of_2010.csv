@@ -1,0 +1,335 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime
+tt1375666,Inception,"Action, Adventure, Sci-Fi",action,8.8,74,2663086,2010,7,8880
+tt0446029,Scott Pilgrim vs. the World,"Action, Comedy, Fantasy",action,7.5,69,479551,2010,8,6720
+tt0892769,How to Train Your Dragon,"Animation, Action, Adventure",action,8.1,75,836570,2010,3,5880
+tt0800320,Clash of the Titans,"Action, Adventure, Fantasy",action,5.8,39,298197,2010,4,6360
+tt1104001,Tron: Legacy,"Action, Adventure, Sci-Fi",action,6.8,49,363816,2010,12,7500
+tt1250777,Kick-Ass,"Action, Comedy, Crime",action,7.6,66,607253,2010,3,7020
+tt1245526,RED,"Action, Comedy, Crime",action,7.0,60,331172,2010,10,6660
+tt1228705,Iron Man 2,"Action, Sci-Fi",action,6.9,57,897302,2010,5,7440
+tt1386588,The Other Guys,"Action, Comedy, Crime",action,6.7,64,297549,2010,8,6420
+tt1588170,Angmareul boatda,"Action, Thriller",action,7.8,67,155085,2010,8,8640
+tt1038686,Legion,"Action, Fantasy, Horror",action,5.3,32,115525,2010,1,6000
+tt1527788,Ajeossi,"Action, Drama, Thriller",action,7.7,N/A,77501,2010,8,7140
+tt0955308,Robin Hood,"Action, Adventure, Drama",action,6.6,53,289680,2010,5,8400
+tt1320253,The Expendables,"Action, Adventure, Thriller",action,6.4,45,371669,2010,8,6180
+tt1155076,The Karate Kid,"Action, Drama, Family",action,6.2,61,214753,2010,6,8400
+tt1325004,The Twilight Saga: Eclipse,"Action, Adventure, Drama",action,5.1,58,269278,2010,6,7440
+tt1179025,Les aventures extraordinaires d'Adèle Blanc-Sec,"Action, Adventure, Comedy",action,6.3,N/A,23523,2010,4,6420
+tt0473075,Prince of Persia: The Sands of Time,"Action, Adventure, Fantasy",action,6.5,50,310562,2010,5,6960
+tt1424381,Predators,"Action, Adventure, Sci-Fi",action,6.4,51,251336,2010,7,6420
+tt0429493,The A-Team,"Action, Adventure, Crime",action,6.7,47,272437,2010,6,7020
+tt1013743,Knight and Day,"Action, Adventure, Comedy",action,6.3,46,216895,2010,6,6540
+tt1037705,The Book of Eli,"Action, Adventure, Drama",action,6.8,53,349844,2010,1,7080
+tt0964517,The Fighter,"Action, Biography, Drama",action,7.8,79,397588,2010,12,6960
+tt1001526,Megamind,"Animation, Action, Adventure",action,7.3,63,307683,2010,11,5700
+tt0944835,Salt,"Action, Thriller",action,6.5,65,336421,2010,7,6000
+tt0477080,Unstoppable,"Action, Thriller",action,6.8,69,212886,2010,11,5880
+tt1433108,Faster,"Action, Crime, Drama",action,6.4,44,114621,2010,11,5880
+tt0938283,The Last Airbender,"Action, Adventure, Family",action,4.0,20,177897,2010,7,6180
+tt1243957,The Tourist,"Action, Thriller",action,6.0,37,261939,2010,12,6180
+tt0985694,Machete,"Action, Crime, Thriller",action,6.6,60,206810,2010,9,6300
+tt1458175,The Next Three Days,"Action, Crime, Drama",action,7.3,52,211091,2010,11,7980
+tt0480255,The Losers,"Action, Adventure, Comedy",action,6.2,44,109020,2010,4,5820
+tt0963966,The Sorcerer's Apprentice,"Action, Adventure, Family",action,6.1,46,173016,2010,7,6540
+tt1220634,Resident Evil: Afterlife,"Action, Horror, Sci-Fi",action,5.8,37,182861,2010,9,5760
+tt1103153,Killers,"Action, Comedy, Romance",action,5.5,21,97891,2010,6,6000
+tt1512235,Super,"Action, Comedy, Crime",action,6.7,50,85095,2010,6,5760
+tt1564585,Skyline,"Action, Sci-Fi, Thriller",action,4.5,26,93220,2010,11,5520
+tt1038919,The Bounty Hunter,"Action, Comedy, Romance",action,5.5,22,136864,2010,3,6600
+tt1181791,Black Death,"Action, Drama, History",action,6.4,71,52545,2010,6,6120
+tt1226273,Edge of Darkness,"Action, Adventure, Drama",action,6.6,55,101269,2010,1,7020
+tt1523267,Arctic Blast,"Action, Adventure, Drama",action,3.9,N/A,4213,2010,5,5520
+tt1020558,Centurion,"Action, Drama, History",action,6.3,62,87874,2010,4,5820
+tt1179034,From Paris with Love,"Action, Crime, Thriller",action,6.4,42,123466,2010,2,5520
+tt1385867,Cop Out,"Action, Comedy, Crime",action,5.5,31,91403,2010,2,6420
+tt1075747,Jonah Hex,"Action, Drama, Fantasy",action,4.7,33,63039,2010,6,4860
+tt1219342,Legend of the Guardians: The Owls of Ga'Hoole,"Animation, Action, Adventure",action,6.9,53,89342,2010,9,5820
+tt0411951,Tekken,"Action, Crime, Drama",action,4.8,N/A,28994,2010,3,5460
+tt1470023,MacGruber,"Action, Comedy",action,5.6,43,48347,2010,5,5400
+tt1135084,Takers,"Action, Crime, Drama",action,6.2,45,67082,2010,8,6420
+tt1053424,Repo Men,"Action, Sci-Fi, Thriller",action,6.3,32,112401,2010,3,6660
+tt0398286,Tangled,"Animation, Adventure, Comedy",adventure,7.7,71,516475,2010,11,6000
+tt1014759,Alice in Wonderland,"Adventure, Family, Fantasy",adventure,6.4,53,453128,2010,3,6480
+tt0892791,Shrek Forever After,"Animation, Adventure, Comedy",adventure,6.3,58,233668,2010,5,5580
+tt0926084,Harry Potter and the Deathly Hallows - Part 1,"Adventure, Family, Fantasy",adventure,7.7,65,626570,2010,11,8760
+tt1323594,Despicable Me,"Animation, Adventure, Comedy",adventure,7.6,72,606496,2010,9,5700
+tt0814255,Percy Jackson & the Olympians: The Lightning Thief,"Adventure, Family, Fantasy",adventure,5.9,47,208469,2010,2,7080
+tt0435761,Toy Story 3,"Animation, Adventure, Comedy",adventure,8.3,92,925322,2010,8,6180
+tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,"Adventure, Family, Fantasy",adventure,6.3,53,171344,2010,12,6780
+tt1023114,The Way Back,"Adventure, Drama, History",adventure,7.3,66,124428,2010,1,7980
+tt1568921,Karigurashi no Arietti,"Animation, Adventure, Drama",adventure,7.6,80,110090,2010,7,5640
+tt1323045,Frozen,"Adventure, Thriller",adventure,6.2,43,84169,2010,3,5580
+tt1470827,Monsters,"Adventure, Drama, Romance",adventure,6.3,63,99571,2010,12,5640
+tt0892318,Letters to Juliet,"Adventure, Comedy, Drama",adventure,6.5,50,109477,2010,5,6300
+tt1320261,Gulliver's Travels,"Adventure, Comedy, Family",adventure,4.9,33,75469,2010,12,5100
+tt1436045,Jûsan-nin no shikaku,"Action, Adventure, Drama",adventure,7.5,84,70057,2010,9,8460
+tt1514041,4.3.2.1,"Action, Adventure, Crime",adventure,5.8,N/A,11132,2010,6,7020
+tt1456941,"Tomorrow, When the War Began","Action, Adventure, Drama",adventure,6.1,54,32358,2010,9,6240
+tt1320291,The Reef,"Adventure, Horror, Thriller",adventure,5.8,N/A,21734,2010,3,5640
+tt1302067,Yogi Bear,"Animation, Adventure, Comedy",adventure,4.6,35,23967,2010,12,4860
+tt1518812,Meek's Cutoff,"Adventure, Drama, Thriller",adventure,6.5,85,15698,2010,4,6240
+tt1401143,Rare Exports,"Adventure, Fantasy, Horror",adventure,6.6,71,33808,2010,12,5040
+tt1093906,The Rig,"Action, Adventure, Horror",adventure,3.2,N/A,2269,2010,10,5640
+tt0940656,Arthur 3: la guerre des deux mondes,"Animation, Adventure, Family",adventure,5.5,N/A,10895,2010,10,6060
+tt1477109,Space Battleship Yamato,"Action, Adventure, Drama",adventure,6.0,N/A,6549,2010,12,8280
+tt1646926,Open Season 3,"Animation, Adventure, Comedy",adventure,5.0,N/A,13980,2010,1,4500
+tt1705125,Mysterious Island,"Adventure, Fantasy, Horror",adventure,3.5,N/A,1282,2010,12,5460
+tt1213012,Alpha and Omega,"Animation, Adventure, Comedy",adventure,5.1,36,15618,2010,9,5400
+tt1673423,My Babysitter's a Vampire,"Adventure, Comedy, Crime",adventure,6.1,N/A,4444,2010,6,4800
+tt1401113,Dante's Inferno: An Animated Epic,"Animation, Action, Adventure",adventure,6.5,N/A,10586,2010,2,5040
+tt1136688,Tales of an Ancient Empire,"Action, Adventure",adventure,2.2,N/A,1713,2010,7,5160
+tt0775489,L'illusionniste,"Animation, Drama, Fantasy",animation,7.4,82,37007,2010,6,4800
+tt1618450,Winx Club 3D: Magica avventura,Animation,animation,6.2,N/A,1060,2010,10,5220
+tt1796657,Tri bogatyrya i Shamakhanskaya tsaritsa,"Animation, Adventure, Comedy",animation,6.3,N/A,2266,2010,12,4500
+tt1679332,"Ultramarines: A Warhammer 40,000 Movie","Animation, Action, Fantasy",animation,5.6,N/A,6446,2010,12,4200
+tt1703048,Gekijouban Naruto Shippuuden: Za rosuto tawâ,"Animation, Action, Adventure",animation,6.8,N/A,4712,2010,7,5100
+tt1230204,Sammy's avonturen: De geheime doorgang,"Animation, Adventure, Family",animation,6.0,N/A,8458,2010,8,5280
+tt1546036,The Drawn Together Movie: The Movie!,"Animation, Comedy, Mystery",animation,6.1,N/A,4727,2010,3,4200
+tt1703049,Trigun: Badlands Rumble,"Animation, Action, Drama",animation,7.4,N/A,6073,2010,4,5400
+tt1572781,Suzumiya Haruhi no shôshitsu,"Animation, Drama, Mystery",animation,8.0,N/A,8387,2010,2,9720
+tt1272051,Belka i Strelka. Zvyozdnye sobaki,"Animation, Adventure, Comedy",animation,5.0,N/A,1578,2010,3,5100
+tt1677561,Karafuru,"Animation, Drama, Fantasy",animation,7.3,N/A,7420,2010,8,7560
+tt0915463,Jackboots on Whitehall,"Animation, Comedy, Sci-Fi",animation,5.3,N/A,1515,2010,10,5460
+tt1587157,Gekijouban Yuugiou: Chouyuugou! Jikuu o koeta kizuna,"Animation, Action, Adventure",animation,6.4,N/A,2195,2010,1,3000
+tt1560987,The Trouble with Terkel,"Animation, Comedy, Drama",animation,7.1,N/A,430,2010,5,5220
+tt1807978,Bhoot and Friends,"Animation, Action, Adventure",animation,6.1,N/A,349,2010,12,7980
+tt1673702,Une vie de chat,"Animation, Adventure, Comedy",animation,6.9,63,12161,2010,12,4200
+tt1606636,Muumi ja punainen pyrstötähti,"Animation, Adventure, Family",animation,6.0,N/A,658,2010,8,4500
+tt1735221,RPG Metanoia,"Animation, Adventure, Drama",animation,7.3,N/A,209,2010,12,6300
+tt1620449,Konferenz der Tiere,"Animation, Adventure, Comedy",animation,4.9,N/A,7102,2010,10,5580
+tt1535430,Cheburashka,"Animation, Action, Family",animation,6.9,N/A,366,2010,12,4800
+tt1352765,Prezít svuj zivot (teorie a praxe),"Animation, Comedy, Fantasy",animation,7.2,N/A,1536,2010,9,6540
+tt0312305,Quantum Quest: A Cassini Space Odyssey,"Animation, Adventure, Sci-Fi",animation,5.1,N/A,473,2010,12,3000
+tt1754177,Marudukku sukuranburu: Asshuku,"Animation, Action, Drama",animation,6.4,N/A,1658,2010,11,4140
+tt1636780,Gekijôban Gintama: Shin'yaku Benizakura hen,"Animation, Action, Comedy",animation,7.6,N/A,2396,2010,4,5760
+tt1715210,Ivu no Jikan: Gekijôban,"Animation, Drama, Romance",animation,7.2,N/A,4224,2010,3,6360
+tt0765465,The Legend of Secret Pass,"Animation, Family, Fantasy",animation,4.9,N/A,498,2010,1,5520
+tt1636815,Meitantei Conan: Tenkuu no rosuto shippu,"Animation, Action, Adventure",animation,6.9,N/A,2175,2010,4,6180
+tt1683981,Thomas & Friends: Misty Island Rescue,"Animation, Adventure, Family",animation,4.8,N/A,500,2010,10,3600
+tt1754455,L'apprenti Père Noël,"Animation, Comedy, Family",animation,6.3,N/A,580,2010,11,4800
+tt1785394,Gekijôban Burîchi: Jigokuhen,"Animation, Action, Adventure",animation,7.3,N/A,3572,2010,12,5640
+tt1630603,Kuky se vrací,"Animation, Comedy, Family",animation,7.2,N/A,1298,2010,5,5700
+tt1734113,Omae umasoudana,"Animation, Action, Adventure",animation,7.4,N/A,1039,2010,10,5340
+tt1613031,Eiga Doraemon: Nobita no ningyo daikaisen,"Animation, Adventure, Comedy",animation,6.5,N/A,783,2010,3,5940
+tt1726286,Gekijouban Kidou senshi Gandamu 00: A wakening of the trailblazer,"Animation, Action, Adventure",animation,6.7,N/A,734,2010,9,7260
+tt1189006,Toonpur Ka Superrhero,"Animation, Action, Adventure",animation,4.3,N/A,1128,2010,12,5700
+tt0811021,Plumíferos - Aventuras voladoras,"Animation, Adventure, Comedy",animation,3.4,N/A,332,2010,2,4800
+tt1274275,Olsen-banden på de bonede gulve,"Animation, Comedy, Crime",animation,4.6,N/A,870,2010,10,4200
+tt1375670,Grown Ups,Comedy,comedy,6.0,30,292415,2010,6,6120
+tt0464154,Piranha 3D,"Comedy, Horror",comedy,5.5,53,99261,2010,8,5280
+tt1282140,Easy A,"Comedy, Drama, Romance",comedy,7.0,72,429791,2010,9,5520
+tt0758752,Love & Other Drugs,"Comedy, Drama, Romance",comedy,6.7,55,234145,2010,11,6720
+tt1185416,When in Rome,"Comedy, Romance",comedy,5.5,25,65927,2010,1,5460
+tt1196141,Diary of a Wimpy Kid,"Comedy, Drama, Family",comedy,6.2,56,61231,2010,3,5640
+tt0817177,Flipped,"Comedy, Drama, Romance",comedy,7.7,45,101659,2010,9,5400
+tt1231587,Hot Tub Time Machine,"Comedy, Sci-Fi",comedy,6.4,63,191158,2010,3,5940
+tt1216492,Leap Year,"Comedy, Romance",comedy,6.4,33,113292,2010,1,6000
+tt1212436,The Back-up Plan,"Comedy, Romance",comedy,5.3,34,53508,2010,4,6240
+tt1465522,Tucker and Dale vs Evil,"Comedy, Horror",comedy,7.5,65,200319,2010,12,5340
+tt0817230,Valentine's Day,"Comedy, Romance",comedy,5.8,34,127568,2010,2,7500
+tt1055292,Life as We Know It,"Comedy, Drama, Romance",comedy,6.5,39,141594,2010,10,6900
+tt0815236,She's Out of My League,"Comedy, Romance",comedy,6.4,46,148915,2010,3,6240
+tt1261945,Sex and the City 2,"Comedy, Drama, Romance",comedy,4.5,27,86089,2010,5,8760
+tt1441912,The Way,"Comedy, Drama",comedy,7.3,64,36493,2010,11,7380
+tt0427152,Dinner for Schmucks,Comedy,comedy,5.9,56,113141,2010,7,6840
+tt1341167,Four Lions,"Comedy, Crime, Drama",comedy,7.3,68,87903,2010,5,5820
+tt1231583,Due Date,"Comedy, Drama",comedy,6.5,51,364385,2010,11,5700
+tt0970866,Little Fockers,"Comedy, Romance",comedy,5.5,27,122509,2010,12,5880
+tt1666186,Vampires Suck,"Comedy, Horror",comedy,3.4,18,52952,2010,8,4920
+tt1321509,Death at a Funeral,"Comedy, Drama",comedy,5.7,51,55243,2010,4,5520
+tt1356864,I'm Still Here,"Comedy, Drama, Music",comedy,6.2,48,24415,2010,9,6480
+tt1279935,Date Night,"Comedy, Crime, Romance",comedy,6.3,56,175635,2010,4,5280
+tt1440292,Submarine,"Comedy, Drama, Romance",comedy,7.3,76,98504,2010,3,5820
+tt1532503,Beginners,"Comedy, Drama, Romance",comedy,7.2,81,95832,2010,6,6300
+tt0842926,The Kids Are All Right,"Comedy, Drama, Romance",comedy,7.0,86,135871,2010,7,6360
+tt0889573,The Switch,"Comedy, Drama, Romance",comedy,6.1,52,114495,2010,8,6060
+tt1414382,You Again,"Comedy, Romance",comedy,5.7,28,55548,2010,9,6300
+tt1107319,Dirty Girl,"Comedy, Drama",comedy,6.4,37,11605,2010,7,5400
+tt1415283,Nanny McPhee and the Big Bang,"Comedy, Family, Fantasy",comedy,6.1,52,38436,2010,3,6540
+tt1612774,Rubber,"Comedy, Fantasy, Horror",comedy,5.7,59,41552,2010,11,4920
+tt0840361,The Town,"Crime, Drama, Thriller",crime,7.5,74,428591,2010,9,7500
+tt0914863,Unthinkable,"Crime, Drama, Thriller",crime,7.0,N/A,97275,2010,5,5820
+tt1361835,Das letzte Schweigen,"Crime, Drama, Thriller",crime,6.9,72,8551,2010,8,7080
+tt1399683,Winter's Bone,"Crime, Drama, Mystery",crime,7.1,90,153973,2010,7,6000
+tt1179056,A Nightmare on Elm Street,"Crime, Drama, Horror",crime,5.2,35,110751,2010,4,5700
+tt1440728,The American,"Crime, Drama, Thriller",crime,6.3,61,104091,2010,9,6300
+tt0798817,13,"Crime, Drama, Thriller",crime,6.0,29,44862,2010,3,5460
+tt1139328,The Ghost Writer,"Crime, Drama, Mystery",crime,7.2,77,173587,2010,2,7680
+tt1645089,Inside Job,"Documentary, Crime",crime,8.2,88,80940,2010,11,6540
+tt1175709,All Good Things,"Crime, Drama, Mystery",crime,6.3,57,62287,2010,12,6060
+tt1529572,Trust,"Crime, Drama, Mystery",crime,6.9,60,45194,2010,4,6360
+tt1313092,Animal Kingdom,"Crime, Drama, Thriller",crime,7.2,83,61788,2010,6,6780
+tt1477076,Saw 3D,"Crime, Horror, Mystery",crime,5.5,24,113924,2010,10,5400
+tt0954947,The Killer Inside Me,"Crime, Drama, Mystery",crime,6.1,53,36274,2010,6,6540
+tt0896872,The Whistleblower,"Biography, Crime, Drama",crime,7.1,59,36394,2010,10,6720
+tt1692190,El infierno,"Comedy, Crime, Drama",crime,7.6,N/A,12858,2010,9,8940
+tt1555149,Tropa de Elite 2: O Inimigo Agora é Outro,"Crime, Drama, Thriller",crime,8.0,71,89136,2010,10,6900
+tt1100051,Bereavement,"Crime, Horror, Thriller",crime,5.0,N/A,8355,2010,7,6540
+tt1587707,Exit Through the Gift Shop,"Documentary, Comedy, Crime",crime,7.9,85,69797,2010,3,5220
+tt1235189,Wild Target,"Action, Comedy, Crime",crime,6.7,41,41505,2010,6,5880
+tt1422020,Dog Pound,"Crime, Drama",crime,7.0,57,13887,2010,6,5460
+tt1244754,Conviction,"Biography, Crime, Drama",crime,7.2,61,47181,2010,11,6420
+tt1632547,Tsumetai nettaigyo,"Crime, Drama, Horror",crime,7.1,66,15186,2010,1,8760
+tt1334553,The Perfect Host,"Comedy, Crime, Thriller",crime,6.7,48,29796,2010,5,5580
+tt0968264,The Conspirator,"Crime, Drama, History",crime,6.9,55,30435,2010,4,7320
+tt1230385,Hwanghae,"Action, Crime, Drama",crime,7.3,70,23721,2010,12,9420
+tt0445054,Les 7 jours du talion,"Crime, Drama, Horror",crime,6.5,N/A,8994,2010,11,6300
+tt1662557,Yongseoneun eupda,"Action, Crime, Thriller",crime,7.4,N/A,10096,2010,1,7380
+tt1264115,The Trial,"Crime, Drama, Mystery",crime,5.6,N/A,1802,2010,4,6060
+tt1233192,Brighton Rock,"Crime, Drama, Thriller",crime,5.7,57,6859,2010,2,6660
+tt1213648,London Boulevard,"Crime, Drama",crime,6.2,52,51070,2010,11,6180
+tt1167638,L'immortel,"Action, Crime, Drama",crime,6.6,N/A,37155,2010,3,7020
+tt1028576,Secretariat,"Biography, Drama, Family",family,7.2,61,31440,2010,10,7380
+tt0493949,Ramona and Beezus,"Comedy, Drama, Family",family,6.5,56,20659,2010,7,6240
+tt1273678,The Spy Next Door,"Action, Comedy, Family",family,5.5,27,48208,2010,1,5640
+tt0808510,Tooth Fairy,"Comedy, Family, Fantasy",family,5.0,36,51250,2010,1,6060
+tt1392197,Marmaduke,"Comedy, Family",family,4.3,30,18084,2010,6,5940
+tt0492389,Furry Vengeance,"Comedy, Family",family,3.9,23,18705,2010,4,5520
+tt1287468,Cats & Dogs: The Revenge of Kitty Galore,"Action, Comedy, Family",family,4.4,30,16701,2010,7,4920
+tt1468387,What If...,"Drama, Family, Fantasy",family,6.3,N/A,3225,2010,4,6660
+tt1570966,Farsan,"Comedy, Drama, Family",family,5.7,N/A,3612,2010,2,5820
+tt0483586,Chasing 3000,"Family, Sport",family,6.3,N/A,1011,2010,7,6900
+tt1041804,The Nutcracker in 3D,"Action, Family, Fantasy",family,4.1,18,4339,2010,12,6600
+tt1754648,The Lamp,"Drama, Family, Fantasy",family,6.0,N/A,551,2010,8,5760
+tt1663628,Christmas Mail,"Comedy, Drama, Family",family,5.2,N/A,2107,2010,12,5340
+tt1738293,Khichdi: The Movie,"Comedy, Family",family,7.3,N/A,3156,2010,10,7200
+tt1629241,Bumm Bumm Bole,"Drama, Family, Thriller",family,6.3,N/A,964,2010,5,7440
+tt1482932,A Very Mary Christmas,"Comedy, Family",family,5.6,N/A,396,2010,11,5820
+tt5539536,Subhmangal Savadhan,Family,family,6.5,N/A,51,2010,9,9060
+tt1464606,You're So Cupid!,"Drama, Family, Sci-Fi",family,5.2,N/A,1067,2010,2,5580
+tt1618421,White Lion,"Drama, Family",family,6.5,N/A,1066,2010,2,5280
+tt1230478,Yohan - Barnevandrer,"Drama, Family",family,5.2,N/A,343,2010,3,7500
+tt1436372,Elle: A Modern Cinderella Tale,"Drama, Family",family,4.0,N/A,1639,2010,4,5400
+tt0780653,The Wolfman,"Drama, Fantasy, Horror",fantasy,5.8,43,114913,2010,2,6180
+tt1228987,Let Me In,"Drama, Fantasy, Horror",fantasy,7.1,79,130062,2010,10,6960
+tt1740707,Trolljegeren,"Drama, Fantasy, Thriller",fantasy,6.9,61,81185,2010,10,6180
+tt1438254,Charlie St. Cloud,"Drama, Fantasy, Romance",fantasy,6.4,37,65549,2010,7,6000
+tt1212419,Hereafter,"Drama, Fantasy, Romance",fantasy,6.5,56,96888,2010,10,7740
+tt1270761,Don't Be Afraid of the Dark,"Fantasy, Horror, Thriller",fantasy,5.5,56,51302,2010,8,5940
+tt1396221,Passion Play,"Drama, Fantasy, Horror",fantasy,4.5,22,8802,2010,7,5640
+tt1274300,The Tempest,"Comedy, Drama, Fantasy",fantasy,5.3,43,8317,2010,1,6600
+tt1588895,Loong Boonmee raleuk chat,"Drama, Fantasy",fantasy,6.7,87,18122,2010,9,6840
+tt1032751,The Warrior's Way,"Action, Drama, Fantasy",fantasy,6.2,45,27621,2010,12,6000
+tt1266037,Quartier lointain,"Comedy, Drama, Fantasy",fantasy,6.9,N/A,1919,2010,5,5880
+tt1410295,Beauty and the Beast,"Drama, Fantasy, Horror",fantasy,3.1,N/A,1876,2010,2,5400
+tt1013860,Dylan Dog: Dead of Night,"Action, Comedy, Crime",fantasy,5.1,31,15853,2010,4,6480
+tt1692504,Wir sind die Nacht,"Drama, Fantasy, Horror",fantasy,6.2,N/A,9044,2010,10,5940
+tt1592503,Alien vs. Ninja,"Action, Comedy, Fantasy",fantasy,4.4,N/A,2351,2010,7,4800
+tt1242432,I Spit on Your Grave,"Horror, Thriller",horror,6.2,27,97621,2010,6,6480
+tt1273235,Srpski film,"Horror, Mystery, Thriller",horror,4.9,N/A,75582,2010,1,6240
+tt1591095,Insidious,"Horror, Mystery, Thriller",horror,6.8,52,351239,2010,4,6180
+tt1316037,Birdemic: Shock and Terror,"Horror, Thriller",horror,1.7,N/A,26130,2010,2,6300
+tt0455407,The Crazies,Horror,horror,6.5,56,133026,2010,2,6060
+tt1314655,Devil,"Horror, Mystery, Thriller",horror,6.3,44,161852,2010,9,4800
+tt1534085,Beyond the Black Rainbow,"Horror, Mystery, Sci-Fi",horror,5.9,49,17579,2010,12,6600
+tt1646959,Kim Bok-nam salinsageonui jeonmal,"Drama, Horror, Thriller",horror,7.2,N/A,18042,2010,9,6900
+tt1369706,The Ward,"Horror, Mystery, Thriller",horror,5.5,38,46087,2010,7,5340
+tt1179069,6 Souls,"Horror, Mystery, Thriller",horror,6.0,28,37781,2010,3,6720
+tt1434435,Mother's Day,"Drama, Horror, Thriller",horror,6.2,34,18901,2010,5,6720
+tt1320244,The Last Exorcism,"Horror, Mystery, Thriller",horror,5.7,63,53235,2010,8,5220
+tt1270835,Hatchet II,"Action, Comedy, Horror",horror,5.5,49,15745,2010,11,5100
+tt1536044,Paranormal Activity 2,"Horror, Mystery",horror,5.7,53,112354,2010,10,5460
+tt1464580,Stake Land,"Drama, Horror",horror,6.4,66,44974,2010,6,5880
+tt1390535,The Final,"Drama, Horror, Thriller",horror,5.3,N/A,12274,2010,5,5580
+tt1391034,And Soon the Darkness,"Drama, Horror, Mystery",horror,5.1,N/A,19146,2010,3,5460
+tt1017464,The Tortured,"Horror, Thriller",horror,5.4,9,8441,2010,9,4920
+tt1244658,Burning Bright,"Drama, Horror, Thriller",horror,5.8,N/A,8262,2010,5,5340
+tt1512685,Los ojos de Julia,"Horror, Mystery, Thriller",horror,6.7,N/A,38281,2010,10,7080
+tt0872230,My Soul to Take,"Horror, Mystery, Thriller",horror,4.8,25,22072,2010,10,6420
+tt1398428,YellowBrickRoad,"Horror, Thriller",horror,4.7,52,7461,2010,1,5880
+tt1601215,No Reason,Horror,horror,4.3,N/A,796,2010,3,4500
+tt1298594,The Presence,"Horror, Thriller",horror,4.4,N/A,3606,2010,8,5220
+tt1629377,Secuestrados,"Action, Horror, Thriller",horror,6.4,49,8773,2010,2,5100
+tt1572491,Balada triste de trompeta,"Comedy, Drama, Horror",horror,6.5,70,15601,2010,12,6420
+tt1525835,Gantz,"Action, Horror, Sci-Fi",horror,6.4,N/A,8482,2010,1,7800
+tt0858411,2001 Maniacs: Field of Screams,"Comedy, Horror",horror,3.1,N/A,2670,2010,2,5040
+tt1452628,Vanishing on 7th Street,"Horror, Mystery, Thriller",horror,4.9,50,27861,2010,2,5520
+tt1345772,The Clinic,"Crime, Horror, Mystery",horror,5.3,N/A,6786,2010,7,5640
+tt1126591,Burlesque,"Drama, Music, Musical",musical,6.4,47,96052,2010,11,7140
+tt1754109,Les Misérables in Concert: The 25th Anniversary,"Drama, Musical",musical,8.8,N/A,6619,2010,10,10680
+tt1883359,The Co(te)lette Film,Musical,musical,6.2,N/A,168,2010,10,3480
+tt1303803,Standing Ovation,Musical,musical,3.1,22,894,2010,7,6300
+tt1483020,Spork,"Comedy, Musical",musical,6.7,54,1094,2010,5,5160
+tt1587118,Beck,"Drama, Music, Musical",musical,6.8,N/A,1079,2010,9,8700
+tt1634800,Maximum Shame,"Fantasy, Horror, Musical",musical,2.8,N/A,428,2010,7,4800
+tt1536053,First Night,"Comedy, Musical, Romance",musical,5.4,29,438,2010,10,6960
+tt1651065,Don't Go in the Woods,"Horror, Musical",musical,2.7,29,1129,2010,4,4980
+tt1499201,Anjaana Anjaani,"Comedy, Drama, Musical",musical,5.7,N/A,7667,2010,10,9060
+tt1592876,Score: A Hockey Musical,"Comedy, Family, Musical",musical,4.5,N/A,747,2010,10,5580
+tt1549571,Pure Country 2: The Gift,"Drama, Music, Musical",musical,5.1,N/A,943,2010,10,6720
+tt1616543,Not the Messiah: He's a Very Naughty Boy,"Comedy, Music, Musical",musical,7.1,N/A,1400,2010,3,5520
+tt1656179,I Kissed a Vampire,"Comedy, Musical, Romance",musical,4.0,N/A,456,2010,3,5460
+tt0882741,AIR: The Musical,"Comedy, Musical, Romance",musical,7.4,N/A,75,2010,4,6000
+tt1668209,Qué pena tu vida,"Action, Comedy, Drama",musical,5.6,N/A,1673,2010,10,5640
+tt1604064,Zombie Beach,"Action, Comedy, Horror",musical,6.0,N/A,717,2010,2,4260
+tt1439229,High School Musical: O Desafio,"Comedy, Family, Musical",musical,3.3,N/A,151,2010,2,5400
+tt1740482,Chua fah din salai,Musical,musical,6.6,N/A,456,2010,9,11400
+tt1552173,Freak Dance,"Comedy, Musical",musical,4.5,N/A,370,2010,6,5400
+tt1161411,Una hora más en Canarias,"Comedy, Musical",musical,4.8,N/A,415,2010,7,5760
+tt1562295,Ed Gein: The Musical,"Comedy, Horror, Musical",musical,6.1,N/A,71,2010,1,5520
+tt1701992,Gadkiy utyonok,"Animation, Family, Musical",musical,6.6,N/A,261,2010,9,4500
+tt1185412,Veer,"Action, Adventure, Drama",musical,4.6,N/A,9006,2010,1,10140
+tt1566364,Most Valuable Players,"Documentary, Comedy, Drama",musical,7.9,N/A,118,2010,8,5760
+tt1380190,Risto Räppääjä ja polkupyörävaras,"Comedy, Family, Musical",musical,5.2,N/A,416,2010,2,4680
+tt1234540,De vliegenierster van Kazbek,"Drama, Musical, War",musical,5.9,N/A,235,2010,4,6240
+tt1808262,Liefling,Musical,musical,5.3,N/A,145,2010,11,6840
+tt1529233,Basilicata Coast to Coast,"Comedy, Musical",musical,6.6,N/A,2322,2010,4,6300
+tt1728655,Magika,"Adventure, Fantasy, Musical",musical,6.1,N/A,168,2010,9,5640
+tt1587223,Miss Tacuarembó,"Comedy, Drama, Musical",musical,6.1,N/A,304,2010,7,5520
+tt1821373,Cocktail,"Drama, Musical, Thriller",musical,7.2,N/A,920,2010,10,6660
+tt1707210,Ekam: Son of Soil,"Action, Comedy, Drama",musical,6.6,N/A,194,2010,4,8880
+tt1556143,Ge wu qing chun,"Musical, Romance",musical,4.4,N/A,126,2010,8,5640
+tt1543017,Hier kommt Lola,"Comedy, Drama, Family",musical,5.9,N/A,151,2010,3,5760
+tt1588335,"Toi, moi, les autres","Musical, Romance",musical,5.1,N/A,216,2010,2,5100
+tt1380130,Jos rakastat,"Drama, Musical, Romance",musical,5.1,N/A,450,2010,1,7380
+tt1684913,Microphone,"Comedy, Drama, Music",musical,7.3,N/A,1856,2010,9,7200
+tt2330749,Cambio de sentido,"Comedy, Musical, Romance",musical,5.2,N/A,25,2010,1,6060
+tt2914048,Just Maath Maathalli,"Drama, Musical, Romance",musical,7.6,N/A,411,2010,2,7980
+tt1798204,Life of the Party: Vol. II,"Adventure, Comedy, Fantasy",musical,7.6,N/A,10,2010,12,4920
+tt1243631,The Mikado Project,"Comedy, Musical",musical,5.2,N/A,28,2010,5,N/A
+tt1558856,Rock It!,"Comedy, Family, Musical",musical,4.7,N/A,406,2010,2,5580
+tt12564516,Sesame Street: The Very Best of Elmo,Musical,musical,4.8,N/A,14,2010,10,3240
+tt1235192,DaZe: Vol. Too (sic) - NonSeNse,"Comedy, Drama, Musical",musical,7.2,N/A,21,2016,9,N/A
+tt1661031,Brindaavanam,"Action, Comedy, Drama",musical,7.1,N/A,4995,2010,10,10140
+tt1255953,Incendies,"Drama, Mystery, War",mystery,8.3,80,223843,2010,1,7860
+tt1130884,Shutter Island,"Drama, Mystery, Thriller",mystery,8.2,63,1535171,2010,2,8280
+tt1462758,Buried,"Drama, Mystery, Thriller",mystery,7.0,65,172401,2010,9,5700
+tt1423995,Stone,"Action, Drama, Mystery",mystery,5.4,58,43502,2010,10,6300
+tt1188113,Peacock,"Drama, Mystery, Thriller",mystery,6.2,N/A,12793,2010,5,5400
+tt1523483,Kaboom,"Comedy, Mystery, Romance",mystery,5.7,64,14083,2010,10,5160
+tt1813757,Who Killed Captain Alex?,"Action, Comedy, Crime",mystery,7.8,N/A,11335,2010,3,3840
+tt1092634,Shanghai,"Crime, Drama, Mystery",mystery,6.3,36,10549,2010,6,6300
+tt1523372,Wild Things: Foursome,"Crime, Drama, Mystery",mystery,4.4,N/A,3520,2010,6,5520
+tt1232838,Triple Dog,"Crime, Drama, Mystery",mystery,5.7,N/A,5106,2010,9,5700
+tt1740798,Le sentiment de la chair,"Drama, Mystery, Romance",mystery,5.2,N/A,423,2010,12,5460
+tt1584016,Catfish,"Documentary, Drama, Mystery",mystery,7.1,65,44079,2010,10,5220
+tt1668191,Av Mevsimi,"Crime, Drama, Mystery",mystery,7.4,N/A,37891,2010,12,8400
+tt1576440,Good Neighbours,"Drama, Mystery, Thriller",mystery,5.8,60,6147,2010,9,5940
+tt1407049,Altitude,"Horror, Mystery, Sci-Fi",mystery,4.8,N/A,10780,2010,10,5400
+tt1734067,Atrocious,"Horror, Mystery, Thriller",mystery,5.0,N/A,5360,2010,6,4740
+tt1316622,Wrecked,"Adventure, Drama, Mystery",mystery,5.3,61,17155,2010,6,5460
+tt1403981,Remember Me,"Drama, Romance",romance,7.1,40,158951,2010,3,6780
+tt1120985,Blue Valentine,"Drama, Romance",romance,7.3,81,217501,2010,1,6720
+tt1334260,Never Let Me Go,"Drama, Romance",romance,7.1,69,156211,2010,10,6180
+tt1263750,Habitación en Roma,"Drama, Romance",romance,6.0,N/A,27201,2010,5,6420
+tt1216520,Womb,"Drama, Romance, Sci-Fi",romance,6.3,48,15654,2010,4,6660
+tt0989757,Dear John,"Drama, Romance, War",romance,6.3,43,160572,2010,2,6480
+tt1294688,Last Night,"Drama, Romance",romance,6.5,50,51479,2010,2,5580
+tt1294226,The Last Song,"Drama, Music, Romance",romance,6.0,33,94129,2010,3,6480
+tt0879870,Eat Pray Love,"Biography, Drama, Romance",romance,5.8,50,109702,2010,8,7980
+tt1403144,Cosa voglio di più,"Drama, Romance",romance,6.0,61,3467,2010,4,7560
+tt1575539,Elena Undone,"Drama, Romance",romance,6.1,N/A,6937,2010,6,6660
+tt1164999,Biutiful,"Drama, Romance",romance,7.4,58,96205,2010,10,8880
+tt1126618,Morning Glory,"Comedy, Drama, Romance",romance,6.5,57,85192,2010,11,6420
+tt1421051,Somewhere,"Comedy, Drama, Romance",romance,6.3,67,47666,2010,9,5820
+tt1341188,How Do You Know,"Comedy, Drama, Romance",romance,5.4,46,56067,2010,12,7260
+tt1537401,Año bisiesto,"Drama, Romance",romance,5.8,71,2893,2010,10,5640
+tt1545022,Bedways,"Drama, Romance",romance,4.1,N/A,1120,2010,6,4560
+tt1528750,Happy Few,Romance,romance,5.6,39,2115,2010,9,6180
+tt0804497,It's Kind of a Funny Story,"Comedy, Drama, Romance",romance,7.1,63,150114,2010,10,6060
+tt1193631,Step Up 3D,"Drama, Music, Romance",romance,6.2,45,61233,2010,8,6420
+tt1322312,Going the Distance,"Comedy, Romance",romance,6.3,51,60436,2010,9,6180
+tt0947798,Black Swan,"Drama, Thriller",thriller,8.0,79,854181,2010,12,6480
+tt1314652,Hanyeo,"Drama, Thriller",thriller,6.4,68,13301,2010,5,6420
+tt1590089,Kokuhaku,"Drama, Thriller",thriller,7.7,N/A,43412,2010,6,6360
