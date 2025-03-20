@@ -5,7 +5,7 @@ from src.data_collection.individual_movie_data_collection import *
 
 def main():
     try:
-        year = 2007
+        year = 2020
         movie_list_df = pd.read_csv(f"data/raw_data/movies_of_{year}.csv")
         new_data_df = asyncio.run(extract_individual_movies(movie_list_df))
         df_updated = movie_list_df.merge(new_data_df, on='imdb_id', how='left')
