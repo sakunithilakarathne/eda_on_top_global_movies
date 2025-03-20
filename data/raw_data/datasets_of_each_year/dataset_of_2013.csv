@@ -1,0 +1,329 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt1706620,Snowpiercer,"Action, Sci-Fi, Thriller",action,7.1,84.0,403998,2013,8.0,7560.0,,,,
+tt1951264,The Hunger Games: Catching Fire,"Action, Adventure, Sci-Fi",action,7.5,76.0,743268,2013,11.0,8760.0,,,,
+tt0816711,World War Z,"Action, Adventure, Horror",action,7.0,63.0,748476,2013,6.0,6960.0,"['Brad Pitt', 'Mireille Enos', 'Daniella Kertesz']",Marc Forster,"$190,000,000 (estimated)","$540,455,876"
+tt1894476,How I Live Now,"Action, Adventure, Drama",action,6.4,57.0,32635,2013,10.0,6060.0,,,,
+tt0770828,Man of Steel,"Action, Adventure, Sci-Fi",action,7.1,55.0,830935,2013,6.0,8580.0,"['Henry Cavill', 'Amy Adams', 'Michael Shannon']",Zack Snyder,"$225,000,000 (estimated)","$670,145,518"
+tt1663662,Pacific Rim,"Action, Adventure, Sci-Fi",action,6.9,65.0,543326,2013,7.0,7860.0,,,,
+tt1483013,Oblivion,"Action, Adventure, Sci-Fi",action,7.0,54.0,568548,2013,4.0,7440.0,,,,
+tt1300854,Iron Man Three,"Action, Adventure, Sci-Fi",action,7.1,62.0,926641,2013,5.0,7800.0,"['Robert Downey Jr.', 'Guy Pearce', 'Gwyneth Paltrow']",Shane Black,"$200,000,000 (estimated)","$1,266,152,644"
+tt1321511,Oldboy,"Action, Drama, Mystery",action,5.8,49.0,82644,2013,11.0,6240.0,,,,
+tt1535108,Elysium,"Action, Drama, Sci-Fi",action,6.6,61.0,480808,2013,8.0,6540.0,"['Matt Damon', 'Jodie Foster', 'Sharlto Copley']",Neill Blomkamp,"$115,000,000 (estimated)","$286,140,700"
+tt1981115,Thor: The Dark World,"Action, Adventure, Fantasy",action,6.7,54.0,747681,2013,11.0,6720.0,,,,
+tt1091191,Lone Survivor,"Action, Biography, Drama",action,7.5,60.0,314488,2013,1.0,7260.0,,,,
+tt1408101,Star Trek Into Darkness,"Action, Adventure, Sci-Fi",action,7.7,72.0,503132,2013,5.0,7920.0,,,,
+tt2312718,Homefront,"Action, Crime, Thriller",action,6.5,40.0,134978,2013,11.0,6000.0,,,,
+tt1335975,47 Ronin,"Action, Drama, Fantasy",action,6.2,28.0,174915,2013,12.0,7680.0,,,,
+tt2334879,White House Down,"Action, Drama, Thriller",action,6.3,52.0,242521,2013,6.0,7860.0,,,,
+tt1535109,Captain Phillips,"Action, Biography, Crime",action,7.8,82.0,505880,2013,10.0,8040.0,,,,
+tt1428538,Hansel & Gretel: Witch Hunters,"Action, Fantasy, Horror",action,6.1,23.0,221519,2013,1.0,5280.0,,,,
+tt1411250,Riddick,"Action, Adventure, Sci-Fi",action,6.4,49.0,182077,2013,9.0,7140.0,,,,
+tt1731141,Ender's Game,"Action, Adventure, Sci-Fi",action,6.6,51.0,259645,2013,11.0,6840.0,"['Harrison Ford', 'Asa Butterfield', 'Hailee Steinfeld']",Gavin Hood,"$110,000,000 (estimated)","$125,544,024"
+tt1905041,Furious 6,"Action, Thriller",action,7.0,61.0,426898,2013,5.0,7800.0,,,,
+tt1213663,The World's End,"Action, Comedy, Sci-Fi",action,6.9,81.0,305054,2013,7.0,6540.0,,,,
+tt1430132,The Wolverine,"Action, Sci-Fi",action,6.7,61.0,509462,2013,7.0,7560.0,"['Hugh Jackman', 'Will Yun Lee', 'Tao Okamoto']",James Mangold,"$120,000,000 (estimated)","$414,828,246"
+tt1538403,The Mortal Instruments: City of Bones,"Action, Adventure, Fantasy",action,5.8,33.0,140792,2013,8.0,7800.0,"['Lily Collins', 'Jamie Campbell Bower', 'Robert Sheehan']",Harald Zwart,"$60,000,000 (estimated)","$95,396,573"
+tt1904996,Parker,"Action, Crime, Thriller",action,6.2,42.0,132431,2013,1.0,7080.0,,,,
+tt1351685,Jack the Giant Slayer,"Action, Adventure, Fantasy",action,6.3,51.0,150461,2013,3.0,6840.0,,,,
+tt2302755,Olympus Has Fallen,"Action, Thriller",action,6.5,41.0,299256,2013,3.0,7140.0,"['Gerard Butler', 'Aaron Eckhart', 'Morgan Freeman']",Antoine Fuqua,"$70,000,000 (estimated)","$170,270,201"
+tt1650554,Kick-Ass 2,"Action, Comedy, Crime",action,6.5,41.0,294354,2013,8.0,6180.0,,,,
+tt1211956,Escape Plan,"Action, Thriller",action,6.7,49.0,263990,2013,10.0,6900.0,,,,
+tt1210819,The Lone Ranger,"Action, Adventure, Drama",action,6.4,37.0,248234,2013,7.0,9000.0,,,,
+tt2404463,The Heat,"Action, Comedy, Crime",action,6.6,60.0,184538,2013,7.0,7020.0,,,,
+tt1980209,Pain & Gain,"Action, Biography, Comedy",action,6.4,45.0,235295,2013,4.0,7740.0,,,,
+tt1893256,Hummingbird,"Action, Crime, Drama",action,6.2,43.0,79341,2013,6.0,6000.0,,,,
+tt1583421,G.I. Joe: Retaliation,"Action, Adventure, Sci-Fi",action,5.7,41.0,189681,2013,3.0,6600.0,,,,
+tt1272878,2 Guns,"Action, Comedy, Thriller",action,6.7,55.0,231197,2013,8.0,6540.0,"['Denzel Washington', 'Mark Wahlberg', 'Paula Patton']",Baltasar Kormákur,"$61,000,000 (estimated)","$131,940,411"
+tt1549920,The Last Stand,"Action, Thriller, Western",action,6.3,54.0,147716,2013,1.0,6420.0,,,,
+tt1450321,Filth,"Action, Comedy, Crime",action,7.0,56.0,118845,2013,10.0,5820.0,,,,
+tt2193215,The Counselor,"Action, Adventure, Crime",action,5.4,48.0,107649,2013,10.0,7020.0,,,,
+tt1606378,A Good Day to Die Hard,"Action, Thriller",action,5.2,28.0,218919,2013,2.0,5880.0,,,,
+tt1821694,RED 2,"Action, Comedy, Crime",action,6.6,47.0,184656,2013,7.0,6960.0,,,,
+tt1321870,Gangster Squad,"Action, Crime, Drama",action,6.7,40.0,225738,2013,1.0,6780.0,,,,
+tt0848537,Epic,"Animation, Action, Adventure",action,6.6,52.0,111902,2013,5.0,6120.0,"['Amanda Seyfried', 'Josh Hutcherson', 'Beyoncé']",Chris Wedge,"$100,000,000 (estimated)","$268,426,634"
+tt1602613,Only God Forgives,"Action, Crime, Drama",action,5.7,37.0,120407,2013,5.0,5400.0,,,,
+tt1517260,The Host,"Action, Adventure, Drama",action,5.8,35.0,120015,2013,3.0,7500.0,"['Saoirse Ronan', 'Max Irons', 'Jake Abel']",Andrew Niccol,"$40,000,000 (estimated)","$63,365,859"
+tt1815862,After Earth,"Action, Adventure, Sci-Fi",action,4.8,33.0,212774,2013,5.0,6000.0,"['Jaden Smith', 'David Denman', 'Will Smith']",M. Night Shyamalan,"$130,000,000 (estimated)","$243,611,982"
+tt0790736,R.I.P.D.,"Action, Adventure, Comedy",action,5.6,25.0,147544,2013,7.0,5760.0,"['Ryan Reynolds', 'Jeff Bridges', 'Mary-Louise Parker']",Robert Schwentke,"$130,000,000 (estimated)","$78,324,220"
+tt1160996,The Colony,"Action, Horror, Sci-Fi",action,5.3,28.0,48186,2013,9.0,5700.0,,,,
+tt2002718,Machete Kills,"Action, Comedy, Crime",action,5.6,41.0,83858,2013,10.0,6420.0,"['Danny Trejo', 'Alexa PenaVega', 'Mel Gibson']",Robert Rodriguez,"$20,000,000 (estimated)","$17,537,186"
+tt2017038,All Is Lost,"Action, Adventure, Drama",action,6.9,87.0,85240,2013,10.0,6360.0,,,,
+tt0882977,Snitch,"Action, Drama, Thriller",action,6.4,51.0,94131,2013,2.0,6720.0,,,,
+tt0359950,The Secret Life of Walter Mitty,"Adventure, Comedy, Drama",adventure,7.3,54.0,352955,2013,12.0,6840.0,,,,
+tt2294629,Frozen,"Animation, Adventure, Comedy",adventure,7.4,75.0,684535,2013,1.0,6120.0,"['Kristen Bell', 'Idina Menzel', 'Jonathan Groff']",Chris Buck,"$150,000,000 (estimated)","$1,306,450,154"
+tt1170358,The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",adventure,7.8,66.0,728514,2013,12.0,9660.0,"['Ian McKellen', 'Martin Freeman', 'Richard Armitage']",Peter Jackson,"$225,000,000 (estimated)","$959,079,095"
+tt2403021,The Green Inferno,"Adventure, Horror",adventure,5.4,38.0,52054,2013,10.0,6000.0,,,,
+tt1623205,Oz the Great and Powerful,"Adventure, Family, Fantasy",adventure,6.3,44.0,218028,2013,3.0,7800.0,,,,
+tt1690953,Despicable Me 2,"Animation, Adventure, Comedy",adventure,7.3,62.0,441620,2013,2.0,5880.0,,,,
+tt0481499,The Croods,"Animation, Adventure, Comedy",adventure,7.1,55.0,240488,2013,3.0,5880.0,"['Nicolas Cage', 'Ryan Reynolds', 'Emma Stone']",Kirk DeMicco,"$135,000,000 (estimated)","$587,266,745"
+tt1453405,Monsters University,"Animation, Adventure, Comedy",adventure,7.2,65.0,406257,2013,6.0,6240.0,"['Billy Crystal', 'John Goodman', 'Steve Buscemi']",Dan Scanlon,"$200,000,000 (estimated)","$743,559,645"
+tt1854564,Percy Jackson: Sea of Monsters,"Adventure, Family, Fantasy",adventure,5.7,39.0,130003,2013,8.0,6360.0,,,,
+tt1985966,Cloudy with a Chance of Meatballs 2,"Animation, Adventure, Comedy",adventure,6.3,59.0,119498,2013,9.0,5700.0,,,,
+tt1860353,Turbo,"Animation, Adventure, Comedy",adventure,6.4,58.0,117133,2013,7.0,5760.0,,,,
+tt1691917,Planes,"Animation, Adventure, Comedy",adventure,5.7,39.0,50188,2013,8.0,5460.0,,,,
+tt2017020,The Smurfs 2,"Animation, Adventure, Comedy",adventure,5.3,34.0,47958,2013,7.0,6300.0,"['Neil Patrick Harris', 'Jayma Mays', 'Katy Perry']",Raja Gosnell,"$105,000,000 (estimated)","$347,545,360"
+tt2179116,The Kings of Summer,"Adventure, Comedy, Drama",adventure,7.1,61.0,85831,2013,8.0,5700.0,,,,
+tt1869716,The East,"Adventure, Crime, Drama",adventure,6.8,68.0,53197,2013,6.0,6960.0,"['Brit Marling', 'Alexander Skarsgård', 'Elliot Page']",Zal Batmanglij,"$6,500,000 (estimated)","$2,891,812"
+tt2101473,The Physician,"Adventure, Drama, History",adventure,7.2,,43040,2013,12.0,9300.0,"['Tom Payne', 'Stellan Skarsgård', 'Olivier Martinez']",Philipp Stölzl,"$36,000,000 (estimated)","$57,284,237"
+tt2167266,Tracks,"Adventure, Biography, Drama",adventure,7.1,78.0,32353,2013,3.0,6720.0,,,,
+tt2263944,Doragon Bôru Zetto Kami to Kami,"Animation, Action, Adventure",adventure,7.1,,30840,2013,3.0,5100.0,,,,
+tt1709143,The Last Days on Mars,"Adventure, Horror, Sci-Fi",adventure,5.5,46.0,39744,2013,9.0,5880.0,,,,
+tt2403029,The Starving Games,"Adventure, Comedy, Sci-Fi",adventure,3.2,,23194,2013,10.0,4980.0,,,,
+tt1981107,The Young and Prodigious T.S. Spivet,"Adventure, Comedy, Drama",adventure,7.0,53.0,20647,2013,10.0,6300.0,,,,
+tt1545660,Knights of Badassdom,"Action, Adventure, Comedy",adventure,5.6,56.0,21914,2013,4.0,5160.0,"['Ryan Kwanten', 'Steve Zahn', 'Peter Dinklage']",Joe Lynch,,"$123,854"
+tt2101341,Dead Man Down,"Action, Adventure, Crime",adventure,6.4,39.0,70955,2013,3.0,7080.0,"['Colin Farrell', 'Noomi Rapace', 'Dominic Cooper']",Niels Arden Oplev,"$30,000,000 (estimated)","$18,074,539"
+tt1621039,Free Birds,"Animation, Adventure, Comedy",adventure,5.8,38.0,27125,2013,11.0,5460.0,,,,
+tt1487931,Khumba,"Animation, Adventure, Comedy",adventure,5.6,40.0,6676,2013,10.0,5100.0,,,,
+tt2113681,Hundraåringen som klev ut genom fönstret och försvann,"Adventure, Comedy",adventure,7.0,58.0,43382,2013,12.0,6840.0,"['Robert Gustafsson', 'Iwar Wiklander', 'David Wiberg']",Felix Herngren,"$6,300,000 (estimated)","$51,167,572"
+tt2418558,Rubinrot,"Adventure, Drama, Family",adventure,6.0,,8751,2013,3.0,7320.0,"['Josefine Preuß', 'Florian Bartholomäi', 'Uwe Kockisch']",Felix Fuchssteiner,,"$5,524,381"
+tt1705952,Tarzan,"Animation, Adventure, Drama",adventure,4.8,,13220,2013,2.0,5640.0,"['Kellan Lutz', 'Spencer Locke', 'Les Bubb']",Reinhard Klooss,,"$44,095,996"
+tt1634003,Metegol,"Animation, Adventure, Comedy",adventure,6.4,38.0,10635,2013,7.0,6360.0,,,,
+tt2013293,Kaze tachinu,"Animation, Biography, Drama",animation,7.8,83.0,105228,2013,7.0,7560.0,"['Hideaki Anno', 'Hidetoshi Nishijima', 'Miori Takimoto']",Hayao Miyazaki,"$30,000,000 (estimated)","$137,055,512"
+tt2591814,Koto no ha no niwa,"Animation, Drama, Romance",animation,7.4,,56183,2013,5.0,2760.0,,,,
+tt2576852,Kaguya-hime no monogatari,"Animation, Drama, Family",animation,8.0,89.0,57610,2013,11.0,8220.0,,,,
+tt1821641,The Congress,"Animation, Drama, Sci-Fi",animation,6.4,63.0,20264,2013,7.0,7320.0,"['Robin Wright', 'Harvey Keitel', 'Jon Hamm']",Ari Folman,"PLN 34,148,170 (estimated)","$758,754"
+tt2908228,My Little Pony: Equestria Girls,"Animation, Comedy, Family",animation,6.3,,6336,2013,8.0,4320.0,"['Tara Strong', 'Ashleigh Ball', 'Andrea Libman']",Jayson Thiessen,,"$485,232"
+tt2358913,Berserk: Ougon jidai-hen III - Kourin,"Animation, Action, Adventure",animation,7.8,,12425,2013,2.0,6600.0,"['Hiroaki Iwanaga', 'Takahiro Sakurai', 'Toa Yukinari']",Toshiyuki Kubooka,,"$399,445"
+tt2967286,Gekijouban Steins;Gate: Fuka ryouiki no dejavu,"Animation, Mystery, Sci-Fi",animation,7.8,,10320,2013,4.0,5400.0,,,,
+tt2946582,Barbie Mariposa and the Fairy Princess,"Animation, Family, Fantasy",animation,6.2,,2054,2013,8.0,4740.0,"['Kelly Sheridan', 'Maryke Hendrikse', 'Tabitha St. Germain']",William Lau,,
+tt0884726,Legends of Oz: Dorothy's Return,"Animation, Adventure, Family",animation,4.9,25.0,6396,2013,5.0,5280.0,"['Lea Michele', 'Kelsey Grammer', 'Dan Aykroyd']",Will Finn,"$70,000,000 (estimated)","$21,755,418"
+tt3324810,Chhota Bheem and the Throne of Bali,"Animation, Action, Adventure",animation,6.3,,386,2013,5.0,7800.0,,,,
+tt1762399,Walking with Dinosaurs 3D,"Animation, Adventure, Comedy",animation,5.2,37.0,12127,2013,12.0,5220.0,,,,
+tt2981768,Sakasama no Patema,"Animation, Adventure, Drama",animation,7.3,66.0,10655,2013,11.0,5880.0,,,,
+tt2630134,Barbie in the Pink Shoes,"Animation, Family",animation,5.7,,2550,2013,2.0,4500.0,,,,
+tt1181840,Jack et la mécanique du coeur,"Animation, Adventure, Drama",animation,6.9,56.0,7737,2013,2.0,5640.0,"['Mathias Malzieu', 'Olivia Ruiz', 'Grand Corps Malade']",Stéphane Berla,"$33,746,302 (estimated)","$3,489,902"
+tt2368672,Minuscule: La vallée des fourmis perdues,"Animation, Action, Adventure",animation,7.1,,9353,2013,1.0,5340.0,,,,
+tt2918988,Gekijouban Hunter x Hunter: Fantomu rûju,"Animation, Action, Adventure",animation,6.6,,3529,2013,1.0,5820.0,,,,
+tt3148834,The House of Magic,"Animation, Adventure, Comedy",animation,6.2,47.0,7623,2013,12.0,5100.0,,,,
+tt3198698,Gekijôban Hunter x Hunter: The Last Mission,"Animation, Action, Adventure",animation,6.6,,3030,2013,12.0,5820.0,,,,
+tt3257582,Gekijouban Pokketto monsutâ Besuto uisshu: Shinsoku no Genosekuto Myûtsû kakusei,"Animation, Action, Adventure",animation,5.4,,1755,2013,7.0,5760.0,"['Sarah Natochenny', 'Eileen Stevens', 'Jason Griffith']",Kunihiko Yuyama,,"$32,293,377"
+tt2374144,Gekijouban Gintama Kanketsu-hen: Yorozuyayo eien nare,"Animation, Action, Comedy",animation,8.3,,3280,2013,7.0,6600.0,,,,
+tt2783020,Jay and Silent Bob's Super Groovy Cartoon Movie,"Animation, Comedy",animation,4.8,,2330,2013,4.0,3840.0,"['Marc Bernardin', 'Ming Chen', 'Matt Cohen']",Steve Stark,"$69,000 (estimated)",
+tt2876906,Eiga Kureyon Shinchan: Bakauma! B-kyu gurume sabaibaru!!,"Animation, Adventure, Comedy",animation,6.6,,435,2013,4.0,5760.0,,,,
+tt2668134,Kyaputen Hârokku,"Animation, Action, Adventure",animation,6.4,,13094,2013,9.0,6900.0,"['Shun Oguri', 'Haruma Miura', 'Yû Aoi']",Shinji Aramaki,"$30,000,000 (estimated)","$18,010,317"
+tt2323836,Gekijouban Ano hi mita hana no namae wo bokutachi wa mada shiranai.,"Animation, Adventure, Drama",animation,7.3,,2908,2013,8.0,5940.0,"['Kenji Akabane', 'Megumi Han', 'Ikumi Hayama']",Tatsuyuki Nagai,,"$109,630"
+tt3203996,Takanashi Rikka Kai: Gekijouban Chuunibyou demo koi ga shitai!,"Animation, Comedy, Drama",animation,6.4,,732,2013,9.0,5760.0,,,,
+tt4171600,Chhota Bheem in the Incan Adventure,"Animation, Action, Adventure",animation,6.9,,119,2013,7.0,3900.0,,,,
+tt2400433,Sid the Science Kid: The Movie,"Animation, Comedy, Family",animation,4.8,,168,2013,3.0,4500.0,"['Drew Massey', 'Alice Dinnean', 'Allan Trautman']",Kirk R. Thatcher,,
+tt6417984,Chhota Bheem Krishna vs Zimbara,"Animation, Action, Adventure",animation,6.2,,171,2013,,3840.0,"['Jigna Bhardwaj', 'Rupa Bhimani', 'Vatsal Dubey']",Rajiv Chilaka,,
+tt2636124,Ghost in the Shell: Arise - Border 1: Ghost Pain,"Animation, Action, Sci-Fi",animation,7.1,,4488,2013,6.0,3480.0,"['Maaya Sakamoto', 'Ikkyû Jaku', ""Ken'ichirô Matsuda""]",Masahiko Murata,,
+tt3183630,O Menino e o Mundo,"Animation, Adventure, Family",animation,7.5,80.0,7811,2013,1.0,4800.0,,,,
+tt3280730,Moshi Monsters: The Movie,"Animation, Adventure, Comedy",animation,3.3,,689,2013,12.0,4860.0,,,,
+tt3415692,Mahabharat,"Animation, Action, Adventure",animation,5.3,,731,2013,12.0,6300.0,,,,
+tt2312262,Dick Figures: The Movie,"Animation, Action, Adventure",animation,6.6,,1577,2013,9.0,4380.0,,,,
+tt3454574,Extraordinary Tales,"Animation, Horror, Mystery",animation,6.4,59.0,3656,2013,10.0,4380.0,"['Christopher Lee', 'Bela Lugosi', 'Julian Sands']",Raul Garcia,"€2,000,000 (estimated)",
+tt3392330,Short Peace,"Animation, Fantasy, Sci-Fi",animation,6.8,,1937,2013,7.0,4320.0,,,,
+tt2457282,Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari,"Animation, Drama, Fantasy",animation,7.8,,4429,2013,10.0,6960.0,"['Aoi Yûki', 'Chiwa Saitô', 'Eri Kitamura']",Takashi Kawabata,,"$19,582,747"
+tt0993846,The Wolf of Wall Street,"Biography, Comedy, Crime",comedy,8.2,75.0,1668245,2013,12.0,10800.0,"['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie']",Martin Scorsese,"$100,000,000 (estimated)","$407,039,432"
+tt2194499,About Time,"Comedy, Drama, Fantasy",comedy,7.8,55.0,409346,2013,9.0,7380.0,,,,
+tt2191701,Grown Ups 2,Comedy,comedy,5.4,19.0,178016,2013,7.0,6060.0,,,,
+tt2234155,The Internship,Comedy,comedy,6.3,42.0,219602,2013,6.0,7140.0,,,,
+tt1723121,We're the Millers,"Comedy, Crime",comedy,7.0,44.0,503759,2013,8.0,6600.0,"['Jason Sudeikis', 'Jennifer Aniston', 'Emma Roberts']",Rawson Marshall Thurber,"$37,000,000 (estimated)","$269,994,119"
+tt1333125,Movie 43,Comedy,comedy,4.4,18.0,116057,2013,1.0,5640.0,"['Emma Stone', 'Stephen Merchant', 'Richard Gere']",Elizabeth Banks,"$6,000,000 (estimated)","$32,443,111"
+tt1245492,This Is the End,"Comedy, Fantasy",comedy,6.6,67.0,443292,2013,6.0,6420.0,,,,
+tt2404311,The Family,"Comedy, Crime, Thriller",comedy,6.3,42.0,125450,2013,9.0,6660.0,"['Robert De Niro', 'Michelle Pfeiffer', 'Dianna Agron']",Luc Besson,"$30,000,000 (estimated)","$78,418,811"
+tt2229499,Don Jon,"Comedy, Drama, Romance",comedy,6.5,66.0,250891,2013,9.0,5400.0,,,,
+tt1727388,The Way Way Back,"Comedy, Drama",comedy,7.4,68.0,159879,2013,7.0,6180.0,,,,
+tt2024432,Identity Thief,"Comedy, Crime, Drama",comedy,5.7,35.0,143985,2013,2.0,6660.0,"['Jason Bateman', 'Melissa McCarthy', 'John Cho']",Seth Gordon,"$35,000,000 (estimated)","$173,965,010"
+tt0790628,The Incredible Burt Wonderstone,Comedy,comedy,5.9,44.0,76899,2013,3.0,6000.0,"['Steve Carell', 'Luke Vanek', 'Steve Buscemi']",Don Scardino,"$30,000,000 (estimated)","$27,437,881"
+tt1588173,Warm Bodies,"Comedy, Horror, Romance",comedy,6.8,60.0,249183,2013,2.0,5880.0,,,,
+tt1980929,Begin Again,"Comedy, Drama, Music",comedy,7.4,62.0,171173,2013,7.0,6240.0,"['Keira Knightley', 'Mark Ruffalo', 'Adam Levine']",John Carney,"$8,000,000 (estimated)","$105,539,577"
+tt1322269,August: Osage County,"Comedy, Drama",comedy,7.2,58.0,97278,2013,1.0,7260.0,,,,
+tt1714915,Only Lovers Left Alive,"Comedy, Drama, Fantasy",comedy,7.2,79.0,111410,2013,12.0,7380.0,,,,
+tt1951261,The Hangover Part III,"Comedy, Crime",comedy,5.8,30.0,346718,2013,5.0,6000.0,,,,
+tt2334873,Blue Jasmine,"Comedy, Drama, Romance",comedy,7.3,78.0,215846,2013,8.0,5880.0,,,,
+tt1767354,Odd Thomas,"Comedy, Fantasy, Horror",comedy,6.8,45.0,59224,2013,2.0,6000.0,"['Anton Yelchin', 'Ashley Sommers', 'Leonor Varela']",Stephen Sommers,"$27,000,000 (estimated)","$1,149,267"
+tt0795461,Scary Movie 5,"Comedy, Horror",comedy,3.6,11.0,79763,2013,4.0,5280.0,,,,
+tt1758795,The To Do List,"Comedy, Romance",comedy,5.8,61.0,42912,2013,7.0,6240.0,,,,
+tt1229340,Anchorman 2: The Legend Continues,Comedy,comedy,6.3,61.0,196787,2013,12.0,7140.0,,,,
+tt2243537,A Haunted House,"Comedy, Fantasy, Horror",comedy,5.1,20.0,51817,2013,1.0,5160.0,,,,
+tt1838603,Mr. Morgan's Last Love,"Comedy, Drama, Romance",comedy,6.7,36.0,13662,2013,8.0,6660.0,,,,
+tt1528071,Horns,"Comedy, Fantasy, Horror",comedy,6.4,46.0,89886,2013,10.0,7200.0,,,,
+tt1825157,The Double,"Comedy, Drama, Mystery",comedy,6.4,68.0,54013,2013,4.0,5580.0,,,,
+tt2140373,Saving Mr. Banks,"Biography, Comedy, Drama",comedy,7.5,65.0,172579,2013,11.0,7500.0,"['Emma Thompson', 'Tom Hanks', 'Annie Rose Buckley']",John Lee Hancock,"$35,000,000 (estimated)","$117,867,984"
+tt1486834,The F Word,"Comedy, Romance",comedy,6.8,59.0,82985,2013,8.0,5880.0,"['Daniel Radcliffe', 'Zoe Kazan', 'Megan Park']",Michael Dowse,"$11,000,000 (estimated)","$8,526,288"
+tt2186812,20 ans d'écart,"Comedy, Romance",comedy,6.3,,12529,2013,3.0,5520.0,,,,
+tt2387559,Delivery Man,"Comedy, Drama",comedy,6.3,44.0,84044,2013,11.0,6300.0,,,,
+tt1985019,Austenland,"Comedy, Romance",comedy,6.3,42.0,24471,2013,9.0,5820.0,,,,
+tt2390361,Enough Said,"Comedy, Drama, Romance",comedy,7.0,78.0,67722,2013,10.0,5580.0,"['Julia Louis-Dreyfus', 'James Gandolfini', 'Catherine Keener']",Nicole Holofcener,"$8,000,000 (estimated)","$25,288,872"
+tt0409379,In Secret,"Crime, Drama, Thriller",crime,6.1,47.0,10074,2013,4.0,6420.0,,,,
+tt1392214,Prisoners,"Crime, Drama, Mystery",crime,8.2,70.0,862294,2013,9.0,9180.0,,,,
+tt1800241,American Hustle,"Crime, Drama",crime,7.2,90.0,508580,2013,12.0,8280.0,,,,
+tt1670345,Now You See Me,"Crime, Mystery, Thriller",crime,7.2,50.0,732676,2013,5.0,6900.0,"['Jesse Eisenberg', 'Common', 'Mark Ruffalo']",Louis Leterrier,"$75,000,000 (estimated)","$351,723,989"
+tt1667355,3096 Tage,"Biography, Crime, Drama",crime,6.5,,17464,2013,2.0,6660.0,,,,
+tt2334649,Fruitvale Station,"Biography, Crime, Drama",crime,7.5,85.0,87597,2013,7.0,5100.0,,,,
+tt1924396,La migliore offerta,"Crime, Drama, Mystery",crime,7.8,49.0,132586,2013,1.0,7860.0,,,,
+tt2053463,Side Effects,"Crime, Drama, Mystery",crime,7.1,75.0,200522,2013,2.0,6360.0,,,,
+tt2132285,The Bling Ring,"Biography, Crime, Drama",crime,5.6,66.0,93928,2013,6.0,5400.0,,,,
+tt1206543,Out of the Furnace,"Crime, Drama, Thriller",crime,6.7,63.0,128169,2013,12.0,6960.0,,,,
+tt2005374,The Frozen Ground,"Biography, Crime, Drama",crime,6.4,37.0,70383,2013,7.0,6300.0,"['Nicolas Cage', 'Vanessa Hudgens', 'John Cusack']",Scott Walker,"$27,220,000 (estimated)","$5,617,460"
+tt2359024,Blue Ruin,"Crime, Drama, Thriller",crime,7.1,78.0,82473,2013,7.0,5400.0,,,,
+tt1924429,Trance,"Crime, Drama, Mystery",crime,6.9,61.0,119221,2013,3.0,6060.0,,,,
+tt2567712,Starred Up,"Crime, Drama, Thriller",crime,7.3,81.0,49885,2013,3.0,6360.0,"[""Jack O'Connell"", 'Ben Mendelsohn', 'Rupert Friend']",David Mackenzie,,"$3,025,189"
+tt1235522,Broken City,"Action, Crime, Drama",crime,6.1,49.0,84692,2013,1.0,6540.0,,,,
+tt2382396,Joe,"Crime, Drama, Thriller",crime,6.8,74.0,52349,2013,4.0,7020.0,,,,
+tt0804463,Devil's Knot,"Biography, Crime, Drama",crime,6.1,42.0,24710,2013,3.0,6840.0,,,,
+tt2625030,Sinsegye,"Action, Crime, Drama",crime,7.5,58.0,27549,2013,2.0,8100.0,,,,
+tt1837703,The Fifth Estate,"Biography, Crime, Drama",crime,6.2,49.0,43360,2013,10.0,7680.0,,,,
+tt1747958,Blood Ties,"Action, Crime, Drama",crime,6.5,45.0,21625,2013,10.0,7620.0,"['Clive Owen', 'Marion Cotillard', 'Billy Crudup']",Guillaume Canet,"$25,500,000 (estimated)","$2,566,435"
+tt1786751,CBGB,"Crime, Drama, Music",crime,6.6,30.0,11557,2013,10.0,6120.0,,,,
+tt2438644,Kvinden i buret,"Crime, Drama, Mystery",crime,7.2,62.0,34334,2013,10.0,5760.0,,,,
+tt2249221,Zulu,"Action, Crime, Drama",crime,6.7,,20215,2013,12.0,6600.0,,,,
+tt1741243,Pawn Shop Chronicles,"Action, Comedy, Crime",crime,5.9,26.0,12375,2013,1.0,6720.0,"['Paul Walker', 'Norman Reedus', 'Elijah Wood']",Wayne Kramer,"$5,000,000 (estimated)","$10,080"
+tt2171867,Empire State,"Crime, Thriller",crime,5.2,,23444,2013,8.0,5640.0,,,,
+tt2172985,The Art of the Steal,"Comedy, Crime, Thriller",crime,6.3,53.0,26596,2013,6.0,5400.0,,,,
+tt2822400,Tore tanzt,"Crime, Drama, Horror",crime,6.9,51.0,2338,2013,11.0,6600.0,,,,
+tt2236054,Mystery Road,"Crime, Drama, Mystery",crime,6.6,72.0,8826,2013,8.0,7260.0,"['Aaron Pedersen', 'Hugo Weaving', 'Ryan Kwanten']",Ivan Sen,"A$3,000,000 (estimated)","$280,702"
+tt2123342,Underdogs,"Drama, Family, Sport",family,5.8,,1216,2013,4.0,6120.0,,,,
+tt3070936,Shrek the Musical,"Comedy, Family, Fantasy",family,6.9,,4559,2013,9.0,7800.0,,,,
+tt2231251,Heart of the Country,"Drama, Family, Romance",family,5.7,,1618,2013,8.0,5340.0,,,,
+tt2463302,Wish You Well,"Drama, Family",family,6.7,,1540,2013,4.0,6000.0,"['Ellen Burstyn', 'Mackenzie Foy', 'Josh Lucas']",Darnell Martin,,
+tt1376205,Jimmy,"Drama, Family, Fantasy",family,6.3,,476,2013,6.0,5700.0,,,,
+tt2436046,Antboy,"Adventure, Comedy, Family",family,5.2,,2507,2013,10.0,4620.0,,,,
+tt1376213,The Adventurer: The Curse of the Midas Box,"Adventure, Family, Fantasy",family,5.5,39.0,7363,2013,7.0,6000.0,,,,
+tt1716767,The Last Keepers,"Family, Fantasy",family,5.5,,2240,2013,4.0,5100.0,"['Aidan Quinn', 'Virginia Madsen', 'Zosia Mamet']",Maggie Greenwald,"$4,000,000 (estimated)",
+tt2356464,Ostwind,"Adventure, Drama, Family",family,6.7,,2347,2013,3.0,6060.0,,,,
+tt2042449,Anything Is Possible,"Drama, Family, Music",family,5.9,,537,2013,9.0,5580.0,,,,
+tt1390539,The Lost Medallion: The Adventures of Billy Stone,"Adventure, Family, Fantasy",family,4.9,,1956,2013,10.0,5820.0,,,,
+tt2511190,A Talking Cat!?!,"Comedy, Family, Fantasy",family,2.1,,1901,2013,2.0,5100.0,,,,
+tt2408982,The O'Briens,"Comedy, Family, Romance",family,6.4,,271,2013,4.0,5040.0,,,,
+tt1797487,Savannah,"Drama, Family, History",family,5.8,25.0,1820,2013,4.0,6060.0,,,,
+tt1641401,Louder Than Words,"Drama, Family",family,6.0,29.0,1206,2013,7.0,5700.0,,,,
+tt1425922,Black Nativity,"Drama, Family, Music",family,4.8,48.0,2428,2013,11.0,5580.0,"['Forest Whitaker', 'Angela Bassett', 'Jennifer Hudson']",Kasi Lemmons,"$17,500,000 (estimated)","$7,454,185"
+tt2739338,The Christmas Candle,"Drama, Family",family,6.3,33.0,2857,2013,11.0,6000.0,,,,
+tt1886770,Stiller Sommer,"Drama, Family, Romance",family,5.7,,72,2013,10.0,5340.0,,,,
+tt2261976,Champion,"Drama, Family",family,6.0,,163,2013,,5220.0,,,,
+tt1535975,Wiener Dog Nationals,"Comedy, Family, Sport",family,5.2,,446,2013,12.0,4920.0,"['Jason London', 'Alicia Witt', 'Morgan Fairchild']",Kevan Peterson,"$1,000,000 (estimated)",
+tt2023587,Mama,"Fantasy, Horror, Thriller",fantasy,6.2,57.0,195418,2013,1.0,6000.0,"['Jessica Chastain', 'Nikolaj Coster-Waldau', 'Megan Charpentier']",Andy Muschietti,"$15,000,000 (estimated)","$146,428,180"
+tt1559547,Beautiful Creatures,"Drama, Fantasy, Romance",fantasy,6.1,52.0,92013,2013,2.0,7440.0,,,,
+tt2333804,The Zero Theorem,"Comedy, Drama, Fantasy",fantasy,6.0,50.0,50587,2013,3.0,6420.0,,,,
+tt2345567,Haunter,"Fantasy, Horror, Mystery",fantasy,5.9,49.0,19261,2013,10.0,5820.0,,,,
+tt1928340,After the Dark,"Drama, Fantasy, Mystery",fantasy,5.6,37.0,24072,2013,10.0,6420.0,"[""James D'Arcy"", 'Sophie Lowe', 'Daryl Sabara']",John Huddles,,"$1,770,376"
+tt1879032,Rapture-Palooza,"Comedy, Fantasy",fantasy,5.2,44.0,12940,2013,6.0,5100.0,,,,
+tt2187884,Escape from Tomorrow,"Comedy, Drama, Fantasy",fantasy,5.1,58.0,10229,2013,7.0,5400.0,,,,
+tt2027140,L'écume des jours,"Comedy, Drama, Fantasy",fantasy,6.5,54.0,16997,2013,4.0,7860.0,"['Romain Duris', 'Audrey Tautou', 'Gad Elmaleh']",Michel Gondry,"€19,000,000 (estimated)","$10,435,322"
+tt2250234,SAGA - Curse of the Shadow,"Action, Adventure, Fantasy",fantasy,4.9,,3719,2013,12.0,6660.0,"['Danielle C. Ryan', 'Richard McWilliams', 'Paul D. Hunt']",John Lyde,,
+tt2279922,Return to Nuke 'Em High Volume 1,"Action, Comedy, Drama",fantasy,5.3,40.0,2451,2013,5.0,5100.0,,,,
+tt2404738,Las brujas de Zugarramurdi,"Action, Adventure, Comedy",fantasy,6.4,73.0,15814,2013,9.0,6720.0,,,,
+tt2301592,La danza de la realidad,"Biography, Drama, Fantasy",fantasy,7.4,76.0,9726,2013,9.0,7980.0,,,,
+tt1345904,Kung Fu and Titties,"Comedy, Fantasy",fantasy,3.2,,322,2013,8.0,5520.0,,,,
+tt2378453,Savaged,"Action, Fantasy, Horror",fantasy,5.5,,4616,2013,3.0,5700.0,,,,
+tt1457767,The Conjuring,"Horror, Mystery, Thriller",horror,7.5,68.0,580366,2013,7.0,6720.0,"['Patrick Wilson', 'Vera Farmiga', 'Ron Livingston']",James Wan,"$20,000,000 (estimated)","$320,415,166"
+tt1441395,Under the Skin,"Drama, Horror, Mystery",horror,6.3,83.0,163848,2013,3.0,6480.0,,,,
+tt1288558,Evil Dead,Horror,horror,6.5,57.0,205053,2013,4.0,5460.0,"['Jane Levy', 'Shiloh Fernandez', 'Jessica Lucas']",Fede Alvarez,"$17,000,000 (estimated)","$97,542,952"
+tt2184339,The Purge,"Horror, Sci-Fi, Thriller",horror,5.8,41.0,250223,2013,6.0,5100.0,"['Ethan Hawke', 'Lena Headey', 'Max Burkholder']",James DeMonaco,"$3,000,000 (estimated)","$89,328,627"
+tt2537176,I Spit on Your Grave 2,"Horror, Thriller",horror,5.7,,34458,2013,9.0,6360.0,,,,
+tt1939659,Carrie,"Drama, Horror, Thriller",horror,5.8,53.0,151824,2013,10.0,6000.0,,,,
+tt1572315,Texas Chainsaw 3D,"Horror, Mystery, Thriller",horror,4.8,31.0,58033,2013,1.0,5520.0,,,,
+tt2388715,Oculus,"Horror, Mystery, Thriller",horror,6.5,61.0,144509,2013,4.0,6240.0,,,,
+tt2387433,Dark Skies,"Horror, Sci-Fi, Thriller",horror,6.3,50.0,81884,2013,2.0,5820.0,,,,
+tt1911644,The Call,"Drama, Horror, Thriller",horror,6.7,51.0,131972,2013,3.0,5760.0,"['Halle Berry', 'Evie Thompson', 'Abigail Breslin']",Brad Anderson,"$13,000,000 (estimated)","$68,572,631"
+tt2900624,All Hallows' Eve,"Horror, Thriller",horror,5.2,,17189,2013,10.0,4980.0,,,,
+tt2226417,Insidious: Chapter 2,"Horror, Mystery, Thriller",horror,6.6,40.0,195084,2013,9.0,6360.0,,,,
+tt1905040,The Dyatlov Pass Incident,"Horror, Mystery, Thriller",horror,5.7,49.0,28980,2013,2.0,6000.0,,,,
+tt1913166,Nurse 3-D,"Horror, Thriller",horror,4.5,29.0,11822,2013,10.0,5040.0,"['Paz de la Huerta', 'Katrina Bowden', 'Judd Nelson']",Douglas Aarniokoski,"$10,000,000 (estimated)","$706,617"
+tt2246831,Love of My Life,"Horror, Thriller",horror,3.5,,400,2013,11.0,5760.0,"[""Peter O'Brien"", 'Bel Deliá', 'Michael Budd']",Michael Budd,"A$150,000 (estimated)",
+tt2281159,Contracted,"Drama, Horror, Thriller",horror,5.3,48.0,17005,2013,11.0,5040.0,,,,
+tt2309021,We Are What We Are,"Drama, Horror, Thriller",horror,5.9,71.0,22510,2013,10.0,6300.0,"['Bill Sage', 'Ambyr Childers', 'Julia Garner']",Jim Mickle,,"$159,047"
+tt2450186,V/H/S/2,"Horror, Thriller",horror,6.0,49.0,46432,2013,6.0,5760.0,"['Lawrence Michael Levine', 'Kelsy Abbott', 'Adam Wingard']",Simon Barrett,,"$805,574"
+tt2004432,Wolf Creek 2,"Horror, Thriller",horror,6.2,44.0,23971,2013,2.0,6360.0,,,,
+tt2545118,Blackfish,"Documentary, Drama, Horror",horror,8.1,83.0,74513,2013,7.0,4980.0,,,,
+tt2230358,Curse of Chucky,"Horror, Thriller",horror,5.6,58.0,45585,2013,9.0,5820.0,"['Chantal Quesnelle', 'Fiona Dourif', 'Jordan Gavaris']",Don Mancini,"$5,000,000 (estimated)",
+tt2071550,Open Grave,"Horror, Mystery, Sci-Fi",horror,6.1,33.0,32050,2013,1.0,6120.0,"['Sharlto Copley', 'Thomas Kretschmann', 'Josie Ho']",Gonzalo López-Gallego,,"$489,812"
+tt2781832,The Borderlands,"Horror, Sci-Fi, Thriller",horror,5.8,,11351,2013,2.0,5340.0,,,,
+tt2977158,There Are Monsters,Horror,horror,5.3,,522,2013,9.0,5400.0,,,,
+tt2503154,The Den,"Horror, Mystery, Thriller",horror,6.0,48.0,16087,2013,3.0,4560.0,,,,
+tt2383068,The Sacrament,"Horror, Thriller",horror,6.1,49.0,21929,2013,5.0,5940.0,,,,
+tt2011276,Banshee Chapter,"Horror, Mystery, Sci-Fi",horror,5.4,62.0,11369,2013,12.0,5220.0,"['Katia Winter', 'Ted Levine', 'Michael McMillian']",Blair Erickson,"$950,000 (estimated)",
+tt2309961,Afflicted,"Horror, Mystery, Thriller",horror,6.2,56.0,26570,2013,1.0,5100.0,,,,
+tt1935914,Los últimos días,"Horror, Sci-Fi, Thriller",horror,6.1,,9284,2013,3.0,6000.0,,,,
+tt2318527,Hell Baby,"Comedy, Horror",horror,4.9,41.0,10305,2013,3.0,5880.0,"['Rob Corddry', 'Leslie Bibb', 'Alex Berg']",Robert Ben Garant,"$2,500,000 (estimated)","$8,785"
+tt2229511,Wer,"Action, Horror, Mystery",horror,5.9,,10302,2013,8.0,5580.0,,,,
+tt2885364,Willow Creek,"Horror, Mystery, Thriller",horror,5.1,62.0,13538,2013,5.0,4800.0,,,,
+tt2093977,Crush,"Horror, Thriller",horror,5.6,,6872,2013,3.0,5640.0,"['Ashleigh Craig', 'Cody Hamilton', 'Lucas Till']",Malik Bader,,"$105,473"
+tt2203308,Aashiqui 2,"Drama, Music, Musical",musical,7.1,,34455,2013,4.0,7920.0,"['Aditya Roy Kapoor', 'Shraddha Kapoor', 'Shaad Randhawa']",Mohit Suri,"₹120,000,000 (estimated)",
+tt2178470,Yeh Jawaani Hai Deewani,"Comedy, Drama, Musical",musical,7.3,,54677,2013,5.0,9600.0,,,,
+tt2481198,Sunshine on Leith,"Comedy, Drama, Musical",musical,6.6,66.0,7545,2013,10.0,6000.0,,,,
+tt2243389,Los amantes pasajeros,"Comedy, Musical",musical,5.6,55.0,25141,2013,3.0,5400.0,"['Javier Cámara', 'Pepa Charro', 'Cecilia Roth']",Pedro Almodóvar,"€5,000,000 (estimated)","$21,259,853"
+tt2215477,Goliyon Ki Raasleela Ram-leela,"Drama, Musical, Romance",musical,6.4,,22968,2013,11.0,9000.0,,,,
+tt8355664,Karkash,"Drama, Musical",musical,7.6,,916,2013,,,,,,
+tt1828959,Make Your Move,"Drama, Musical, Romance",musical,5.5,40.0,3391,2013,4.0,6600.0,,,,
+tt3033536,Twisted: The Untold Story of a Royal Vizier,Musical,musical,8.6,,1138,2013,11.0,7980.0,,,,
+tt3303630,As Jy Sing,"Comedy, Drama, Family",musical,6.4,,159,2013,11.0,6480.0,"['Bobby van Jaarsveld', 'Leah Van Niekerk', 'Bok van Blerk']",Andre Odendaal,,"$591,018"
+tt2401715,The Devil's Violinist,"Biography, Drama, Musical",musical,6.0,38.0,3932,2013,10.0,7320.0,,,,
+tt2916786,Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation,"Action, Adventure, Musical",musical,7.7,,549,2013,4.0,7080.0,,,,
+tt2186766,All Stars,"Family, Musical, Romance",musical,5.0,,1215,2013,5.0,6360.0,,,,
+tt1860238,Goddess,"Comedy, Musical, Romance",musical,5.9,,1527,2013,3.0,6240.0,"['Laura Michelle Kelly', 'Ronan Keating', 'Magda Szubanski']",Mark Lamprell,,"$1,656,399"
+tt3013528,The Harry Hill Movie,"Adventure, Comedy, Family",musical,3.9,,2470,2013,12.0,5280.0,,,,
+tt2633114,Caught on Tape,"Crime, Musical",musical,3.1,,300,2013,2.0,3960.0,,,,
+tt3339324,Merrily We Roll Along,Musical,musical,8.2,,111,2013,10.0,,,,,
+tt2641648,Opium,"Comedy, Drama, Musical",musical,4.6,,511,2013,10.0,4620.0,"['Grégoire Colin', 'Samuel Mercer', 'Arielle Dombasle']",Arielle Dombasle,,
+tt2689966,Broadway Idiot,"Documentary, Music, Musical",musical,7.5,51.0,786,2013,3.0,4860.0,"['Michael Mayer', 'Steven Hoggett', 'Tom Kitt']",Doug Hamilton,,"$27,595"
+tt2294663,How Sweet It Is,"Comedy, Drama, Musical",musical,3.9,,159,2013,5.0,6240.0,,,,
+tt2064816,"I, Me Aur Main","Comedy, Drama, Musical",musical,4.7,,2046,2013,3.0,6480.0,,,,
+tt2431410,Snow,"Drama, Music, Musical",musical,7.4,,20,2013,,5520.0,,,,
+tt1485055,Queen City,"Drama, Musical",musical,8.8,,36,2013,4.0,6360.0,,,,
+tt2387627,Zinda Bhaag,"Drama, Family, Musical",musical,7.4,,1460,2013,9.0,6900.0,,,,
+tt2456330,Samanala Sandhawaniya,"Drama, Musical, Romance",musical,8.4,,953,2013,10.0,7140.0,,,,
+tt3415656,Swan Lake 3D - Live from the Mariinsky Theatre,"Drama, Family, Fantasy",musical,7.4,,27,2013,6.0,7920.0,,,,
+tt1690991,Nijntje de film,"Animation, Family, Music",musical,5.9,,153,2013,1.0,4080.0,,,,
+tt2642912,The Boy Castaways,"Fantasy, Musical",musical,5.2,,18,2013,10.0,5040.0,,,,
+tt2175902,Romeo and Juliet: A Love Song,Musical,musical,5.7,,81,2013,9.0,5820.0,"['Dallas Barnett', 'Sarah Houbolt', 'Christopher Landon']",Tim van Dammen,"$1,500,000 (estimated)",
+tt1855268,Main Krishna Hoon,"Animation, Family, Musical",musical,5.1,,246,2013,1.0,8040.0,,,,
+tt3107924,Meet the Small Potatoes,"Family, Musical",musical,6.6,,72,2013,4.0,4320.0,,,,
+tt1961271,Devdas,"Drama, Musical, Romance",musical,4.6,,208,2013,2.0,9000.0,,,,
+tt3182470,Im weißen Rössl - Wehe Du singst!,"Comedy, Musical, Romance",musical,5.6,,270,2013,11.0,5580.0,,,,
+tt2412714,Orenthal: The Musical,"Comedy, Musical",musical,7.3,,106,2013,8.0,5400.0,,,,
+tt2901548,Tian tai ai qing,"Action, Comedy, Drama",musical,5.8,45.0,1128,2013,7.0,7200.0,,,,
+tt2650414,"Amor, Plástico e Barulho","Drama, Music, Musical",musical,6.5,,192,2013,1.0,5100.0,,,,
+tt4662238,O Bacanal do Diabo e Outras Fitas Proibidas de Ivan Cardoso,Musical,musical,6.5,,26,2013,10.0,3720.0,,,,
+tt1934436,Return of the Moonwalker,"Comedy, Fantasy, Horror",musical,3.9,,112,2013,,5340.0,"['Nick Andrews', 'Nouk Baudrot', 'Claudine Biswas-MacKenzie']",Mike Maria,"€900,000 (estimated)",
+tt3032182,Coboy Junior: The Movie,"Drama, Family, Musical",musical,4.0,,194,2013,6.0,5400.0,,,,
+tt3122122,The Princess Twins of Legendale,"Animation, Adventure, Family",musical,5.2,,162,2013,8.0,4440.0,,,,
+tt1929237,The Nightingale of Tibet,"Drama, Musical",musical,7.0,,230,2013,3.0,4500.0,,,,
+tt5219102,Sleeping Beauty: A Gothic Romance,"Drama, Fantasy, Music",musical,8.2,,58,2013,9.0,6300.0,,,,
+tt1784632,M.A.D: Mad About Dance,"Drama, Family, Music",musical,5.1,,145,2013,8.0,7500.0,,,,
+tt2995952,Chandra,"Fantasy, Musical, Romance",musical,5.6,,97,2013,6.0,7020.0,"['Shriya Saran', 'Prem Kumar', 'Ganesh Venkatraman']",Roopa Iyer,,
+tt2866360,Coherence,"Mystery, Sci-Fi, Thriller",mystery,7.2,65.0,157790,2013,8.0,5340.0,"['Emily Baldoni', 'Maury Sterling', 'Nicholas Brendon']",James Ward Byrkit,"$50,000 (estimated)","$139,745"
+tt2316411,Enemy,"Drama, Mystery, Thriller",mystery,6.9,61.0,225049,2013,3.0,5460.0,,,,
+tt2051879,Europa Report,"Drama, Mystery, Sci-Fi",mystery,6.4,68.0,77236,2013,6.0,5820.0,,,,
+tt1715336,Anna,"Drama, Mystery, Sci-Fi",mystery,6.4,42.0,25814,2013,1.0,5940.0,,,,
+tt2055709,Penthouse North,"Drama, Mystery, Thriller",mystery,5.5,,6087,2013,1.0,5400.0,"['Michelle Monaghan', 'Michael Keaton', 'Barry Sloane']",Joseph Ruben,,"$372,209"
+tt2345112,Parkland,"Drama, History, Mystery",mystery,6.4,51.0,17971,2013,10.0,5580.0,,,,
+tt1654523,Night Train to Lisbon,"Mystery, Romance, Thriller",mystery,6.8,30.0,21286,2013,3.0,6660.0,,,,
+tt2427892,Tom à la ferme,"Drama, Mystery, Thriller",mystery,6.9,67.0,19657,2013,4.0,6120.0,,,,
+tt2084989,Upstream Color,"Drama, Mystery, Sci-Fi",mystery,6.5,81.0,35500,2013,8.0,5760.0,,,,
+tt2404461,Le passé,"Drama, Mystery",mystery,7.7,85.0,51681,2013,5.0,7800.0,,,,
+tt2375574,A Field in England,"Drama, History, Horror",mystery,6.2,73.0,14536,2013,7.0,5400.0,,,,
+tt2364841,Runner Runner,"Crime, Mystery, Thriller",mystery,5.6,36.0,66336,2013,10.0,5280.0,,,,
+tt2165859,In Fear,"Horror, Mystery, Thriller",mystery,5.4,66.0,10848,2013,11.0,5100.0,"['Iain De Caestecker', 'Alice Englert', 'Allen Leech']",Jeremy Lovering,,"$274,660"
+tt1457765,The Haunting in Connecticut 2: Ghosts of Georgia,"Drama, Horror, Mystery",mystery,5.3,26.0,18674,2013,2.0,6060.0,,,,
+tt1838520,The Truth About Emanuel,"Drama, Mystery, Thriller",mystery,6.0,41.0,9878,2013,1.0,5700.0,,,,
+tt2278871,La vie d'Adèle,"Drama, Romance",romance,7.7,90.0,167968,2013,10.0,10800.0,"['Léa Seydoux', 'Adèle Exarchopoulos', 'Salim Kechiouche']",Abdellatif Kechiche,"€4,000,000 (estimated)","$19,796,489"
+tt1798709,Her,"Drama, Romance, Sci-Fi",romance,8.0,91.0,697776,2013,1.0,7560.0,,,,
+tt1343092,The Great Gatsby,"Drama, Romance",romance,7.2,55.0,617673,2013,5.0,8580.0,,,,
+tt1714206,The Spectacular Now,"Drama, Romance",romance,7.0,82.0,164993,2013,9.0,5700.0,,,,
+tt1967545,Labor Day,"Drama, Romance, Thriller",romance,6.9,52.0,54065,2013,1.0,6660.0,"['Kate Winslet', 'Josh Brolin', 'Gattlin Griffith']",Jason Reitman,"$18,000,000 (estimated)","$20,275,812"
+tt2752200,Jeune et jolie,"Drama, Romance",romance,6.7,63.0,39344,2013,8.0,5700.0,"['Marine Vacth', 'Géraldine Pailhas', 'Frédéric Pierrot']",François Ozon,"€4,645,437 (estimated)","$9,757,417"
+tt2103267,Adoration,"Drama, Romance",romance,6.2,37.0,37659,2013,4.0,6720.0,"['Naomi Watts', 'Robin Wright', 'Xavier Samuel']",Anne Fontaine,"$16,000,000 (estimated)","$1,575,749"
+tt2404181,Belle,"Biography, Drama, Romance",romance,7.3,64.0,33985,2013,6.0,6000.0,"['Gugu Mbatha-Raw', 'Matthew Goode', 'Emily Watson']",Amma Asante,"$10,900,000 (estimated)","$16,607,575"
+tt1702439,Safe Haven,"Drama, Romance, Thriller",romance,6.7,34.0,118747,2013,2.0,6900.0,,,,
+tt2209418,Before Midnight,"Drama, Romance",romance,7.9,94.0,178381,2013,6.0,6540.0,,,,
+tt2852458,L'inconnu du lac,"Drama, Romance, Thriller",romance,6.9,82.0,16709,2013,6.0,6000.0,,,,
+tt1645131,Romeo & Juliet,"Drama, Romance",romance,5.8,41.0,12932,2013,10.0,7080.0,,,,
+tt2343793,Third Person,"Drama, Romance",romance,6.3,38.0,29844,2013,11.0,8220.0,"['Liam Neeson', 'Mila Kunis', 'Adrien Brody']",Paul Haggis,"$28,000,000 (estimated)","$2,624,761"
+tt1291580,Behind the Candelabra,"Biography, Drama, Music",romance,7.0,,46219,2013,5.0,7080.0,"['Michael Douglas', 'Matt Damon', 'Scott Bakula']",Steven Soderbergh,"$23,000,000 (estimated)","$13,352,609"
+tt2091327,Pleasure or Pain,"Drama, Romance, Thriller",romance,4.2,,2851,2013,9.0,5940.0,,,,
+tt2617828,Freier Fall,"Drama, Romance",romance,7.5,,23470,2013,5.0,5820.0,,,,
+tt2058107,The Railway Man,"Biography, Drama, Romance",romance,7.1,59.0,43504,2013,12.0,6960.0,"['Colin Firth', 'Nicole Kidman', 'Stellan Skarsgård']",Jonathan Teplitzky,"$18,000,000 (estimated)","$24,174,885"
+tt1311071,Kill Your Darlings,"Biography, Drama, Romance",romance,6.4,65.0,42299,2013,3.0,6240.0,"['Daniel Radcliffe', 'Dane DeHaan', 'Michael C. Hall']",John Krokidas,,"$1,877,924"
+tt2350496,The Lunchbox,"Drama, Romance",romance,7.8,76.0,63281,2013,9.0,6240.0,,,,
+tt1814621,Admission,"Comedy, Drama, Romance",romance,5.7,48.0,36620,2013,3.0,6480.0,,,,
+tt1999987,Breathe In,"Drama, Romance",romance,6.3,60.0,15847,2013,7.0,5880.0,,,,
+tt1462900,Yi dai zong shi,"Action, Biography, Drama",romance,6.6,73.0,37617,2013,1.0,7800.0,"['Tony Leung Chiu-wai', 'Ziyi Zhang', 'Jin Zhang']",Wong Kar-Wai,"$38,600,000 (estimated)","$73,933,255"
+tt2201548,A Teacher,"Drama, Romance",romance,4.8,47.0,5634,2013,9.0,4500.0,,,,
+tt1951181,The Immigrant,"Drama, Romance",romance,6.6,77.0,34470,2013,5.0,7200.0,,,,
+tt2265534,The Lifeguard,"Drama, Romance",romance,5.6,34.0,15380,2013,7.0,5880.0,,,,
+tt2801746,Hawaii,"Drama, Romance",romance,7.2,,5984,2013,11.0,6120.0,,,,
+tt1454468,Gravity,"Drama, Sci-Fi, Thriller",thriller,7.7,96.0,879107,2013,10.0,5460.0,,,,
+tt1682180,Stoker,"Drama, Thriller",thriller,6.7,58.0,116545,2013,3.0,5940.0,"['Mia Wasikowska', 'Nicole Kidman', 'Matthew Goode']",Park Chan-wook,"$12,000,000 (estimated)","$12,077,441"

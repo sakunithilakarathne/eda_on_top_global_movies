@@ -1,0 +1,327 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt2911666,John Wick,"Action, Crime, Thriller",action,7.5,68.0,773731,2014,10.0,6060.0,"['Keanu Reeves', 'Michael Nyqvist', 'Alfie Allen']",Chad Stahelski,"$20,000,000 (estimated)","$86,085,139"
+tt2015381,Guardians of the Galaxy,"Action, Adventure, Comedy",action,8.0,76.0,1309969,2014,8.0,7260.0,"['Chris Pratt', 'Vin Diesel', 'Bradley Cooper']",James Gunn,"$170,000,000 (estimated)","$773,350,376"
+tt0455944,The Equalizer,"Action, Crime, Thriller",action,7.3,57.0,441866,2014,9.0,7920.0,,,,
+tt2802144,Kingsman: The Secret Service,"Action, Adventure, Comedy",action,7.7,60.0,747824,2014,1.0,7740.0,"['Colin Firth', 'Taron Egerton', 'Samuel L. Jackson']",Matthew Vaughn,"$81,000,000 (estimated)","$414,351,546"
+tt1631867,Edge of Tomorrow,"Action, Adventure, Sci-Fi",action,7.9,71.0,767524,2014,6.0,6780.0,"['Tom Cruise', 'Emily Blunt', 'Bill Paxton']",Doug Liman,"$178,000,000 (estimated)","$377,044,245"
+tt2713180,Fury,"Action, Drama, War",action,7.6,64.0,574026,2014,10.0,8040.0,,,,
+tt1587310,Maleficent,"Action, Adventure, Drama",action,6.9,56.0,411292,2014,5.0,5820.0,"['Angelina Jolie', 'Elle Fanning', 'Sharlto Copley']",Robert Stromberg,"$180,000,000 (estimated)","$759,853,685"
+tt1840309,Divergent,"Action, Adventure, Drama",action,6.6,48.0,503035,2014,3.0,8340.0,"['Shailene Woodley', 'Theo James', 'Kate Winslet']",Neil Burger,"$85,000,000 (estimated)","$288,885,818"
+tt1843866,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",action,7.7,70.0,928378,2014,4.0,8160.0,"['Chris Evans', 'Samuel L. Jackson', 'Scarlett Johansson']",Anthony Russo,"$170,000,000 (estimated)","$714,421,503"
+tt1790864,The Maze Runner,"Action, Mystery, Sci-Fi",action,6.8,57.0,532043,2014,9.0,6780.0,,,,
+tt2179136,American Sniper,"Action, Biography, Drama",action,7.3,73.0,547411,2014,1.0,7980.0,"['Bradley Cooper', 'Sienna Miller', 'Kyle Gallner']",Clint Eastwood,"$58,800,000 (estimated)","$547,659,020"
+tt2397535,Predestination,"Action, Drama, Sci-Fi",action,7.4,69.0,319956,2014,8.0,5820.0,"['Ethan Hawke', 'Sarah Snook', 'Noah Taylor']",Michael Spierig,"$5,100,000 (estimated)","$4,942,449"
+tt2245084,Big Hero 6,"Animation, Action, Adventure",action,7.8,74.0,524976,2014,11.0,6120.0,,,,
+tt1291150,Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy",action,5.8,31.0,224749,2014,8.0,6060.0,"['Megan Fox', 'Will Arnett', 'William Fichtner']",Jonathan Liebesman,"$125,000,000 (estimated)","$485,004,754"
+tt1872181,The Amazing Spider-Man 2,"Action, Adventure, Sci-Fi",action,6.6,53.0,559612,2014,5.0,8520.0,,,,
+tt2980592,The Guest,"Action, Mystery, Thriller",action,6.7,76.0,111039,2014,9.0,6000.0,"['Dan Stevens', 'Sheila Kelley', 'Maika Monroe']",Adam Wingard,"$5,000,000 (estimated)","$2,700,051"
+tt1877832,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",action,7.9,75.0,766882,2014,5.0,7920.0,"['Patrick Stewart', 'Ian McKellen', 'Hugh Jackman']",Bryan Singer,"$200,000,000 (estimated)","$746,045,700"
+tt1490017,The Lego Movie,"Animation, Action, Adventure",action,7.7,83.0,399755,2014,2.0,6000.0,"['Chris Pratt', 'Will Ferrell', 'Elizabeth Banks']",Phil Lord,"$60,000,000 (estimated)","$470,759,687"
+tt2109248,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",action,5.6,32.0,339487,2014,6.0,9900.0,"['Mark Wahlberg', 'Nicola Peltz Beckham', 'Jack Reynor']",Michael Bay,"$210,000,000 (estimated)","$1,105,261,713"
+tt1234721,RoboCop,"Action, Crime, Sci-Fi",action,6.1,52.0,243817,2014,2.0,7020.0,,,,
+tt0831387,Godzilla,"Action, Adventure, Sci-Fi",action,6.4,62.0,452455,2014,5.0,7380.0,"['Aaron Taylor-Johnson', 'Elizabeth Olsen', 'Bryan Cranston']",Gareth Edwards,"$160,000,000 (estimated)","$524,978,362"
+tt2872732,Lucy,"Action, Sci-Fi, Thriller",action,6.4,62.0,553610,2014,7.0,5340.0,"['Scarlett Johansson', 'Morgan Freeman', 'Choi Min-sik']",Luc Besson,"$40,000,000 (estimated)","$469,058,574"
+tt1951265,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",action,6.6,64.0,520824,2014,11.0,7380.0,,,,
+tt1646971,How to Train Your Dragon 2,"Animation, Action, Adventure",action,7.8,77.0,378725,2014,6.0,6120.0,"['Jay Baruchel', 'Cate Blanchett', 'Gerard Butler']",Dean DeBlois,"$145,000,000 (estimated)","$621,537,519"
+tt0458481,Sin City: A Dame to Kill For,"Action, Crime, Thriller",action,6.5,46.0,174097,2014,8.0,6120.0,"['Mickey Rourke', 'Jessica Alba', 'Josh Brolin']",Frank Miller,"$65,000,000 (estimated)","$39,407,616"
+tt2294449,22 Jump Street,"Action, Comedy, Crime",action,7.0,71.0,420567,2014,6.0,6720.0,"['Channing Tatum', 'Jonah Hill', 'Ice Cube']",Phil Lord,"$50,000,000 (estimated)","$331,333,876"
+tt3157224,We Still Kill the Old Way,"Action, Comedy, Crime",action,6.0,,5245,2014,12.0,5640.0,,,,
+tt1253863,300: Rise of an Empire,"Action, Drama",action,6.2,48.0,322504,2014,3.0,6120.0,"['Sullivan Stapleton', 'Eva Green', 'Lena Headey']",Noam Murro,"$110,000,000 (estimated)","$337,580,051"
+tt2369135,Need for Speed,"Action, Crime, Drama",action,6.4,39.0,182148,2014,3.0,7920.0,"['Aaron Paul', 'Dominic Cooper', 'Imogen Poots']",Scott Waugh,"$66,000,000 (estimated)","$203,277,636"
+tt2103281,Dawn of the Planet of the Apes,"Action, Adventure, Drama",action,7.6,79.0,498214,2014,7.0,7800.0,"['Gary Oldman', 'Keri Russell', 'Andy Serkis']",Matt Reeves,"$170,000,000 (estimated)","$710,644,566"
+tt1959490,Noah,"Action, Adventure, Drama",action,5.8,68.0,270943,2014,3.0,8280.0,,,,
+tt1528100,Exodus: Gods and Kings,"Action, Adventure, Drama",action,6.0,52.0,182774,2014,12.0,9000.0,,,,
+tt1921064,Pompeii,"Action, Adventure, Drama",action,5.5,41.0,119579,2014,2.0,6300.0,"['Kit Harington', 'Emily Browning', 'Kiefer Sutherland']",Paul W.S. Anderson,"$100,000,000 (estimated)","$117,831,631"
+tt0829150,Dracula Untold,"Action, Drama, Fantasy",action,6.2,40.0,215060,2014,10.0,5520.0,,,,
+tt2333784,The Expendables 3,"Action, Adventure, Comedy",action,6.1,35.0,200697,2014,8.0,7560.0,"['Sylvester Stallone', 'Jason Statham', 'Jet Li']",Patrick Hughes,"$80,000,000 (estimated)","$214,657,577"
+tt1267297,Hercules,"Action, Adventure, Fantasy",action,6.0,47.0,167737,2014,7.0,5880.0,"['Dwayne Johnson', 'John Hurt', 'Ian McShane']",Brett Ratner,"$100,000,000 (estimated)","$244,819,862"
+tt2452200,Son of a Gun,"Action, Crime, Drama",action,6.4,49.0,30219,2014,10.0,6480.0,,,,
+tt2788710,The Interview,"Action, Adventure, Comedy",action,6.5,52.0,365490,2014,12.0,6720.0,"['James Franco', 'Seth Rogen', 'Randall Park']",Evan Goldberg,"$44,000,000 (estimated)","$11,782,625"
+tt2265171,Serbuan maut 2: Berandal,"Action, Crime, Thriller",action,7.9,71.0,134863,2014,3.0,9000.0,,,,
+tt1911658,Penguins of Madagascar,"Animation, Action, Adventure",action,6.6,53.0,108041,2014,11.0,5520.0,"['Tom McGrath', 'Chris Miller', 'Christopher Knights']",Eric Darnell,"$132,000,000 (estimated)","$373,515,621"
+tt2024469,Non-Stop,"Action, Mystery, Thriller",action,6.9,56.0,281564,2014,2.0,6360.0,"['Liam Neeson', 'Julianne Moore', 'Scoot McNairy']",Jaume Collet-Serra,"$50,000,000 (estimated)","$222,809,600"
+tt1686821,Vampire Academy,"Action, Comedy, Drama",action,5.4,31.0,57728,2014,2.0,6240.0,"['Zoey Deutch', 'Lucy Fry', 'Danila Kozlovsky']",Mark Waters,"$30,000,000 (estimated)","$15,642,346"
+tt0365907,A Walk Among the Tombstones,"Action, Crime, Drama",action,6.5,57.0,129531,2014,9.0,6840.0,,,,
+tt2446042,Taken 3,"Action, Thriller",action,6.0,26.0,209468,2014,1.0,6480.0,"['Liam Neeson', 'Forest Whitaker', 'Maggie Grace']",Olivier Megaton,"$48,000,000 (estimated)","$326,479,141"
+tt1205537,Jack Ryan: Shadow Recruit,"Action, Drama, Thriller",action,6.2,57.0,140301,2014,1.0,6300.0,"['Chris Pine', 'Kevin Costner', 'Keira Knightley']",Kenneth Branagh,"$60,000,000 (estimated)","$135,503,748"
+tt2614684,'71,"Action, Crime, Drama",action,7.2,83.0,63021,2014,10.0,5940.0,"[""Jack O'Connell"", 'Sam Reid', 'Sean Harris']",Yann Demange,,"$3,062,178"
+tt2467046,Left Behind,"Action, Fantasy, Sci-Fi",action,3.1,12.0,43514,2014,10.0,6600.0,"['Nicolas Cage', 'Lea Thompson', 'Cassi Thomson']",Vic Armstrong,"$16,000,000 (estimated)","$27,405,896"
+tt2345737,The Rover,"Action, Crime, Drama",action,6.4,64.0,52776,2014,6.0,6180.0,"['Guy Pearce', 'Robert Pattinson', 'Scoot McNairy']",David Michôd,"$12,000,000 (estimated)","$2,510,007"
+tt1121096,Seventh Son,"Action, Adventure, Fantasy",action,5.5,30.0,81902,2014,1.0,6120.0,"['Ben Barnes', 'Julianne Moore', 'Jeff Bridges']",Sergei Bodrov,"$95,000,000 (estimated)","$114,178,613"
+tt2975578,The Purge: Anarchy,"Action, Horror, Sci-Fi",action,6.4,50.0,167411,2014,7.0,6180.0,"['Frank Grillo', 'Carmen Ejogo', 'Zach Gilford']",James DeMonaco,"$9,000,000 (estimated)","$111,928,365"
+tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",adventure,8.7,74.0,2311911,2014,11.0,10140.0,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']",Christopher Nolan,"$165,000,000 (estimated)","$758,464,713"
+tt2278388,The Grand Budapest Hotel,"Adventure, Comedy, Crime",adventure,8.1,88.0,920668,2014,3.0,5940.0,"['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric']",Wes Anderson,"$25,000,000 (estimated)","$174,567,384"
+tt1109624,Paddington,"Adventure, Comedy, Family",adventure,7.3,77.0,145451,2014,11.0,5700.0,"['Hugh Bonneville', 'Sally Hawkins', 'Julie Walters']",Paul King,"$55,000,000 (estimated)","$326,088,587"
+tt2310332,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",adventure,7.4,59.0,593495,2014,12.0,8640.0,,,,
+tt2883512,Chef,"Adventure, Comedy, Drama",adventure,7.3,68.0,240827,2014,5.0,6840.0,"['Jon Favreau', 'Robert Downey Jr.', 'Scarlett Johansson']",Jon Favreau,"$11,000,000 (estimated)","$50,440,695"
+tt2180411,Into the Woods,"Adventure, Comedy, Drama",adventure,5.9,69.0,150605,2014,12.0,7500.0,"['Anna Kendrick', 'Meryl Streep', 'Chris Pine']",Rob Marshall,"$50,000,000 (estimated)","$212,902,959"
+tt2305051,Wild,"Adventure, Biography, Drama",adventure,7.1,74.0,142555,2014,12.0,6900.0,"['Reese Witherspoon', 'Laura Dern', 'Gaby Hoffmann']",Jean-Marc Vallée,"$15,000,000 (estimated)","$52,501,541"
+tt2262227,The Book of Life,"Animation, Adventure, Comedy",adventure,7.2,67.0,80713,2014,10.0,5700.0,"['Diego Luna', 'Zoe Saldaña', 'Channing Tatum']",Jorge R. Gutiérrez,"$50,000,000 (estimated)","$99,783,556"
+tt2692250,Night at the Museum: Secret of the Tomb,"Adventure, Comedy, Family",adventure,6.2,47.0,141413,2014,12.0,5880.0,,,,
+tt2357291,Rio 2,"Animation, Adventure, Comedy",adventure,6.3,49.0,105562,2014,4.0,6060.0,"['Jesse Eisenberg', 'Anne Hathaway', 'Jemaine Clement']",Carlos Saldanha,"$103,000,000 (estimated)","$498,781,117"
+tt0864835,Mr. Peabody & Sherman,"Animation, Adventure, Comedy",adventure,6.7,59.0,80736,2014,2.0,5520.0,"['Ty Burrell', 'Max Charles', 'Stephen Colbert']",Rob Minkoff,"$145,000,000 (estimated)","$275,698,039"
+tt1224378,Viy,"Adventure, Fantasy, Mystery",adventure,5.2,,6790,2014,1.0,7800.0,"['Jason Flemyng', 'Andrey Smolyakov', 'Aleksey Chadov']",Oleg Stepchenko,"$26,000,000 (estimated)","$38,885,962"
+tt1865505,Song of the Sea,"Animation, Adventure, Drama",adventure,8.0,85.0,65356,2014,12.0,5580.0,"['David Rawle', 'Brendan Gleeson', 'Lisa Hannigan']",Tomm Moore,"€5,300,000 (estimated)","$4,228,034"
+tt2106361,Into the Storm,"Action, Adventure, Drama",adventure,5.8,44.0,72988,2014,8.0,5340.0,,,,
+tt2261331,Black Sea,"Adventure, Drama, Thriller",adventure,6.4,62.0,42128,2014,12.0,6840.0,"['Jude Law', 'Scoot McNairy', 'Ben Mendelsohn']",Kevin Macdonald,"£8,000,000 (estimated)","$4,070,789"
+tt1043726,The Legend of Hercules,"Action, Adventure, Fantasy",adventure,4.3,22.0,56989,2014,1.0,5940.0,,,,
+tt2944198,Backcountry,"Adventure, Drama, Horror",adventure,6.0,62.0,25716,2014,8.0,5520.0,"['Jeff Roop', 'Missy Peregrym', 'Nicholas Campbell']",Adam MacDonald,,"$13,848"
+tt2402157,The November Man,"Action, Adventure, Crime",adventure,6.3,38.0,71778,2014,8.0,6480.0,"['Pierce Brosnan', 'Luke Bracey', 'Olga Kurylenko']",Roger Donaldson,"$15,000,000 (estimated)","$39,661,919"
+tt2281587,Muppets Most Wanted,"Adventure, Comedy, Crime",adventure,6.4,61.0,38040,2014,3.0,6420.0,"['Ricky Gervais', 'Ty Burrell', 'Tina Fey']",James Bobin,"$50,000,000 (estimated)","$80,383,113"
+tt0787474,The Boxtrolls,"Animation, Adventure, Comedy",adventure,6.8,61.0,63044,2014,9.0,5760.0,"['Ben Kingsley', 'Jared Harris', 'Nick Frost']",Graham Annable,"$60,000,000 (estimated)","$108,255,770"
+tt3138104,The Hungover Games,"Adventure, Comedy, Fantasy",adventure,3.5,,17474,2014,2.0,5100.0,"['Ben Begley', 'Herbert Russell', 'Ross Nathan']",Josh Stolberg,,
+tt2295722,Falcon Rising,"Action, Adventure",adventure,5.8,49.0,9566,2014,9.0,6180.0,,,,
+tt1361318,Good People,"Action, Adventure, Crime",adventure,5.5,42.0,17600,2014,8.0,5400.0,"['James Franco', 'Kate Hudson', 'Tom Wilkinson']",Henrik Ruben Genz,,"$1,857,574"
+tt2980706,Planes: Fire & Rescue,"Animation, Adventure, Comedy",adventure,5.9,48.0,20659,2014,7.0,4980.0,"['Dane Cook', 'Ed Harris', 'Julie Bowen']",Bobs Gannaway,"$50,000,000 (estimated)","$146,965,787"
+tt3858372,Mune: Le Gardien de la Lune,"Animation, Adventure, Comedy",adventure,7.1,,8411,2014,10.0,5100.0,,,,
+tt3253930,La isla mínima,"Action, Adventure, Crime",adventure,7.2,,37478,2014,9.0,6300.0,,,,
+tt3398268,Omoide no Mânî,"Animation, Drama, Family",animation,7.6,72.0,51281,2014,7.0,6180.0,"['Sara Takatsuki', 'Kasumi Arimura', 'Nanako Matsushima']",Hiromasa Yonebayashi,,"$35,012,681"
+tt1821658,The Nut Job,"Animation, Adventure, Comedy",animation,5.7,37.0,31134,2014,1.0,5100.0,,,,
+tt3638012,Appleseed Alpha,"Animation, Action, Adventure",animation,6.5,,9335,2014,7.0,5580.0,"['Luci Christian', 'David Matranga', 'Brina Palencia']",Shinji Aramaki,,
+tt3759416,Astérix : Le domaine des dieux,"Animation, Adventure, Comedy",animation,6.9,,16004,2014,11.0,5100.0,"['Roger Carel', 'Lorànt Deutsch', 'Laurent Lafitte']",Louis Clichy,"€30,000,000 (estimated)","$42,830,578"
+tt3139072,Son of Batman,"Animation, Action, Adventure",animation,6.7,,32400,2014,4.0,4440.0,"[""Jason O'Mara"", 'Stuart Allan', 'Thomas Gibson']",Ethan Spaulding,,
+tt3717532,The Last: Naruto the Movie,"Animation, Action, Adventure",animation,7.6,,18844,2014,12.0,6720.0,"['Junko Takeuchi', 'Nana Mizuki', 'Jun Fukuyama']",Tsuneo Kobayashi,"¥120,000,000 (estimated)","$2,949,185"
+tt3885932,Winx Club: Il mistero degli abissi,"Animation, Action, Adventure",animation,5.6,,939,2014,9.0,4980.0,"['Alberto Bognanni', 'Letizia Ciampa', ""Domitilla D'Amico""]",Iginio Straffi,,"$5,337,409"
+tt3331846,Stand by Me Doraemon,"Animation, Comedy, Drama",animation,7.3,,10062,2014,8.0,5700.0,"['Wasabi Mizuta', 'Megumi Ôhara', 'Satoshi Tsumabuki']",Tony Oliver,"$35,000,000 (estimated)","$186,088,951"
+tt2062622,Postman Pat: The Movie,"Animation, Comedy, Family",animation,4.7,44.0,2025,2014,5.0,5280.0,"['Stephen Mangan', 'Jim Broadbent', 'Rupert Grint']",Mike Disa,,"$7,102,455"
+tt0498351,The Hero of Color City,"Animation, Adventure, Family",animation,3.9,33.0,777,2014,7.0,4620.0,"['Owen Wilson', 'Christina Ricci', 'Rosie Perez']",Frank Gladstone,,"$115,335"
+tt3646944,Gekijouban Shingeki no kyojin Zenpen: Guren no yumiya,"Animation, Action, Adventure",animation,7.6,,4112,2014,11.0,7140.0,"['Yûki Kaji', 'Yui Ishikawa', 'Marina Inoue']",Tetsurô Araki,,"$158,746"
+tt2006753,Heavenly Sword,"Animation, Action, Adventure",animation,5.3,,2249,2014,,5100.0,"['Anna Torv', 'Alfred Molina', 'Thomas Jane']",Gun Ho Jang,"$6,000,000 (estimated)",
+tt2378401,Meet the Patels,"Documentary, Animation, Comedy",animation,7.1,70.0,3602,2014,9.0,5280.0,"['Ravi Patel', 'Geeta Vasant Patel', 'Champa V. Patel']",Geeta Vasant Patel,,"$1,700,681"
+tt3477554,Snezhnaya Koroleva 2: Perezamorozka,"Animation, Adventure, Comedy",animation,5.8,,2572,2014,1.0,4860.0,"['Ivan Okhlobystin', 'Anna Shurochkina', 'Garik Kharlamov']",Alex Tsitsilin,,"$15,640,057"
+tt3455204,Meitantei Conan: Ijigen no sunaipâ,"Animation, Action, Adventure",animation,6.7,,1822,2014,4.0,6600.0,"['Minami Takayama', 'Kappei Yamaguchi', 'Wakana Yamazaki']",Kôbun Shizuno,"$10,000,000 (estimated)","$42,028,116"
+tt3871940,Eiga Kureyon Shinchan: Gachinko! Gyakushuu no Robotôchan,"Animation, Adventure, Comedy",animation,7.2,,621,2014,4.0,5820.0,,,,
+tt6417868,Chhota Bheem Aur Mayavi Gorgan,"Animation, Action, Adventure",animation,6.4,,142,2014,,3900.0,"['Jigna Bhardwaj', 'Rupa Bhimani', 'Vatsal Dubey']",Rajiv Chilaka,,
+tt1640718,The Prophet,"Animation, Drama",animation,7.0,61.0,5161,2014,8.0,5100.0,"['Liam Neeson', 'Salma Hayek', 'Quvenzhané Wallis']",Roger Allers,"$12,000,000 (estimated)","$1,261,412"
+tt5714216,Black Butler: Book of Murder,"Animation, Adventure, Crime",animation,7.9,,1438,2014,10.0,6960.0,"['Daisuke Ono', 'Brina Palencia', 'Maaya Sakamoto']",Noriyuki Abe,,
+tt3246908,The Boxcar Children,"Animation, Adventure, Family",animation,6.5,,651,2014,4.0,5160.0,"['Illeana Douglas', 'Mackenzie Foy', 'Zachary Gordon']",Daniel Chuba,"$5,000,000 (estimated)",
+tt6442758,Chhota Bheem Paanch Ajoobe,"Animation, Action, Adventure",animation,6.2,,126,2014,,4080.0,"['Jigna Bhardwaj', 'Rupa Bhimani', 'Vatsal Dubey']",Rajiv Chilaka,,
+tt3830998,Lupin the IIIrd: Jigen Daisuke no Bohyô,"Animation, Action, Crime",animation,7.2,,1089,2014,6.0,3060.0,"['Richard Epcar', 'Akio Hirose', 'Kiyoshi Kobayashi']",Takeshi Koike,,
+tt3921852,Barbie and the Secret Door,"Animation, Family",animation,5.7,,2157,2014,8.0,4860.0,"['Kelly Sheridan', 'Brittany McDonald', 'Ashleigh Ball']",Karen J. Lloyd,,"$1,986,375"
+tt2066048,Ribbit,"Animation, Adventure, Comedy",animation,4.1,,772,2014,9.0,5280.0,,,,
+tt2339505,Kochadaiiyaan,"Animation, Action, Adventure",animation,6.2,,5454,2014,5.0,7080.0,"['Rajinikanth', 'Deepika Padukone', 'R. Sarathkumar']",Soundarya Rajinikanth Vishagan,,"$1,210,580"
+tt2859246,Rakuen Tsuiho: Expelled from Paradise,"Animation, Action, Adventure",animation,6.6,,1899,2014,11.0,6240.0,"['Rie Kugimiya', 'Wendee Lee', 'Steve Blum']",Seiji Mizushima,,"$34,510"
+tt3178174,Jobanni no shima,"Animation, Drama, History",animation,7.3,,2328,2014,2.0,6120.0,"['Tatsuya Nakadai', 'Yukie Nakama', 'Yûsuke Santamaria']",Mizuho Nishikubo,,
+tt3480110,Resan till fjäderkungens rike,"Animation, Adventure, Family",animation,6.0,,910,2014,3.0,4680.0,"['Gustaf Hammarsten', 'Lennart Jähkel', 'Sissela Kyle']",Esben Toft Jacobsen,,"$226,595"
+tt2371399,Muumit Rivieralla,"Animation, Comedy, Family",animation,6.0,59.0,1541,2014,10.0,4800.0,"['Maria Sid', 'Russell Tovey', 'Mats Långbacka']",Xavier Picard,"€3,600,000 (estimated)","$2,200,510"
+tt4168188,Chaar Sahibzaade,"Animation, History",animation,7.7,,8015,2014,11.0,8100.0,,,,
+tt3336368,Maya the Bee Movie,"Animation, Adventure, Comedy",animation,5.9,49.0,2384,2014,9.0,5340.0,"['Jacki Weaver', 'Kodi Smit-McPhee', 'Miriam Margolyes']",Alexs Stadermann,,"$29,647,871"
+tt1686027,The Creep Behind the Camera,"Animation, Biography, Drama",animation,5.8,,295,2014,4.0,6660.0,,,,
+tt6417978,Chhota Bheem Ki Baazi,"Animation, Action, Adventure",animation,8.2,,94,2014,,,,,,
+tt3600950,Belka i Strelka: Lunnye priklyucheniya,"Animation, Adventure, Comedy",animation,3.8,,489,2014,2.0,5400.0,"['Nonna Grishaeva', 'Alicia Silverstone', 'Ashlee Simpson']",Inna Evlannikova,,"$6,451,892"
+tt4168022,Yôkai Watch: Tanjô no himitsuda nyan,"Animation, Action, Comedy",animation,5.7,,333,2014,12.0,5820.0,,,,
+tt3413018,Tamako rabu sutôrî,"Animation, Comedy, Drama",animation,7.0,,3186,2014,4.0,4980.0,"['Aya Suzaki', 'Atsushi Tamaru', 'Yûki Kaneko']",Naoko Yamada,,"$1,226,623"
+tt3529198,My Little Pony: Equestria Girls - Rainbow Rocks,"Animation, Adventure, Comedy",animation,7.0,,3935,2014,9.0,4500.0,"['Tara Strong', 'Ashleigh Ball', 'Andrea Libman']",Jayson Thiessen,,"$360,736"
+tt0892062,Hamlet A.D.D.,"Animation, Comedy, Fantasy",animation,6.1,,122,2014,4.0,5700.0,"['Bobby Ciraldo', 'Robert Richard Jorge', 'Andrew Swant']",Bobby Ciraldo,,
+tt1290393,The Clockwork Girl,"Animation, Adventure, Fantasy",animation,5.0,,828,2014,6.0,5040.0,"['Adrian Hough', 'Jeffrey Tambor', 'Brad Garrett']",Kevin Konrad Hanna,,$561
+tt2182256,Premature,"Comedy, Drama, Fantasy",comedy,5.7,34.0,10977,2014,7.0,5580.0,"['John Karna', 'Caroline Traywick', 'Kate Kneeland']",Dan Beers,,"$415,863"
+tt1086772,Blended,"Comedy, Romance",comedy,6.5,31.0,150919,2014,5.0,7020.0,"['Adam Sandler', 'Drew Barrymore', 'Wendi McLendon-Covey']",Frank Coraci,"$40,000,000 (estimated)","$128,006,208"
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),"Comedy, Drama",comedy,7.7,87.0,680183,2014,11.0,7140.0,"['Michael Keaton', 'Zach Galifianakis', 'Edward Norton']",Alejandro G. Iñárritu,"$18,000,000 (estimated)","$103,215,094"
+tt3099498,Tusk,"Comedy, Horror",comedy,5.4,55.0,67758,2014,9.0,6120.0,,,,
+tt2203939,The Other Woman,"Comedy, Romance",comedy,6.0,39.0,156113,2014,4.0,6540.0,,,,
+tt1823664,Annie,"Comedy, Drama, Family",comedy,5.4,33.0,41944,2014,12.0,7080.0,,,,
+tt1791528,Inherent Vice,"Comedy, Crime, Drama",comedy,6.6,81.0,113774,2014,1.0,8880.0,"['Joaquin Phoenix', 'Josh Brolin', 'Owen Wilson']",Paul Thomas Anderson,"$20,000,000 (estimated)","$14,810,975"
+tt3416742,What We Do in the Shadows,"Comedy, Horror",comedy,7.6,76.0,207214,2014,6.0,5160.0,"['Jemaine Clement', 'Taika Waititi', 'Cori Gonzalez-Macuer']",Jemaine Clement,"$1,600,000 (estimated)","$8,900,776"
+tt1638002,"Love, Rosie","Comedy, Romance",comedy,7.1,44.0,161634,2014,10.0,6120.0,"['Lily Collins', 'Sam Claflin', 'Christian Cooke']",Christian Ditter,,"$25,574,387"
+tt3128900,Miss Meadows,"Comedy, Crime, Drama",comedy,5.8,43.0,10786,2014,11.0,5280.0,"['Katie Holmes', 'James Badge Dale', 'Callan Mulvey']",Karen Leigh Hopkins,"$3,000,000 (estimated)",
+tt3011894,Relatos salvajes,"Comedy, Drama, Thriller",comedy,8.1,77.0,226534,2014,8.0,7320.0,"['Darío Grandinetti', 'María Marull', 'Mónica Villa']",Damián Szifron,"$3,300,000 (estimated)","$31,478,893"
+tt2557490,A Million Ways to Die in the West,"Comedy, Western",comedy,6.1,44.0,204437,2014,5.0,6960.0,"['Seth MacFarlane', 'Charlize Theron', 'Liam Neeson']",Seth MacFarlane,"$40,000,000 (estimated)","$87,189,756"
+tt1371150,This Is Where I Leave You,"Comedy, Drama",comedy,6.6,44.0,91644,2014,9.0,6180.0,,,,
+tt2170593,St. Vincent,"Comedy, Drama",comedy,7.2,64.0,110595,2014,10.0,6120.0,"['Bill Murray', 'Melissa McCarthy', 'Naomi Watts']",Theodore Melfi,"$13,000,000 (estimated)","$54,837,234"
+tt2355495,Barefoot,"Comedy, Drama, Romance",comedy,6.5,22.0,27944,2014,9.0,5400.0,,,,
+tt2177771,The Monuments Men,"Biography, Comedy, Drama",comedy,6.1,52.0,145276,2014,2.0,7080.0,"['George Clooney', 'Matt Damon', 'Bill Murray']",George Clooney,"$70,000,000 (estimated)","$156,706,638"
+tt1567437,The Voices,"Comedy, Crime, Horror",comedy,6.3,58.0,65050,2014,2.0,6180.0,"['Ryan Reynolds', 'Gemma Arterton', 'Anna Kendrick']",Marjane Satrapi,,"$2,097,718"
+tt2980648,The Hundred-Foot Journey,"Comedy, Drama",comedy,7.3,55.0,89284,2014,8.0,7320.0,"['Helen Mirren', 'Om Puri', 'Manish Dayal']",Lasse Hallström,"$22,000,000 (estimated)","$90,425,868"
+tt2004420,Neighbors,Comedy,comedy,6.3,68.0,336937,2014,5.0,5820.0,"['Seth Rogen', 'Rose Byrne', 'Zac Efron']",Nicholas Stoller,"$18,000,000 (estimated)","$270,665,134"
+tt1800246,That Awkward Moment,"Comedy, Romance",comedy,6.1,36.0,108867,2014,1.0,5640.0,"['Zac Efron', 'Michael B. Jordan', 'Miles Teller']",Tom Gormican,"$8,000,000 (estimated)","$45,640,143"
+tt0443465,Before We Go,"Comedy, Drama, Romance",comedy,6.8,31.0,66252,2014,7.0,5700.0,"['Chris Evans', 'Alice Eve', 'Emma Fitzpatrick']",Chris Evans,,"$462,875"
+tt2096672,Dumb and Dumber To,Comedy,comedy,5.6,36.0,149073,2014,11.0,6540.0,"['Jim Carrey', 'Jeff Daniels', 'Rob Riggle']",Bobby Farrelly,"$40,000,000 (estimated)","$169,837,010"
+tt1956620,Sex Tape,"Comedy, Romance",comedy,5.1,36.0,120456,2014,7.0,5640.0,,,,
+tt2314824,Behaving Badly,"Comedy, Romance",comedy,4.4,18.0,12611,2014,7.0,5820.0,"['Nat Wolff', 'Selena Gomez', 'Mary-Louise Parker']",Tim Garrick,"$3,000,000 (estimated)","$422,697"
+tt2338151,PK,"Comedy, Drama, Sci-Fi",comedy,8.1,,209482,2014,12.0,9180.0,,,,
+tt2784512,Zombeavers,"Comedy, Horror",comedy,4.8,44.0,21533,2014,3.0,4620.0,"['Rachel Melvin', 'Cortney Palm', 'Lexi Atkins']",Jordan Rubin,,"$54,985"
+tt3169706,Pride,"Biography, Comedy, Drama",comedy,7.8,79.0,63335,2014,9.0,7140.0,,,,
+tt2170439,Horrible Bosses 2,"Comedy, Crime",comedy,6.3,40.0,188948,2014,11.0,6480.0,"['Jason Bateman', 'Jason Sudeikis', 'Charlie Day']",Sean Anders,"$42,000,000 (estimated)","$107,645,357"
+tt2121382,Turist,"Comedy, Drama",comedy,7.2,87.0,70136,2014,8.0,7200.0,,,,
+tt2756032,The One I Love,"Comedy, Drama, Fantasy",comedy,7.0,66.0,44990,2014,8.0,5460.0,"['Mark Duplass', 'Elisabeth Moss', 'Ted Danson']",Charlie McDowell,"$100,000 (estimated)","$596,933"
+tt2872718,Nightcrawler,"Crime, Drama, Thriller",crime,7.8,76.0,632556,2014,10.0,7020.0,"['Jake Gyllenhaal', 'Rene Russo', 'Bill Paxton']",Dan Gilroy,"$8,500,000 (estimated)","$47,425,835"
+tt1872194,The Judge,"Crime, Drama, Mystery",crime,7.4,48.0,212735,2014,10.0,8460.0,"['Robert Downey Jr.', 'Robert Duvall', 'Vera Farmiga']",David Dobkin,"$50,000,000 (estimated)","$84,419,388"
+tt1600196,The Drop,"Crime, Drama, Mystery",crime,7.0,69.0,165614,2014,9.0,6360.0,"['Tom Hardy', 'Noomi Rapace', 'James Gandolfini']",Michaël R. Roskam,"$12,600,000 (estimated)","$18,658,381"
+tt1126590,Big Eyes,"Biography, Crime, Drama",crime,7.0,62.0,102025,2014,12.0,6360.0,"['Amy Adams', 'Christoph Waltz', 'Danny Huston']",Tim Burton,"$10,000,000 (estimated)","$29,261,617"
+tt2937898,A Most Violent Year,"Crime, Drama, Thriller",crime,6.9,79.0,79689,2014,1.0,7500.0,,,,
+tt1972571,A Most Wanted Man,"Crime, Drama, Thriller",crime,6.7,73.0,82240,2014,8.0,7320.0,"['Philip Seymour Hoffman', 'Rachel McAdams', 'Daniel Brühl']",Anton Corbijn,"$15,000,000 (estimated)","$36,233,517"
+tt2377322,Deliver Us from Evil,"Crime, Horror, Mystery",crime,6.2,40.0,88389,2014,7.0,7080.0,"['Eric Bana', 'Edgar Ramírez', 'Olivia Munn']",Scott Derrickson,"$30,000,000 (estimated)","$87,937,815"
+tt2802154,Leviathan,"Crime, Drama",crime,7.6,92.0,58285,2014,2.0,8400.0,,,,
+tt1742334,Sabotage,"Action, Crime, Drama",crime,5.7,41.0,67348,2014,3.0,6540.0,"['Arnold Schwarzenegger', 'Sam Worthington', 'Terrence Howard']",David Ayer,"$35,000,000 (estimated)","$22,126,842"
+tt2039393,The Gambler,"Crime, Drama, Thriller",crime,6.0,55.0,75430,2014,12.0,6660.0,"['Mark Wahlberg', 'Jessica Lange', 'John Goodman']",Rupert Wyatt,"$25,000,000 (estimated)","$39,280,992"
+tt2771372,Veronica Mars,"Crime, Drama, Mystery",crime,6.7,62.0,55535,2014,3.0,6420.0,,,,
+tt1408253,Ride Along,"Action, Comedy, Crime",crime,6.1,41.0,126040,2014,1.0,5940.0,"['Ice Cube', 'Kevin Hart', 'Tika Sumpter']",Tim Story,"$25,000,000 (estimated)","$154,468,902"
+tt2234003,Calvary,"Crime, Drama, Mystery",crime,7.4,77.0,66091,2014,4.0,6120.0,"['Brendan Gleeson', ""Chris O'Dowd"", 'Kelly Reilly']",John Michael McDonagh,,"$16,887,741"
+tt1924435,Let's Be Cops,"Action, Comedy, Crime",crime,6.4,30.0,141831,2014,8.0,6240.0,"['Jake Johnson', 'Damon Wayans Jr.', 'Rob Riggle']",Luke Greenfield,"$17,000,000 (estimated)","$138,224,951"
+tt2376218,The Forger,"Crime, Drama, Thriller",crime,5.8,32.0,13672,2014,4.0,5700.0,"['John Travolta', 'Christopher Plummer', 'Tye Sheridan']",Philip Martin,"$15,000,000 (estimated)","$500,304"
+tt1216491,Kill the Messenger,"Biography, Crime, Drama",crime,6.9,60.0,49446,2014,10.0,6720.0,,,,
+tt2891174,99 Homes,"Crime, Drama",crime,7.1,76.0,39568,2014,10.0,6720.0,"['Andrew Garfield', 'Michael Shannon', 'Laura Dern']",Ramin Bahrani,"$8,000,000 (estimated)","$1,828,232"
+tt0780548,Kid Cannabis,"Biography, Comedy, Crime",crime,6.4,54.0,10723,2014,4.0,6600.0,"['Jonathan Daniel Brown', 'Kenny Wormald', 'Aaron Yoo']",John Stockwell,"$5,000,000 (estimated)","$5,565"
+tt2326612,The Captive,"Crime, Drama, Mystery",crime,5.9,36.0,36589,2014,9.0,6720.0,"['Ryan Reynolds', 'Scott Speedman', 'Rosario Dawson']",Atom Egoyan,"$10,000,000 (estimated)","$2,096,212"
+tt2044801,Kite,"Action, Crime, Thriller",crime,4.4,19.0,7003,2014,6.0,5400.0,"['India Eisley', 'Jaco Muller', 'Annabel Linder']",Ralph Ziman,,"$507,180"
+tt2923316,American Heist,"Action, Crime, Drama",crime,5.0,23.0,17878,2014,7.0,5640.0,,,,
+tt2675914,Kraftidioten,"Action, Comedy, Crime",crime,7.1,74.0,30029,2014,2.0,6960.0,"['Stellan Skarsgård', 'Bruno Ganz', 'Pål Sverre Hagen']",Hans Petter Moland,"€4,576,591 (estimated)","$904,446"
+tt2180994,A Good Marriage,"Action, Crime, Drama",crime,5.3,43.0,13339,2014,10.0,6120.0,,,,
+tt1976000,The Two Faces of January,"Crime, Mystery, Romance",crime,6.2,66.0,34473,2014,5.0,5760.0,,,,
+tt2316801,La belle et la bête,"Drama, Family, Fantasy",family,6.4,39.0,23320,2014,2.0,6720.0,,,,
+tt1929263,Heaven Is for Real,"Biography, Drama, Family",family,5.9,47.0,29230,2014,4.0,5940.0,"['Greg Kinnear', 'Kelly Reilly', 'Thomas Haden Church']",Randall Wallace,"$12,000,000 (estimated)","$101,982,712"
+tt1698641,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Comedy, Drama, Family",family,6.2,54.0,47528,2014,10.0,4860.0,"['Steve Carell', 'Jennifer Garner', 'Ed Oxenbould']",Miguel Arteta,"$28,000,000 (estimated)","$100,654,149"
+tt1647668,Million Dollar Arm,"Biography, Drama, Family",family,7.0,56.0,48530,2014,5.0,7440.0,"['Jon Hamm', 'Aasif Mandvi', 'Alan Arkin']",Craig Gillespie,"$25,000,000 (estimated)","$38,483,455"
+tt3200980,Where Hope Grows,"Drama, Family",family,6.6,41.0,4441,2014,5.0,5700.0,,,,
+tt2247476,When the Game Stands Tall,"Biography, Drama, Family",family,6.6,41.0,17220,2014,8.0,6900.0,,,,
+tt4009460,Saving Christmas,"Comedy, Family",family,1.3,18.0,16989,2014,11.0,4740.0,"['Kirk Cameron', 'Darren Doane', 'Bridgette Cameron']",Darren Doane,"$500,000 (estimated)","$2,783,970"
+tt2978462,Dolphin Tale 2,"Drama, Family",family,6.4,58.0,10012,2014,9.0,6420.0,,,,
+tt1717715,Xi you ji: Da nao tian gong,"Action, Adventure, Family",family,4.9,,5495,2014,1.0,7140.0,"['Donnie Yen', 'Chow Yun-Fat', 'Aaron Kwok']",Soi Cheang,"$100,000,000 (estimated)","$182,206,924"
+tt3260022,Saphirblau,"Action, Adventure, Drama",family,6.2,,4634,2014,12.0,6960.0,"['Josefine Preuß', 'Florian Bartholomäi', 'Karl Walter Sprungala']",Felix Fuchssteiner,,"$5,188,128"
+tt3270108,Jackie & Ryan,"Drama, Family, Music",family,5.9,55.0,4843,2014,7.0,5400.0,"['Katherine Heigl', 'Ben Barnes', 'Clea DuVall']",Ami Canaan Mann,,"$19,305"
+tt3254796,Big Stone Gap,"Comedy, Family, Mystery",family,5.8,39.0,3389,2014,5.0,6180.0,,,,
+tt2183034,Earth to Echo,"Adventure, Family, Sci-Fi",family,5.7,53.0,20070,2014,7.0,5460.0,,,,
+tt1977087,Tom Sawyer & Huckleberry Finn,"Action, Adventure, Drama",family,5.1,,1065,2014,4.0,5400.0,"['Joel Courtney', 'Jake T. Austin', 'Katherine McNamara']",Jo Kastner,,
+tt3064356,The Beat Beneath My Feet,"Comedy, Drama, Family",family,6.4,,1909,2014,7.0,5460.0,,,,
+tt1935940,Get Santa,"Comedy, Family, Fantasy",family,6.3,52.0,5027,2014,12.0,6120.0,"['Jim Broadbent', 'Rafe Spall', 'Kit Connor']",Christopher Smith,,"$4,798,222"
+tt3488462,Honig im Kopf,"Comedy, Drama, Family",family,6.6,,7356,2014,12.0,8340.0,"['Pasquale Aleardi', 'Marco Boriero', 'Alexa Brunner']",Til Schweiger,,"$78,127,384"
+tt4008866,Bibi & Tina voll verhext!,"Adventure, Family",family,5.2,,872,2014,12.0,8220.0,"['Lina Larissa Strahl', 'Lisa-Marie Koroll', 'Louis Held']",Detlev Buck,,"$7,807,600"
+tt3511364,In the Dog House,Family,family,3.9,,79,2014,9.0,4860.0,"['Kim Hamilton', 'Matt Masella', 'Alana Baer']",Paul Rocha,,
+tt3064620,Isabelle Dances Into the Spotlight,"Drama, Family",family,5.6,,459,2014,7.0,6000.0,"['Erin Pitt', 'Melora Hardin', 'Grace Davidson']",Vince Marcello,,
+tt0329539,Rice Girl,"Adventure, Comedy, Family",family,3.6,,146,2014,7.0,5700.0,,,,
+tt3278950,Under the Blood-Red Sun,"Drama, Family, History",family,5.9,,129,2014,9.0,5940.0,,,,
+tt2390283,Midnight Sun,"Adventure, Drama, Family",family,6.0,,1028,2014,11.0,5880.0,,,,
+tt1355630,If I Stay,"Drama, Fantasy, Music",fantasy,6.7,46.0,129756,2014,8.0,6420.0,"['Chloë Grace Moretz', 'Mireille Enos', 'Jamie Blackley']",R.J. Cutler,"$11,000,000 (estimated)","$78,274,843"
+tt1418377,"I, Frankenstein","Action, Fantasy, Sci-Fi",fantasy,5.1,30.0,84813,2014,1.0,5520.0,"['Aaron Eckhart', 'Bill Nighy', 'Miranda Otto']",Stuart Beattie,"$65,000,000 (estimated)","$76,801,179"
+tt3203616,The Cobbler,"Comedy, Drama, Fantasy",fantasy,5.8,23.0,62404,2014,3.0,5940.0,"['Adam Sandler', 'Melonie Diaz', 'Steve Buscemi']",Tom McCarthy,,"$6,501,058"
+tt1837709,Winter's Tale,"Drama, Fantasy, Mystery",fantasy,6.1,31.0,58051,2014,2.0,7080.0,"['Colin Farrell', 'Jessica Brown Findlay', 'Russell Crowe']",Akiva Goldsman,"$60,000,000 (estimated)","$30,800,231"
+tt1403241,Wolves,"Action, Fantasy, Horror",fantasy,5.3,37.0,10788,2014,8.0,5460.0,"['Lucas Till', 'Stephen McHattie', 'John Pyper-Ferguson']",David Hayter,"$18,000,000 (estimated)","$491,154"
+tt2828996,A Haunted House 2,"Comedy, Fantasy, Horror",fantasy,4.7,17.0,24376,2014,4.0,5160.0,"['Marlon Wayans', 'Jaime Pressly', 'Cedric The Entertainer']",Michael Tiddes,"$4,000,000 (estimated)","$25,358,716"
+tt2101569,In Your Eyes,"Fantasy, Romance",fantasy,6.9,,32486,2014,4.0,6360.0,"['Michael Stahl-David', 'Zoe Kazan', 'Mark Feuerstein']",Brin Hill,"$1,000,000 (estimated)",
+tt2345613,Leprechaun: Origins,"Fantasy, Horror",fantasy,3.2,,6815,2014,8.0,5400.0,"['Dylan Postl', 'Stephanie Bennett', 'Andrew Dunbar']",Zach Lipovsky,,
+tt2581244,Life After Beth,"Comedy, Fantasy, Horror",fantasy,5.7,50.0,25105,2014,7.0,5340.0,,,,
+tt2714380,The Remaining,"Drama, Fantasy, Horror",fantasy,4.3,38.0,9312,2014,9.0,5280.0,"['Johnny Pacar', 'Shaun Sipos', 'Bryan Dechart']",Casey La Scala,,"$2,297,261"
+tt2366608,Lost River,"Drama, Fantasy, Mystery",fantasy,5.7,42.0,19475,2014,4.0,5700.0,"['Christina Hendricks', 'Iain De Caestecker', 'Matt Smith']",Ryan Gosling,"$2,000,000 (estimated)","$615,500"
+tt3177316,Honeymoon,"Drama, Fantasy, Horror",fantasy,5.7,65.0,27957,2014,9.0,5220.0,"['Rose Leslie', 'Harry Treadaway', 'Ben Huber']",Leigh Janiak,"$1,000,000 (estimated)","$24,343"
+tt3405714,Mythica: A Quest for Heroes,"Action, Adventure, Fantasy",fantasy,5.4,,5359,2014,12.0,5520.0,,,,
+tt1572306,Don't Blink,"Fantasy, Horror, Mystery",fantasy,4.9,,7400,2014,10.0,5520.0,"['Mena Suvari', 'Brian Austin Green', 'Joanne Kelly']",Travis Oates,,"$104,549"
+tt3343136,Sleeping Beauty,"Adventure, Fantasy, Horror",fantasy,2.8,,2085,2014,7.0,5340.0,"['Finn Jones', 'Grace Van Dien', ""Olivia d'Abo""]",Casper Van Dien,,
+tt3029558,Rurôni Kenshin: Kyôto taika-hen,"Action, Adventure, Drama",fantasy,7.5,,19101,2014,8.0,8280.0,"['Takeru Satoh', 'Emi Takei', 'Tatsuya Fujiwara']",Keishi Otomo,,"$52,696,176"
+tt3029556,Rurôni Kenshin: Densetsu no saigo-hen,"Action, Adventure, Drama",fantasy,7.5,,15311,2014,9.0,8040.0,"['Takeru Satoh', 'Tatsuya Fujiwara', 'Emi Takei']",Keishi Otomo,,"$41,900,000"
+tt1883180,En duva satt på en gren och funderade på tillvaron,"Comedy, Drama, Fantasy",fantasy,6.9,81.0,20038,2014,10.0,6060.0,"['Holger Andersson', 'Nils Westblom', 'Viktor Gyllenberg']",Roy Andersson,,"$1,421,411"
+tt3122436,The Secret Path,"Fantasy, Horror, Mystery",fantasy,3.3,,198,2014,6.0,4620.0,"['Darren J. Bransford', 'Henry Regan', 'Miguel Campbell-Lewis']",Richard Mansfield,,
+tt3120314,Shark Exorcist,"Comedy, Fantasy, Horror",fantasy,1.4,,2054,2014,7.0,4260.0,"['Angela Kerecz', 'Bobby Kerecz', 'Channing Dodson']",Donald Farmer,"$300,000 (estimated)",
+tt3235888,It Follows,"Horror, Mystery, Thriller",horror,6.8,83.0,285107,2014,3.0,6000.0,,,,
+tt2321549,The Babadook,"Drama, Horror, Mystery",horror,6.8,86.0,259329,2014,5.0,5640.0,"['Essie Davis', 'Noah Wiseman', 'Daniel Henshall']",Jennifer Kent,"$2,000,000 (estimated)","$10,685,444"
+tt2870612,"As Above, So Below","Horror, Mystery, Thriller",horror,6.3,39.0,121328,2014,8.0,5580.0,,,,
+tt3322940,Annabelle,"Horror, Mystery, Thriller",horror,5.5,37.0,182785,2014,10.0,5940.0,"['Ward Horton', 'Annabelle Wallis', 'Alfre Woodard']",John R. Leonetti,"$6,500,000 (estimated)","$257,589,952"
+tt2428170,Creep,"Horror, Thriller",horror,6.3,74.0,75025,2014,6.0,4620.0,"['Mark Duplass', 'Patrick Brice', 'Katie Aselton']",Patrick Brice,,
+tt2965466,Last Shift,"Horror, Mystery",horror,5.8,,25287,2014,10.0,5280.0,,,,
+tt3387648,The Taking,"Horror, Mystery, Thriller",horror,6.0,,44477,2014,10.0,5400.0,"['Jill Larson', 'Anne Ramsay', 'Michelle Ang']",Adam Robitel,"$1,500,000 (estimated)","$407,782"
+tt3395184,Spring,"Drama, Horror, Romance",horror,6.7,70.0,32604,2014,3.0,6540.0,"['Lou Taylor Pucci', 'Nadia Hilker', 'Francesco Carnelutti']",Justin Benson,,"$49,970"
+tt5334704,Twin Peaks: The Missing Pieces,"Drama, Horror, Mystery",horror,7.5,,13982,2014,8.0,5460.0,"['Chris Isaak', 'Kiefer Sutherland', 'C.H. Evans']",David Lynch,,
+tt1780798,Clown,"Horror, Thriller",horror,5.7,42.0,27735,2014,6.0,6000.0,,,,
+tt3713166,Unfriended,"Horror, Mystery, Thriller",horror,5.6,59.0,84365,2014,4.0,4980.0,,,,
+tt2577172,Girlhouse,"Horror, Thriller",horror,5.5,,10175,2014,2.0,6060.0,"['Ali Cobrin', 'Adam DiMarco', 'George Carroll']",Jon Knautz,"$3,150,000 (estimated)",
+tt3086442,"Ich seh, Ich seh","Horror, Mystery, Thriller",horror,6.7,81.0,61981,2014,1.0,5940.0,"['Lukas Schwarz', 'Elias Schwarz', 'Susanne Wuest']",Severin Fiala,,"$2,193,474"
+tt2326554,A Girl Walks Home Alone at Night,"Drama, Horror, Romance",horror,6.9,81.0,40026,2014,4.0,6060.0,"['Sheila Vand', 'Arash Marandi', 'Marshall Manesh']",Ana Lily Amirpour,,"$587,247"
+tt2793490,Starry Eyes,"Horror, Mystery",horror,6.0,49.0,23243,2014,11.0,5880.0,"['Alexandra Essoe', 'Amanda Fuller', 'Noah Segan']",Kevin Kölsch,,"$10,220"
+tt3339674,Burying the Ex,"Comedy, Horror, Romance",horror,5.4,37.0,11826,2014,6.0,5340.0,,,,
+tt2251281,Dark Was the Night,"Drama, Horror, Thriller",horror,5.6,40.0,11699,2014,7.0,5940.0,"['Kevin Durand', 'Lukas Haas', 'Bianca Kajlich']",Jack Heller,,
+tt1772264,Stonehearst Asylum,"Drama, Horror, Mystery",horror,6.8,52.0,62384,2014,10.0,6720.0,"['Kate Beckinsale', 'Jim Sturgess', 'David Thewlis']",Brad Anderson,,"$2,478,806"
+tt1204977,Ouija,"Horror, Mystery, Thriller",horror,4.5,38.0,59812,2014,10.0,5340.0,,,,
+tt2490326,Cooties,"Action, Comedy, Horror",horror,5.7,49.0,29572,2014,9.0,5280.0,"['Elijah Wood', 'Rainn Wilson', 'Alison Pill']",Jonathan Milott,,"$485,544"
+tt2059171,13 Sins,"Horror, Thriller",horror,6.3,44.0,40658,2014,4.0,5580.0,,,,
+tt3504048,Housebound,"Comedy, Horror, Mystery",horror,6.7,76.0,38693,2014,9.0,6420.0,"[""Morgana O'Reilly"", 'Rima Te Wiata', 'Glen-Paul Waru']",Gerard Johnstone,"NZ$350,000 (estimated)","$241,347"
+tt1975159,Flight 7500,"Drama, Horror, Sci-Fi",horror,4.8,,17668,2014,7.0,4800.0,,,,
+tt2561546,The Town That Dreaded Sundown,"Horror, Mystery, Thriller",horror,5.6,47.0,17866,2014,10.0,5160.0,"['Addison Timlin', 'Veronica Cartwright', 'Anthony Anderson']",Alfonso Gomez-Rejon,,
+tt2799166,The Pyramid,"Horror, Mystery, Thriller",horror,4.6,24.0,28056,2014,12.0,5340.0,"['Ashley Hinshaw', 'James Buckley', ""Denis O'Hare""]",Grégory Levasseur,"$6,500,000 (estimated)","$16,861,137"
+tt2473682,Paranormal Activity: The Marked Ones,"Horror, Mystery",horror,5.1,42.0,46545,2014,1.0,5040.0,"['Andrew Jacobs', 'Jorge Diaz', 'Gabrielle Walsh']",Christopher Landon,"$5,000,000 (estimated)","$90,894,962"
+tt3354222,Kamisama no iu tôri,"Adventure, Horror, Sci-Fi",horror,6.3,,8832,2014,11.0,7020.0,,,,
+tt2832470,Død snø 2,"Action, Comedy, Horror",horror,6.8,59.0,27611,2014,2.0,6000.0,"['Geir Vegar Hoel', 'Ørjan Gamst', 'Martin Starr']",Tommy Wirkola,"NOK 35,000,000 (estimated)","$1,187,477"
+tt4128382,American Guinea Pig: Bouquet of Guts and Gore,Horror,horror,4.0,,862,2014,10.0,4380.0,"['Eight The Chosen One', 'Scott Gabbey', 'Jim Van Bebber']",Stephen Biro,,
+tt2417854,Lucky Bastard,"Crime, Drama, Horror",horror,4.4,36.0,1389,2014,2.0,5640.0,"['Don McManus', 'Jay Paulson', 'Betsy Rue']",Robert Nathan,,
+tt3106120,See No Evil 2,"Action, Horror, Thriller",horror,4.7,,8047,2014,10.0,5400.0,,,,
+tt1649443,[Rec] 4: Apocalipsis,"Action, Horror, Thriller",horror,5.3,53.0,21259,2014,10.0,5700.0,"['Manuela Velasco', 'Paco Manzanedo', 'Héctor Colomé']",Jaume Balagueró,"€3,000,000 (estimated)","$4,915,757"
+tt2960930,Extraterrestrial,"Action, Horror, Mystery",horror,5.0,38.0,17116,2014,4.0,6060.0,,,,
+tt2517658,The Canal,"Drama, Horror, Mystery",horror,5.8,55.0,15170,2014,5.0,5520.0,"['Rupert Evans', 'Antonia Campbell-Hughes', 'Hannah Hoekstra']",Ivan Kavanagh,,"$75,212"
+tt2474024,The Last Five Years,"Comedy, Drama, Musical",musical,5.9,60.0,10982,2014,2.0,5640.0,,,,
+tt2107861,Walking on Sunshine,"Comedy, Drama, Musical",musical,5.4,,6566,2014,6.0,5820.0,"['Annabel Scholey', 'Greg Wise', 'Giulio Berruti']",Max Giwa,,"$4,721,182"
+tt2190838,Stage Fright,"Comedy, Horror, Musical",musical,5.2,39.0,5185,2014,4.0,5340.0,"['Allie MacDonald', 'Meat Loaf', 'Douglas Smith']",Jerome Sable,,"$7,078"
+tt3528906,Our RoboCop Remake,"Action, Comedy, Crime",musical,6.4,,538,2014,2.0,6480.0,,,,
+tt1555440,Girltrash: All Night Long,"Comedy, Crime, Drama",musical,6.3,,1508,2014,2.0,5160.0,"['Lisa Rieffel', 'Erin Kelly', 'Michelle Lombardo']",Alexandra Kondracke,"$3,500,000 (estimated)",
+tt2574698,Gunday,"Action, Drama, Musical",musical,2.7,,60689,2014,2.0,9120.0,,,,
+tt10936328,Les Miserables: The Broadway Musical,Musical,musical,8.8,,70,2014,,,,,,
+tt2905838,Bang Bang,"Action, Adventure, Comedy",musical,5.6,,26990,2014,10.0,9180.0,"['Hrithik Roshan', 'Katrina Kaif', 'Pawan Malhotra']",Siddharth Anand,,"$42,045,981"
+tt2808986,Tokyo Tribe,"Action, Fantasy, Musical",musical,6.4,58.0,3711,2014,8.0,6960.0,,,,
+tt3685836,Madea's Neighbors from Hell,"Comedy, Drama, Musical",musical,4.4,,719,2014,4.0,8280.0,"['Jayna Brown', 'Cassi Davis', 'Rhonda Davis']",Tyler Perry,,
+tt3872778,Monty Python Live (Mostly),"Documentary, Comedy, Musical",musical,7.6,,2882,2014,7.0,8220.0,,,,
+tt2655734,Bang Bang Baby,"Drama, Fantasy, Musical",musical,5.1,,697,2014,11.0,5400.0,"['Jane Levy', 'Justin Chatwin', 'David Reale']",Jeffrey St. Jules,"$1,000,000 (estimated)",
+tt2404593,Lucky Stiff,"Comedy, Musical",musical,5.4,32.0,188,2014,7.0,4680.0,,,,
+tt4164442,ANI: A Parody,"Comedy, Musical, Sci-Fi",musical,7.1,,280,2014,10.0,7320.0,"['Christopher Sandberg', 'Joe Walker', 'Denise Donovan']",Matt Lang,,
+tt3060244,Tri bratri,"Comedy, Family, Fantasy",musical,5.6,,560,2014,8.0,5400.0,"['Katerina Kosová', 'Tomás Klus', 'Sabina Rojková']",Jan Sverák,"CZK 40,000,000 (estimated)","$3,187,345"
+tt3906650,Sinfonia da Necrópole,"Comedy, Horror, Musical",musical,6.9,,487,2014,4.0,5100.0,,,,
+tt2484530,Amapola,"Comedy, Drama, Fantasy",musical,4.8,,350,2014,6.0,5100.0,"['Camilla Belle', 'François Arnaud', 'Geraldine Chaplin']",Eugenio Zanetti,,"$165,074"
+tt3129656,Bamse och tjuvstaden,"Animation, Adventure, Comedy",musical,6.1,,808,2014,1.0,3960.0,"['Tomas Bolme', 'Peter Haber', 'Morgan Alling']",Christian Ryltenius,,"$4,211,368"
+tt10818298,Planet of the Baybes,"Adventure, Comedy, Musical",musical,4.6,,22,2014,6.0,7200.0,,,,
+tt3576220,After Film School,"Comedy, Musical",musical,8.1,,97,2014,2.0,5580.0,,,,
+tt3365690,Jaatishwar,"Biography, Drama, History",musical,8.0,,3136,2014,1.0,9000.0,,,,
+tt2773382,The Amateur,"Comedy, Drama, Music",musical,7.1,,38,2014,,5700.0,"['Joey Baldwin', 'Carlotta Elektra Bosch', 'Jere Burns']",Carlton Sugarman,"$100,000 (estimated)",
+tt2504690,Volando Bajo,"Comedy, Drama, Musical",musical,5.7,,195,2014,6.0,5760.0,"['Gerardo Taracena', 'María Elisa Camargo', 'Sandra Echeverría']",Beto Gómez,,
+tt4673872,Bangali Babu English Mem,"Comedy, Musical, Romance",musical,5.4,,360,2014,1.0,8760.0,"['Soham Chakraborty', 'Mimi Chakraborty', 'Biswajit Chakraborty']",Rabi Kinagi,,
+tt3570168,Dyke Hard,"Action, Adventure, Comedy",musical,4.6,,430,2014,3.0,5400.0,"['Peggy Sands', 'Alle Eriksson', 'M. Wågensjö']",Bitte Andersson,"SEK 1,850,000 (estimated)",
+tt2741090,Waiting in the Wings: The Musical,"Comedy, Music, Musical",musical,6.0,,234,2014,4.0,6420.0,"['Jeffrey A. Johns', 'Adam Huss', 'Rena Strober']",Jenn Page,,
+tt2309762,Eternity: The Movie,"Comedy, Music, Musical",musical,7.1,28.0,66,2014,10.0,5280.0,"['Barrett Crake', 'Myko Olivier', 'Eric Roberts']",Ian Thorpe,"$220,000 (estimated)","$8,350"
+tt4773112,Bindaas,"Action, Comedy, Musical",musical,5.0,,429,2014,7.0,9600.0,"['Dev', 'Srabanti Chatterjee', 'Sayantika Banerjee']",Rajib Biswas,,
+tt3713076,The Cocksure Lads Movie,"Comedy, Drama, Musical",musical,7.1,,97,2014,8.0,5760.0,,,,
+tt3555534,Ho Gana Pokuna,"Drama, Family, Musical",musical,8.5,,639,2014,12.0,7200.0,"['Jagath Chamila', 'Jayani Senanayake', 'Dayadewa Edirisinghe']",Indika Ferdinando,,
+tt4253462,From Here to Eternity: The Musical,Musical,musical,7.3,,84,2014,7.0,9300.0,"['Robert Lonsdale', 'Siubhan Harrison', 'Darius Campbell']",Tamara Harvey,,
+tt4040086,VeggieTales: Beauty and the Beet,"Animation, Comedy, Family",musical,7.1,,118,2014,10.0,3420.0,,,,
+tt3985472,VeggieTales: Celery Night Fever,"Animation, Comedy, Family",musical,7.0,,132,2014,8.0,3180.0,,,,
+tt3231686,She Lights Up Well,"Comedy, Musical",musical,8.4,,21,2014,9.0,4620.0,"['Joyce Wu', 'Tsai Chin', 'Sean Kleier']",Joyce Wu,,
+tt1745959,The Bloody Indulgent,"Comedy, Horror, Musical",musical,5.1,,81,2014,8.0,4800.0,,,,
+tt2614400,Casanova Variations,"Biography, Drama, Fantasy",musical,5.9,,275,2014,11.0,7080.0,,,,
+tt3315284,Who Can I Run To,Musical,musical,7.6,,34,2014,10.0,,"['Marvin Sapp', ""Lil' Mo"", 'Tasha Page Lockhart']",Paul D. Hannah,,
+tt1920871,College Musical,Musical,musical,5.8,,189,2014,9.0,5460.0,"['Sam Tsui', 'Julie Shain', 'Miles Jacoby']",Kurt Hugo Schneider,,
+tt3459472,Brabançonne,Musical,musical,6.1,,437,2014,12.0,6000.0,"['Amaryllis Uitterlinden', 'Jos Verbist', 'Tom Audenaert']",Vincent Bal,,
+tt3659764,Songs She Wrote About People She Knows,"Comedy, Music, Musical",musical,6.4,,74,2014,9.0,4800.0,,,,
+tt2463692,Quando Eu Era Vivo,"Drama, Horror, Musical",musical,6.2,,803,2014,1.0,6480.0,"['Antônio Fagundes', 'Marat Descartes', 'Sandy']",Marco Dutra,"R$1,500,000 (estimated)","$32,857"
+tt3831696,My America,"Drama, Musical",musical,4.9,,42,2014,7.0,4680.0,"['Cody Nickell', 'Femi Lawal', 'David Ross']",Hal Hartley,,
+tt4872166,VeggieTales: Veggies in Space: The Fennel Frontier,"Animation, Adventure, Comedy",musical,7.0,,83,2014,3.0,3000.0,"['Mike Nawrocki', 'Phil Vischer', 'Megan Murphy']",Mike Nawrocki,,
+tt2402751,Qué le dijiste a Dios?,"Comedy, Musical",musical,4.0,,414,2014,1.0,5280.0,"['Juan Gabriel', 'Mark Tacher', 'Erika de la Rosa']",Teresa Suárez,,"$5,161,905"
+tt2267998,Gone Girl,"Drama, Mystery, Thriller",mystery,8.1,79.0,1113182,2014,10.0,8940.0,"['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris']",David Fincher,"$61,000,000 (estimated)","$370,890,259"
+tt2910814,The Signal,"Drama, Mystery, Sci-Fi",mystery,6.0,54.0,70769,2014,7.0,5820.0,,,,
+tt1850397,The Loft,"Mystery, Romance, Thriller",mystery,6.3,24.0,61395,2014,10.0,6480.0,"['Karl Urban', 'James Marsden', 'Wentworth Miller']",Erik Van Looy,"$14,000,000 (estimated)","$11,020,402"
+tt2884206,I Origins,"Drama, Mystery, Romance",mystery,7.3,57.0,136813,2014,7.0,6360.0,"['Michael Pitt', 'Steven Yeun', 'Astrid Bergès-Frisbey']",Mike Cahill,"$1,000,000 (estimated)","$481,234"
+tt2318092,Endless Love,"Drama, Mystery, Romance",mystery,6.2,30.0,48357,2014,2.0,6240.0,"['Gabriella Wilde', 'Alex Pettyfer', 'Bruce Greenwood']",Shana Feste,"$20,000,000 (estimated)","$34,718,173"
+tt1726592,Before I Go to Sleep,"Drama, Mystery, Thriller",mystery,6.3,41.0,86467,2014,9.0,5520.0,"['Nicole Kidman', 'Colin Firth', 'Mark Strong']",Rowan Joffe,"$22,000,000 (estimated)","$17,669,776"
+tt2172584,Maps to the Stars,"Comedy, Drama, Mystery",mystery,6.2,68.0,43612,2014,5.0,6660.0,"['Julianne Moore', 'Mia Wasikowska', 'Robert Pattinson']",David Cronenberg,"$15,000,000 (estimated)","$4,510,934"
+tt3294200,The Falling,"Drama, Mystery, Thriller",mystery,5.3,71.0,8439,2014,4.0,6120.0,"['Maxine Peake', 'Maisie Williams', 'Florence Pugh']",Carol Morley,"£750,000 (estimated)","$569,498"
+tt2669336,Time Lapse,"Mystery, Sci-Fi, Thriller",mystery,6.5,50.0,51067,2014,5.0,6240.0,,,,
+tt2238050,White Bird in a Blizzard,"Drama, Mystery, Thriller",mystery,6.4,51.0,30635,2014,9.0,5460.0,"['Shailene Woodley', 'Eva Green', 'Christopher Meloni']",Gregg Araki,,"$469,701"
+tt1791682,While We're Young,"Comedy, Drama, Mystery",mystery,6.3,77.0,54682,2014,4.0,5820.0,,,,
+tt2505294,Ask Me Anything,"Comedy, Drama, Mystery",mystery,6.0,,13258,2014,12.0,6000.0,,,,
+tt2980516,The Theory of Everything,"Biography, Drama, Romance",romance,7.7,71.0,494562,2014,2.0,7380.0,,,,
+tt0435651,The Giver,"Drama, Romance, Sci-Fi",romance,6.4,47.0,128051,2014,8.0,5820.0,"['Brenton Thwaites', 'Jeff Bridges', 'Meryl Streep']",Phillip Noyce,"$25,000,000 (estimated)","$66,980,456"
+tt2582846,The Fault in Our Stars,"Drama, Romance",romance,7.6,69.0,413174,2014,6.0,7560.0,"['Shailene Woodley', 'Ansel Elgort', 'Nat Wolff']",Josh Boone,"$12,000,000 (estimated)","$307,170,119"
+tt1972779,The Best of Me,"Drama, Romance",romance,6.7,29.0,79189,2014,10.0,7080.0,"['James Marsden', 'Michelle Monaghan', 'Luke Bracey']",Michael Hoffman,"$26,000,000 (estimated)","$38,609,668"
+tt2205401,Addicted,"Drama, Romance, Thriller",romance,5.0,32.0,12710,2014,10.0,6360.0,"['Sharon Leal', 'Boris Kodjoe', 'John Newberg']",Bille Woodruff,"$5,000,000 (estimated)","$17,534,314"
+tt2639254,A Little Chaos,"Drama, Romance",romance,6.5,51.0,26134,2014,4.0,7020.0,"['Kate Winslet', 'Alan Rickman', 'Stanley Tucci']",Alan Rickman,,"$10,084,623"
+tt1247690,Serena,"Drama, History, Romance",romance,5.4,36.0,31229,2014,11.0,6540.0,,,,
+tt3094816,Diet of Sex,"Comedy, Drama, Romance",romance,4.3,,2166,2014,2.0,4320.0,"['Raquel Martínez', 'Marc Rodriguez', 'Ramón Pantoja']",Borja Brun,,
+tt2570858,The Duke of Burgundy,"Drama, Romance",romance,6.5,87.0,14768,2014,2.0,6240.0,,,,
+tt2140619,Two Night Stand,"Comedy, Romance",romance,6.3,45.0,75116,2014,9.0,5160.0,"['Miles Teller', 'Lio Tipton', 'Jessica Szohr']",Max Nichols,,"$492,332"
+tt2103254,Tammy,"Comedy, Romance",romance,4.9,39.0,55913,2014,7.0,5820.0,"['Melissa McCarthy', 'Susan Sarandon', 'Kathy Bates']",Ben Falcone,"$20,000,000 (estimated)","$100,375,432"
+tt2239832,Think Like a Man Too,"Comedy, Romance",romance,5.7,38.0,23576,2014,6.0,6360.0,"['Kevin Hart', 'Gabrielle Union', 'Wendi McLendon-Covey']",Tim Story,"$24,000,000 (estimated)","$70,181,428"
+tt2509850,The Rewrite,"Comedy, Romance",romance,6.3,51.0,23088,2014,2.0,6420.0,,,,
+tt2139555,Playing It Cool,"Comedy, Romance",romance,5.9,30.0,31032,2014,5.0,5640.0,"['Chris Evans', 'Michelle Monaghan', 'Topher Grace']",Justin Reardon,,"$1,323,415"
+tt1571249,The Skeleton Twins,"Comedy, Drama, Romance",romance,6.8,74.0,45778,2014,9.0,5580.0,,,,
+tt0900387,Suite Française,"Drama, History, Romance",romance,7.0,63.0,29522,2014,3.0,6420.0,,,,
+tt2528814,God's Not Dead,"Drama, Romance",romance,4.6,16.0,45983,2014,3.0,6780.0,"['Shane Harper', 'Kevin Sorbo', 'David A.R. White']",Harold Cronk,"$2,000,000 (estimated)","$64,676,349"
+tt2626350,Step Up All In,"Drama, Music, Romance",romance,5.9,45.0,36723,2014,8.0,6720.0,,,,
+tt1441953,Testament of Youth,"Biography, Drama, History",romance,7.2,76.0,31167,2014,1.0,7740.0,"['Alicia Vikander', 'Kit Harington', 'Taron Egerton']",James Kent,,"$5,851,758"
+tt2622874,My Mistress,"Drama, Romance",romance,5.4,,2149,2014,11.0,6240.0,"['Harrison Sloan Gilbertson', 'Emmanuelle Béart', 'Anna Ryan']",Stephen Lance,,
+tt0470752,Ex Machina,"Drama, Sci-Fi, Thriller",thriller,7.7,78.0,614024,2014,1.0,6480.0,"['Alicia Vikander', 'Domhnall Gleeson', 'Oscar Isaac']",Alex Garland,"$15,000,000 (estimated)","$37,394,629"
+tt2084970,The Imitation Game,"Biography, Drama, Thriller",thriller,8.0,71.0,849165,2014,12.0,6840.0,,,,
+tt2209764,Transcendence,"Drama, Sci-Fi, Thriller",thriller,6.2,42.0,242385,2014,4.0,7140.0,"['Johnny Depp', 'Rebecca Hall', 'Morgan Freeman']",Wally Pfister,"$100,000,000 (estimated)","$103,039,258"
+tt2824852,Deadly Virtues: Love.Honour.Obey.,"Drama, Thriller",thriller,4.8,,1958,2014,9.0,5220.0,"['Edward Akrout', 'Matt Barber', 'Megan Maczko']",Ate de Jong,,

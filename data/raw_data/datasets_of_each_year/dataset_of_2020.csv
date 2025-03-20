@@ -1,0 +1,327 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt6723592,Tenet,"Action, Sci-Fi, Thriller",action,7.3,69.0,625140,2020,8.0,9000,,,,
+tt3794354,Sonic the Hedgehog,"Action, Adventure, Comedy",action,6.5,47.0,178403,2020,2.0,5940,,,,
+tt8244784,The Hunt,"Action, Horror, Thriller",action,6.6,50.0,142137,2020,3.0,5400,"['Betty Gilpin', 'Hilary Swank', 'Ike Barinholtz']",Craig Zobel,"$14,000,000 (estimated)","$10,550,350"
+tt7126948,Wonder Woman 1984,"Action, Adventure, Fantasy",action,5.4,60.0,300025,2020,12.0,9060,,,,
+tt10059518,Unhinged,"Action, Thriller",action,6.0,40.0,82805,2020,7.0,5400,"['Russell Crowe', 'Caren Pistorius', 'Gabriel Bateman']",Derrick Borte,"$33,000,000 (estimated)","$44,331,465"
+tt7556122,The Old Guard,"Action, Thriller",action,6.7,70.0,191049,2020,7.0,7500,,,,
+tt6475714,Monster Hunter,"Action, Adventure, Fantasy",action,5.2,47.0,70916,2020,12.0,6180,,,,
+tt7737786,Greenland,"Action, Thriller",action,6.4,64.0,144714,2020,12.0,7140,"['Gerard Butler', 'Morena Baccarin', 'Roger Dale Floyd']",Ric Roman Waugh,"$34,000,000 (estimated)","$52,300,000"
+tt7638348,Boss Level,"Action, Adventure, Comedy",action,6.8,56.0,84111,2020,2.0,6000,,,,
+tt10600398,We Can Be Heroes,"Animation, Action, Comedy",action,4.7,51.0,18088,2020,12.0,6000,"['YaYa Gosselin', 'Pedro Pascal', 'Priyanka Chopra Jonas']",Robert Rodriguez,,
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,"Action, Comedy, Crime",action,6.1,60.0,272860,2020,2.0,6540,,,,
+tt4566758,Mulan,"Action, Adventure, Drama",action,5.8,66.0,163098,2020,9.0,6900,,,,
+tt4682266,The New Mutants,"Action, Horror, Mystery",action,5.3,43.0,95588,2020,8.0,5640,,,,
+tt8936646,Extraction,"Action, Crime, Thriller",action,6.8,56.0,276045,2020,4.0,6960,"['Chris Hemsworth', 'Bryon Lerum', 'Ryder Lerum']",Sam Hargrave,"$65,000,000 (estimated)",
+tt1502397,Bad Boys for Life,"Action, Comedy, Crime",action,6.5,59.0,189359,2020,1.0,7440,"['Will Smith', 'Martin Lawrence', 'Vanessa Hudgens']",Adil El Arbi,"$90,000,000 (estimated)","$426,505,244"
+tt2222042,Love and Monsters,"Action, Adventure, Comedy",action,6.9,63.0,151811,2020,10.0,6540,,,,
+tt8461224,The Tax Collector,"Action, Crime, Drama",action,4.9,22.0,16204,2020,8.0,5700,"['Bobby Soto', 'Cinthya Carmona', 'Shia LaBeouf']",David Ayer,"$20,000,000 (estimated)","$1,325,781"
+tt5774060,Underwater,"Action, Horror, Sci-Fi",action,5.9,48.0,102664,2020,1.0,5700,"['Kristen Stewart', 'Vincent Cassel', 'Mamoudou Athie']",William Eubank,"$80,000,000 (estimated)","$40,882,928"
+tt8629748,Spenser Confidential,"Action, Comedy, Crime",action,6.2,49.0,102271,2020,3.0,6660,"['Mark Wahlberg', 'Winston Duke', 'Alan Arkin']",Peter Berg,"$95,000,000 (estimated)",
+tt5797184,Escape from Pretoria,"Action, Biography, Crime",action,6.8,56.0,46673,2020,3.0,6360,,,,
+tt7149730,The Silencing,"Action, Crime, Mystery",action,6.3,,36664,2020,7.0,5580,,,,
+tt9387250,Skylines,"Action, Adventure, Sci-Fi",action,4.8,46.0,9761,2020,12.0,6780,"['Lindsey Morgan', 'Jonathan Howard', 'Daniel Bernhardt']",Liam O'Donnell,,"$170,581"
+tt8850222,Bando,"Action, Horror, Thriller",action,5.5,51.0,40264,2020,7.0,6960,,,,
+tt11456054,Run Hide Fight,"Action, Crime, Drama",action,6.3,13.0,28978,2020,1.0,6540,,,,
+tt8784956,Ava,"Action, Crime, Drama",action,5.5,39.0,65558,2020,9.0,5760,"['Jessica Chastain', 'John Malkovich', 'Common']",Tate Taylor,,"$3,293,783"
+tt11032374,Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen,"Animation, Action, Adventure",action,8.2,72.0,82345,2020,10.0,7020,"['Natsuki Hanae', 'Akari Kitô', 'Yoshitsugu Matsuoka']",Haruo Sotozaki,"$15,000,000 (estimated)","$473,230,408"
+tt5198068,WolfWalkers,"Animation, Action, Adventure",action,8.0,87.0,41428,2020,11.0,6180,"['Honor Kneafsey', 'Eva Whittaker', 'Sean Bean']",Tomm Moore,"$12,000,000 (estimated)","$1,310,720"
+tt7550000,Project Power,"Action, Crime, Sci-Fi",action,6.0,51.0,100529,2020,8.0,6780,,,,
+tt7134096,The Rhythm Section,"Action, Drama, Mystery",action,5.4,45.0,20446,2020,1.0,6540,"['Blake Lively', 'Richard Brake', 'Elly Curtis']",Reed Morano,"$50,000,000 (estimated)","$5,989,583"
+tt6878306,News of the World,"Action, Adventure, Drama",action,6.8,73.0,98243,2020,12.0,7080,"['Tom Hanks', 'Helena Zengel', 'Tom Astor']",Paul Greengrass,"$38,000,000 (estimated)","$12,668,325"
+tt10314450,Becky,"Action, Crime, Drama",action,6.1,54.0,27148,2020,6.0,5580,,,,
+tt11655202,Retfærdighedens ryttere,"Action, Comedy, Drama",action,7.5,81.0,69261,2020,11.0,6960,"['Mads Mikkelsen', 'Nikolaj Lie Kaas', 'Andrea Heick Gadeberg']",Anders Thomas Jensen,"$5,300,000 (estimated)","$2,001,176"
+tt9691136,Shadow in the Cloud,"Action, Horror, War",action,5.0,66.0,32700,2020,1.0,4980,"['Chloë Grace Moretz', 'Nick Robinson', 'Beulah Koale']",Roseanne Liang,"$10,000,000 (estimated)","$1,054,290"
+tt10521092,De slag om de Schelde,"Action, Adventure, War",action,7.1,,38908,2020,6.0,7440,"['Gijs Blom', 'Jamie Flatters', 'Susan Radder']",Matthijs van Heijningen Jr.,"€14,000,000 (estimated)","$6,000,546"
+tt10620868,#Saraitda,"Action, Drama, Horror",action,6.3,,51077,2020,9.0,5880,,,,
+tt1634106,Bloodshot,"Action, Adventure, Sci-Fi",action,5.7,44.0,87772,2020,3.0,6540,"['Vin Diesel', 'Eiza González', 'Sam Heughan']",Dave Wilson,"$45,000,000 (estimated)","$39,861,118"
+tt5715066,Torden,"Action, Adventure, Drama",action,5.9,20.0,11047,2020,2.0,6240,"['Priyanka Bose', 'Nat Wolff', 'Ravdeep Singh Bajwa']",André Øvredal,,"$126,068"
+tt11547520,Kalashnikov,"Action, Biography, Drama",action,6.6,,5435,2020,2.0,6600,,,,
+tt8851668,The Lovebirds,"Action, Comedy, Crime",action,6.1,59.0,28306,2020,5.0,5160,"['Issa Rae', 'Kumail Nanjiani', 'Paul Sparks']",Michael Showalter,,
+tt10888708,The Sleepover,"Action, Adventure, Comedy",action,5.7,46.0,12553,2020,8.0,6000,,,,
+tt1838556,Honest Thief,"Action, Crime, Drama",action,6.0,46.0,60231,2020,10.0,5940,"['Liam Neeson', 'Kate Walsh', 'Jai Courtney']",Mark Williams,"$30,000,000 (estimated)","$31,220,247"
+tt9794630,The Vanished,"Action, Crime, Thriller",action,5.7,,12617,2020,8.0,6900,"['Anne Heche', 'Thomas Jane', 'Jason Patric']",Peter Facinelli,"$2,000,000 (estimated)",
+tt9624766,Jiu Jitsu,"Action, Sci-Fi, Thriller",action,2.9,27.0,10896,2020,11.0,6120,"['Alain Moussi', 'Nicolas Cage', 'Raymond Pinharry']",Dimitri Logothetis,"$8,000,000 (estimated)","$99,924"
+tt8242084,My Spy,"Action, Comedy",action,6.4,46.0,39087,2020,6.0,5940,,,,
+tt10308928,Force of Nature,"Action, Adventure, Crime",action,4.6,29.0,13986,2020,6.0,5460,"['Emile Hirsch', 'Mel Gibson', 'David Zayas']",Michael Polish,"$15,000,000 (estimated)","$638,221"
+tt11177804,Jiang Ziya,"Animation, Action, Adventure",action,6.5,,2470,2020,10.0,6600,,,,
+tt7153488,Army of One,Action,action,4.5,,6864,2020,12.0,5220,,,,
+tt8060328,Vtorzhenie,"Action, Sci-Fi",action,5.6,,6429,2020,1.0,8040,"['Irina Starshenbaum', 'Rinal Mukhametov', 'Alexander Petrov']",Fedor Bondarchuk,"RUR 650,000,000 (estimated)","$16,653,687"
+tt6456326,Monsters of Man,"Action, Sci-Fi, Thriller",action,5.4,,8748,2020,11.0,7860,,,,
+tt10310140,Fatman,"Action, Adventure, Comedy",action,5.9,40.0,32030,2020,11.0,6000,"['Mel Gibson', 'Walton Goggins', 'Marianne Jean-Baptiste']",Eshom Nelms,,"$1,651,413"
+tt2948372,Soul,"Animation, Adventure, Comedy",adventure,8.0,83.0,404138,2020,11.0,6000,,,,
+tt7846844,Enola Holmes,"Adventure, Crime, Drama",adventure,6.6,68.0,231451,2020,9.0,7380,"['Millie Bobby Brown', 'Henry Cavill', 'Sam Claflin']",Harry Bradbeer,"$20,000,000 (estimated)",
+tt0805647,The Witches,"Adventure, Comedy, Family",adventure,5.4,47.0,48661,2020,10.0,6360,,,,
+tt10539608,The Midnight Sky,"Adventure, Drama, Sci-Fi",adventure,5.7,58.0,91549,2020,12.0,7080,,,,
+tt7504726,The Call of the Wild,"Adventure, Drama, Family",adventure,6.7,48.0,60759,2020,2.0,6000,"['Harrison Ford', 'Omar Sy', 'Cara Gee']",Chris Sanders,"$135,000,000 (estimated)","$111,166,669"
+tt6587640,Trolls World Tour,"Animation, Adventure, Comedy",adventure,6.1,51.0,30795,2020,4.0,5460,"['Anna Kendrick', 'Justin Timberlake', 'Rachel Bloom']",Walt Dohrn,"$90,000,000 (estimated)","$49,276,818"
+tt6673612,Dolittle,"Adventure, Comedy, Family",adventure,5.6,26.0,73855,2020,1.0,6060,,,,
+tt1086064,Bill & Ted Face the Music,"Adventure, Comedy, Music",adventure,5.9,65.0,54584,2020,8.0,5460,"['Keanu Reeves', 'Alex Winter', 'Kristen Schaal']",Dean Parisot,,"$6,274,027"
+tt2850386,The Croods: A New Age,"Animation, Adventure, Comedy",adventure,6.9,56.0,56684,2020,10.0,5700,"['Nicolas Cage', 'Emma Stone', 'Ryan Reynolds']",Joel Crawford,"$65,000,000 (estimated)","$215,905,815"
+tt7146812,Onward,"Animation, Adventure, Comedy",adventure,7.4,61.0,177977,2020,1.0,6120,"['Tom Holland', 'Chris Pratt', 'Julia Louis-Dreyfus']",Dan Scanlon,"$175,000,000 (estimated)","$141,940,042"
+tt3152592,Scoob!,"Animation, Adventure, Comedy",adventure,5.6,43.0,31323,2020,5.0,5580,,,,
+tt4823776,The SpongeBob Movie: Sponge on the Run,"Animation, Adventure, Comedy",adventure,5.9,65.0,23496,2020,8.0,5460,,,,
+tt3661394,The One and Only Ivan,"Adventure, Comedy, Drama",adventure,6.6,58.0,13773,2020,8.0,5700,"['Sam Rockwell', 'Bryan Cranston', 'Phillipa Soo']",Thea Sharrock,,
+tt3089630,Artemis Fowl,"Adventure, Family, Fantasy",adventure,4.3,31.0,30980,2020,6.0,5700,,,,
+tt9777644,Da 5 Bloods,"Adventure, Drama, War",adventure,6.5,82.0,56075,2020,6.0,9240,,,,
+tt7488208,Over the Moon,"Animation, Adventure, Comedy",adventure,6.3,60.0,25898,2020,10.0,5700,"['Glen Keane', 'Brycen Hall', 'Ruthie Ann Miles']",Glen Keane,,
+tt8960138,Shortcut,"Adventure, Fantasy, Horror",adventure,4.1,26.0,1944,2020,9.0,4800,,,,
+tt5498354,Horizon Line,"Adventure, Drama, Horror",adventure,4.8,,12128,2020,11.0,5520,,,,
+tt10287954,L'incredibile storia dell'isola delle rose,"Adventure, Biography, Comedy",adventure,7.0,,26112,2020,12.0,7020,"['Elio Germano', 'Leonardo Lidi', 'Matilda De Angelis']",Sydney Sibilia,,
+tt5206260,The Willoughbys,"Animation, Adventure, Comedy",adventure,6.4,68.0,22329,2020,4.0,5400,"['Will Forte', 'Maya Rudolph', 'Alessia Cara']",Kris Pearn,,
+tt8160834,Follow Me,"Adventure, Horror, Mystery",adventure,5.4,,13668,2020,9.0,5460,"['Keegan Allen', 'Holland Roden', 'Denzel Whitaker']",Will Wernick,,"$4,377,394"
+tt11750282,Voces,"Adventure, Drama, Horror",adventure,6.1,,17907,2020,7.0,5820,,,,
+tt10525672,Serebryanye konki,"Adventure, Drama, Family",adventure,7.1,,8228,2020,12.0,7800,,,,
+tt9204164,Bigfoot Family,"Animation, Adventure, Family",adventure,5.8,,3823,2020,8.0,5340,,,,
+tt8774798,100% Wolf,"Animation, Adventure, Comedy",adventure,5.6,,2655,2020,5.0,5760,"['Loren Gray', 'Adriane Daff', 'Akmal Saleh']",Alexs Stadermann,,"$9,817,950"
+tt11057644,The Christmas Chronicles: Part Two,"Adventure, Comedy, Family",adventure,6.0,51.0,38249,2020,11.0,6720,"['Kurt Russell', 'Goldie Hawn', 'Darby Camp']",Chris Columbus,,
+tt10068916,Gekijouban Made in Abyss: Fukaki Tamashii no Reimei,"Animation, Adventure, Drama",adventure,8.0,,6337,2020,1.0,6780,,,,
+tt5714470,Come Away,"Adventure, Drama, Fantasy",adventure,5.7,40.0,6079,2020,12.0,5640,,,,
+tt7978672,Black Water: Abyss,"Adventure, Horror, Thriller",adventure,4.6,46.0,7263,2020,7.0,5880,,,,
+tt10880084,The Warrant,"Action, Adventure, Crime",adventure,4.8,,926,2020,3.0,5040,"['Neal McDonough', 'Steven R. McQueen', 'Casper Van Dien']",Brent Christy,,
+tt9580138,Mortal Kombat Legends: Scorpion's Revenge,"Animation, Action, Adventure",adventure,7.4,,20196,2020,4.0,4800,"['Jennifer Carpenter', 'Joel McHale', 'Ike Amadi']",Ethan Spaulding,,
+tt9182964,The Reckoning,"Adventure, Drama, Horror",adventure,4.8,31.0,4005,2020,2.0,6600,"['Charlotte Kirk', 'Sean Pertwee', 'Steven Waddington']",Neil Marshall,,"$596,806"
+tt9010738,Miss Fisher and the Crypt of Tears,"Adventure, Drama, Mystery",adventure,6.1,,5131,2020,2.0,6060,,,,
+tt8652818,Gekijôban Vaioretto Evâgâden,"Animation, Drama, Fantasy",animation,8.3,,11934,2020,9.0,8400,,,,
+tt12879624,Joze to tora to sakana-tachi,"Animation, Drama, Romance",animation,7.6,,9452,2020,12.0,5940,,,,
+tt1817232,Phineas and Ferb the Movie: Candace Against the Universe,"Animation, Adventure, Comedy",animation,7.0,77.0,5765,2020,8.0,5160,"['Vincent Martella', 'Dee Bradley Baker', 'Ashley Tisdale']",Bob Bowen,,"$5,689,121"
+tt11958344,Nakitai watashi wa neko o kaburu,"Animation, Adventure, Drama",animation,6.7,,15731,2020,6.0,6240,,,,
+tt7080422,Dragon Rider,"Animation, Adventure, Comedy",animation,5.7,,2251,2020,10.0,5460,,,,
+tt12139700,Jungle Beat: The Movie,"Animation, Adventure, Comedy",animation,5.5,,1388,2020,6.0,5280,,,,
+tt12011442,Burn the Witch,"Animation, Fantasy",animation,6.7,,1531,2020,10.0,3780,"['Edward Bosco', 'Kira Buckland', 'Griffin Burns']",Tatsurô Kawano,,
+tt12981810,Finding Jesus,"Animation, Family, Fantasy",animation,1.2,,1437,2020,11.0,4140,,,,
+tt11274100,Archenemy,"Animation, Action, Adventure",animation,5.0,57.0,3744,2020,12.0,5400,,,,
+tt11193002,Umibe no Étranger,"Animation, Drama, Romance",animation,7.2,,3175,2020,9.0,3540,,,,
+tt9310328,Altered Carbon: Resleeved,"Animation, Action, Crime",animation,6.4,,7224,2020,3.0,4440,"['Ray Chase', 'Doug Stone', 'Kaiji Tang']",Takeru Nakajima,,
+tt9855978,Drømmebyggerne,"Animation, Adventure, Comedy",animation,6.0,,1962,2020,2.0,4860,"['Ditte Hansen', 'Rasmus Botoft', 'Mia Lerdam']",Kim Hagen Jensen,,"$4,640,662"
+tt12415546,Shingeki no Kyojin: Chronicle,"Animation, Action, Adventure",animation,8.4,,12298,2020,7.0,7320,"['Yûki Kaji', 'Yui Ishikawa', 'Marina Inoue']",Masashi Koizuka,,"$42,908"
+tt14888874,Kimetsu no Yaiba: Natagumo Yama-hen,"Animation, Action, Fantasy",animation,8.7,,17226,2020,10.0,8280,,Haruo Sotozaki,,"$301,723"
+tt9507234,Digimon Adventure: Last Evolution Kizuna,"Animation, Action, Adventure",animation,7.5,,2121,2020,2.0,5640,,,,
+tt10588750,Eiga Doraemon: Nobita no shin kyôryû,"Animation, Adventure, Comedy",animation,7.0,,1635,2020,8.0,6600,,,,
+tt13428402,Stand by Me Doraemon 2,"Animation, Comedy, Drama",animation,7.5,,5377,2020,11.0,5760,,,,
+tt11151982,Goblin Slayer: Goblin's Crown,"Animation, Action, Adventure",animation,6.6,,2263,2020,2.0,5100,"['Yûichirô Umehara', 'Yui Ogura', 'Nao Tôyama']",Takaharu Ozaki,,
+tt11457736,My Dad's Christmas Date,"Animation, Action, Adventure",animation,5.5,,2442,2020,11.0,5460,"['Jeremy Piven', 'Olivia-Mai Barrett', 'Hadar Cats']",Mick Davis,"£20,000,000 (estimated)",
+tt12105596,Yes ka No ka Hanbun ka,"Animation, Comedy, Drama",animation,6.7,,803,2020,12.0,3180,,,,
+tt9136058,A Christmas Carol,"Animation, Drama",animation,5.3,,472,2020,12.0,5640,"['Thea Achillea', 'Ruby McMillan-Wilson', 'Oliver John Lock']",Jacqui Morris,,"$179,750"
+tt8524650,Cranston Academy: Monster Zone,"Animation, Adventure, Family",animation,5.1,,1194,2020,6.0,5100,"['Jamie Bell', 'Ruby Rose', 'Idzi Dulkiewicz']",Leopoldo Aguilar,,"$1,423,666"
+tt10675392,Saezuru Tori Wa Habatakanai: The Clouds Gather,"Animation, Crime, Drama",animation,6.8,,1114,2020,2.0,5100,,,,
+tt11102242,Hayop ka!,"Animation, Comedy, Drama",animation,6.4,,355,2020,10.0,4380,,,,
+tt12735338,Cider no yô ni kotoba ga wakiagaru,"Animation, Drama, Music",animation,6.8,,6118,2020,7.0,5220,,,,
+tt13292206,Bobbleheads: The Movie,"Animation, Family",animation,2.3,,496,2020,12.0,4920,,,,
+tt11727058,Miniforce: Deeno the King of Dinosaurs,"Animation, Action, Adventure",animation,7.3,,21,2020,2.0,4380,['So Yeon'],Youngjun Lee,,"$512,169"
+tt11802992,Eiga Given,"Animation, Drama, Music",animation,7.7,,2761,2020,8.0,3540,,,,
+tt11125636,"Yakari, le film","Animation, Adventure, Family",animation,6.4,,562,2020,8.0,4920,,,,
+tt8092118,Gekijouban Fate/Stay Night: Heaven's Feel - III. Spring Song,"Animation, Adventure, Drama",animation,7.9,,2976,2020,8.0,7200,"['Yu Asakawa', 'Michael Donovan', 'Melissa Fahn']",Tomonori Sudô,,"$19,252,497"
+tt11766318,Homeward,"Animation, Adventure, Family",animation,2.5,,469,2020,2.0,4860,"['Joey Lawrence', 'James Cullen Bressack', 'Kim Little']",Michael Johnson,,
+tt8028842,Spycies,"Animation, Action, Comedy",animation,5.5,,1160,2020,1.0,5940,,,,
+tt12481806,El camino de Xico,"Animation, Adventure, Family",animation,5.2,,669,2020,11.0,5100,"['Verónica Jalil', 'Luis Angel Jaramillo', 'Pablo Gama Iturrarán']",Eric Cabello,,"$119,373"
+tt8387918,Zabij to i wyjedz z tego miasta,"Animation, Drama, Horror",animation,6.5,69.0,1229,2020,3.0,5280,,,,
+tt9484998,Palm Springs,"Comedy, Fantasy, Mystery",comedy,7.4,83.0,197005,2020,7.0,5400,"['Andy Samberg', 'Cristin Milioti', 'J.K. Simmons']",Max Barbakow,,"$1,512,871"
+tt9214832,Emma.,"Comedy, Drama, Romance",comedy,6.7,71.0,66649,2020,2.0,7440,"['Anya Taylor-Joy', 'Johnny Flynn', 'Mia Goth']",Autumn de Wilde,"$10,000,000 (estimated)","$25,932,444"
+tt9893250,I Care a Lot,"Comedy, Crime, Drama",comedy,6.4,66.0,152939,2020,2.0,7080,,,,
+tt9058654,Dinner in America,"Comedy, Drama, Music",comedy,7.5,80.0,12230,2020,1.0,6360,,,,
+tt8580274,Eurovision Song Contest: The Story of Fire Saga,"Comedy, Music",comedy,6.5,50.0,105713,2020,6.0,7380,"['Will Ferrell', 'Rachel McAdams', 'Dan Stevens']",David Dobkin,,
+tt5420210,The Comeback Trail,"Comedy, Crime",comedy,5.7,,13080,2020,6.0,6240,"['Robert De Niro', 'Tommy Lee Jones', 'Morgan Freeman']",George Gallo,"$25,000,000 (estimated)","$2,407,255"
+tt11317142,Shiva Baby,"Comedy, Drama",comedy,7.1,79.0,37838,2020,4.0,4620,,,,
+tt8522006,Happiest Season,"Comedy, Romance",comedy,6.6,69.0,50484,2020,11.0,6120,,,,
+tt9619798,The Wrong Missy,"Comedy, Romance",comedy,5.8,33.0,47840,2020,5.0,5400,"['David Spade', 'Lauren Lapkus', 'Nick Swardson']",Tyler Spindel,,
+tt11140488,The Wolf of Snow Hollow,"Comedy, Horror, Mystery",comedy,6.2,67.0,26322,2020,10.0,5100,"['Jim Cummings', 'Riki Lindhome', 'Robert Forster']",Jim Cummings,"$2,000,000 (estimated)","$266,963"
+tt10919380,Freaky,"Comedy, Horror, Thriller",comedy,6.3,67.0,77179,2020,11.0,6120,,,,
+tt13143964,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,Comedy,comedy,6.6,68.0,159118,2020,10.0,5700,,,,
+tt11024272,The Babysitter: Killer Queen,"Comedy, Horror",comedy,5.8,22.0,54968,2020,9.0,6060,,,,
+tt9686708,The King of Staten Island,"Comedy, Drama",comedy,7.1,67.0,79285,2020,6.0,8160,"['Pete Davidson', 'Bel Powley', 'Ricky Velez']",Judd Apatow,"$35,000,000 (estimated)","$2,180,452"
+tt11394332,Spree,"Comedy, Crime, Horror",comedy,5.9,42.0,18157,2020,8.0,5580,"['Joe Keery', 'David Arquette', 'Joshua Ovalle']",Eugene Kotlyarenko,,"$51,849"
+tt10682266,Hubie Halloween,"Comedy, Horror, Mystery",comedy,5.3,53.0,62767,2020,10.0,6180,"['Adam Sandler', 'Kevin James', 'Julie Bowen']",Steven Brill,,
+tt10161886,The Prom,"Comedy, Drama, Musical",comedy,5.9,55.0,29918,2020,12.0,7800,"['Meryl Streep', 'James Corden', 'Nicole Kidman']",Ryan Murphy,,"$187,430"
+tt10276470,Work It,"Comedy, Music",comedy,6.1,58.0,16699,2020,8.0,5580,"['Keiynan Lonsdale', 'Liza Koshy', 'Briana Andrade-Gomes']",Laura Terruso,,
+tt9606374,On the Rocks,"Comedy, Drama, Romance",comedy,6.4,73.0,38085,2020,10.0,5760,,,,
+tt9148706,Misbehaviour,"Comedy, Drama, History",comedy,6.4,62.0,11072,2020,3.0,6360,"['Keira Knightley', 'Gugu Mbatha-Raw', 'Jessie Buckley']",Philippa Lowthorpe,,"$1,928,777"
+tt9059704,An American Pickle,"Comedy, Fantasy",comedy,5.7,58.0,27823,2020,8.0,5280,"['Seth Rogen', 'Sarah Snook', 'Molly Evensen']",Brandon Trost,,"$499,649"
+tt9784456,The Kissing Booth 2,"Comedy, Romance",comedy,5.7,39.0,40520,2020,7.0,8040,"['Joey King', 'Joel Courtney', 'Jacob Elordi']",Vince Marcello,,
+tt9683478,The Half of It,"Comedy, Drama",comedy,6.9,74.0,45186,2020,5.0,6240,,,,
+tt3465026,Palm Swings,"Comedy, Drama, Romance",comedy,4.4,,1394,2020,7.0,5700,"['Tia Carrere', 'Diane Farr', 'Sugar Lyn Beard']",Sean Hoessli,,
+tt3278540,A Nice Girl Like You,"Comedy, Romance",comedy,5.2,41.0,8170,2020,7.0,5640,,,,
+tt9866072,Holidate,"Comedy, Romance",comedy,6.2,44.0,83809,2020,10.0,6240,"['Emma Roberts', 'Luke Bracey', 'Kristin Chenoweth']",John Whitesell,,
+tt6842770,Wild Mountain Thyme,"Comedy, Drama, Romance",comedy,5.8,42.0,12951,2020,12.0,6120,"['Emily Blunt', 'Jamie Dornan', 'Jon Hamm']",John Patrick Shanley,,"$1,517,267"
+tt10556022,Unpregnant,"Comedy, Drama",comedy,6.5,61.0,10433,2020,9.0,6180,"['Haley Lu Richardson', 'Barbie Ferreira', 'Giancarlo Esposito']",Rachel Lee Goldenberg,,
+tt8179470,Looks That Kill,"Comedy, Drama, Romance",comedy,6.3,,5821,2020,6.0,5520,"['Brandon Flynn', 'Tom Proctor', 'Annie Mumolo']",Kellen Moore,,
+tt9620292,Promising Young Woman,"Crime, Drama, Mystery",crime,7.5,72.0,223027,2020,12.0,6780,"['Carey Mulligan', 'Bo Burnham', 'Alison Brie']",Emerald Fennell,,"$18,854,166"
+tt7395114,The Devil All the Time,"Crime, Drama, Thriller",crime,7.1,55.0,160447,2020,9.0,8280,"['Bill Skarsgård', 'Tom Holland', 'Banks Repeta']",Antonio Campos,,
+tt10530176,Kol,"Crime, Horror, Mystery",crime,7.1,,47842,2020,3.0,6720,"['Park Shin-hye', 'Jeon Jong-seo', 'Kim Sung-ryung']",Chung-Hyun Lee,,
+tt7979142,The Night Clerk,"Crime, Drama, Mystery",crime,5.6,44.0,20125,2020,2.0,5400,,,,
+tt5144174,The Dry,"Crime, Drama, Mystery",crime,6.8,69.0,36568,2020,1.0,7020,,,,
+tt10183816,Dangerous Lies,"Crime, Mystery, Thriller",crime,5.4,51.0,19421,2020,4.0,5760,,,,
+tt6199572,Capone,"Biography, Crime, Drama",crime,4.7,46.0,24100,2020,5.0,6180,"['Tom Hardy', 'Linda Cardellini', 'Matt Dillon']",Josh Trank,,"$858,281"
+tt9340860,Let Him Go,"Crime, Drama, Thriller",crime,6.7,63.0,37110,2020,11.0,6780,,,,
+tt3111426,Lost Girls,"Crime, Drama, Mystery",crime,6.2,67.0,26204,2020,3.0,5700,"['Amy Ryan', 'Thomasin McKenzie', 'Gabriel Byrne']",Liz Garbus,,
+tt7456312,The Last Thing He Wanted,"Crime, Drama, Mystery",crime,4.4,35.0,17082,2020,2.0,6900,,,,
+tt12987894,American Murder: The Family Next Door,"Documentary, Crime",crime,7.2,67.0,35047,2020,9.0,4980,,,,
+tt5439812,Zola,"Comedy, Crime, Drama",crime,6.4,76.0,19033,2020,6.0,5160,"['Taylour Paige', 'Riley Keough', 'Nicholas Braun']",Janicza Bravo,,"$4,998,097"
+tt11390036,A Fall from Grace,"Crime, Drama, Mystery",crime,5.9,34.0,17900,2020,1.0,7200,"['Crystal Fox', 'Phylicia Rashad', 'Bresha Webb']",Tyler Perry,,
+tt11204094,The Duke,"Biography, Comedy, Crime",crime,6.9,74.0,15019,2020,2.0,5700,"['Helen Mirren', 'Matthew Goode', 'Anna Maxwell Martin']",Roger Michell,,"$14,233,027"
+tt4106514,The Postcard Killings,"Crime, Drama, Mystery",crime,5.8,29.0,17474,2020,3.0,6240,,,,
+tt8143990,Kajillionaire,"Comedy, Crime, Drama",crime,6.4,78.0,22943,2020,9.0,6240,,,,
+tt10127684,Bronx,"Action, Crime, Drama",crime,6.1,,10338,2020,10.0,6960,"['Lannick Gautry', 'Stanislas Merhar', 'Kaaris']",Olivier Marchal,,
+tt12474056,Nuevo orden,"Crime, Drama, Sci-Fi",crime,6.5,62.0,10519,2020,10.0,5160,,,,
+tt11127690,El practicante,"Crime, Drama, Thriller",crime,5.7,,15420,2020,9.0,5640,"['Mario Casas', 'Déborah François', 'Guillermo Pfening']",Carles Torras,,
+tt9820352,Villain,"Action, Crime, Drama",crime,5.9,68.0,4507,2020,2.0,5820,"['Craig Fairbrass', 'George Russo', 'Izuka Hoyle']",Philip Barantini,,
+tt10404944,BAC Nord,"Action, Crime, Drama",crime,6.9,,14636,2020,8.0,6300,,,,
+tt9806370,The Owners,"Comedy, Crime, Horror",crime,5.0,54.0,10162,2020,2.0,5520,"['Maisie Williams', 'Sylvester McCoy', 'Rita Tushingham']",Julius Berg,,"$583,134"
+tt9441638,The Big Ugly,"Crime, Drama, Thriller",crime,5.1,52.0,7051,2020,7.0,6360,,,,
+tt12763920,Daman akeseo guhasoseo,"Action, Crime, Thriller",crime,6.8,,6893,2020,8.0,6840,"['Hwang Jung-min', 'Lee Jung-jae', 'Park Jeong-min']",Hong Won-chan,,"$34,217,377"
+tt12792418,Nagwonui bam,"Action, Crime, Drama",crime,6.8,59.0,9531,2020,4.0,7860,,,,
+tt9139586,Arkansas,"Action, Crime, Mystery",crime,6.0,55.0,16349,2020,5.0,7020,,,,
+tt10456740,Balle perdue,"Action, Crime, Thriller",crime,6.3,78.0,14744,2020,6.0,5520,"['Alban Lenoir', 'Nicolas Duvauchelle', 'Ramzy Bedia']",Guillaume Pierret,,
+tt1552211,The Last Days of American Crime,"Action, Crime, Drama",crime,3.8,15.0,12667,2020,6.0,8880,,,,
+tt9797932,Big Boys Don't Cry,"Biography, Crime, Drama",crime,6.7,,1922,2020,5.0,5400,"['Daniel Adegboyega', 'Victoria Alcock', 'Karanja Augostos']",Steve Crowhurst,,
+tt7286966,Money Plane,"Action, Comedy, Crime",crime,3.2,,5867,2020,7.0,4920,,,,
+tt11916254,Lucy Shimmers and the Prince of Peace,"Drama, Family",family,7.1,,1615,2020,10.0,5220,"['Scarlett Diamond', 'Vincent Vargas', 'Adam Hightower']",Rob Diamond,,
+tt2702920,The Secret Garden,"Drama, Family, Fantasy",family,5.6,59.0,10528,2020,8.0,5940,,,,
+tt10714856,Feel the Beat,"Comedy, Drama, Family",family,6.3,,13860,2020,6.0,6540,"['Sofia Carson', 'Pamela MacDonald', 'Sonia Laplante']",Elissa Down,,"$207,678"
+tt8484160,Black Beauty,"Drama, Family",family,6.4,52.0,4548,2020,11.0,6600,,,,
+tt4532038,The War with Grandpa,"Comedy, Drama, Family",family,5.7,34.0,26172,2020,10.0,5640,,,,
+tt5689056,The Last Champion,"Drama, Family, Sport",family,6.9,,920,2020,12.0,7320,,,,
+tt6317656,Penguin Bloom,"Biography, Drama, Family",family,6.8,54.0,12937,2020,1.0,5700,"['Naomi Watts', 'Griffin Murray-Johnston', 'Andrew Lincoln']",Glendyn Ivin,,"$6,172,042"
+tt10324122,Secret Society of Second-Born Royals,"Action, Adventure, Comedy",family,5.0,34.0,6644,2020,9.0,5940,,,,
+tt4844150,A Babysitter's Guide to Monster Hunting,"Comedy, Family, Fantasy",family,5.4,31.0,5093,2020,10.0,5880,"['Tamara Smart', 'Oona Laurence', 'Tom Felton']",Rachel Talalay,,
+tt5556054,Four Kids and It,"Family, Fantasy",family,5.1,42.0,1881,2020,4.0,6600,"['Teddie Allen', 'Pippa Haywood', 'Matthew Goode']",Andy De Emmony,"£5,000,000 (estimated)","$798,211"
+tt11681250,Godmothered,"Comedy, Drama, Family",family,6.1,49.0,14484,2020,12.0,6600,,,,
+tt10540242,The Main Event,"Action, Comedy, Family",family,4.8,52.0,2814,2020,4.0,6060,,,,
+tt7014356,Anastasia: Once Upon a Time,"Adventure, Family, Fantasy",family,2.9,,950,2020,4.0,5340,,,,
+tt5929654,Think Like a Dog,"Comedy, Drama, Family",family,5.2,,2422,2020,7.0,5460,,,,
+tt3979300,Magic Camp,"Comedy, Family, Fantasy",family,6.3,,4927,2020,8.0,6000,,,,
+tt4779326,The Water Man,"Adventure, Drama, Family",family,5.6,68.0,4767,2020,5.0,5460,,,,
+tt11199410,The Princess Switch: Switched Again,"Comedy, Drama, Family",family,5.4,,14394,2020,11.0,5760,"['John Jack', 'Vanessa Hudgens', 'Sam Palladio']",Mike Rohl,"$10,000,000 (estimated)",
+tt4858674,Stargirl,"Comedy, Drama, Family",family,6.2,61.0,6341,2020,3.0,6420,,,,
+tt13273172,Dambo,"Comedy, Drama, Family",family,7.6,,1954,2020,9.0,6780,,,,
+tt8116640,Go!,"Family, Sport",family,5.9,,3814,2020,1.0,6120,"['William Lodder', ""Frances O'Connor"", 'Anastasia Bampos']",Owen Trevor,,"$520,191"
+tt7736496,Jingle Jangle: A Christmas Journey,"Family, Fantasy, Musical",family,6.4,69.0,21478,2020,11.0,7320,,,,
+tt6820324,Timmy Failure: Mistakes Were Made,"Adventure, Comedy, Drama",family,6.0,60.0,3464,2020,2.0,5940,,,,
+tt0983946,Fantasy Island,"Fantasy, Horror, Mystery",fantasy,4.9,22.0,61379,2020,2.0,6540,"['Michael Peña', 'Maggie Q', 'Lucy Hale']",Jeff Wadlow,"$7,000,000 (estimated)","$49,447,308"
+tt9086228,Gretel & Hansel,"Fantasy, Horror, Mystery",fantasy,5.5,64.0,36568,2020,1.0,5220,"['Sophia Lillis', 'Samuel Leakey', 'Alice Krige']",Osgood Perkins,"$5,000,000 (estimated)","$22,304,357"
+tt4685762,The Craft: Legacy,"Drama, Fantasy, Horror",fantasy,4.6,54.0,17642,2020,10.0,5820,"['Cailee Spaeny', 'Zoey Luna', 'Gideon Adlon']",Zoe Lister-Jones,,"$1,922,557"
+tt6508228,Ghosts of War,"Fantasy, Horror, Thriller",fantasy,5.6,38.0,12796,2020,7.0,5640,"['Brenton Thwaites', 'Kyle Gallner', 'Alan Ritchson']",Eric Bress,,"$345,289"
+tt10451852,Nine Days,"Drama, Fantasy",fantasy,6.8,72.0,12842,2020,7.0,7440,,,,
+tt11240506,W lesie dzis nie zasnie nikt,"Fantasy, Horror, Mystery",fantasy,4.9,,14923,2020,3.0,6120,,,,
+tt11044354,Femalien: Cosmic Crush,"Fantasy, Sci-Fi",fantasy,3.7,,339,2020,12.0,5940,"['Kira Noir', 'Jillian Janson', 'Lilly Fairfield']",Lindsey Schmitz,"$93,000 (estimated)",
+tt10334148,Blithe Spirit,"Comedy, Fantasy, Romance",fantasy,5.4,26.0,9014,2020,1.0,5940,,,,
+tt12829958,The Old Ways,"Drama, Fantasy, Horror",fantasy,5.4,67.0,8361,2020,10.0,5400,"['Brigitte Kali Canales', 'Andrea Cortés', 'Julia Vera']",Christopher Alender,,
+tt10887344,Blade the Iron Cross,"Fantasy, Horror, Sci-Fi",fantasy,4.2,,598,2020,7.0,4200,,,,
+tt1318523,The Unhealer,"Fantasy, Horror, Sci-Fi",fantasy,5.4,,3695,2020,6.0,5640,"['Lance Henriksen', 'Natasha Henstridge', 'Adam Beach']",Martin Guigui,,"$4,489"
+tt11614912,She Dies Tomorrow,"Drama, Fantasy, Horror",fantasy,5.0,81.0,7545,2020,8.0,5160,"['Kate Lyn Sheil', 'Jane Adams', 'Kentucker Audley']",Amy Seimetz,,"$398,663"
+tt9165824,The Show,"Drama, Fantasy, Mystery",fantasy,5.7,69.0,1453,2020,10.0,6900,"['Kezzabelle Ambler', 'Roger Ashton-Griffiths', 'Sheila Atim']",Mitch Jenkins,,
+tt11617052,Undine,"Drama, Fantasy, Mystery",fantasy,6.6,75.0,9921,2020,7.0,5460,"['Paula Beer', 'Franz Rogowski', 'Maryam Zaree']",Christian Petzold,,"$1,170,267"
+tt8633478,Run,"Drama, Horror, Mystery",horror,6.7,67.0,104038,2020,11.0,5400,,,,
+tt8332922,A Quiet Place Part II,"Drama, Horror, Sci-Fi",horror,7.2,71.0,300951,2020,5.0,5820,"['Emily Blunt', 'Millicent Simmonds', 'Cillian Murphy']",John Krasinski,"$61,000,000 (estimated)","$297,372,261"
+tt1051906,The Invisible Man,"Drama, Horror, Mystery",horror,7.1,72.0,269416,2020,2.0,7440,"['Elisabeth Moss', 'Oliver Jackson-Cohen', 'Harriet Dyer']",Leigh Whannell,"$7,000,000 (estimated)","$144,492,724"
+tt5867314,The Empty Man,"Drama, Horror, Mystery",horror,6.2,,43175,2020,10.0,8220,,,,
+tt5918982,Possessor,"Horror, Mystery, Sci-Fi",horror,6.5,72.0,49985,2020,10.0,6180,"['Andrea Riseborough', 'Christopher Abbott', 'Jennifer Jason Leigh']",Brandon Cronenberg,,"$911,180"
+tt10229558,The Dark and the Wicked,Horror,horror,6.1,72.0,25737,2020,11.0,5700,"['Marin Ireland', 'Michael Abbott Jr.', 'Julie Oliver-Touchstone']",Bryan Bertino,,"$736,153"
+tt8201852,You Should Have Left,"Horror, Mystery, Thriller",horror,5.4,46.0,28543,2020,6.0,5580,,,,
+tt9731534,The Night House,"Horror, Mystery, Thriller",horror,6.4,68.0,72176,2020,8.0,6420,,,,
+tt11905962,Sputnik,"Drama, Horror, Mystery",horror,6.4,61.0,28495,2020,7.0,6780,,,,
+tt2226162,Hunter Hunter,"Drama, Horror, Mystery",horror,6.4,61.0,14093,2020,12.0,5580,"['Camille Sullivan', 'Summer H. Howell', 'Devon Sawa']",Shawn Linden,,"$32,705"
+tt12749596,Host,"Horror, Mystery",horror,6.5,73.0,44106,2020,7.0,3420,"['Haley Bishop', 'Jemma Moore', 'Emma Louise Webb']",Rob Savage,,"$443,807"
+tt8179024,Body Cam,"Horror, Mystery, Thriller",horror,5.3,37.0,7620,2020,5.0,5760,,,,
+tt10003008,The Rental,"Drama, Horror, Mystery",horror,5.7,62.0,41050,2020,7.0,5280,,,,
+tt7917178,Caveat,"Horror, Mystery, Thriller",horror,5.9,60.0,9771,2020,6.0,5280,,,,
+tt8508734,His House,"Drama, Horror, Thriller",horror,6.4,72.0,51076,2020,10.0,5580,"['Sope Dirisu', 'Wunmi Mosaku', 'Malaika Wakoli-Abigaba']",Remi Weekes,,
+tt8004664,Come Play,"Drama, Horror, Mystery",horror,5.8,58.0,19176,2020,10.0,5760,"['Azhy Robertson', 'Gillian Jacobs', 'John Gallagher Jr.']",Jacob Chase,,"$13,182,254"
+tt10192566,Alone,"Drama, Horror, Thriller",horror,5.1,,4955,2020,10.0,5520,"['Tyler Posey', 'Summer Spiro', 'Donald Sutherland']",Johnny Martin,"$4,000,000 (estimated)",
+tt11242218,Books of Blood,"Drama, Horror, Mystery",horror,5.6,42.0,10786,2020,10.0,6420,,,,
+tt0093119,Grizzly II: The Predator,"Horror, Music, Thriller",horror,2.7,7.0,1830,2020,1.0,4440,,,,
+tt11044858,Nocturne,"Drama, Horror, Music",horror,5.7,58.0,13992,2020,10.0,5400,"['Sydney Sweeney', 'Madison Iseman', 'Jacques Colimon']",Zu Quirke,,
+tt7510346,The Turning,"Drama, Horror, Mystery",horror,3.9,35.0,16810,2020,1.0,5640,,,,
+tt10065694,Antebellum,"Drama, Horror, Mystery",horror,5.8,43.0,30864,2020,9.0,6300,,,,
+tt8764358,Butchers,"Horror, Thriller",horror,4.6,,3289,2020,1.0,5520,"['Simon Phillips', 'Michael Swatton', 'Julie Mainville']",Adrian Langley,,
+tt5774062,Spontaneous,"Comedy, Drama, Horror",horror,6.5,78.0,18165,2020,10.0,6060,"['Katherine Langford', 'Charlie Plummer', 'Yvonne Orji']",Brian Duffield,,
+tt7026488,Come True,"Horror, Sci-Fi",horror,6.0,68.0,12144,2020,3.0,6300,"['Julia Sarah Stone', 'Landon Liboiron', 'Carlee Ryski']",Anthony Scott Burns,,"$70,459"
+tt11815960,Kolskaya sverhglubokaya,"Horror, Sci-Fi, Thriller",horror,4.9,,6200,2020,11.0,6900,,,,
+tt12311866,Children of the Corn,Horror,horror,3.8,22.0,4926,2020,3.0,5580,,,,
+tt12298506,Black Box,"Horror, Mystery, Sci-Fi",horror,6.2,62.0,18194,2020,10.0,6000,"['Mamoudou Athie', 'Phylicia Rashad', 'Amanda Christine']",Emmanuel Osei-Kuffour,,"$32,668"
+tt8503618,Hamilton,"Biography, Drama, History",musical,8.3,88.0,125839,2020,7.0,9600,"['Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.']",Thomas Kail,,
+tt1266036,Valley Girl,"Comedy, Musical, Romance",musical,5.5,53.0,4320,2020,5.0,6120,,,,
+tt11416882,Erotic,"Musical, Romance",musical,8.2,,57,2020,8.0,4500,"['Eva Langlet', 'Alexandre David Lejuez']",Alexandre David Lejuez,"€1,000 (estimated)",
+tt11874226,American Utopia,"Documentary, Music, Musical",musical,8.2,93.0,5511,2020,10.0,6300,"['David Byrne', 'Jacqueline Acevedo', 'Gustavo Di Dalva']",Spike Lee,,"$248,614"
+tt7290030,Shakespeare's Sh*tstorm,"Comedy, Horror, Musical",musical,6.5,,380,2020,8.0,5640,,,,
+tt10627548,Christmas on the Square,"Comedy, Family, Musical",musical,5.2,51.0,3221,2020,11.0,5880,"['Dolly Parton', 'Jenifer Lewis', 'Josh Segarra']",Debbie Allen,,
+tt11242292,Black Friday,"Comedy, Horror, Musical",musical,7.6,,510,2020,2.0,8220,"['Jaime Lyn Beatty', 'Jeff Blim', 'Corey Dorris']",Nick Lang,,
+tt11238932,Explota Explota,"Comedy, Musical, Romance",musical,5.7,,1233,2020,10.0,6960,,,,
+tt32437829,Sunset Boulevard,"Crime, Drama, Musical",musical,0.0,,0,2020,12.0,7920,"['Ria Jones', 'Danny Mac', 'Molly Lynch']",Nikolai Foster,,
+tt8385384,Mighty Oak,"Comedy, Drama, Musical",musical,5.1,,689,2020,7.0,6120,,,,
+tt13150606,Octonauts & the Great Barrier Reef,"Animation, Action, Adventure",musical,6.7,,240,2020,10.0,2820,"['Paul Buckley', 'Simon Foster', 'Teresa Gallagher']",Blair Simmons,,"$151,898"
+tt12041958,Pride and Prejudice: A New Musical,Musical,musical,6.8,,171,2020,4.0,7680,"['Monique Hafen Adams', 'Samantha Jane Ayoob', 'Seton Chiang']",Robert Kelley,,
+tt13290168,High School Musical: The Musical: The Holiday Special,"Comedy, Drama, Musical",musical,5.6,,490,2020,12.0,2700,"['Olivia Rodrigo', 'Joshua Bassett', 'Matt Cornett']",Tim Federle,,
+tt9537888,Elleville Elfrid,"Animation, Family, Musical",musical,4.9,,371,2020,1.0,4500,"['Cherokee Rose Castro', 'Gard B. Eidsvold', 'Jack Fisher']",Atle Solberg Blakseth,"€6,000,000 (estimated)","$1,347,044"
+tt8415852,Be the Light,"Drama, Musical",musical,5.2,,36,2020,2.0,6540,"['Cara Santana', 'Malcolm Goodwin', 'Michael DeLorenzo']",Malcolm Goodwin,,
+tt12294158,The Real Will Wood,"Documentary, Comedy, Musical",musical,6.7,,143,2020,2.0,5580,"['Will Wood', 'Chris Dunne', 'Mike Bottiglieri']",Will Wood,,
+tt7543058,Best Summer Ever,Musical,musical,5.2,72.0,176,2020,4.0,4320,,,,
+tt10518240,The Donkey King,"Animation, Adventure, Comedy",musical,5.2,,322,2020,7.0,5880,"['Dan Green', 'Mike Pollock', 'Tyler Bunch']",Aziz Jindani,,
+tt12767498,Barbie Princess Adventure,"Animation, Family, Musical",musical,5.6,,776,2020,9.0,4320,,,,
+tt10230436,Yeh Ballet,"Drama, Musical",musical,7.5,,1583,2020,2.0,7020,,,,
+tt12354874,Ogoniok-ognivo,"Animation, Family, Fantasy",musical,5.5,,368,2020,2.0,5280,,,,
+tt7117966,Ode to Passion,"Drama, Musical, Romance",musical,6.8,,625,2020,7.0,7680,,,,
+tt10976066,Sufiyum Sujatayum,"Drama, Musical, Romance",musical,5.5,,1610,2020,7.0,7320,,,,
+tt13833798,Röckët Stähr's Death of a Rockstar,"Animation, Comedy, Musical",musical,8.4,,63,2020,11.0,5520,"['Abby Ahmad', 'Röckët Stähr']",Röckët Stähr,,
+tt9218782,Hollywood Fringe,"Comedy, Drama, Musical",musical,5.5,,34,2020,9.0,5400,,,,
+tt13944292,Lilly's Light: The Movie,"Family, Fantasy, Musical",musical,7.0,,86,2020,11.0,4680,,,,
+tt11449072,Kartoffelsalat 3 - Das Musical,Musical,musical,4.2,,2832,2020,1.0,5520,"['Marta Shkop', 'Lea Mirzanli', 'Nicole Cross']",Michael David Pate,"€1,000,000 (estimated)",
+tt9332398,Believe in You,"Adventure, Drama, Musical",musical,8.4,,9,2020,4.0,7200,"['Nosa Obaseki', 'Karen Simpson', 'Beverly Naya']",Isioro Tokunbo Jaboro,"CA$350,000 (estimated)",
+tt11754896,Lyset fra sjokoladefabrikken,"Comedy, Drama, Musical",musical,7.2,,268,2020,1.0,3900,,,,
+tt13686374,Tokyo doragon hanten,"Action, Comedy, Crime",musical,7.0,,68,2020,8.0,5700,,,,
+tt11671040,Riverdance 25th Anniversary Show,Musical,musical,7.7,,137,2020,3.0,7200,"['Amy-Mae Dolan', 'Bobby Hodges', 'Brandon Asazawa']",Chris Hunt,,"$1,034,004"
+tt12099962,Vampire Burt's Serenade,"Comedy, Horror, Musical",musical,4.0,,139,2020,5.0,4560,,,,
+tt11617584,Pelle Svanslös,"Animation, Adventure, Family",musical,5.4,,289,2020,1.0,4020,"['Adam Pålsson', 'Christopher Wagelin', 'Li Hagman']",Christian Ryltenius,,"$96,873"
+tt12446718,Fame: The Musical,Musical,musical,5.3,,135,2020,4.0,7560,,,,
+tt19767866,Fourth String,"Crime, Drama, Musical",musical,8.2,,11,2020,5.0,5580,,,,
+tt10432140,Sister Tempest,"Comedy, Horror, Musical",musical,6.8,,87,2020,3.0,7260,"['Rhonda Laizer', 'Sarah Rochis', 'Cami Roebuck']",Joe Badon,,
+tt13397452,Estella Scrooge: A Christmas Carol with a Twist,Musical,musical,5.1,,56,2020,11.0,7800,,,,
+tt12969078,Atkan Chatkan,"Drama, Musical",musical,7.6,,4256,2020,9.0,7560,,,,
+tt10616476,Le Café de mes Souvenirs,"Musical, Romance",musical,7.5,,8,2020,,6360,,,,
+tt9018612,Wotaku ni koi wa muzukashii,"Comedy, Musical, Romance",musical,5.2,,632,2020,2.0,6840,,,,
+tt11426644,We Are Freestyle Love Supreme,"Documentary, Comedy, Musical",musical,7.0,67.0,381,2020,7.0,5400,,,,
+tt13327258,The Jinkx and DeLa Holiday Special,"Comedy, Musical",musical,7.7,,586,2020,12.0,3900,"['Benjamin Putnam', 'Jinkx Monsoon', 'Jordan Iosua Taylor']",Benjamin Putnam,"$350,000 (estimated)",
+tt9770432,The Incredible Jake Parker,"Drama, Musical",musical,7.1,,21,2020,9.0,4260,,,,
+tt11306746,Knutsen & Ludvigsen 2 - Det store dyret,"Animation, Comedy, Family",musical,5.7,,268,2020,9.0,4680,,,,
+tt10272386,The Father,"Drama, Mystery",mystery,8.2,88.0,210187,2020,2.0,5820,"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss']",Florian Zeller,"$6,000,000 (estimated)","$24,048,935"
+tt7923220,Inheritance,"Drama, Mystery, Thriller",mystery,5.6,31.0,21937,2020,5.0,6660,"['Lily Collins', 'Simon Pegg', 'Connie Nielsen']",Vaughn Stein,,"$304,931"
+tt8368512,The Courier,"Drama, History, Mystery",mystery,7.2,65.0,78079,2020,3.0,6720,"['Benedict Cumberbatch', 'Merab Ninidze', 'Rachel Brosnahan']",Dominic Cooke,,"$26,001,227"
+tt7711170,Alone,"Drama, Mystery, Thriller",mystery,6.2,70.0,32944,2020,9.0,5880,"['Jules Willcox', 'Marc Menchaca', 'Anthony Heald']",John Hyams,"$750,000 (estimated)","$642,502"
+tt2235695,Rebecca,"Drama, Mystery, Romance",mystery,6.0,46.0,48274,2020,10.0,7380,,,,
+tt6882604,Archive,"Drama, Mystery, Sci-Fi",mystery,6.4,67.0,27699,2020,7.0,6540,"['Theo James', 'Stacy Martin', 'Rhona Mitra']",Gavin Rothery,,"$243,279"
+tt11388406,Horse Girl,"Drama, Mystery, Thriller",mystery,6.0,61.0,21123,2020,2.0,6180,,,,
+tt8829830,Fatale,"Drama, Mystery, Romance",mystery,5.5,42.0,15229,2020,12.0,6120,,,,
+tt1918734,2067,"Mystery, Sci-Fi",mystery,4.9,39.0,12326,2020,10.0,6840,"['Aaron Glenane', 'Kodi Smit-McPhee', 'Ryan Kwanten']",Seth Larney,,
+tt10886166,365 dni,"Drama, Romance",romance,3.3,,103212,2020,2.0,6840,"['Anna-Maria Sieklucka', 'Michele Morrone', 'Bronislaw Wroclawski']",Barbara Bialowas,,"$9,458,590"
+tt10362466,After We Collided,"Drama, Romance",romance,5.1,14.0,41256,2020,10.0,6300,,,,
+tt8338762,The Nest,"Drama, Romance, Thriller",romance,6.3,81.0,19880,2020,9.0,6420,,,,
+tt8760280,Finding You,"Drama, Romance",romance,6.4,41.0,9510,2020,5.0,7140,,,,
+tt7983894,Ammonite,"Drama, History, Romance",romance,6.5,72.0,25062,2020,11.0,7020,,,,
+tt3907584,All the Bright Places,"Drama, Romance",romance,6.6,61.0,41210,2020,2.0,6420,"['Elle Fanning', 'Justice Smith', 'Alexandra Shipp']",Brett Haley,,
+tt10023172,Passion simple,"Drama, Romance",romance,5.4,57.0,1295,2020,8.0,5940,,,,
+tt8045906,Words on Bathroom Walls,"Drama, Romance",romance,7.2,61.0,14663,2020,8.0,6600,"['Charlie Plummer', 'Andy Garcia', 'Taylor Russell']",Thor Freudenthal,,"$3,151,849"
+tt4411584,The Secret: Dare to Dream,"Drama, Romance",romance,6.5,32.0,18796,2020,7.0,6420,,,,
+tt11169050,Supernova,"Drama, Romance",romance,6.9,73.0,15316,2020,6.0,5700,,,,
+tt10457128,Été 85,"Drama, Romance",romance,6.9,65.0,14662,2020,7.0,6060,,,,
+tt8750570,Sergio,"Biography, Drama, History",romance,6.2,55.0,11433,2020,4.0,7080,"['Wagner Moura', 'Ana de Armas', ""Brían F. O'Byrne""]",Greg Barker,"$16,000,000 (estimated)",
+tt6598238,Life in a Year,"Drama, Romance",romance,6.2,,11346,2020,11.0,6420,,,,
+tt9779516,I Still Believe,"Biography, Drama, Music",romance,6.5,41.0,14184,2020,3.0,6960,"['KJ Apa', 'Britt Robertson', 'Nathan Parsons']",Andrew Erwin,"$12,000,000 (estimated)","$16,069,730"
+tt10229982,My First Summer,"Drama, Romance",romance,6.7,,3135,2020,3.0,4800,"['Arthur Angel', 'Markella Kavenagh', 'Steve Mouzakis']",Katie Found,,
+tt5616176,2 Hearts,"Drama, Romance",romance,6.3,29.0,10253,2020,10.0,6060,,,,
+tt5843876,Chemical Hearts,"Drama, Romance",romance,6.3,57.0,17129,2020,8.0,5580,"['Lili Reinhart', 'Austin Abrams', 'Sarah Jones']",Richard Tanne,,
+tt9354842,To All the Boys: P.S. I Still Love You,"Comedy, Drama, Romance",romance,6.1,54.0,49761,2020,2.0,6060,,,,
+tt8305852,All My Life,"Drama, Romance",romance,6.3,39.0,6511,2020,12.0,5460,,,,
+tt6914122,Resistance,"Biography, Drama, History",romance,6.5,53.0,9495,2020,3.0,7200,"['Jesse Eisenberg', 'Clémence Poésy', 'Matthias Schweighöfer']",Jonathan Jakubowicz,,"$449,753"
+tt9735470,Little Fish,"Drama, Romance, Sci-Fi",romance,6.9,71.0,7878,2020,2.0,6060,,,,
+tt7798646,The Photograph,"Drama, Romance",romance,6.1,62.0,6401,2020,2.0,6360,,,,
+tt11100856,"Love, Guaranteed","Comedy, Romance",romance,5.6,39.0,19673,2020,9.0,5400,"['Rachael Leigh Cook', 'Damon Wayans Jr.', 'Heather Graham']",Mark Steven Johnson,,
+tt9207700,Made in Italy,"Comedy, Drama, Romance",romance,6.0,44.0,12007,2020,8.0,5640,,,,
+tt7768720,Saint-Narcisse,"Comedy, Drama, Romance",romance,5.4,70.0,1097,2020,9.0,6060,,,,
+tt9308382,The High Note,"Drama, Music, Romance",romance,6.4,58.0,14018,2020,5.0,6780,"['Dakota Johnson', 'Tracee Ellis Ross', 'Kelvin Harrison Jr.']",Nisha Ganatra,,"$2,217,874"
+tt9806322,Isi & Ossi,"Comedy, Romance",romance,6.4,,10674,2020,2.0,6780,"['Livia Renner', 'Nayla Sophie Brehmer', 'Christina Hecke']",Oliver Kienle,,
+tt1545304,Desperados,"Comedy, Romance",romance,5.2,41.0,11414,2020,7.0,6300,"['Nasim Pedrad', 'Anna Camp', 'Lamorne Morris']",LP,,
+tt8801584,Sunrise in Heaven,"Drama, Romance",romance,5.7,,1982,2020,4.0,5100,,,,
+tt2140571,The Broken Hearts Gallery,"Comedy, Romance",romance,6.3,57.0,10634,2020,9.0,6540,,,,
+tt1070874,The Trial of the Chicago 7,"Drama, History, Thriller",thriller,7.7,76.0,199468,2020,10.0,7740,"['Eddie Redmayne', 'Alex Sharp', 'Sacha Baron Cohen']",Aaron Sorkin,"$35,000,000 (estimated)",
+tt7939766,I'm Thinking of Ending Things,"Drama, Thriller",thriller,6.5,78.0,104325,2020,9.0,8040,"['Jesse Plemons', 'Jessie Buckley', 'Toni Collette']",Charlie Kaufman,,
+tt0920462,Lost Girls and Love Hotels,"Drama, Thriller",thriller,4.7,57.0,5821,2020,9.0,5820,"['Alexandra Daddario', 'Takehiro Hira', 'Carice van Houten']",William Olsson,,"$106,045"

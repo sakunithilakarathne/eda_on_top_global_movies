@@ -1,0 +1,342 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt0468569,The Dark Knight,"Action, Crime, Drama",action,9.0,84.0,2996308,2008,7.0,9120.0,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart']",Christopher Nolan,"$185,000,000 (estimated)","$1,009,057,329"
+tt0800080,The Incredible Hulk,"Action, Adventure, Sci-Fi",action,6.6,61.0,540606,2008,6.0,6720.0,"['Edward Norton', 'Liv Tyler', 'Tim Roth']",Louis Leterrier,"$150,000,000 (estimated)","$264,770,996"
+tt0942385,Tropic Thunder,"Action, Comedy, War",action,7.1,71.0,464995,2008,8.0,6420.0,"['Ben Stiller', 'Jack Black', 'Robert Downey Jr.']",Ben Stiller,"$92,000,000 (estimated)","$195,703,351"
+tt0371746,Iron Man,"Action, Adventure, Sci-Fi",action,7.9,79.0,1165102,2008,5.0,7560.0,,,,
+tt0936501,Taken,"Action, Crime, Thriller",action,7.7,51.0,652319,2008,2.0,5400.0,,,,
+tt0441773,Kung Fu Panda,"Animation, Action, Adventure",action,7.6,74.0,546834,2008,6.0,5520.0,"['Jack Black', 'Ian McShane', 'Angelina Jolie']",Mark Osborne,"$130,000,000 (estimated)","$632,384,787"
+tt1060277,Cloverfield,"Action, Horror, Sci-Fi",action,7.0,64.0,431889,2008,1.0,5100.0,"['Mike Vogel', 'Jessica Lucas', 'Lizzy Caplan']",Matt Reeves,"$25,000,000 (estimated)","$172,394,180"
+tt0960144,You Don't Mess with the Zohan,"Action, Comedy",action,5.6,54.0,219958,2008,6.0,6780.0,,,,
+tt0493464,Wanted,"Action, Crime, Thriller",action,6.7,64.0,418644,2008,6.0,6600.0,,,,
+tt0448157,Hancock,"Action, Comedy, Drama",action,6.4,49.0,525392,2008,7.0,5520.0,"['Will Smith', 'Charlize Theron', 'Jason Bateman']",Peter Berg,"$150,000,000 (estimated)","$629,443,428"
+tt0830515,Quantum of Solace,"Action, Adventure, Mystery",action,6.5,58.0,481472,2008,10.0,6360.0,,,,
+tt1190539,Chugyeokja,"Action, Crime, Drama",action,7.8,64.0,76011,2008,2.0,7500.0,,,,
+tt0426592,Superhero Movie,"Action, Comedy, Sci-Fi",action,4.7,33.0,79172,2008,3.0,4500.0,"['Drake Bell', 'Leslie Nielsen', 'Sara Paxton']",Craig Mazin,"$35,000,000 (estimated)","$71,571,300"
+tt0499448,The Chronicles of Narnia: Prince Caspian,"Action, Adventure, Family",action,6.5,62.0,231779,2008,5.0,9000.0,,,,
+tt1032755,RocknRolla,"Action, Crime, Thriller",action,7.2,53.0,269812,2008,9.0,6840.0,"['Gerard Butler', 'Tom Wilkinson', 'Idris Elba']",Guy Ritchie,"$18,000,000 (estimated)","$25,742,207"
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,"Action, Adventure",action,6.2,65.0,501327,2008,5.0,7320.0,,,,
+tt0770752,Fool's Gold,"Action, Adventure, Comedy",action,5.7,29.0,86714,2008,2.0,6720.0,,,,
+tt0462499,Rambo,"Action, Thriller",action,7.0,46.0,250214,2008,1.0,5520.0,"['Sylvester Stallone', 'Julie Benz', 'Matthew Marsden']",Sylvester Stallone,"$50,000,000 (estimated)","$113,244,290"
+tt0910936,Pineapple Express,"Action, Comedy, Crime",action,6.9,64.0,364096,2008,8.0,6660.0,,,,
+tt1023111,Never Back Down,"Action, Drama, Sport",action,6.5,39.0,108656,2008,3.0,6780.0,,,,
+tt0452608,Death Race,"Action, Sci-Fi, Thriller",action,6.4,43.0,223285,2008,8.0,6300.0,,,,
+tt0450314,Punisher: War Zone,"Action, Crime, Drama",action,5.9,30.0,68755,2008,12.0,6180.0,,,,
+tt0421073,Street Kings,"Action, Crime, Thriller",action,6.8,55.0,123371,2008,4.0,6540.0,,,,
+tt0811080,Speed Racer,"Action, Adventure, Comedy",action,6.1,37.0,80344,2008,5.0,8100.0,,,,
+tt0489099,Jumper,"Action, Adventure, Sci-Fi",action,6.1,35.0,330329,2008,2.0,5280.0,,,,
+tt0859163,The Mummy: Tomb of the Dragon Emperor,"Action, Adventure, Fantasy",action,5.2,31.0,174930,2008,7.0,6720.0,,,,
+tt0416236,The Spiderwick Chronicles,"Action, Adventure, Drama",action,6.5,62.0,105468,2008,2.0,5760.0,,,,
+tt0373051,Journey to the Center of the Earth,"Action, Adventure, Family",action,5.8,57.0,135540,2008,7.0,5580.0,"['Brendan Fraser', 'Josh Hutcherson', 'Aníta Briem']",Eric Brevig,"$60,000,000 (estimated)","$244,232,688"
+tt0425061,Get Smart,"Action, Adventure, Comedy",action,6.5,54.0,232661,2008,6.0,6600.0,"['Steve Carell', 'Anne Hathaway', 'Alan Arkin']",Peter Segal,"$80,000,000 (estimated)","$230,685,453"
+tt0411477,Hellboy II: The Golden Army,"Action, Adventure, Fantasy",action,7.0,78.0,292434,2008,7.0,7200.0,,,,
+tt1172570,Bronson,"Action, Crime, Drama",action,7.0,71.0,144378,2008,3.0,5520.0,,,,
+tt1034303,Defiance,"Action, Drama, History",action,7.1,58.0,158305,2008,1.0,8220.0,,,,
+tt0758774,Body of Lies,"Action, Drama, Thriller",action,7.0,57.0,244337,2008,10.0,7680.0,,,,
+tt1059786,Eagle Eye,"Action, Mystery, Thriller",action,6.6,43.0,197994,2008,9.0,7080.0,,,,
+tt1129442,Transporter 3,"Action, Thriller",action,6.1,51.0,180929,2008,11.0,6240.0,,,,
+tt0483607,Doomsday,"Action, Sci-Fi, Thriller",action,5.9,51.0,81165,2008,3.0,6780.0,"['Rhona Mitra', 'Bob Hoskins', 'Alexander Siddig']",Neil Marshall,"$30,000,000 (estimated)","$22,472,631"
+tt1220719,Ip Man,"Action, Biography, Drama",action,8.0,59.0,237758,2008,12.0,6360.0,,,,
+tt0443649,"10,000 BC","Action, Adventure, Drama",action,5.1,34.0,137316,2008,3.0,6540.0,"['Camilla Belle', 'Steven Strait', 'Marco Khan']",Roland Emmerich,"$105,000,000 (estimated)","$269,784,201"
+tt0865556,The Forbidden Kingdom,"Action, Adventure, Fantasy",action,6.5,57.0,111277,2008,4.0,6240.0,,,,
+tt1117385,Felon,"Action, Drama, Thriller",action,7.4,58.0,85686,2008,7.0,6240.0,,,,
+tt0831887,The Spirit,"Action, Crime, Fantasy",action,4.7,30.0,63536,2008,12.0,6180.0,,,,
+tt0462465,Outlander,"Action, Adventure, Sci-Fi",action,6.2,40.0,79969,2008,7.0,6900.0,,,,
+tt0467197,Max Payne,"Action, Crime, Drama",action,5.3,31.0,131866,2008,10.0,6000.0,,,,
+tt1128075,Ai no mukidashi,"Action, Comedy, Drama",action,8.0,78.0,16751,2008,1.0,14220.0,,,,
+tt0844286,The Brothers Bloom,"Action, Adventure, Comedy",action,6.7,55.0,53258,2008,6.0,6840.0,"['Rachel Weisz', 'Adrien Brody', 'Mark Ruffalo']",Rian Johnson,"$20,000,000 (estimated)","$5,530,764"
+tt0443274,Vantage Point,"Action, Drama, Thriller",action,6.6,40.0,155703,2008,2.0,5400.0,"['Dennis Quaid', 'Forest Whitaker', 'Matthew Fox']",Pete Travis,"$40,000,000 (estimated)","$152,039,882"
+tt0364970,Babylon A.D.,"Action, Adventure, Sci-Fi",action,5.5,26.0,99432,2008,8.0,5400.0,,,,
+tt0988047,Traitor,"Action, Crime, Drama",action,6.9,61.0,60003,2008,8.0,6840.0,"['Don Cheadle', 'Guy Pearce', 'Archie Panjabi']",Jeffrey Nachmanoff,"$22,000,000 (estimated)","$27,675,014"
+tt0425637,Chi bi,"Action, Adventure, Drama",action,7.3,73.0,49369,2008,7.0,8700.0,,,,
+tt0443559,Killshot,"Action, Crime, Drama",action,6.0,,22431,2008,11.0,5700.0,"['Thomas Jane', 'Diane Lane', 'Mickey Rourke']",John Madden,,"$2,961,647"
+tt0910970,WALL·E,"Animation, Adventure, Family",adventure,8.4,95.0,1251128,2008,6.0,5880.0,,,,
+tt0970416,The Day the Earth Stood Still,"Adventure, Drama, Sci-Fi",adventure,5.5,40.0,182189,2008,12.0,6240.0,,,,
+tt0397892,Bolt,"Animation, Adventure, Comedy",adventure,6.8,67.0,237586,2008,11.0,5760.0,,,,
+tt0876563,Gake no ue no Ponyo,"Animation, Adventure, Comedy",adventure,7.6,86.0,173138,2008,7.0,6060.0,"['Cate Blanchett', 'Matt Damon', 'Liam Neeson']",Hayao Miyazaki,"$34,000,000 (estimated)","$206,085,982"
+tt0479952,Madagascar: Escape 2 Africa,"Animation, Adventure, Comedy",adventure,6.6,61.0,257917,2008,11.0,5340.0,,,,
+tt0451079,Horton Hears a Who!,"Animation, Adventure, Comedy",adventure,6.8,71.0,154034,2008,3.0,5160.0,"['Jim Carrey', 'Steve Carell', 'Carol Burnett']",Jimmy Hayward,"$85,000,000 (estimated)","$298,572,799"
+tt0949731,The Happening,"Adventure, Drama, Sci-Fi",adventure,5.0,34.0,221924,2008,6.0,5460.0,,,,
+tt0960731,Bedtime Stories,"Adventure, Comedy, Family",adventure,6.0,33.0,103442,2008,12.0,5940.0,,,,
+tt0970411,City of Ember,"Adventure, Drama, Family",adventure,6.4,58.0,71287,2008,10.0,5400.0,,,,
+tt0963794,The Ruins,"Adventure, Horror, Thriller",adventure,5.9,44.0,87268,2008,4.0,5400.0,,,,
+tt0396707,The Secret of Moonacre,"Adventure, Family, Fantasy",adventure,6.0,,11410,2008,2.0,6180.0,"['Ioan Gruffudd', 'Dakota Blue Richards', 'Tim Curry']",Gabor Csupo,"$32,000,000 (estimated)","$7,162,618"
+tt0455824,Australia,"Adventure, Drama, Romance",adventure,6.6,53.0,131797,2008,11.0,9900.0,,,,
+tt0494238,Inkheart,"Adventure, Family, Fantasy",adventure,6.1,49.0,83730,2008,12.0,6360.0,,,,
+tt0481536,Harold & Kumar Escape from Guantanamo Bay,"Adventure, Comedy",adventure,6.5,57.0,143877,2008,4.0,6840.0,,,,
+tt1185834,Star Wars: The Clone Wars,"Animation, Action, Adventure",adventure,5.9,35.0,75910,2008,8.0,5880.0,,,,
+tt1014775,Beverly Hills Chihuahua,"Adventure, Comedy, Drama",adventure,4.0,41.0,26597,2008,10.0,5460.0,,,,
+tt0901487,"Joeun nom, napun nom, esanghan nom","Action, Adventure, Comedy",adventure,7.2,69.0,38784,2008,7.0,8340.0,"['Song Kang-ho', 'Lee Byung-hun', 'Jung Woo-sung']",Kim Jee-woon,"$10,000,000 (estimated)","$44,261,209"
+tt0765476,Meet Dave,"Adventure, Comedy, Family",adventure,5.1,43.0,44757,2008,7.0,5400.0,,,,
+tt0410377,Nim's Island,"Adventure, Family, Fantasy",adventure,6.0,55.0,37521,2008,4.0,5760.0,,,,
+tt0489282,Strange Wilderness,"Adventure, Comedy",adventure,5.2,12.0,23130,2008,2.0,5220.0,"['Steve Zahn', 'Allen Covert', 'Justin Long']",Fred Wolf,"$20,000,000 (estimated)","$6,964,734"
+tt0420238,The Tale of Despereaux,"Animation, Adventure, Comedy",adventure,6.1,53.0,40664,2008,12.0,5580.0,,,,
+tt0357668,The Flyboys,"Action, Adventure, Drama",adventure,6.8,,3552,2008,8.0,7080.0,"['Jesse James', 'Reiley McClendon', 'Stephen Baldwin']",Rocco DeVilliers,,"$144,680"
+tt1107365,Open Season 2,"Animation, Adventure, Comedy",adventure,5.5,,27601,2008,9.0,4560.0,,,,
+tt0400426,Far Cry,"Action, Adventure, Sci-Fi",adventure,3.2,,15267,2008,10.0,5700.0,,,,
+tt0482603,Space Chimps,"Animation, Adventure, Comedy",adventure,4.5,36.0,12909,2008,7.0,4860.0,,,,
+tt0940709,Cheung gong 7 hou,"Adventure, Comedy, Drama",adventure,6.4,46.0,17841,2008,1.0,5280.0,,,,
+tt0490181,Mutant Chronicles,"Action, Adventure, Mystery",adventure,5.2,,27426,2008,10.0,6660.0,,,,
+tt0365675,Der Rote Baron,"Action, Adventure, Biography",adventure,6.3,,13377,2008,4.0,6360.0,,,,
+tt0463872,Astérix aux jeux olympiques,"Adventure, Comedy, Family",adventure,5.2,,33639,2008,1.0,6960.0,,,,
+tt1095423,Rejsen til Saturn,"Animation, Action, Adventure",adventure,5.7,,3278,2008,9.0,5400.0,"['Casper Christensen', 'Frank Hvam', 'Ali Kazim']",Thorbjørn Christoffersen,,"$4,917,227"
+tt1185616,Vals Im Bashir,"Documentary, Animation, Biography",animation,8.0,91.0,61583,2008,6.0,5400.0,,,,
+tt1260502,Kôkaku kidôtai 2.0,"Animation, Action, Crime",animation,7.8,,15578,2008,7.0,4980.0,,,,
+tt1174954,Baiohazâdo: Dijenerêshon,"Animation, Action, Horror",animation,6.4,,33821,2008,10.0,5820.0,,,,
+tt1160524,Gekijô ban Naruto: Shippûden - Kizuna,"Animation, Action, Fantasy",animation,6.8,,5681,2008,8.0,5880.0,,,,
+tt0465502,Igor,"Animation, Comedy, Family",animation,5.9,40.0,24655,2008,9.0,5220.0,,,,
+tt1288461,Gekijô ban Tengen toppa guren ragan: Guren hen,"Animation, Action, Comedy",animation,7.6,,2021,2008,9.0,6720.0,,,,
+tt0361500,Delgo,"Animation, Adventure, Comedy",animation,4.3,27.0,3255,2008,12.0,5640.0,,,,
+tt1193627,Immigrants (L.A. Dolce Vita),"Animation, Comedy",animation,5.7,,902,2008,10.0,4680.0,,,,
+tt0944834,Chasseurs de dragons,"Animation, Action, Adventure",animation,6.5,,13626,2008,3.0,4800.0,,,,
+tt0951333,El lince perdido,"Animation, Action, Adventure",animation,5.2,,1299,2008,12.0,5820.0,"['David Robles', 'Cecilia Santiago', 'Conchi López']",Raul Garcia,,"$4,201,862"
+tt1050739,Roadside Romeo,"Animation, Adventure, Comedy",animation,4.9,,1785,2008,10.0,5580.0,,,,
+tt1206326,"One Piece: Episôdo obu Choppâ + Fuyu ni saku, kiseki no sakura","Animation, Action, Comedy",animation,6.9,,1884,2008,3.0,6780.0,,,,
+tt1220673,Kureyon Shin-chan: Chô arashi wo yobu kinpoko no yûsha,"Animation, Adventure, Comedy",animation,5.4,,302,2008,4.0,5400.0,"['Chafûrin', 'Keiji Fujiwara', 'Tesshô Genda']",Mitsuru Hongô,,"$12,064,468"
+tt1160525,Gekijôban Poketto Monsutâ Daiyamondo & Pâru: Giratina to sora no hanataba Sheimi,"Animation, Action, Adventure",animation,6.0,,3094,2008,7.0,6000.0,"['Rica Matsumoto', 'Amy Palant', 'Ikue Ôtani']",Kunihiko Yuyama,,"$47,511,422"
+tt1308650,Kozí príbeh,"Animation, Comedy, Fantasy",animation,3.3,,864,2008,10.0,4920.0,,,,
+tt1172203,Sita Sings the Blues,"Animation, Comedy, Fantasy",animation,7.6,93.0,5037,2008,8.0,4920.0,,,,
+tt0475998,The Pirates Who Don't Do Anything: A VeggieTales Movie,"Animation, Adventure, Comedy",animation,5.6,49.0,3190,2008,1.0,5100.0,,,,
+tt0815096,Agent Crush,"Animation, Action, Adventure",animation,5.7,,221,2008,,5580.0,,,,
+tt1371126,Thomas & Friends: The Great Discovery - The Movie,"Animation, Family",animation,6.8,,455,2008,9.0,3600.0,,,,
+tt1155652,Gekijô ban Kara no kyôkai: Dai san shô - Tsukakû zanryû,"Animation, Action, Crime",animation,7.3,,2097,2008,2.0,3480.0,,,,
+tt1086797,Unstable Fables: 3 Pigs & a Baby,"Animation, Comedy, Family",animation,5.1,,921,2008,9.0,4560.0,,,,
+tt0830861,Kis Vuk,"Animation, Adventure, Family",animation,1.3,,9102,2008,4.0,5100.0,"['Gábor Csöre', 'Freddie Highmore', 'János Gálvölgyi']",György Gát,"€5,000,000 (estimated)","$160,658"
+tt1305678,Genius Party Beyond,"Animation, Fantasy, Music",animation,7.0,,1151,2008,10.0,5100.0,,,,
+tt1340108,Killer Bean Forever,"Animation, Action, Adventure",animation,6.6,,4982,2008,10.0,5100.0,,,,
+tt2882912,Bratz Girlz Really Rock,Animation,animation,5.6,,175,2008,1.0,4680.0,,,,
+tt1087841,Disco Ormene,"Animation, Comedy, Family",animation,4.6,,1185,2008,10.0,4500.0,,,,
+tt1278060,Gekijô ban Kara no kyôkai: Dai go shô - Mujun rasen,"Animation, Action, Crime",animation,7.9,,2255,2008,8.0,6840.0,,,,
+tt30397483,Jumbo,"Animation, Family",animation,7.7,,82,2008,,5280.0,"['Govardhan Asrani', 'Lara Dutta', 'Gulshan Grover']",Kompin Kemgumnird,,
+tt1043748,Tales of the Riverbank,"Animation, Family",animation,4.7,,300,2008,9.0,4560.0,,,,
+tt1313120,Heruzu enjueruzu,"Animation, Adventure, Comedy",animation,6.3,,476,2008,2.0,7020.0,,,,
+tt0456978,Shin Kyûseishu densetsu Hokuto no Ken - Kenshirô den,"Animation, Action",animation,6.8,,523,2008,10.0,4980.0,,,,
+tt1233474,Gekijô ban Kara no kyôkai: Dai yon shô - Garan no dô,"Animation, Action, Crime",animation,7.1,,1915,2008,5.0,2760.0,"['Maaya Sakamoto', ""Ken'ichi Suzumura"", 'Takako Honda']",Teiichi Takiguchi,,
+tt1245891,Kurt blir grusom,"Animation, Comedy, Family",animation,6.3,,1085,2008,10.0,4440.0,,,,
+tt1319695,31 Minutos: La Película,"Animation, Adventure, Comedy",animation,6.8,,679,2008,3.0,5220.0,"['Pedro Peirano', 'Alvaro Díaz', 'Rodrigo Salinas']",Alvaro Díaz,,"$1,254,585"
+tt1210117,Urmel voll in Fahrt,"Animation, Adventure, Comedy",animation,4.4,,518,2008,5.0,5040.0,,,,
+tt0907678,Edison & Leo,"Animation, Adventure, Comedy",animation,5.5,,262,2008,9.0,4740.0,,,,
+tt1180304,Doraemon: Nobita to midori no kyojinden,"Animation, Adventure, Comedy",animation,6.6,,1160,2008,3.0,6720.0,,,,
+tt1476250,Cher Ami... ¡y yo!,"Animation, Adventure, Family",animation,5.6,,130,2008,6.0,5100.0,"['Phil Austin', 'Cyrille Autin', 'Yann Bean']",Miquel Pujol,,"$181,233"
+tt1013607,Idiots and Angels,"Animation, Comedy, Drama",animation,7.0,,3503,2008,1.0,4680.0,,,,
+tt0795421,Mamma Mia!,"Comedy, Musical, Romance",comedy,6.5,51.0,288664,2008,7.0,6480.0,,,,
+tt0780536,In Bruges,"Comedy, Crime, Drama",comedy,7.9,67.0,476958,2008,2.0,6420.0,"['Colin Farrell', 'Brendan Gleeson', 'Ciarán Hinds']",Martin McDonagh,"$15,000,000 (estimated)","$45,211,126"
+tt1135985,Sex Drive,"Comedy, Romance",comedy,6.5,49.0,93709,2008,10.0,6540.0,,,,
+tt0838283,Step Brothers,Comedy,comedy,6.9,51.0,329334,2008,7.0,5880.0,,,,
+tt1007028,Zack and Miri Make a Porno,"Comedy, Romance",comedy,6.5,56.0,184301,2008,10.0,6060.0,"['Seth Rogen', 'Elizabeth Banks', 'Craig Robinson']",Kevin Smith,"$24,000,000 (estimated)","$42,784,344"
+tt0800039,Forgetting Sarah Marshall,"Comedy, Drama, Romance",comedy,7.1,67.0,309366,2008,4.0,6660.0,,,,
+tt0497465,Vicky Cristina Barcelona,"Comedy, Drama, Romance",comedy,7.1,70.0,273905,2008,8.0,5760.0,,,,
+tt0832266,"Definitely, Maybe","Comedy, Drama, Romance",comedy,7.1,59.0,177785,2008,2.0,6720.0,,,,
+tt0852713,The House Bunny,Comedy,comedy,5.6,55.0,92610,2008,8.0,5820.0,,,,
+tt0988595,27 Dresses,"Comedy, Romance",comedy,6.1,47.0,180229,2008,1.0,6660.0,"['Katherine Heigl', 'James Marsden', 'Malin Akerman']",Anne Fletcher,"$30,000,000 (estimated)","$162,655,351"
+tt1068680,Yes Man,"Comedy, Romance",comedy,6.8,46.0,393177,2008,12.0,6240.0,"['Jim Carrey', 'Zooey Deschanel', 'Bradley Cooper']",Peyton Reed,"$70,000,000 (estimated)","$223,241,637"
+tt0430770,The Women,"Comedy, Drama",comedy,5.0,27.0,23722,2008,9.0,6840.0,"['Meg Ryan', 'Eva Mendes', 'Annette Bening']",Diane English,"$16,000,000 (estimated)","$50,007,546"
+tt0887883,Burn After Reading,"Comedy, Crime, Drama",comedy,7.0,63.0,362560,2008,9.0,5760.0,,,,
+tt0430922,Role Models,Comedy,comedy,6.8,61.0,245115,2008,11.0,5940.0,,,,
+tt1000774,Sex and the City,"Comedy, Drama, Romance",comedy,5.7,53.0,130074,2008,5.0,8700.0,,,,
+tt1213644,Disaster Movie,"Comedy, Sci-Fi",comedy,1.9,15.0,95969,2008,8.0,5220.0,,,,
+tt0866439,Made of Honor,"Comedy, Romance",comedy,5.8,37.0,77754,2008,5.0,6060.0,"['Patrick Dempsey', 'Michelle Monaghan', 'Kevin McKidd']",Paul Weiland,"$40,000,000 (estimated)","$106,407,672"
+tt0808399,"New York, I Love You","Comedy, Drama, Romance",comedy,6.2,49.0,48857,2008,10.0,6180.0,,,,
+tt1024255,Wild Child,Comedy,comedy,6.1,,66145,2008,8.0,5880.0,,,,
+tt0976060,Tokyo!,"Comedy, Drama, Fantasy",comedy,7.0,63.0,12239,2008,8.0,6720.0,,,,
+tt1073498,Meet the Spartans,"Comedy, Fantasy",comedy,2.8,9.0,113146,2008,1.0,5220.0,,,,
+tt0995039,Ghost Town,"Comedy, Drama, Fantasy",comedy,6.7,72.0,79164,2008,9.0,6120.0,"['Ricky Gervais', 'Greg Kinnear', 'Téa Leoni']",David Koepp,"$20,000,000 (estimated)","$27,090,159"
+tt0806147,Extreme Movie,Comedy,comedy,3.7,,11734,2008,7.0,5160.0,,,,
+tt0839980,Semi-Pro,"Comedy, Sport",comedy,5.8,47.0,87606,2008,2.0,5460.0,,,,
+tt1024715,Choke,"Comedy, Drama",comedy,6.4,47.0,34193,2008,10.0,5520.0,,,,
+tt0960890,Zombie Strippers!,"Comedy, Horror, Sci-Fi",comedy,4.1,45.0,19232,2008,9.0,5640.0,,,,
+tt0962726,High School Musical 3: Senior Year,"Comedy, Drama, Family",comedy,5.0,57.0,69726,2008,10.0,6720.0,,,,
+tt0914797,Bottle Shock,"Comedy, Drama",comedy,6.8,56.0,18483,2008,9.0,6600.0,"['Chris Pine', 'Alan Rickman', 'Bill Pullman']",Randall Miller,"$5,000,000 (estimated)","$4,629,770"
+tt0963743,"Angus, Thongs and Perfect Snogging","Comedy, Drama, Romance",comedy,6.3,,30948,2008,7.0,6000.0,,,,
+tt1033643,What Happens in Vegas,"Comedy, Romance",comedy,6.1,36.0,191343,2008,5.0,5940.0,,,,
+tt1175491,W.,"Biography, Comedy, Drama",comedy,6.3,56.0,50743,2008,10.0,7740.0,,,,
+tt1046163,My Best Friend's Girl,"Comedy, Romance",comedy,5.8,34.0,47249,2008,9.0,6060.0,,,,
+tt1433775,Garoojigi,"Comedy, Fantasy",comedy,5.3,,1104,2008,4.0,7200.0,,,,
+tt1152758,Dear Zachary: A Letter to a Son About His Father,"Documentary, Biography, Crime",crime,8.5,82.0,42820,2008,12.0,5580.0,,,,
+tt1010048,Slumdog Millionaire,"Crime, Drama, Romance",crime,8.0,84.0,892990,2008,12.0,7200.0,"['Dev Patel', 'Freida Pinto', 'Saurabh Shukla']",Danny Boyle,"$15,000,000 (estimated)","$378,411,362"
+tt0478087,21,"Crime, Drama, Thriller",crime,6.8,48.0,272793,2008,3.0,7380.0,,,,
+tt0800308,Appaloosa,"Crime, Drama, Romance",crime,6.7,64.0,66158,2008,10.0,6900.0,,,,
+tt0200465,The Bank Job,"Crime, Thriller",crime,7.2,69.0,192851,2008,2.0,6660.0,"['Jason Statham', 'Saffron Burrows', 'Stephen Campbell Moore']",Roger Donaldson,"$20,000,000 (estimated)","$64,828,421"
+tt0824747,Changeling,"Biography, Crime, Drama",crime,7.7,63.0,269992,2008,10.0,8460.0,"['Angelina Jolie', 'Colm Feore', 'Amy Ryan']",Clint Eastwood,"$55,000,000 (estimated)","$113,398,237"
+tt0986233,Hunger,"Biography, Crime, Drama",crime,7.5,82.0,74993,2008,10.0,5760.0,,,,
+tt1031280,Splinter,"Crime, Horror, Sci-Fi",crime,6.1,58.0,42244,2008,4.0,4920.0,,,,
+tt0947802,Lakeview Terrace,"Crime, Drama, Thriller",crime,6.2,47.0,57570,2008,9.0,6600.0,,,,
+tt0482572,Pride and Glory,"Crime, Drama, Thriller",crime,6.6,45.0,64526,2008,10.0,7800.0,,,,
+tt1068641,The Burning Plain,"Crime, Drama, Mystery",crime,6.7,45.0,21693,2008,11.0,6420.0,,,,
+tt1034331,Righteous Kill,"Crime, Mystery, Thriller",crime,6.0,36.0,93700,2008,9.0,6060.0,,,,
+tt0443701,The X Files: I Want to Believe,"Crime, Drama, Horror",crime,5.9,47.0,95087,2008,7.0,6240.0,,,,
+tt1073241,Nothing But the Truth,"Crime, Drama, Mystery",crime,7.1,64.0,40678,2008,7.0,6480.0,"['Kate Beckinsale', 'Matt Dillon', 'Vera Farmiga']",Rod Lurie,"$11,500,000 (estimated)","$409,832"
+tt0800240,Deception,"Crime, Drama, Mystery",crime,6.0,31.0,41576,2008,4.0,6420.0,,,,
+tt0865554,The Informers,"Crime, Drama, Thriller",crime,4.9,20.0,17784,2008,4.0,5880.0,,,,
+tt0880578,Untraceable,"Crime, Mystery, Thriller",crime,6.2,32.0,53942,2008,1.0,6060.0,"['Diane Lane', 'Colin Hanks', 'Joseph Cross']",Gregory Hoblit,"$35,000,000 (estimated)","$52,933,513"
+tt0765432,Der Baader Meinhof Komplex,"Action, Biography, Crime",crime,7.3,76.0,40882,2008,9.0,9000.0,"['Martina Gedeck', 'Moritz Bleibtreu', 'Johanna Wokalek']",Uli Edel,"€20,000,000 (estimated)","$26,937,355"
+tt0996967,Otis,"Comedy, Crime, Horror",crime,5.9,,5368,2008,3.0,6000.0,,,,
+tt0929425,Gomorra,"Crime, Drama",crime,7.0,87.0,52112,2008,5.0,8220.0,"['Gianfelice Imparato', 'Salvatore Abbruzzese', 'Toni Servillo']",Matteo Garrone,,"$34,861,529"
+tt0964539,Pathology,"Crime, Horror, Thriller",crime,5.9,55.0,34031,2008,4.0,5700.0,,,,
+tt0951216,Mad Money,"Comedy, Crime, Thriller",crime,5.9,41.0,23426,2008,1.0,6240.0,,,,
+tt0988849,Donkey Punch,"Crime, Drama, Horror",crime,5.2,43.0,11735,2008,7.0,5940.0,,,,
+tt0817538,Drillbit Taylor,"Action, Comedy, Crime",crime,5.7,41.0,63189,2008,3.0,6600.0,,,,
+tt0800241,Transsiberian,"Crime, Drama, Mystery",crime,6.6,72.0,55541,2008,9.0,6660.0,,,,
+tt1029235,Max Manus,"Action, Biography, Crime",crime,7.3,60.0,30682,2008,12.0,7080.0,,,,
+tt1133991,What Doesn't Kill You,"Crime, Drama, Thriller",crime,6.5,71.0,13600,2008,9.0,6000.0,,,,
+tt1280558,A Wednesday,"Action, Crime, Drama",crime,8.1,,83854,2008,9.0,6240.0,,,,
+tt0780534,My Mom's New Boyfriend,"Comedy, Crime, Romance",crime,5.3,,12704,2008,4.0,7140.0,,,,
+tt0814022,Bangkok Dangerous,"Action, Crime, Thriller",crime,5.3,24.0,58902,2008,9.0,5940.0,,,,
+tt1155592,Man on Wire,"Documentary, Biography, Crime",crime,7.7,89.0,59618,2008,8.0,5640.0,,,,
+tt0926762,Loft,"Crime, Drama, Mystery",crime,7.3,,25477,2008,10.0,7080.0,,,,
+tt0486578,First Sunday,"Comedy, Crime, Drama",crime,4.6,41.0,12011,2008,1.0,5880.0,,,,
+tt0822832,Marley & Me,"Drama, Family",family,7.0,53.0,171469,2008,12.0,6660.0,,,,
+tt0846308,Kit Kittredge: An American Girl,"Comedy, Drama, Family",family,6.5,63.0,6473,2008,7.0,6060.0,,,,
+tt0997047,College Road Trip,"Adventure, Comedy, Drama",family,4.3,36.0,16953,2008,3.0,4980.0,"['Raven-Symoné', 'Martin Lawrence', 'Kym Whitley']",Roger Kumble,,"$51,549,674"
+tt1091751,The Longshots,"Biography, Comedy, Drama",family,5.6,52.0,4579,2008,8.0,5640.0,,,,
+tt0997246,Avaze gonjeshk-ha,"Drama, Family",family,7.9,74.0,11483,2008,10.0,5760.0,,,,
+tt0821810,All Roads Lead Home,"Drama, Family",family,5.8,,948,2008,1.0,6480.0,"['Peter Coyote', 'Jason London', 'Vivien Cardone']",Dennis Fallon,,"$43,907"
+tt0484831,Spy School,"Adventure, Comedy, Family",family,4.5,,1741,2008,3.0,5160.0,,,,
+tt1070858,The Secrets of Jonathan Sperry,"Drama, Family",family,6.9,,1700,2008,9.0,5760.0,"['Gavin MacLeod', 'Jansen Panettiere', 'Robert Guillaume']",Rich Christiano,"$900,000 (estimated)","$1,355,079"
+tt0836700,L'heure d'été,"Drama, Family",family,7.1,86.0,8340,2008,3.0,6180.0,,,,
+tt1059980,Soccer Mom,"Comedy, Family, Sport",family,5.0,,1287,2008,9.0,5520.0,,,,
+tt1083470,The Rainbow Tribe,"Comedy, Drama, Family",family,6.0,,749,2008,2.0,5400.0,,,,
+tt1161064,Super Capers: The Origins of Ed and the Missing Bullion,"Action, Adventure, Comedy",family,3.2,,1194,2008,4.0,5880.0,,,,
+tt0953382,Les enfants de Timpelbach,"Adventure, Family, Fantasy",family,5.8,,1145,2008,12.0,5820.0,,,,
+tt3124676,Little Rascals: Best of Our Gang,"Comedy, Family",family,7.7,,294,2008,7.0,5040.0,"[""Eugene 'Porky' Lee"", ""George 'Spanky' McFarland"", ""Carl 'Alfalfa' Switzer""]",Robert F. McGowan,,
+tt0493406,Chinaman's Chance: America's Other Slaves,"Action, Adventure, Drama",family,6.1,,207,2008,,5400.0,,,,
+tt1515736,Balkonas,"Drama, Family",family,7.6,,605,2008,10.0,2880.0,"['Irmantas Bacelis', 'Elzbieta Degutyte', 'Rolandas Kazlas']",Giedre Beinoriute,,"$57,945"
+tt1099212,Twilight,"Drama, Fantasy, Romance",fantasy,5.3,56.0,503564,2008,11.0,7320.0,"['Kristen Stewart', 'Robert Pattinson', 'Billy Burke']",Catherine Hardwicke,"$37,000,000 (estimated)","$408,513,574"
+tt0421715,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",fantasy,7.8,70.0,718050,2008,12.0,9960.0,,,,
+tt1139797,Låt den rätte komma in,"Drama, Fantasy, Horror",fantasy,7.8,82.0,232603,2008,10.0,6840.0,,,,
+tt0785007,Over Her Dead Body,"Comedy, Fantasy, Romance",fantasy,5.3,30.0,25960,2008,2.0,5700.0,"['Eva Longoria', 'Paul Rudd', 'Lake Bell']",Jeff Lowell,"$10,000,000 (estimated)","$21,458,111"
+tt0893402,Franklyn,"Drama, Fantasy, Sci-Fi",fantasy,6.0,,18368,2008,2.0,5880.0,"['Eva Green', 'Ryan Phillippe', 'Sam Riley']",Gerald McMorrow,"$6,000,000 (estimated)","$1,279,576"
+tt1190617,An American Carol,"Comedy, Fantasy",fantasy,4.0,20.0,10228,2008,10.0,4980.0,"['Kevin P. Farley', 'Kelsey Grammer', 'Leslie Nielsen']",David Zucker,"$20,000,000 (estimated)","$7,013,191"
+tt1151384,"Otto; or, Up with Dead People","Comedy, Drama, Fantasy",fantasy,5.1,34.0,2110,2008,9.0,5640.0,"['Jey Crisfar', 'Marcel Schlutt', 'Nicholas Fox Ricciardi']",Bruce LaBruce,,"$11,295"
+tt1059773,The Adventures of Food Boy,"Comedy, Fantasy",fantasy,3.8,,1136,2008,4.0,5400.0,"['Lucas Grabeel', 'Brittany Curran', 'Kunal Sharma']",Dane Cannon,,
+tt1297389,Günesin Oglu,"Comedy, Fantasy",fantasy,7.0,,6368,2008,11.0,5340.0,,,,
+tt1253859,Road to Hell,"Action, Fantasy, Musical",fantasy,5.0,,966,2008,1.0,5220.0,"['Michael Paré', 'Clare Kramer', 'Courtney Peldon']",Albert Pyun,,
+tt0447166,The Gamers: Dorkness Rising,"Action, Adventure, Comedy",fantasy,7.3,,3401,2008,8.0,6300.0,,,,
+tt1161646,Gingerdead Man 2: Passion of the Crust,"Comedy, Fantasy, Horror",fantasy,4.0,,1567,2008,7.0,4320.0,"['Kevan Moezzi', 'Kelsey Sanders', 'Joseph Porter']",William Butler,,
+tt0476550,God Tussi Great Ho,"Comedy, Fantasy",fantasy,3.7,,5173,2008,8.0,9120.0,,,,
+tt1006929,The Other Side of the Tracks,"Drama, Fantasy, Mystery",fantasy,4.9,,802,2008,3.0,5520.0,,,,
+tt0945580,Odysseus & the Isle of Mists,"Action, Adventure, Fantasy",fantasy,4.2,,851,2008,4.0,5280.0,"['Arnold Vosloo', 'Steve Bacic', 'JR Bourne']",Terry Ingram,"£1,100,000 (estimated)",
+tt1858396,Arai Enn 305-il Kadavul,"Comedy, Fantasy",fantasy,5.9,,385,2008,4.0,9840.0,,,,
+tt0469640,Bathory,"Biography, Drama, Fantasy",fantasy,5.7,,4769,2008,7.0,8460.0,,,,
+tt1029234,Martyrs,Horror,horror,7.0,,112727,2008,9.0,5940.0,,,,
+tt1020530,Eden Lake,"Horror, Thriller",horror,6.7,65.0,101186,2008,9.0,5460.0,,,,
+tt0482606,The Strangers,"Horror, Mystery, Thriller",horror,6.1,47.0,150960,2008,5.0,5160.0,"['Scott Speedman', 'Liv Tyler', 'Gemma Ward']",Bryan Bertino,"$9,000,000 (estimated)","$82,410,456"
+tt0816556,Lake Mungo,"Drama, Horror, Mystery",horror,6.2,,33023,2008,6.0,5220.0,"['Rosie Traynor', 'David Pledger', 'Martin Sharpe']",Joel Anderson,"A$1,400,000 (estimated)","$10,853"
+tt0963194,Repo! The Genetic Opera,"Horror, Musical, Sci-Fi",horror,6.4,32.0,27324,2008,11.0,5880.0,"['Paul Sorvino', 'Anthony Head', 'Alexa PenaVega']",Darren Lynn Bousman,"$8,500,000 (estimated)","$188,126"
+tt1082868,Quarantine,"Horror, Sci-Fi, Thriller",horror,6.0,53.0,80103,2008,10.0,5340.0,,,,
+tt0805570,The Midnight Meat Train,"Horror, Mystery, Thriller",horror,6.0,58.0,73316,2008,10.0,5880.0,,,,
+tt0790686,Mirrors,"Horror, Mystery",horror,6.1,35.0,116221,2008,8.0,6600.0,"['Kiefer Sutherland', 'Paula Patton', 'Amy Smart']",Alexandre Aja,"$35,000,000 (estimated)","$78,094,714"
+tt0482599,Shutter,"Horror, Mystery, Thriller",horror,5.2,37.0,38530,2008,3.0,5100.0,"['Joshua Jackson', 'Rachael Taylor', 'James Kyson']",Masayuki Ochiai,"$8,000,000 (estimated)","$48,555,306"
+tt0926129,Prom Night,Horror,horror,4.0,17.0,38873,2008,4.0,5280.0,"['Brittany Snow', 'Scott Porter', 'Jessica Stroup']",Nelson McCormick,"$20,000,000 (estimated)","$57,197,876"
+tt0896534,Deadgirl,Horror,horror,5.5,36.0,20327,2008,4.0,6060.0,,,,
+tt1132626,Saw V,"Horror, Thriller",horror,5.8,20.0,142732,2008,10.0,5520.0,"['Scott Patterson', 'Costas Mandylor', 'Tobin Bell']",David Hackl,"$10,800,000 (estimated)","$113,864,059"
+tt0406759,The Eye,"Horror, Mystery",horror,5.4,36.0,57672,2008,2.0,5880.0,,,,
+tt0479968,One Missed Call,"Horror, Mystery",horror,4.0,24.0,34641,2008,1.0,5220.0,"['Edward Burns', 'Shannyn Sossamon', 'Ana Claudia Talancón']",Eric Valette,"$20,000,000 (estimated)","$45,847,751"
+tt1183732,Tôkyô zankoku keisatsu,"Action, Comedy, Horror",horror,5.9,,13298,2008,10.0,6600.0,,,,
+tt1226681,Pontypool,"Horror, Sci-Fi",horror,6.5,54.0,36849,2008,9.0,5580.0,,,,
+tt1087853,Gutterballs,"Comedy, Horror, Mystery",horror,4.5,,3796,2008,1.0,5760.0,"['Alastair Gamble', 'Mihola Terzic', 'Nathan Witte']",Ryan Nicholson,"$250,000 (estimated)",
+tt0974977,Bad Biology,"Comedy, Horror",horror,4.7,,4796,2008,6.0,5100.0,"['Charlee Danielson', 'Anthony Sneed', 'Mark Wilson']",Frank Henenlotter,,
+tt1979309,ReGOREgitated Sacrifice,Horror,horror,3.2,,1092,2008,6.0,3900.0,,,,
+tt0445939,The Burrowers,"Horror, Thriller, Western",horror,5.7,,9649,2008,9.0,5760.0,,,,
+tt1015474,Train,"Horror, Thriller",horror,4.7,,7141,2008,5.0,5640.0,,,,
+tt1050160,Kataude mashin gâru,"Action, Comedy, Horror",horror,5.9,,10935,2008,5.0,5760.0,,,,
+tt1314363,Live Animals,Horror,horror,3.4,,815,2008,10.0,5040.0,,,,
+tt0892899,Outpost,"Action, Horror, Sci-Fi",horror,5.8,,18202,2008,5.0,5400.0,"['Ray Stevenson', 'Julian Wadham', 'Richard Brake']",Steve Barker,"$300,000 (estimated)","$463,377"
+tt0926063,Dance of the Dead,"Action, Comedy, Horror",horror,5.8,,12143,2008,3.0,5220.0,"['Jared Kusnitz', 'Greyson Chadwick', 'Chandler Darby']",Gregg Bishop,,
+tt0465430,The Cottage,"Comedy, Crime, Horror",horror,6.1,,13419,2008,3.0,5520.0,,,,
+tt0899128,100 Feet,"Horror, Mystery, Thriller",horror,5.4,,13395,2008,7.0,5760.0,"['Famke Janssen', 'Bobby Cannavale', 'Ed Westwick']",Eric Red,"$10,000,000 (estimated)","$1,415,804"
+tt0902290,I Sell the Dead,"Comedy, Horror",horror,6.0,62.0,11365,2008,10.0,5100.0,"['Dominic Monaghan', 'Ron Perlman', 'Larry Fessenden']",Glenn McQuaid,"$750,000 (estimated)","$8,050"
+tt1063056,From Within,"Horror, Mystery, Thriller",horror,5.6,,8119,2008,6.0,5340.0,"['Elizabeth Rice', 'Thomas Dekker', 'Kelly Blatz']",Phedon Papamichael,,"$228,014"
+tt1045655,The Haunting of Molly Hartley,"Drama, Horror, Thriller",horror,3.9,28.0,10285,2008,10.0,5100.0,"['Haley Bennett', 'Chace Crawford', 'Jake Weber']",Mickey Liddell,"$5,000,000 (estimated)","$15,418,749"
+tt0837796,House,Horror,horror,4.5,24.0,6320,2008,11.0,5280.0,"['Reynaldo Rosales', 'Heidi Dippold', 'Michael Madsen']",Robby Henson,"$2,500,000 (estimated)","$1,141,018"
+tt0473267,Solstice,"Horror, Mystery",horror,5.3,,6939,2008,1.0,5460.0,,,,
+tt1292575,See prang,"Drama, Horror, Mystery",horror,6.6,,3789,2008,4.0,6720.0,,,,
+tt0988083,Killer Movie,"Comedy, Horror, Mystery",horror,4.4,,3181,2008,4.0,5580.0,"['Paul Wesley', 'Kaley Cuoco', 'Gloria Votsis']",Jeff Fisher,"$2,000,000 (estimated)",
+tt0319115,Brothel,"Drama, Horror",horror,3.6,,448,2008,2.0,6120.0,"['Serena Scott Thomas', 'Brett Cullen', 'Christian Martin']",Amy Waddell,,
+tt1267319,Home Movie,"Drama, Horror, Thriller",horror,5.5,,5050,2008,7.0,4620.0,"['Lucian Maisel', 'Cady McClain', 'Adrian Pasdar']",Christopher Denham,,
+tt0923600,Baghead,"Comedy, Drama, Horror",horror,6.0,62.0,5733,2008,1.0,5040.0,,,,
+tt0822868,Make It Happen,"Drama, Musical",musical,5.4,,6554,2008,8.0,5400.0,,,,
+tt0490170,Love Story 2050,"Action, Adventure, Drama",musical,2.6,,2721,2008,7.0,10800.0,,,,
+tt1518814,Mera Pind: My Home,"Comedy, Drama, Musical",musical,6.1,,117,2008,9.0,9900.0,,,,
+tt0948535,Faubourg 36,"Drama, Music, Musical",musical,6.5,40.0,2987,2008,9.0,7200.0,,,,
+tt0476991,Were the World Mine,"Adventure, Comedy, Fantasy",musical,6.8,,5974,2008,5.0,5700.0,"['Tanner Cohen', 'Wendy Robie', 'Judy McLane']",Tom Gustafson,,"$123,789"
+tt1156148,Karzzzz,"Action, Drama, Musical",musical,2.3,,1447,2008,10.0,8520.0,"['Himesh Reshammiya', 'Urmila Matondkar', 'Shweta Kumar']",Satish Kaushik,,"$4,197,137"
+tt1049948,Casi divas,"Comedy, Fantasy, Musical",musical,6.2,55.0,791,2008,4.0,6420.0,,,,
+tt1180583,Vaaranam Aayiram,"Action, Drama, Musical",musical,8.2,,14982,2008,11.0,10140.0,,,,
+tt1398944,Bhalobasa Bhalobasa,"Comedy, Drama, Musical",musical,6.9,,185,2008,10.0,9300.0,"['Kamalika Banerjee', 'Sabyasachi Chakrabarty', 'Hiran Chatterjee']",Rabi Kinagi,"₹3,000,000 (estimated)",
+tt1105747,Yuvvraaj,"Comedy, Drama, Musical",musical,4.1,,4793,2008,11.0,9060.0,,,,
+tt1124397,Skate or Die,"Action, Comedy, Crime",musical,4.0,,658,2008,6.0,5520.0,,,,
+tt1114725,Heroes,"Action, Adventure, Comedy",musical,5.7,,2403,2008,10.0,8340.0,,,,
+tt1283913,High School Musical: El Desafío,"Family, Musical, Romance",musical,3.8,,389,2008,7.0,5400.0,"['Fernando Dente', 'Agustina Vera', 'Delfina Peña']",Jorge Nisco,,"$6,070,731"
+tt1157547,La Bohème,"Music, Musical, Romance",musical,7.2,,406,2008,10.0,6900.0,,,,
+tt1043537,Risto Räppääjä,"Comedy, Family, Musical",musical,5.5,,501,2008,2.0,4680.0,"['Niilo Sipilä', 'Annu Valonen', 'Martti Suosalo']",Mari Rantasila,"€1,100,000 (estimated)","$2,270,632"
+tt1773441,Gaalipata,"Comedy, Musical, Romance",musical,8.3,,1438,2008,1.0,8760.0,,,,
+tt1217608,Yaar Meri Zindagi,"Drama, Family, Musical",musical,4.6,,61,2008,4.0,,,,,
+tt0926213,Na lepom plavom Dunavu,"Drama, Musical",musical,5.0,,178,2008,3.0,6300.0,,,,
+tt1068632,Agathe Cléry,"Comedy, Musical",musical,4.6,,876,2008,12.0,6780.0,,,,
+tt0773306,Rome & Jewel,"Drama, Musical",musical,4.0,,157,2008,11.0,5460.0,"['Nate Parker', 'Lindsey Haun', 'Allen Maldonado']",Charles T. Kanganis,"$1,200,000 (estimated)",$470
+tt0496225,Aniceto,"Drama, Musical, Romance",musical,7.1,,297,2008,6.0,4920.0,,,,
+tt0456122,Os Desafinados,"Drama, Musical",musical,6.1,,440,2008,8.0,8340.0,,,,
+tt1262896,Forever Plaid,"Comedy, Musical",musical,7.4,,95,2008,7.0,5400.0,"['Stan Chandler', 'David Engel', 'Larry Raben']",Stuart Ross,"$3,000,000 (estimated)",
+tt1233224,Poveste de cartier,"Drama, Musical",musical,3.2,,916,2008,5.0,5400.0,,,,
+tt1006901,Journey to the Moon,"Adventure, Comedy, Family",musical,6.7,,32,2008,,5400.0,"['Jassa Ahluwalia', 'Jonah Cook', 'Mark Boggan']",Stephen Cookson,"$2,000,000 (estimated)",
+tt1475099,Antisex,"Comedy, Drama, Fantasy",musical,3.9,,57,2008,11.0,4440.0,,,,
+tt1168764,Urduja,"Animation, Action, Comedy",musical,7.5,,72,2008,6.0,6000.0,,,,
+tt0848638,Sakkarakatti,"Comedy, Drama, Musical",musical,3.0,,178,2008,9.0,7080.0,,,,
+tt0996962,Modern Love,"Comedy, Musical, Romance",musical,5.3,,347,2008,3.0,6000.0,,,,
+tt1289413,King of the Camp,"Comedy, Family, Musical",musical,2.9,,128,2008,6.0,5820.0,,,,
+tt1094576,Accident,"Musical, Romance, Thriller",musical,7.4,,106,2008,3.0,,"['Aporup Acharya', 'Ramesh Aravind', 'Dinesh Babu']",Ramesh Aravind,"₹30,000,000 (estimated)",
+tt1235450,Youssou Ndour: I Bring What I Love,"Documentary, Music, Musical",musical,6.6,59.0,183,2008,4.0,6120.0,"[""Youssou N'Dour"", 'Peter Gabriel', 'Moustapha Mbaye']",Elizabeth Chai Vasarhelyi,,"$183,503"
+tt1062964,The Seventh Python,"Documentary, Animation, Biography",musical,8.7,,43,2008,6.0,5640.0,,,,
+tt0834171,Taarka,"Biography, Comedy, Drama",musical,6.5,,172,2008,8.0,5640.0,"['Inga Salurand', 'Siiri Sisask', 'Marje Metsur']",Ain Mäeots,,
+tt1560202,The Price,Musical,musical,0.0,,0,2008,10.0,5340.0,,,,
+tt1334076,Un capitalisme sentimental,"Comedy, Drama, Musical",musical,6.7,,61,2008,10.0,5520.0,,,,
+tt1584838,Habibi Na'eman,"Adventure, Comedy, Musical",musical,3.6,,576,2008,12.0,5700.0,,,,
+tt1240979,Yaariyan,"Comedy, Drama, Musical",musical,6.2,,87,2008,1.0,9840.0,,,,
+tt13939728,Het Huis Anubis Show: De Graal Van De Eeuwige Vriendschap,"Family, Musical, Mystery",musical,7.9,,28,2008,12.0,4260.0,,,,
+tt1431056,Drupadi,"Drama, Fantasy, History",musical,6.9,,67,2008,12.0,2700.0,,,,
+tt1258187,Universalove,Musical,musical,5.7,,136,2008,9.0,4980.0,,,,
+tt1239426,Stilyagi,"Drama, Musical, Romance",musical,7.0,67.0,5471,2008,12.0,7800.0,,,,
+tt1394310,Bajimaat,"Drama, Musical, Romance",musical,7.1,,27,2008,6.0,9600.0,,,,
+tt1074648,Rainbow Around the Sun,"Musical, Romance",musical,7.1,,71,2008,3.0,4500.0,,,,
+tt0976051,The Reader,"Drama, Mystery, Romance",mystery,7.6,58.0,267678,2008,1.0,7440.0,,,,
+tt0814314,Seven Pounds,"Drama, Mystery, Thriller",mystery,7.6,36.0,320226,2008,12.0,7380.0,,,,
+tt0918927,Doubt,"Drama, Mystery",mystery,7.5,68.0,140801,2008,12.0,6240.0,"['Meryl Streep', 'Philip Seymour Hoffman', 'Amy Adams']",John Patrick Shanley,"$20,000,000 (estimated)","$51,699,984"
+tt0861689,Blindness,"Drama, Mystery, Thriller",mystery,6.5,45.0,76121,2008,9.0,7260.0,,,,
+tt0449487,Passengers,"Mystery, Romance, Thriller",mystery,5.8,40.0,40094,2008,9.0,5580.0,,,,
+tt0974613,The Other Man,"Drama, Mystery, Thriller",mystery,5.4,34.0,12716,2008,5.0,5280.0,"['Liam Neeson', 'Antonio Banderas', 'Laura Linney']",Richard Eyre,"$15,000,000 (estimated)","$2,143,005"
+tt0464041,The Lazarus Project,"Drama, Mystery, Thriller",mystery,6.0,,19675,2008,,6000.0,,,,
+tt0818165,The Alphabet Killer,"Crime, Mystery, Thriller",mystery,5.2,,9123,2008,12.0,5880.0,,,,
+tt0791303,Genova,"Drama, Mystery, Romance",mystery,6.0,,6878,2008,3.0,5580.0,,,,
+tt1166100,Ghajini,"Action, Mystery, Thriller",mystery,7.4,,68831,2008,12.0,11160.0,"['Aamir Khan', 'Asin Thottumkal', 'Jiah Khan']",A.R. Murugadoss,"₹200,000,000 (estimated)","$38,316,584"
+tt0488604,The Oxford Murders,"Crime, Mystery, Thriller",mystery,6.1,,31135,2008,1.0,6480.0,"['Elijah Wood', 'John Hurt', 'Leonor Watling']",Álex de la Iglesia,"$10,000,000 (estimated)","$17,646,627"
+tt0409345,Surveillance,"Crime, Drama, Mystery",mystery,6.3,31.0,18765,2008,7.0,5820.0,"['Julia Ormond', 'Bill Pullman', 'Pell James']",Jennifer Lynch,"$3,500,000 (estimated)","$1,138,322"
+tt0870204,Boot Camp,"Crime, Drama, Mystery",mystery,5.8,,9456,2008,5.0,5940.0,,,,
+tt1018818,Assassination of a High School President,"Comedy, Crime, Mystery",mystery,6.2,,16504,2008,4.0,5580.0,"['Reece Thompson', 'Mischa Barton', 'Bruce Willis']",Brett Simon,"$11,500,000 (estimated)","$69,564"
+tt0880648,Shuttle,"Crime, Drama, Mystery",mystery,5.6,,6245,2008,2.0,6420.0,,,,
+tt0938706,The Last Lullaby,"Drama, Mystery",mystery,6.1,,1036,2008,3.0,5580.0,,,,
+tt1224366,Afterschool,"Drama, Mystery",mystery,6.0,66.0,5028,2008,10.0,6420.0,,,,
+tt0912597,L: Change the World,"Crime, Drama, Mystery",mystery,6.0,,9002,2008,2.0,7740.0,,,,
+tt1414863,Toxic Skies,"Crime, Drama, Mystery",mystery,5.0,,1102,2008,11.0,5400.0,,,,
+tt1074191,The Betrayed,"Crime, Drama, Mystery",mystery,5.8,,2670,2008,12.0,5880.0,"['Melissa George', 'Oded Fehr', 'Christian Campbell']",Amanda Gusack,"$3,500,000 (estimated)",
+tt1043838,Conspiracy,"Mystery, Thriller",mystery,4.6,,4233,2008,9.0,5400.0,,,,
+tt0467200,The Other Boleyn Girl,"Biography, Drama, History",romance,6.7,50.0,122766,2008,2.0,6900.0,"['Natalie Portman', 'Scarlett Johansson', 'Eric Bana']",Justin Chadwick,"$35,000,000 (estimated)","$78,201,830"
+tt0959337,Revolutionary Road,"Drama, Romance",romance,7.3,69.0,229577,2008,1.0,7140.0,,,,
+tt0864761,The Duchess,"Biography, Drama, History",romance,6.9,62.0,88665,2008,9.0,6600.0,,,,
+tt1023481,Step Up 2: The Streets,"Drama, Music, Romance",romance,6.2,50.0,92678,2008,2.0,5880.0,,,,
+tt1103275,Two Lovers,"Drama, Romance",romance,7.0,74.0,44633,2008,11.0,6600.0,,,,
+tt0830570,I Can't Think Straight,"Drama, Romance",romance,6.4,,9722,2008,4.0,4920.0,,,,
+tt0981227,Nick and Norah's Infinite Playlist,"Comedy, Drama, Music",romance,6.6,64.0,96276,2008,10.0,5400.0,"['Michael Cera', 'Kat Dennings', 'Aaron Yoo']",Peter Sollett,"$10,000,000 (estimated)","$33,556,631"
+tt1084950,Rachel Getting Married,"Drama, Romance",romance,6.7,85.0,52266,2008,10.0,6780.0,,,,
+tt0811138,The Love Guru,"Comedy, Romance, Sport",romance,3.8,24.0,55842,2008,6.0,5220.0,,,,
+tt0809504,The Accidental Husband,"Comedy, Romance",romance,5.6,14.0,26046,2008,2.0,5400.0,"['Uma Thurman', 'Jeffrey Dean Morgan', 'Justina Machado']",Griffin Dunne,,"$22,707,064"
+tt0819714,The Edge of Love,"Biography, Drama, Romance",romance,6.1,39.0,19372,2008,6.0,6600.0,,,,
+tt1129423,Fireproof,"Drama, Romance",romance,6.5,28.0,24826,2008,9.0,7320.0,,,,
+tt0455538,How to Lose Friends & Alienate People,"Biography, Comedy, Drama",romance,6.4,35.0,71400,2008,10.0,6600.0,"['Simon Pegg', 'Kirsten Dunst', 'Megan Fox']",Robert B. Weide,"$28,000,000 (estimated)","$19,152,009"
+tt1018785,The Sisterhood of the Traveling Pants 2,"Comedy, Drama, Romance",romance,6.2,63.0,31315,2008,8.0,7140.0,,,,
+tt0412536,Brideshead Revisited,"Drama, Romance",romance,6.6,64.0,13923,2008,8.0,8040.0,"['Matthew Goode', 'Patrick Malahide', 'Hayley Atwell']",Julian Jarrold,"$20,000,000 (estimated)","$13,451,186"
+tt1045670,Happy-Go-Lucky,"Comedy, Drama, Romance",romance,7.0,84.0,41744,2008,4.0,7080.0,,,,
+tt0369436,Four Christmases,"Comedy, Drama, Romance",romance,5.7,41.0,84687,2008,11.0,5280.0,,,,
+tt0804492,The Hottie & the Nottie,"Comedy, Romance",romance,2.0,7.0,39391,2008,2.0,5460.0,"['Paris Hilton', 'Joel David Moore', 'Christine Lakin']",Tom Putnam,,"$1,596,232"
+tt0887912,The Hurt Locker,"Drama, Thriller, War",thriller,7.5,95.0,483171,2008,7.0,7860.0,,,,
+tt0985699,Valkyrie,"Drama, History, Thriller",thriller,7.1,56.0,265699,2008,12.0,7260.0,,,,
+tt1063669,Die Welle,"Drama, Thriller",thriller,7.6,,118009,2008,3.0,6420.0,,,,

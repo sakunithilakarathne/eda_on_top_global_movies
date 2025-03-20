@@ -1,0 +1,328 @@
+imdb_id,movie_title,genres,each_genre,imdb_rating,metascore,vote_count,release_year,release_month,runtime,actors,director,budget,worldwide_gross
+tt3967856,Okja,"Action, Adventure, Drama",action,7.3,75.0,136476,2017,6,7200.0,"['Tilda Swinton', 'Paul Dano', 'Ahn Seo-hyun']",Bong Joon Ho,"$50,000,000 (estimated)","$2,049,823"
+tt1856101,Blade Runner 2049,"Action, Drama, Mystery",action,8.0,81.0,707250,2017,10,9840.0,,,,
+tt3829920,Only the Brave,"Action, Biography, Drama",action,7.6,72.0,82356,2017,10,8040.0,"['Josh Brolin', 'Miles Teller', 'Jeff Bridges']",Joseph Kosinski,"$38,000,000 (estimated)","$26,351,322"
+tt3717490,Power Rangers,"Action, Adventure, Fantasy",action,5.9,44.0,116389,2017,3,7440.0,"['Dacre Montgomery', 'Naomi Scott', 'RJ Cyler']",Dean Israelite,"$100,000,000 (estimated)","$142,337,240"
+tt1469304,Baywatch,"Action, Comedy, Crime",action,5.5,37.0,210174,2017,5,6960.0,,,,
+tt3890160,Baby Driver,"Action, Crime, Drama",action,7.5,86.0,645011,2017,6,6780.0,,,,
+tt2283362,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",action,7.0,58.0,474636,2017,12,7140.0,"['Dwayne Johnson', 'Karen Gillan', 'Kevin Hart']",Jake Kasdan,"$90,000,000 (estimated)","$962,544,585"
+tt2250912,Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",action,7.4,73.0,751693,2017,7,7980.0,"['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.']",Jon Watts,"$175,000,000 (estimated)","$880,960,014"
+tt5013056,Dunkirk,"Action, Drama, History",action,7.8,94.0,768607,2017,7,6360.0,"['Fionn Whitehead', 'Barry Keoghan', 'Mark Rylance']",Christopher Nolan,"$100,000,000 (estimated)","$533,696,799"
+tt3532216,American Made,"Action, Comedy, Crime",action,7.1,65.0,218154,2017,9,6900.0,"['Tom Cruise', 'Domhnall Gleeson', 'Sarah Wright']",Doug Liman,"$50,000,000 (estimated)","$134,866,593"
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",action,6.5,39.0,362842,2017,5,7740.0,"['Johnny Depp', 'Geoffrey Rush', 'Javier Bardem']",Joachim Rønning,"$230,000,000 (estimated)","$795,922,298"
+tt2345759,The Mummy,"Action, Adventure, Fantasy",action,5.4,34.0,213269,2017,6,6660.0,"['Tom Cruise', 'Sofia Boutella', 'Annabelle Wallis']",Alex Kurtzman,"$125,000,000 (estimated)","$409,231,607"
+tt3501632,Thor: Ragnarok,"Action, Adventure, Comedy",action,7.9,74.0,848994,2017,11,7800.0,"['Chris Hemsworth', 'Tom Hiddleston', 'Cate Blanchett']",Taika Waititi,"$180,000,000 (estimated)","$855,301,806"
+tt1648190,The Dark Tower,"Action, Adventure, Fantasy",action,5.6,34.0,150285,2017,8,5700.0,"['Idris Elba', 'Matthew McConaughey', 'Tom Taylor']",Nikolaj Arcel,"$60,000,000 (estimated)","$113,231,078"
+tt4425200,John Wick: Chapter 2,"Action, Crime, Thriller",action,7.4,75.0,536137,2017,2,7320.0,"['Keanu Reeves', 'Riccardo Scamarcio', 'Ian McShane']",Chad Stahelski,"$40,000,000 (estimated)","$174,348,632"
+tt3896198,Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",action,7.6,67.0,788960,2017,5,8160.0,,,,
+tt0451279,Wonder Woman,"Action, Adventure, Fantasy",action,7.3,76.0,716203,2017,5,8460.0,"['Gal Gadot', 'Chris Pine', 'Robin Wright']",Patty Jenkins,"$149,000,000 (estimated)","$823,970,682"
+tt3315342,Logan,"Action, Drama, Sci-Fi",action,8.1,77.0,882758,2017,3,8220.0,"['Hugh Jackman', 'Patrick Stewart', 'Dafne Keen']",James Mangold,"$97,000,000 (estimated)","$619,180,476"
+tt5439796,Logan Lucky,"Action, Comedy, Crime",action,7.0,78.0,170060,2017,8,7080.0,"['Channing Tatum', 'Adam Driver', 'Daniel Craig']",Steven Soderbergh,"$29,000,000 (estimated)","$48,453,605"
+tt3371366,Transformers: The Last Knight,"Action, Adventure, Sci-Fi",action,5.2,27.0,176543,2017,6,9240.0,"['Mark Wahlberg', 'Anthony Hopkins', 'Josh Duhamel']",Michael Bay,"$217,000,000 (estimated)","$605,425,157"
+tt6738136,Revenge,"Action, Drama, Horror",action,6.4,81.0,57756,2017,2,6480.0,"['Matilda Lutz', 'Kevin Janssens', 'Vincent Colombe']",Coralie Fargeat,"$3,000,000 (estimated)","$938,055"
+tt2239822,Valerian and the City of a Thousand Planets,"Action, Adventure, Fantasy",action,6.4,51.0,203183,2017,7,8160.0,"['Dane DeHaan', 'Cara Delevingne', 'Clive Owen']",Luc Besson,"$177,200,000 (estimated)","$225,973,340"
+tt0974015,Justice League,"Action, Adventure, Fantasy",action,6.0,45.0,489914,2017,11,7200.0,"['Ben Affleck', 'Gal Gadot', 'Jason Momoa']",Zack Snyder,"$300,000,000 (estimated)","$661,326,987"
+tt2527336,Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy",action,6.9,84.0,691280,2017,12,9120.0,"['Daisy Ridley', 'John Boyega', 'Mark Hamill']",Rian Johnson,"$317,000,000 (estimated)","$1,334,407,706"
+tt4649466,Kingsman: The Golden Circle,"Action, Adventure, Comedy",action,6.7,44.0,382665,2017,9,8460.0,"['Taron Egerton', 'Colin Firth', 'Mark Strong']",Matthew Vaughn,"$104,000,000 (estimated)","$410,902,662"
+tt3731562,Kong: Skull Island,"Action, Adventure, Fantasy",action,6.7,62.0,361258,2017,3,7080.0,,,,
+tt1972591,King Arthur: Legend of the Sword,"Action, Adventure, Drama",action,6.7,41.0,239453,2017,5,7560.0,"['Charlie Hunnam', 'Astrid Bergès-Frisbey', 'Jude Law']",Guy Ritchie,"$175,000,000 (estimated)","$149,175,066"
+tt1219827,Ghost in the Shell,"Action, Crime, Drama",action,6.3,52.0,233358,2017,3,6420.0,"['Scarlett Johansson', 'Pilou Asbæk', 'Takeshi Kitano']",Rupert Sanders,"$110,000,000 (estimated)","$169,846,945"
+tt1981128,Geostorm,"Action, Sci-Fi, Thriller",action,5.3,21.0,125105,2017,10,6660.0,"['Gerard Butler', 'Jim Sturgess', 'Abbie Cornish']",Dean Devlin,"$120,000,000 (estimated)","$221,900,160"
+tt4815122,Time Trap,"Action, Adventure, Mystery",action,6.2,46.0,47079,2017,11,5220.0,"['Reiley McClendon', 'Cassidy Gifford', 'Brianne Howey']",Mark Dennis,"$1,000,000 (estimated)",
+tt2406566,Atomic Blonde,"Action, Thriller",action,6.7,63.0,213281,2017,7,6900.0,"['Charlize Theron', 'James McAvoy', 'John Goodman']",David Leitch,"$30,000,000 (estimated)","$100,014,025"
+tt1536537,What Happened to Monday,"Action, Crime, Fantasy",action,6.8,47.0,139341,2017,8,7380.0,"['Noomi Rapace', 'Glenn Close', 'Willem Dafoe']",Tommy Wirkola,,"$27,975,429"
+tt4116284,The Lego Batman Movie,"Animation, Action, Adventure",action,7.3,75.0,180998,2017,2,6240.0,"['Will Arnett', 'Michael Cera', 'Rosario Dawson']",Chris McKay,"$80,000,000 (estimated)","$312,336,671"
+tt3450958,War for the Planet of the Apes,"Action, Adventure, Drama",action,7.4,82.0,314280,2017,7,8400.0,"['Andy Serkis', 'Woody Harrelson', 'Steve Zahn']",Matt Reeves,"$150,000,000 (estimated)","$490,719,763"
+tt1615160,The Foreigner,"Action, Crime, Thriller",action,7.0,55.0,127428,2017,9,6780.0,"['Katie Leung', 'Jackie Chan', 'Rufus Jones']",Martin Campbell,"$35,000,000 (estimated)","$145,418,070"
+tt1034385,Cold Skin,"Action, Fantasy, Horror",action,6.0,,18913,2017,10,6480.0,"['Ray Stevenson', 'David Oakes', 'Aura Garrido']",Xavier Gens,"€8,500,000 (estimated)","$737,478"
+tt4630562,The Fate of the Furious,"Action, Crime, Thriller",action,6.6,56.0,262837,2017,4,8160.0,"['Vin Diesel', 'Jason Statham', 'Dwayne Johnson']",F. Gary Gray,"$250,000,000 (estimated)","$1,236,009,236"
+tt1959563,The Hitman's Bodyguard,"Action, Comedy, Crime",action,6.9,47.0,254558,2017,8,7080.0,"['Ryan Reynolds', 'Samuel L. Jackson', 'Gary Oldman']",Patrick Hughes,"$30,000,000 (estimated)","$183,431,147"
+tt1961175,American Assassin,"Action, Thriller",action,6.2,45.0,95795,2017,9,6660.0,"[""Dylan O'Brien"", 'Michael Keaton', 'Sanaa Lathan']",Michael Cuesta,"$33,000,000 (estimated)","$67,234,188"
+tt5519340,Bright,"Action, Fantasy, Thriller",action,6.3,29.0,205493,2017,12,7020.0,"['Will Smith', 'Joel Edgerton', 'Noomi Rapace']",David Ayer,"$90,000,000 (estimated)",
+tt2091256,Captain Underpants: The First Epic Movie,"Animation, Action, Adventure",action,6.2,69.0,34270,2017,6,5340.0,"['Kevin Hart', 'Thomas Middleditch', 'Ed Helms']",David Soren,"$38,000,000 (estimated)","$125,427,681"
+tt2582576,Sand Castle,"Action, Drama, War",action,6.3,45.0,28954,2017,4,6780.0,"['Nicholas Hoult', 'Logan Marshall-Green', 'Henry Cavill']",Fernando Coimbra,,
+tt4348012,Mayhem,"Action, Comedy, Horror",action,6.4,62.0,27354,2017,11,5160.0,"['Steven Yeun', 'Samara Weaving', 'Steven Brand']",Joe Lynch,,
+tt1293847,xXx: Return of Xander Cage,"Action, Adventure, Thriller",action,5.2,42.0,99259,2017,1,6420.0,,,,
+tt3296908,HHhH,"Action, Biography, Thriller",action,6.4,,19047,2017,6,7200.0,"['Jason Clarke', 'Rosamund Pike', ""Jack O'Connell""]",Cédric Jimenez,"€27,800,000 (estimated)","$4,412,639"
+tt0493405,CHIPS,"Action, Comedy, Crime",action,6.0,28.0,52360,2017,3,6000.0,,,,
+tt4731148,Prityazhenie,"Action, Drama, Romance",action,5.6,,14754,2017,1,7920.0,,,,
+tt6349302,Sniper: Ultimate Kill,"Action, Drama, Thriller",action,5.6,,7481,2017,10,5400.0,"['Chad Michael Collins', 'Danay Garcia', 'Billy Zane']",Claudio Fäh,,
+tt6904062,Ri-eol,"Action, Thriller",action,4.7,,1830,2017,6,8220.0,,,,
+tt4899370,Megan Leavey,"Action, Biography, Drama",action,7.1,66.0,29042,2017,6,6960.0,"['Kate Mara', 'Ramón Rodríguez', 'Tom Felton']",Gabriela Cowperthwaite,,"$14,510,490"
+tt2771200,Beauty and the Beast,"Adventure, Family, Fantasy",adventure,7.1,65.0,344969,2017,3,7740.0,,,,
+tt2380307,Coco,"Animation, Adventure, Drama",adventure,8.4,81.0,641488,2017,10,6300.0,"['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt']",Lee Unkrich,"$175,000,000 (estimated)","$814,641,172"
+tt4468740,Paddington 2,"Adventure, Comedy, Family",adventure,7.8,88.0,104199,2017,11,6180.0,"['Ben Whishaw', 'Hugh Grant', 'Hugh Bonneville']",Paul King,"$40,000,000 (estimated)","$290,132,513"
+tt3606752,Cars 3,"Animation, Adventure, Comedy",adventure,6.7,59.0,134096,2017,6,6120.0,"['Owen Wilson', 'Cristela Alonzo', 'Chris Cooper']",Brian Fee,"$175,000,000 (estimated)","$383,930,656"
+tt3469046,Despicable Me 3,"Animation, Adventure, Comedy",adventure,6.3,49.0,167264,2017,6,5340.0,"['Steve Carell', 'Kristen Wiig', 'Trey Parker']",Kyle Balda,"$80,000,000 (estimated)","$1,034,800,131"
+tt1753383,A Dog's Purpose,"Adventure, Comedy, Drama",adventure,7.3,43.0,82569,2017,1,6000.0,"['Josh Gad', 'Dennis Quaid', 'Peggy Lipton']",Lasse Hallström,"$22,000,000 (estimated)","$205,035,819"
+tt3874544,The Boss Baby,"Animation, Adventure, Comedy",adventure,6.3,50.0,148380,2017,3,5820.0,"['Alec Baldwin', 'Steve Buscemi', 'Jimmy Kimmel']",Tom McGrath,"$125,000,000 (estimated)","$527,965,936"
+tt3411444,Ferdinand,"Animation, Adventure, Comedy",adventure,6.7,58.0,67449,2017,12,6480.0,,,,
+tt3758172,Jungle,"Adventure, Biography, Drama",adventure,6.7,48.0,66805,2017,10,6900.0,"['Daniel Radcliffe', 'Thomas Kretschmann', 'Alex Russell']",Greg McLean,,"$1,906,640"
+tt4877122,The Emoji Movie,"Animation, Adventure, Comedy",adventure,3.4,12.0,74946,2017,7,5160.0,"['T.J. Miller', 'James Corden', 'Anna Faris']",Tony Leondis,"$50,000,000 (estimated)","$217,776,646"
+tt5093026,Papillon,"Adventure, Biography, Crime",adventure,7.2,51.0,90788,2017,8,7980.0,"['Charlie Hunnam', 'Damijan Oklopdzic', 'Christopher Fairbank']",Michael Noer,"$7,000,000 (estimated)","$10,060,903"
+tt2398241,Smurfs: The Lost Village,"Animation, Adventure, Comedy",adventure,6.0,40.0,25627,2017,3,5400.0,"['Demi Lovato', 'Rainn Wilson', 'Joe Manganiello']",Kelly Asbury,"$60,000,000 (estimated)","$197,183,546"
+tt4131800,My Little Pony: The Movie,"Animation, Adventure, Comedy",adventure,6.1,39.0,8430,2017,10,5940.0,"['Emily Blunt', 'Kristin Chenoweth', 'Liev Schreiber']",Jayson Thiessen,"$6,500,000 (estimated)","$60,330,833"
+tt3564472,Girls Trip,"Adventure, Comedy, Drama",adventure,6.2,71.0,41659,2017,7,7320.0,,,,
+tt7160070,Singwa hamkke: Jwiwa beol,"Action, Adventure, Drama",adventure,7.2,,20667,2017,12,8340.0,"['Ha Jung-woo', 'Cha Tae-hyun', 'Ju Ji-hoon']",Kim Yong-hwa,,"$109,393,162"
+tt3014284,The Lego Ninjago Movie,"Animation, Action, Adventure",adventure,6.1,55.0,31614,2017,9,6060.0,,,,
+tt4600952,Zashchitniki,"Action, Adventure, Comedy",adventure,4.1,,14961,2017,2,5340.0,"['Anton Pampushnyy', 'Sanjar Madi', 'Sebastien Sisak']",Sarik Andreasyan,"RUR 380,000,000 (estimated)","$9,765,483"
+tt2334871,Snatched,"Action, Adventure, Comedy",adventure,4.7,45.0,38320,2017,5,5400.0,"['Amy Schumer', 'Goldie Hawn', 'Kim Caramele']",Jonathan Levine,"$42,000,000 (estimated)","$60,845,711"
+tt1724970,Beyond Skyline,"Action, Adventure, Horror",adventure,5.3,46.0,24123,2017,11,6360.0,"['Frank Grillo', 'Bojana Novakovic', 'Jonny Weston']",Liam O'Donnell,"$14,000,000 (estimated)","$992,181"
+tt6175394,Posledniy bogatyr,"Adventure, Comedy, Family",adventure,6.4,,3694,2017,10,6840.0,,,,
+tt1935194,Overdrive,"Action, Adventure, Crime",adventure,5.4,,17169,2017,8,5580.0,"['Scott Eastwood', 'Freddie Thorp', 'Ana de Armas']",Antonio Negret,"€24,340,000 (estimated)","$9,650,552"
+tt6003368,Diary of a Wimpy Kid: The Long Haul,"Adventure, Comedy, Family",adventure,4.3,39.0,11713,2017,5,5460.0,"['Jason Drucker', 'Alicia Silverstone', 'Tom Everett Scott']",David Bowers,"$22,000,000 (estimated)","$40,140,972"
+tt4587656,The Star,"Animation, Adventure, Comedy",adventure,6.3,42.0,10116,2017,11,5160.0,,,,
+tt7312940,Singularity,"Action, Adventure, Drama",adventure,3.6,,11870,2017,11,5520.0,"['Julian Schaffner', 'John Cusack', 'Carmen Argenziano']",Robert Kouba,,"$86,822"
+tt6336356,Meari to majo no hana,"Animation, Adventure, Family",adventure,6.8,74.0,17922,2017,7,6180.0,"['Hana Sugisaki', 'Ryûnosuke Kamiki', 'Yûki Amami']",Hiromasa Yonebayashi,,"$42,170,708"
+tt2114504,Woody Woodpecker,"Animation, Adventure, Comedy",adventure,4.2,,5540,2017,2,5460.0,"['Eric Bauza', 'Timothy Omundson', 'Graham Verchere']",Alex Zamm,"$10,000,000 (estimated)","$15,316,635"
+tt5715410,The Son of Bigfoot,"Animation, Adventure, Comedy",adventure,6.1,,8511,2017,8,5520.0,"['Cinda Adams', 'Mari Devon', 'Kirk Thornton']",Jérémie Degruson,"$30,000,000 (estimated)","$47,046,281"
+tt4106376,Renegades,"Action, Adventure, Crime",adventure,5.5,33.0,12099,2017,9,6360.0,"['Sullivan Stapleton', 'Charlie Bewley', 'Sylvia Hoeks']",Steven Quale,"€66,190,000 (estimated)","$2,602,149"
+tt3262342,Loving Vincent,"Animation, Drama, Mystery",animation,7.8,62.0,65868,2017,9,5640.0,"['Douglas Booth', 'Jerome Flynn', 'Robert Gulaczyk']",DK Welchman,"€5,000,000 (estimated)","$42,187,665"
+tt6131712,Kuso,"Animation, Comedy, Drama",animation,4.8,51.0,2017,2017,7,5640.0,"['Hannibal Buress', 'George Clinton', 'David Firth']",Flying Lotus,,
+tt3901826,The Breadwinner,"Animation, Drama, Family",animation,7.7,78.0,29353,2017,11,5640.0,"['Saara Chaudry', 'Soma Chhaya', 'Noorin Gulamgaus']",Nora Twomey,,"$2,790,214"
+tt6977240,Starship Troopers: Traitor of Mars,"Animation, Action, Sci-Fi",animation,5.5,,6693,2017,8,5280.0,"['Casper Van Dien', 'Dina Meyer', 'DeRay Davis']",Shinji Aramaki,,
+tt6556890,Batman and Harley Quinn,"Animation, Action, Adventure",animation,5.9,,15790,2017,8,4440.0,,,,
+tt3486626,The Nut Job 2: Nutty by Nature,"Animation, Adventure, Comedy",animation,5.5,36.0,7584,2017,8,5460.0,"['Will Arnett', 'Maya Rudolph', 'Bobby Cannavale']",Cal Brunker,"$40,000,000 (estimated)","$68,743,485"
+tt4155534,Animal Crackers,"Animation, Adventure, Comedy",animation,5.8,60.0,4221,2017,7,6300.0,"['Emily Blunt', 'Danny DeVito', 'John Krasinski']",Tony Bancroft,"$19,500,000 (estimated)","$13,285,512"
+tt6047974,Lupin the IIIrd: Chikemuri no Ishikawa Goemon,"Animation, Action, Adventure",animation,7.3,,1218,2017,2,3240.0,"['Masuo Amada', 'Hisao Egawa', 'Richard Epcar']",Takeshi Koike,,
+tt5851786,Gnome Alone,"Animation, Adventure, Comedy",animation,5.6,,4256,2017,10,5100.0,"['Becky G', 'Josh Peck', 'Tara Strong']",Peter Lepeniotis,,"$10,806,091"
+tt6848928,Junk Head,"Animation, Action, Adventure",animation,7.3,,1754,2017,10,6000.0,"['Takahide Hori', 'Atsuko Miyake', 'Yuji Sugiyama']",Takahide Hori,,"$81,755"
+tt5776208,Baiohazâdo: Vendetta,"Animation, Action, Adventure",animation,6.2,,16224,2017,5,5820.0,"['Kevin Dorman', 'Matthew Mercer', 'Erin Cahill']",Takanori Tsujimoto,,"$256,320"
+tt6574146,Blame!,"Animation, Action, Drama",animation,6.6,,9459,2017,5,6360.0,"['Takahiro Sakurai', 'Kana Hanazawa', 'Sora Amamiya']",Hiroyuki Seshita,,
+tt4054952,Gekijouban Fate/Stay Night: Heaven's Feel - I. Presage Flower,"Animation, Action, Adventure",animation,7.4,,3968,2017,10,7200.0,"['Bryce Papenbrook', 'Noriaki Sugiyama', 'Noriko Shitaya']",Tomonori Sudô,,"$17,423,075"
+tt6335734,Yoru wa mijikashi aruke yo otome,"Animation, Adventure, Comedy",animation,7.5,65.0,6753,2017,4,5520.0,"['Gen Hoshino', 'Kana Hanazawa', 'Hiroshi Kamiya']",Masaaki Yuasa,,"$3,884,060"
+tt5851904,Le grand méchant renard et autres contes...,"Animation, Adventure, Comedy",animation,7.4,73.0,3911,2017,6,4980.0,"['Guillaume Darnault', 'Damien Witecka', 'Kamel Abdessadok']",Patrick Imbert,"$3,000,000 (estimated)","$9,399,572"
+tt6595896,Pokémon the Movie: I Choose You,"Animation, Action, Adventure",animation,6.3,,7810,2017,7,5880.0,"['Unshô Ishizuka', 'Rica Matsumoto', 'Sarah Natochenny']",Kunihiko Yuyama,,"$37,552,144"
+tt3896102,Tadeo Jones 2: El secreto del Rey Midas,"Animation, Adventure, Comedy",animation,6.2,,4332,2017,8,5100.0,"['Michelle Jenner', 'Adriana Ugarte', 'Óscar Barberán']",David Alonso,"€9,000,000 (estimated)","$35,704,046"
+tt5979874,Gojira: Kaijû Wakusei,"Animation, Action, Sci-Fi",animation,6.0,,9976,2017,11,5340.0,,,,
+tt7321246,Double Dutchess: Seeing Double,"Animation, Drama, Fantasy",animation,5.1,,710,2017,9,3780.0,"['Fergie', 'Alessandra Ambrosio', 'Devon Aoki']",Bruno Ilogti,,
+tt6572702,Happy Family,"Animation, Comedy, Family",animation,4.8,,5640,2017,8,5580.0,"['Dirk Stollberg', 'Emily Watson', 'Jason Isaacs']",Holger Tappe,,"$29,230,695"
+tt4717402,Mutafukaz,"Animation, Action, Comedy",animation,6.7,48.0,5356,2017,5,5640.0,"['Orelsan', 'Gringe', 'Redouanne Harjane']",Shôjirô Nishimi,,"$461,724"
+tt0331314,Bunyan and Babe,"Animation, Adventure, Comedy",animation,4.8,,467,2017,1,5040.0,"['John Goodman', 'Jeff Foxworthy', 'Kelsey Grammer']",Louis Ross,,"$72,060"
+tt3615160,Gyakusatsu kikan,"Animation, Action, Sci-Fi",animation,6.4,,1249,2017,2,6900.0,"['Christopher Sabat', 'Ian Sinclair', 'Kristen McGuire']",Shûkô Murase,,"$4,752"
+tt5084198,Kizumonogatari III: Reiketsu-hen,"Animation, Action, Drama",animation,7.8,,3716,2017,1,4980.0,"['Hiroshi Kamiya', 'Takahiro Sakurai', 'Maaya Sakamoto']",Yukihiro Miyamoto,,"$817,874"
+tt3823116,"Überflieger - Kleine Vögel, großes Geklapper","Animation, Adventure, Comedy",animation,5.8,,2438,2017,5,5100.0,"['Tilman Döbler', 'Cooper Kelly Kramer', 'Shannon Conley']",Toby Genkel,,"$14,375,849"
+tt8757056,Tobot Movie: Attack of Robot Force,"Animation, Action, Adventure",animation,8.8,,64,2017,4,,,Dongwoo Ko,,"$971,479"
+tt4494382,Condorito: La película,"Animation, Adventure, Comedy",animation,5.2,,990,2017,10,5280.0,"['Omar Chaparro', 'Jessica Cediel', 'Cristián de la Fuente']",Alex Orrelle,"$8,000,000 (estimated)","$8,431,194"
+tt8100900,Kôdo Giasu: Hangyaku no Rurûshu I - Kôdô,"Animation, Action, Sci-Fi",animation,7.3,,764,2017,10,8100.0,"['Jun Fukuyama', 'Takahiro Sakurai', 'Yukana']",Noriaki Akitaya,,
+tt6106526,Fiksiki: Bolshoy sekret,"Animation, Adventure, Comedy",animation,5.0,,309,2017,10,4800.0,"['David Boat', 'Larisa Brokhman', 'Kimberly Brooks']",Vasiliy Bedoshvili,"$6,000,000 (estimated)","$8,220,990"
+tt4119208,Photon,"Animation, Drama, Mystery",animation,7.4,,694,2017,10,6420.0,"['Andrzej Chyra', 'Karolina Kominek-Skuratowicz', 'Lukasz Grudzinski']",Norman Leto,,
+tt7006206,Den utrolige historie om den kæmpestore pære,"Animation, Adventure, Comedy",animation,6.2,,1234,2017,10,4740.0,"['Alfred Bjerre Larsen', 'Liva Elvira Magnussen', 'Peter Frödin']",Amalie Næsby Fick,,"$3,099,852"
+tt3837842,Birds Like Us,"Animation, Adventure, Family",animation,4.6,,324,2017,1,5040.0,"['Jeremy Irons', 'Alicia Vikander', 'Khalid Abdalla']",Faruk Sabanovic,,"$58,849"
+tt5544384,Gekijô-ban Sôdo Âto Onrain: Sword Art Online - Ôdinaru sukêru -,"Animation, Action, Adventure",animation,7.3,,9446,2017,2,7140.0,"['Yoshitsugu Matsuoka', 'Haruka Tomatsu', 'Kanae Itô']",Tomohiko Itô,,"$29,322,339"
+tt7480958,Kôkyô shihen Eureka sebun Hai-eboryûshon 1,"Animation, Action, Adventure",animation,5.3,,136,2017,9,5580.0,"['Yûko Sanpei', 'Kaori Nazuka', 'Kôji Tsujitani']",Hiroshi Haraguchi,,"$546,384"
+tt3832326,Borley Rectory,"Animation, Drama, Horror",animation,5.7,,585,2017,11,4380.0,,,,
+tt5027774,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",comedy,8.1,88.0,578627,2017,12,6900.0,,,,
+tt4686844,The Death of Stalin,"Comedy, Drama, History",comedy,7.3,88.0,119320,2017,10,6420.0,"['Steve Buscemi', 'Simon Russell Beale', 'Jeffrey Tambor']",Armando Iannucci,"$13,000,000 (estimated)","$24,646,055"
+tt4925292,Lady Bird,"Comedy, Drama",comedy,7.4,93.0,349309,2017,12,5640.0,"['Saoirse Ronan', 'Laurie Metcalf', 'Tracy Letts']",Greta Gerwig,"$10,000,000 (estimated)","$78,987,280"
+tt0491175,Suburbicon,"Comedy, Crime, Drama",comedy,5.8,42.0,48442,2017,10,6300.0,,,,
+tt5580036,"I, Tonya","Biography, Comedy, Drama",comedy,7.5,77.0,251986,2017,1,7140.0,"['Margot Robbie', 'Sebastian Stan', 'Allison Janney']",Craig Gillespie,"$11,000,000 (estimated)","$53,939,297"
+tt5666304,The Little Hours,"Comedy, Romance",comedy,5.8,69.0,26794,2017,6,5340.0,,,,
+tt1987680,The Upside,"Comedy, Drama",comedy,7.0,46.0,66271,2017,1,7560.0,,,,
+tt4225622,The Babysitter,"Comedy, Horror",comedy,6.4,,114579,2017,10,5100.0,"['Judah Lewis', 'Samara Weaving', 'Robbie Amell']",McG,,
+tt3401882,Fist Fight,Comedy,comedy,5.6,37.0,46928,2017,2,5460.0,,,,
+tt3521126,The Disaster Artist,"Biography, Comedy, Drama",comedy,7.3,76.0,167890,2017,12,6240.0,"['James Franco', 'Dave Franco', 'Ari Graynor']",James Franco,"$10,000,000 (estimated)","$29,820,616"
+tt4565520,The Layover,"Comedy, Romance",comedy,4.8,15.0,17487,2017,8,5280.0,,,,
+tt5710514,I Don't Feel at Home in This World Anymore,"Comedy, Crime, Drama",comedy,6.9,75.0,65749,2017,2,5580.0,"['Melanie Lynskey', 'Chris Doubek', 'Marilyn Faith Hickey']",Macon Blair,,
+tt2568862,Going in Style,"Comedy, Crime",comedy,6.6,50.0,95082,2017,4,5760.0,,,,
+tt4758646,War Machine,"Comedy, Drama, War",comedy,6.0,56.0,51164,2017,5,7320.0,,,,
+tt4765284,Pitch Perfect 3,"Comedy, Music",comedy,5.8,40.0,74465,2017,12,5580.0,"['Anna Kendrick', 'Rebel Wilson', 'Brittany Snow']",Trish Sie,"$45,000,000 (estimated)","$185,400,345"
+tt5308322,Happy Death Day,"Comedy, Horror, Mystery",comedy,6.6,58.0,174243,2017,10,5760.0,"['Jessica Rothe', 'Israel Broussard', 'Ruby Modine']",Christopher Landon,"$4,800,000 (estimated)","$125,479,266"
+tt4799050,Rough Night,Comedy,comedy,5.2,51.0,57254,2017,6,6060.0,,,,
+tt5462602,The Big Sick,"Comedy, Drama, Romance",comedy,7.5,86.0,146730,2017,7,7200.0,"['Kumail Nanjiani', 'Zoe Kazan', 'Holly Hunter']",Michael Showalter,"$5,000,000 (estimated)","$56,411,585"
+tt2763304,T2 Trainspotting,"Comedy, Crime, Drama",comedy,7.1,67.0,136718,2017,1,7020.0,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller']",Danny Boyle,"$18,000,000 (estimated)","$41,681,746"
+tt4995790,The Square,"Comedy, Drama",comedy,7.1,73.0,80119,2017,8,9060.0,"['Claes Bang', 'Elisabeth Moss', 'Dominic West']",Ruben Östlund,,"$8,588,030"
+tt5657846,Daddy's Home 2,Comedy,comedy,6.0,30.0,87715,2017,11,6000.0,"['Will Ferrell', 'Mark Wahlberg', 'Mel Gibson']",Sean Anders,"$69,000,000 (estimated)","$180,613,824"
+tt5719700,Home Again,"Comedy, Drama, Romance",comedy,5.8,41.0,36073,2017,9,5820.0,"['Reese Witherspoon', 'Michael Sheen', 'Candice Bergen']",Hallie Meyers-Shyer,"$12,000,000 (estimated)","$37,270,721"
+tt6018306,Last Flag Flying,"Comedy, Drama, War",comedy,6.9,65.0,29553,2017,11,7500.0,"['Bryan Cranston', 'Laurence Fishburne', 'Steve Carell']",Richard Linklater,,"$1,872,950"
+tt5962210,Ingrid Goes West,"Comedy, Drama",comedy,6.6,71.0,49863,2017,8,5880.0,"['Aubrey Plaza', 'Elizabeth Olsen', ""O'Shea Jackson Jr.""]",Matt Spicer,,"$3,146,831"
+tt6359956,A Bad Moms Christmas,Comedy,comedy,5.6,42.0,60395,2017,11,6240.0,"['Mila Kunis', 'Kristen Bell', 'Kathryn Hahn']",Jon Lucas,"$28,000,000 (estimated)","$130,560,428"
+tt5808778,Pieles,"Comedy, Drama, Fantasy",comedy,6.0,,7497,2017,3,4620.0,"['Ana Polvorosa', 'Carmen Machi', 'Macarena Gómez']",Eduardo Casanova,,"$89,208"
+tt4622512,Battle of the Sexes,"Biography, Comedy, Drama",comedy,6.7,73.0,61697,2017,9,7260.0,"['Emma Stone', 'Steve Carell', 'Andrea Riseborough']",Jonathan Dayton,"$25,000,000 (estimated)","$18,598,607"
+tt5362988,Wind River,"Crime, Drama, Mystery",crime,7.7,73.0,294207,2017,8,6420.0,"['Elizabeth Olsen', 'Jeremy Renner', 'Graham Greene']",Taylor Sheridan,"$11,000,000 (estimated)","$44,202,682"
+tt3402236,Murder on the Orient Express,"Crime, Drama, Mystery",crime,6.5,52.0,309201,2017,11,6840.0,,,,
+tt4633690,Shot Caller,"Crime, Drama, Thriller",crime,7.3,59.0,106725,2017,8,7260.0,"['Nikolaj Coster-Waldau', 'Omari Hardwick', 'Lake Bell']",Ric Roman Waugh,,"$3,440,362"
+tt4846232,Good Time,"Crime, Drama, Thriller",crime,7.3,80.0,146451,2017,8,6120.0,"['Robert Pattinson', 'Benny Safdie', 'Jennifer Jason Leigh']",Benny Safdie,"$4,500,000 (estimated)","$3,274,936"
+tt6705640,Trauma,"Crime, Drama, Horror",crime,4.8,,3002,2017,12,6360.0,"['Catalina Martin', 'Macarena Carrere', 'Dominga Bofill']",Lucio A. Rojas,"€180,000 (estimated)",
+tt4209788,Molly's Game,"Biography, Crime, Drama",crime,7.4,71.0,195971,2017,1,8400.0,"['Jessica Chastain', 'Idris Elba', 'Kevin Costner']",Aaron Sorkin,"$30,000,000 (estimated)","$59,284,015"
+tt7057496,Gi-eok-ui bam,"Crime, Mystery, Thriller",crime,7.4,,53102,2017,11,6480.0,"['Kang Ha-neul', 'Kim Mu-yeol', 'Moon Sung-keun']",Jang Hang-jun,"MVR 400,000,000 (estimated)","$9,968,972"
+tt5742374,You Were Never Really Here,"Crime, Drama, Thriller",crime,6.7,84.0,131379,2017,11,5340.0,"['Joaquin Phoenix', 'Judith Roberts', 'Ekaterina Samsonov']",Lynne Ramsay,"$2,500,000 (estimated)","$9,360,514"
+tt1241317,Death Note,"Crime, Drama, Fantasy",crime,4.5,43.0,92857,2017,8,6060.0,"['Nat Wolff', 'LaKeith Stanfield', 'Margaret Qualley']",Adam Wingard,"$50,000,000 (estimated)",
+tt5112578,Super Dark Times,"Crime, Drama, Thriller",crime,6.6,75.0,26267,2017,9,6180.0,"['Owen Campbell', 'Charlie Tahan', 'Elizabeth Cappuccino']",Kevin Phillips,,"$33,109"
+tt5294550,All the Money in the World,"Biography, Crime, Drama",crime,6.8,72.0,93793,2017,12,7920.0,"['Michelle Williams', 'Christopher Plummer', 'Mark Wahlberg']",Ridley Scott,"$50,000,000 (estimated)","$56,996,304"
+tt1758810,The Snowman,"Crime, Drama, Mystery",crime,5.2,23.0,74955,2017,10,7140.0,"['Michael Fassbender', 'Rebecca Ferguson', 'Charlotte Gainsbourg']",Tomas Alfredson,"$35,000,000 (estimated)","$43,084,060"
+tt5390504,Detroit,"Crime, Drama, History",crime,7.3,77.0,57238,2017,8,8580.0,,,,
+tt5657856,Brawl in Cell Block 99,"Crime, Drama, Thriller",crime,7.1,79.0,79889,2017,10,7920.0,"['Vince Vaughn', 'Jennifer Carpenter', 'Don Johnson']",S. Craig Zahler,,"$64,453"
+tt6214928,1922,"Crime, Drama, Horror",crime,6.2,70.0,74767,2017,10,6120.0,"['Thomas Jane', 'Molly Parker', 'Dylan Schmid']",Zak Hilditch,,
+tt3416536,Hot Summer Nights,"Crime, Drama, Romance",crime,6.4,44.0,25357,2017,7,6420.0,"['Timothée Chalamet', 'Maika Monroe', 'Alex Roe']",Elijah Bynum,,"$246,133"
+tt6000478,"Roman J. Israel, Esq.","Crime, Drama, Thriller",crime,6.5,58.0,45426,2017,11,7320.0,"['Denzel Washington', 'Colin Farrell', 'Carmen Ejogo']",Dan Gilroy,"$22,000,000 (estimated)","$13,025,860"
+tt2620590,Leatherface,"Crime, Horror, Thriller",crime,5.0,40.0,29451,2017,9,5400.0,"['Stephen Dorff', 'Lili Taylor', 'Sam Strike']",Alexandre Bustillo,,"$1,476,843"
+tt1869347,Crooked House,"Crime, Drama, Mystery",crime,6.3,59.0,28781,2017,11,6900.0,,,,
+tt5649108,Thoroughbreds,"Comedy, Crime, Drama",crime,6.6,75.0,47629,2017,3,5520.0,"['Olivia Cooke', 'Anya Taylor-Joy', 'Anton Yelchin']",Cory Finley,"$6,000,000 (estimated)","$3,187,255"
+tt5301662,Marshall,"Biography, Crime, Drama",crime,7.3,66.0,27580,2017,10,7080.0,,,,
+tt4481514,The House,"Comedy, Crime",crime,5.6,30.0,48593,2017,6,5280.0,,,,
+tt7468056,Beomjoidosi,"Action, Crime, Thriller",crime,7.2,,14848,2017,10,7260.0,"['Ma Dong-seok', 'Yoon Kyesang', 'Jo Jae-yoon']",Yunsung Kang,,"$52,946,454"
+tt3859272,Tragedy Girls,"Comedy, Crime, Horror",crime,6.0,58.0,12603,2017,10,5880.0,"['Brianna Hildebrand', 'Alexandra Shipp', 'Jack Quaid']",Tyler MacIntyre,,"$122,211"
+tt3444312,Abducted in Plain Sight,"Documentary, Crime",crime,6.8,,23357,2017,1,5460.0,"['Bob Broberg', 'Karen Campbell', 'Jan Broberg']",Skye Borgman,,
+tt1458169,Kidnap,"Action, Crime, Thriller",crime,5.9,44.0,40093,2017,8,5700.0,"['Halle Berry', 'Sage Correa', 'Chris McGinn']",Luis Prieto,"$21,000,000 (estimated)","$34,814,102"
+tt4080956,A Prayer Before Dawn,"Action, Biography, Crime",crime,6.8,76.0,27207,2017,6,6960.0,"['Joe Cole', 'Cherry Miko', 'Vithaya Pansringarm']",Jean-Stéphane Sauvaire,,"$958,883"
+tt3501112,Security,"Action, Crime, Thriller",crime,5.8,,23736,2017,3,5280.0,,,,
+tt5723272,Aus dem Nichts,"Crime, Drama, Mystery",crime,7.1,65.0,36537,2017,11,6360.0,"['Numan Acar', 'Adam Bousdoukos', 'Diane Kruger']",Fatih Akin,,"$5,104,963"
+tt5628302,Beast,"Crime, Drama, Mystery",crime,6.8,74.0,16693,2017,4,6420.0,"['Jessie Buckley', 'Geraldine James', 'Oliver Maltman']",Michael Pearce,,"$1,744,071"
+tt2543472,Wonder,"Drama, Family",family,7.9,66.0,187038,2017,11,6780.0,"['Jacob Tremblay', 'Owen Wilson', 'Izabela Vidovic']",Stephen Chbosky,"$20,000,000 (estimated)","$315,025,930"
+tt1653665,Goodbye Christopher Robin,"Biography, Drama, Family",family,7.1,54.0,30648,2017,9,6420.0,"['Domhnall Gleeson', 'Margot Robbie', 'Kelly Macdonald']",Simon Curtis,,"$7,401,949"
+tt4538916,Finding Your Feet,"Comedy, Drama, Family",family,6.8,53.0,7518,2017,2,6660.0,"['Imelda Staunton', 'Celia Imrie', 'Timothy Spall']",Richard Loncraine,"£5,400,000 (estimated)","$15,775,555"
+tt5628418,Askeladden: I Dovregubbens hall,"Adventure, Family, Fantasy",family,6.2,,4552,2017,9,6240.0,"['Vebjørn Enger', 'Mads Sjøgård Pettersen', 'Elias Holmen Sørensen']",Mikkel Brænne Sandemose,,"$4,522,950"
+tt7608418,A Christmas Prince,"Comedy, Family, Romance",family,5.8,,22809,2017,11,5520.0,,,,
+tt3838034,Seuls,"Adventure, Family, Fantasy",family,5.1,,1831,2017,2,5880.0,"['Sofia Lesaffre', 'Stéphane Bak', 'Jean-Stan Du Pac']",David Moreau,"€6,000,000 (estimated)","$2,385,151"
+tt4526136,Scales: Mermaids Are Real,"Adventure, Family, Fantasy",family,4.1,,982,2017,7,5520.0,"['Emmy Perry', 'Elisabeth Röhm', 'Morgan Fairchild']",Kevan Peterson,,
+tt3305388,Mountain Top,"Drama, Family, Mystery",family,7.1,,766,2017,2,6120.0,"['Barry Corbin', 'Coby Ryan McLaughlin', 'Valerie Azlynn']",Gary Wheeler,"$750,000 (estimated)",
+tt4902904,The Resurrection of Gavin Stone,"Comedy, Drama, Family",family,6.3,36.0,2612,2017,1,5460.0,,,,
+tt4217392,Gong fu yu jia,"Action, Adventure, Comedy",family,5.2,50.0,11787,2017,1,6420.0,"['Jackie Chan', 'Yixing Zhang', 'Miya Muqi']",Stanley Tong,"$65,000,000 (estimated)","$257,753,889"
+tt5704912,A Cowgirl's Story,"Drama, Family",family,5.6,,753,2017,4,5880.0,"['Bailee Madison', 'Chloe Lukasiak', 'Pat Boone']",Timothy Armstrong,,
+tt5843838,Max 2: White House Hero,"Action, Family",family,5.2,,1746,2017,5,5100.0,"['Zane Austin', 'Francesca Capaldi', 'Lochlyn Munro']",Brian Levant,,"$72,585"
+tt5745450,Chef,"Comedy, Drama, Family",family,5.7,,2733,2017,10,7980.0,"['Saif Ali Khan', 'Padmapriya', 'Svar Kamble']",Raja Menon,,"$2,487,220"
+tt3891538,Undercover Grandpa,"Action, Comedy, Family",family,5.3,,2518,2017,3,5640.0,"['Dylan Everett', 'James Caan', 'Greta Onieogou']",Erik Canuel,,
+tt5219972,Class Rank,"Comedy, Drama, Family",family,6.5,,1737,2017,5,6480.0,"['Skyler Gisondo', 'Olivia Holt', 'Kristin Chenoweth']",Eric Stoltz,,"$10,452"
+tt5846744,Big Fat Liar 2,"Adventure, Comedy, Family",family,4.0,,1122,2017,4,5640.0,"['Barry Bostwick', 'Ricky Garcia', 'Jodelle Ferland']",Ron Oliver,,
+tt2850480,The Girl Who Invented Kissing,"Drama, Family, Romance",family,6.2,,804,2017,4,6360.0,,,,
+tt4591840,A Christmas Star,Family,family,5.1,,2128,2017,5,4920.0,"['Erin Galway-Kendrick', 'Robert James-Collier', 'Bronagh Waugh']",Richard Elson,,"$8,522"
+tt6262764,Rip Tide,"Drama, Family",family,5.5,,4015,2017,9,5100.0,"['Debby Ryan', 'Genevieve Hegney', 'Andrew Creer']",Rhiannon Bannenberg,"A$3,400,000 (estimated)","$196,452"
+tt6096884,Njandukalude Naattil Oridavela,"Comedy, Drama, Family",family,7.1,,2072,2017,9,7860.0,"['Nivin Pauly', 'Shanthi Krishna', 'Lal']",Althaf Salim,,"$701,169"
+tt5580390,The Shape of Water,"Drama, Fantasy, Romance",fantasy,7.3,87.0,458921,2017,12,7380.0,"['Sally Hawkins', 'Octavia Spencer', 'Michael Shannon']",Guillermo del Toro,"$19,400,000 (estimated)","$195,243,464"
+tt1691916,Before I Fall,"Drama, Fantasy, Mystery",fantasy,6.4,58.0,58375,2017,3,5880.0,,,,
+tt2872518,The Shack,"Drama, Fantasy",fantasy,6.3,32.0,40875,2017,3,7920.0,"['Sam Worthington', 'Octavia Spencer', 'Tim McGraw']",Stuart Hazeldine,"$20,000,000 (estimated)","$96,942,115"
+tt1389072,Downsizing,"Drama, Fantasy, Sci-Fi",fantasy,5.8,64.0,130221,2017,12,8100.0,"['Matt Damon', 'Christoph Waltz', 'Hong Chau']",Alexander Payne,"$68,000,000 (estimated)","$55,003,890"
+tt6265828,A Ghost Story,"Drama, Fantasy, Mystery",fantasy,6.8,84.0,83443,2017,7,5520.0,"['Casey Affleck', 'Rooney Mara', 'McColm Cephas Jr.']",David Lowery,"$100,000 (estimated)","$1,951,683"
+tt6193454,Blue My Mind,"Drama, Fantasy, Mystery",fantasy,6.1,63.0,3639,2017,8,5820.0,"['Luna Wedler', 'Zoë Pastelle Holthuizen', 'Regula Grauwiller']",Lisa Brühlmann,,"$11,350"
+tt6304046,Thelma,"Drama, Fantasy, Horror",fantasy,6.9,74.0,37887,2017,9,6960.0,"['Eili Harboe', 'Kaya Wilkins', 'Henrik Rafaelsen']",Joachim Trier,"NOK 47,500,000 (estimated)","$1,463,727"
+tt4030600,The Bye Bye Man,"Drama, Fantasy, Horror",fantasy,4.3,37.0,26864,2017,1,5760.0,"['Douglas Smith', 'Lucien Laviscount', 'Cressida Bonas']",Stacy Title,"$7,400,000 (estimated)","$29,874,280"
+tt5322012,Wish Upon,"Drama, Fantasy, Horror",fantasy,5.1,32.0,24051,2017,7,5400.0,"['Joey King', 'Ryan Phillippe', 'Ki Hong Lee']",John R. Leonetti,"$12,000,000 (estimated)","$23,468,586"
+tt5451690,American Satan,"Drama, Fantasy, Music",fantasy,5.6,,4649,2017,10,6660.0,"['Andy Biersack', 'Booboo Stewart', 'Ben Bruce']",Ash Avildsen,,"$237,708"
+tt2937366,Little Evil,"Comedy, Fantasy, Horror",fantasy,5.7,,23894,2017,9,5640.0,"['Evangeline Lilly', 'Owen Atlas', 'Adam Scott']",Eli Craig,,
+tt5770864,The Man from Earth: Holocene,"Drama, Fantasy, Sci-Fi",fantasy,5.2,,10806,2017,1,5880.0,"['David Lee Smith', 'Doug Haley', 'Davi Santos']",Richard Schenkman,,"$5,472"
+tt4547194,I Kill Giants,"Drama, Fantasy, Thriller",fantasy,6.1,74.0,33446,2017,3,6360.0,"['Madison Wolfe', 'Zoe Saldaña', 'Imogen Poots']",Anders Walter,"$15,100,000 (estimated)","$342,558"
+tt5607028,Hagane no renkinjutsushi,"Action, Adventure, Fantasy",fantasy,5.3,48.0,21453,2017,12,8100.0,,,,
+tt4823434,Vuelven,"Fantasy, Horror, Mystery",fantasy,6.9,76.0,9644,2017,11,4980.0,"['Paola Lara', 'Juan Ramón López', 'Nery Arredondo']",Issa López,"MX$26,040,000 (estimated)","$576,598"
+tt1396484,It,Horror,horror,7.3,69.0,638866,2017,9,8100.0,"['Bill Skarsgård', 'Jaeden Martell', 'Finn Wolfhard']",Andy Muschietti,"$35,000,000 (estimated)","$704,242,888"
+tt5442430,Life,"Horror, Sci-Fi, Thriller",horror,6.6,54.0,265798,2017,3,6240.0,"['Jake Gyllenhaal', 'Rebecca Ferguson', 'Ryan Reynolds']",Daniel Espinosa,"$58,000,000 (estimated)","$100,541,806"
+tt5052448,Get Out,"Horror, Mystery, Thriller",horror,7.8,85.0,751979,2017,2,6240.0,"['Daniel Kaluuya', 'Allison Williams', 'Bradley Whitford']",Jordan Peele,"$4,500,000 (estimated)","$255,751,443"
+tt5715874,The Killing of a Sacred Deer,"Drama, Horror, Mystery",horror,7.0,73.0,202529,2017,11,7260.0,,,,
+tt2316204,Alien: Covenant,"Horror, Sci-Fi, Thriller",horror,6.4,65.0,327782,2017,5,7320.0,,,,
+tt5638642,The Ritual,"Horror, Mystery, Thriller",horror,6.3,57.0,129829,2017,10,5640.0,"['Rafe Spall', 'Arsher Ali', 'Robert James-Collier']",David Bruckner,,"$1,785,977"
+tt5109784,Mother!,"Drama, Horror, Mystery",horror,6.6,76.0,258258,2017,9,7260.0,"['Jennifer Lawrence', 'Javier Bardem', 'Ed Harris']",Darren Aronofsky,"$30,000,000 (estimated)","$44,516,999"
+tt3748172,Gerald's Game,"Drama, Horror, Thriller",horror,6.5,77.0,135230,2017,9,6180.0,,,,
+tt5886440,Marrowbone,"Drama, Horror, Mystery",horror,6.7,63.0,44545,2017,10,6600.0,"['George MacKay', 'Anya Taylor-Joy', 'Charlie Heaton']",Sergio G. Sánchez,"€8,000,000 (estimated)","$12,294,931"
+tt3986820,The Endless,"Horror, Mystery, Sci-Fi",horror,6.5,80.0,52648,2017,4,6660.0,,,,
+tt2932536,47 Meters Down,"Horror, Mystery, Thriller",horror,5.6,52.0,62960,2017,6,5340.0,"['Mandy Moore', 'Claire Holt', 'Matthew Modine']",Johannes Roberts,"$5,300,000 (estimated)","$62,198,461"
+tt5140878,Aenabel: Nirmanaya,"Horror, Mystery, Thriller",horror,6.5,62.0,158139,2017,8,6540.0,"['Anthony LaPaglia', 'Samara Lee', 'Miranda Otto']",David F. Sandberg,"$15,000,000 (estimated)","$306,592,201"
+tt3860916,Cargo,"Drama, Horror, Sci-Fi",horror,6.3,65.0,50116,2017,5,6300.0,,,,
+tt7549892,Aterrados,Horror,horror,6.5,,26545,2017,5,5220.0,"['Maximiliano Ghione', 'Norberto Gonzalo', 'Elvira Onetto']",Demián Rugna,,"$367,173"
+tt4695012,It Comes at Night,"Drama, Horror, Mystery",horror,6.1,78.0,107173,2017,6,5460.0,"['Joel Edgerton', 'Christopher Abbott', 'Carmen Ejogo']",Trey Edward Shults,"$5,000,000 (estimated)","$19,735,344"
+tt3348730,Jigsaw,"Horror, Mystery, Thriller",horror,5.7,39.0,97576,2017,10,5520.0,"['Matt Passmore', 'Tobin Bell', 'Callum Keith Rennie']",Michael Spierig,"$10,000,000 (estimated)","$102,952,888"
+tt2039338,Flatliners,"Drama, Horror, Mystery",horror,5.2,27.0,52364,2017,9,6540.0,"['Elliot Page', 'Diego Luna', 'Nina Dobrev']",Niels Arden Oplev,"$19,000,000 (estimated)","$45,158,254"
+tt2291540,My Friend Dahmer,"Biography, Drama, Horror",horror,6.2,68.0,24570,2017,3,6420.0,,,,
+tt5159414,Escape Room,"Horror, Thriller",horror,4.2,,14571,2017,9,4860.0,,,,
+tt7076834,Pengabdi Setan,"Drama, Horror, Mystery",horror,6.5,,12352,2017,9,6420.0,"['Tara Basro', 'Bront Palarae', 'Dimas Aditya']",Joko Anwar,"IDR 2,000,000,000 (estimated)","$431,730"
+tt5085522,Hostile,"Drama, Horror, Romance",horror,5.3,,7670,2017,9,4980.0,"['Brittany Ashworth', 'Grégory Fitoussi', 'Javier Botet']",Mathieu Turi,"$1,000,000 (estimated)","$385,428"
+tt0498381,Rings,"Drama, Horror, Mystery",horror,4.5,25.0,44309,2017,2,6120.0,"['Matilda Lutz', 'Alex Roe', 'Johnny Galecki']",F. Javier Gutiérrez,"$25,000,000 (estimated)","$83,080,890"
+tt3654796,Creep 2,"Horror, Thriller",horror,6.4,75.0,35857,2017,10,4680.0,"['Karan Soni', 'Mark Duplass', 'Desiree Akhavan']",Patrick Brice,,
+tt5516328,Ghost Stories,"Drama, Horror, Mystery",horror,6.4,68.0,38426,2017,4,5880.0,"['Samuel Bottomley', 'Deborah Wastell', 'Amy Doyle']",Jeremy Dyson,,"$4,131,358"
+tt4181782,The Crucifixion,"Horror, Mystery, Thriller",horror,5.1,,9776,2017,10,5400.0,"['Sophie Cookson', 'Corneliu Ulici', 'Ada Lupu']",Xavier Gens,,"$6,554,322"
+tt3280262,Cult of Chucky,"Horror, Thriller",horror,5.3,69.0,32015,2017,10,5460.0,,,,
+tt5462326,Mom and Dad,"Comedy, Horror, Thriller",horror,5.6,59.0,28763,2017,3,5160.0,,,,
+tt3335606,Berlin Syndrome,"Drama, Horror, Mystery",horror,6.3,70.0,28486,2017,4,6960.0,"['Teresa Palmer', 'Max Riemelt', 'Matthias Habich']",Cate Shortland,,"$397,783"
+tt7914416,Kamera o tomeru na!,"Comedy, Drama, Horror",horror,7.6,86.0,32472,2017,6,5760.0,"['Takayuki Hamatsu', 'Yuzuki Akiyama', 'Harumi Shuhama']",Shin'ichirô Ueda,"¥3,000,000 (estimated)","$27,590,180"
+tt1935897,Amityville: The Awakening,"Horror, Thriller",horror,4.8,42.0,16074,2017,10,5220.0,"['Jennifer Jason Leigh', 'Bella Thorne', 'Mckenna Grace']",Franck Khalfoun,,"$8,481,997"
+tt5143226,12 Feet Deep,"Horror, Thriller",horror,5.2,,17665,2017,6,5100.0,"['Nora-Jane Noone', 'Alexandra Park', 'Diane Farr']",Matt Eskandari,,
+tt1139592,Jeepers Creepers 3,Horror,horror,3.9,,25467,2017,11,6000.0,"['Stan Shaw', 'Gabrielle Haugh', 'Brandon Smith']",Victor Salva,"$6,200,000 (estimated)","$4,017,852"
+tt5884784,The Super,"Crime, Drama, Horror",horror,5.2,47.0,22031,2017,10,5400.0,"['Patrick John Flueger', 'Val Kilmer', 'Louisa Krause']",Stephan Rick,"$2,300,000 (estimated)","$19,513"
+tt1485796,The Greatest Showman,"Biography, Drama, Musical",musical,7.5,48.0,328359,2017,12,6300.0,"['Hugh Jackman', 'Michelle Williams', 'Zac Efron']",Michael Gracey,"$84,000,000 (estimated)","$469,064,959"
+tt6346162,Newsies: The Broadway Musical,Musical,musical,8.2,,3857,2017,7,8940.0,"['Jeremy Jordan', 'Kara Lindsay', 'Ben Fankhauser']",Jeff Calhoun,"$2,000,000 (estimated)","$2,827,489"
+tt2196053,Something Like Summer,"Drama, Musical, Romance",musical,6.0,,1644,2017,6,6900.0,"['Grant Davis', 'Davi Santos', 'Ben Baur']",David Berry,,
+tt6433880,Anna and the Apocalypse,"Comedy, Horror, Musical",musical,6.1,63.0,16555,2017,11,5580.0,"['Ella Hunt', 'Malcolm Cumming', 'Sarah Swire']",John McPhail,,"$673,523"
+tt1131728,Basmati Blues,"Comedy, Musical, Romance",musical,3.9,30.0,2249,2017,2,6360.0,"['Brie Larson', 'Utkarsh Ambudkar', 'Scott Bakula']",Dan Baron,,"$15,605"
+tt7493366,Halloween Pussy Trap Kill Kill,"Crime, Horror, Musical",musical,3.3,,554,2017,10,5160.0,,,,
+tt5176252,La Llamada,Musical,musical,6.1,,4719,2017,9,6480.0,"['Macarena García', 'Anna Castillo', 'Belén Cuesta']",Javier Ambrossi,"€2,710,388 (estimated)","$3,185,945"
+tt6150942,Becks,"Drama, Musical, Romance",musical,6.3,64.0,1315,2017,2,5880.0,,,,
+tt3710966,Hello Again,"Drama, Music, Musical",musical,5.1,43.0,550,2017,11,6300.0,"['Martha Plimpton', 'Sam Underwood', 'Nolan Gerard Funk']",Tom Gustafson,,"$530,831"
+tt13773512,Live Spectacle Naruto: Song of the Akatsuki,"Action, Fantasy, Musical",musical,8.1,,102,2017,1,10200.0,"['Kôdai Matsuoka', 'Ryuji Sato', 'Yui Ito']",Akiko Kodama,,"$11,613"
+tt5950646,Bibi & Tina: Tohuwabohu total,"Adventure, Comedy, Drama",musical,4.1,,688,2017,2,6360.0,"['Fabian Buch', 'Winnie Böwe', 'Karim Günes']",Detlev Buck,,"$10,097,791"
+tt5502766,Phillauri,"Comedy, Drama, Fantasy",musical,6.0,,4198,2017,3,8280.0,"['Anushka Sharma', 'Diljit Dosanjh', 'Suraj Sharma']",Anshai Lal,,"$5,805,030"
+tt7204006,Ammore e malavita,"Comedy, Crime, Musical",musical,6.5,,1337,2017,10,8400.0,"['Claudia Gerini', 'Carlo Buccirosso', 'Serena Rossi']",Antonio Manetti,"€2,500,000 (estimated)","$1,668,753"
+tt5654600,Saturday Church,"Drama, Fantasy, Music",musical,6.4,72.0,1227,2017,1,4920.0,"['Michaela Jaé (MJ) Rodriguez', 'Indya Moore', 'Margot Bingham']",Damon Cardasis,,
+tt6274750,Adults,"Comedy, Musical, Romance",musical,7.9,,20,2017,8,6720.0,"['Sammy Smedley', 'Tyler Ankenman', 'Emily Ryan Reed']",Nicholas Molinari,,
+tt5281700,Heartbeats,"Comedy, Drama, Music",musical,5.4,,925,2017,2,6420.0,"['Krystal Ellsworth', 'Amitash Pradhan', 'Daphne Zuniga']",Duane Adler,"$6,000,000 (estimated)","$46,180"
+tt6734886,Power Paandi,"Action, Drama, Musical",musical,7.4,,2275,2017,4,7500.0,"['Dhanush', 'Dheena', 'Divyadarshini']",Dhanush,,
+tt4129428,Jagga Jasoos,"Adventure, Comedy, Musical",musical,6.4,,12280,2017,7,9660.0,"['Ranbir Kapoor', 'Katrina Kaif', 'Saswata Chatterjee']",Anurag Basu,,"$1,154,862"
+tt4147596,Breaking Legs,"Comedy, Family, Musical",musical,3.9,,292,2017,4,5880.0,"['Lee Meriwether', 'Richard Riehle', 'Chris Kattan']",Mark Marchillo,"$240,000 (estimated)",
+tt3696610,Stuck,"Drama, Musical",musical,5.9,36.0,433,2017,4,5400.0,"['Giancarlo Esposito', 'Amy Madigan', 'Arden Cho']",Michael Berry,,
+tt7122350,National Theatre Live: Follies,Musical,musical,8.3,,308,2017,11,9120.0,,,,
+tt4807950,Cherry Pop,"Comedy, Musical",musical,4.6,,1567,2017,9,4740.0,"['Lars Berge', 'Toccara Jones', 'Jared Carlson']",Assaad Yacoub,,
+tt5489156,Fags in the Fast Lane,"Action, Adventure, Comedy",musical,6.4,,57,2017,6,5400.0,"['Tex Perkins', 'Chris Asimos', 'Matt Jones']",Josh Collins,"A$800,000 (estimated)",
+tt4686108,Love Beats Rhymes,"Drama, Musical",musical,5.5,54.0,1214,2017,12,6360.0,"['Common', 'Lucien Laviscount', 'John David Washington']",RZA,,
+tt6680792,CarGo,"Animation, Adventure, Family",musical,2.8,,648,2017,6,5760.0,"['Melissa Joan Hart', 'Haley Joel Osment', 'Jason Mewes']",James Cullen Bressack,,"$44,055"
+tt6340264,"Jeannette, l'enfance de Jeanne d'Arc","Drama, History, Musical",musical,5.9,60.0,1218,2017,9,6300.0,,,,
+tt6145612,Thomas & Friends: Journey Beyond Sodor,"Animation, Musical",musical,6.0,,306,2017,8,4380.0,"['Mark Moraghan', 'John Hasler', 'Joseph May']",David Stoten,,"$498,344"
+tt6099554,Ang larawan,"Drama, Musical, Romance",musical,7.1,,159,2017,1,7440.0,"['Joanna Ampil', 'Rachel Alejandro', 'Paulo Avelino']",Loy Arcenas,"₱25,000,000 (estimated)",
+tt6027344,Mansfield 66/67,"Documentary, Biography, Musical",musical,6.1,54.0,501,2017,1,5040.0,"['Kenneth Anger', 'A.J. Benza', 'Sue Bernard']",P. David Ebersole,,"$19,390"
+tt6613814,Solo,"Action, Drama, Musical",musical,7.0,,4459,2017,10,9240.0,"['Dulquer Salmaan', 'Dhansika', 'Sai Tamhankar']",Bejoy Nambiar,,"$4,090,423"
+tt6846134,National Theatre Live: Amadeus,"Comedy, Drama, Musical",musical,8.2,,369,2017,2,12360.0,"['Lucian Msamati', 'Adam Gillen', 'Karla Crome']",Michael Longhurst,,
+tt6411322,Holiday Inn: The New Irving Berlin Musical - Live,Musical,musical,7.3,,268,2017,1,7680.0,"['Corbin Bleu', 'Bryce Pinkham', 'Lora Lee Gayer']",David Horn,,"$144,550"
+tt7013254,Sweet 20,"Comedy, Fantasy, Music",musical,7.1,,508,2017,6,6600.0,"['Tatjana Saphira', 'Niniek L. Karim', 'Morgan Oey']",Ody C. Harahap,,
+tt6949172,Bully,"Drama, Musical",musical,7.6,,16,2017,9,3480.0,"['Edward Henrickson', 'Danica Dawn Johnston', 'Brad Goertz']",Aaron Alon,"$22,280 (estimated)",
+tt7027850,Miseinen dakedo kodomo janai,"Comedy, Family, Musical",musical,6.1,,258,2017,12,6300.0,"['Kento Nakajima', 'Yûna Taira', 'Yuri Chinen']",Tsutomu Hanabusa,,"$5,146,046"
+tt6135232,The Big Bang,"Documentary, Biography, History",musical,8.0,,34,2017,5,6600.0,"['Robert Redford', 'Jack White', 'Nas']",Bernard MacMahon,,
+tt9693482,Legally Blonde: The Musical,"Comedy, Musical",musical,8.5,,20,2017,9,,"['Liam Doyle', 'Laura Harrison', 'Lucie Jones']",Anthony Williams,,
+tt6327400,"52Hz, I Love You","Comedy, Musical, Romance",musical,6.2,,522,2017,1,6540.0,"['Chuan-Ying Chuang', 'Chung-Yu Lin', 'Mify Chen']",Te-Sheng Wei,,"$201,172"
+tt3135074,Mr. Rudolpho's Jubilee,"Comedy, Music, Musical",musical,7.7,,218,2017,8,6600.0,"['Christiane Paul', 'Francesco Mazzini', 'Stig Eldred']",Michael Glover,,
+tt5709620,Os Saltimbancos Trapalhões: Rumo a Hollywood,"Comedy, Family, Musical",musical,6.3,,171,2017,1,5940.0,"['Renato Aragão', 'Dedé Santana', 'Roberto Guilherme']",João Daniel Tikhomiroff,,"$360,202"
+tt6879318,Italy Italy,"Comedy, Drama, Fantasy",musical,5.3,,512,2017,10,6120.0,"['Hamed Komaily', 'Sara Bahrami', 'Homayoun Ershadi']",Kaveh Sabbaghzade,,
+tt7554756,Godspell,"Comedy, Drama, Musical",musical,8.0,,32,2017,11,,,,,
+tt4998222,American Folk,"Drama, Musical",musical,6.5,62.0,521,2017,1,5940.0,,,,
+tt7051286,Sing Song,"Family, Music, Musical",musical,6.2,,109,2017,7,5760.0,,,,
+tt5526362,Luces,"Drama, Musical",musical,7.0,,37,2017,11,7200.0,"['Miguel Molina', 'Fernando Esteso', 'Verónica Mengod']",Alfredo Contreras,"€1,500,000 (estimated)",
+tt2448022,The Golden Age,"Drama, Musical",musical,5.7,,105,2017,6,6120.0,"['Justin Connor', 'Christopher May', 'Brian Jacobs']",Justin Connor,,
+tt4465564,Fifty Shades Darker,"Drama, Mystery, Romance",mystery,4.6,33.0,116135,2017,2,7080.0,,,,
+tt4287320,The Circle,"Drama, Mystery, Sci-Fi",mystery,5.4,43.0,103003,2017,4,6600.0,"['Emma Watson', 'Tom Hanks', 'John Boyega']",James Ponsoldt,"$18,000,000 (estimated)","$40,656,399"
+tt7144296,Kiss and Kill,"Drama, Mystery, Romance",mystery,2.9,,1295,2017,8,4860.0,"['Kira Noir', 'Kyle Knies', 'Megan Medellin']",Dean McKendrick,,
+tt6053438,First Reformed,"Drama, Mystery, Thriller",mystery,7.1,86.0,64622,2017,6,6780.0,"['Ethan Hawke', 'Amanda Seyfried', 'Cedric The Entertainer']",Paul Schrader,"$3,500,000 (estimated)","$3,870,404"
+tt4411596,My Cousin Rachel,"Drama, Mystery, Romance",mystery,6.0,63.0,21545,2017,6,6360.0,"['Rachel Weisz', 'Sam Claflin', 'Holliday Grainger']",Roger Michell,,"$9,200,168"
+tt1131724,2:22,"Drama, Mystery, Romance",mystery,5.7,,26433,2017,6,5880.0,,,,
+tt4581576,Aftermath,"Drama, Mystery, Thriller",mystery,5.7,44.0,27639,2017,4,5640.0,,,,
+tt2090465,Black Butterfly,"Drama, Mystery, Thriller",mystery,6.1,43.0,15503,2017,5,5580.0,"['Antonio Banderas', 'Jonathan Rhys Meyers', 'Piper Perabo']",Brian Goodman,,"$391,431"
+tt5862312,Verónica,"Horror, Mystery",mystery,6.2,,49908,2017,8,6300.0,"['Sandra Escacena', 'Bruna González', 'Claudia Placer']",Paco Plaza,,"$6,123,089"
+tt5726616,Call Me by Your Name,"Drama, Romance",romance,7.8,94.0,336813,2017,1,7920.0,"['Timothée Chalamet', 'Armie Hammer', 'Michael Stuhlbarg']",Luca Guadagnino,"€4,000,000 (estimated)","$67,446,279"
+tt6479178,Picture of Beauty,"Drama, Romance",romance,3.5,,2071,2017,4,4200.0,,,,
+tt5776858,Phantom Thread,"Drama, Romance",romance,7.4,90.0,150908,2017,1,7800.0,"['Vicky Krieps', 'Daniel Day-Lewis', 'Lesley Manville']",Paul Thomas Anderson,"$35,000,000 (estimated)","$52,204,454"
+tt5716464,Breathe,"Biography, Drama, Romance",romance,7.1,51.0,25644,2017,10,7080.0,"['Andrew Garfield', 'Claire Foy', 'Hugh Bonneville']",Andy Serkis,,"$5,130,787"
+tt5635086,God's Own Country,"Drama, Romance",romance,7.6,85.0,38045,2017,8,6240.0,"[""Josh O'Connor"", 'Alec Secareanu', 'Gemma Jones']",Francis Lee,,"$2,532,534"
+tt3922818,The Space Between Us,"Drama, Romance, Sci-Fi",romance,6.4,33.0,57344,2017,2,7200.0,,,,
+tt0491203,Tulip Fever,"Drama, History, Romance",romance,6.2,38.0,23637,2017,9,6300.0,"['Alicia Vikander', 'Dane DeHaan', ""Jack O'Connell""]",Justin Chadwick,"$25,000,000 (estimated)","$9,204,549"
+tt6408226,Newness,"Drama, Romance",romance,6.3,50.0,18221,2017,11,7020.0,,,,
+tt6367558,L'amant double,"Drama, Romance, Thriller",romance,6.2,70.0,14234,2017,5,6420.0,"['Marine Vacth', 'Jérémie Renier', 'Jacqueline Bisset']",François Ozon,"€7,300,000 (estimated)","$5,008,945"
+tt2062700,Song to Song,"Drama, Music, Romance",romance,5.6,55.0,23265,2017,3,7740.0,"['Ryan Gosling', 'Rooney Mara', 'Michael Fassbender']",Terrence Malick,,"$1,813,453"
+tt5978724,My Days of Mercy,"Drama, Romance",romance,6.5,,6368,2017,5,6480.0,"['Elliot Page', 'Kate Mara', 'Amy Seimetz']",Tali Shalom-Ezer,,"$18,766"
+tt5155780,The Discovery,"Drama, Romance, Sci-Fi",romance,6.2,54.0,38494,2017,3,6120.0,,,,
+tt3906082,Mary Shelley,"Biography, Drama, History",romance,6.4,49.0,18460,2017,7,7200.0,"['Elle Fanning', 'Bel Powley', 'Owen Richards']",Haifaa Al-Mansour,,"$2,096,600"
+tt5001718,"Everything, Everything","Drama, Romance",romance,6.3,52.0,43562,2017,5,5760.0,,,,
+tt3905764,The Neighbor,"Romance, Thriller",romance,4.8,,6477,2017,1,5820.0,"['William Fichtner', 'Jessica McNamee', 'Jean Louisa Kelly']",Aaron Harvey,"$500,000 (estimated)",
+tt5825380,Wonder Wheel,"Drama, Romance",romance,6.2,46.0,31884,2017,12,6060.0,"['Justin Timberlake', 'Juno Temple', 'Robert C. Kirk']",Woody Allen,"$25,000,000 (estimated)","$15,889,124"
+tt1667321,On Chesil Beach,"Drama, Music, Romance",romance,6.3,62.0,13041,2017,5,6600.0,"['Billy Howle', 'Saoirse Ronan', 'Andy Burse']",Dominic Cooke,,"$3,338,249"
+tt5034266,Our Souls at Night,"Drama, Romance",romance,6.9,69.0,15525,2017,9,6180.0,"['Robert Redford', 'Jane Fonda', 'Matthias Schoenaerts']",Ritesh Batra,,
+tt4399952,The Lodgers,"Drama, Horror, Mystery",romance,5.1,52.0,9877,2017,3,5520.0,"['Charlotte Vega', 'Bill Milner', 'Eugene Simon']",Brian O'Malley,,"$916,727"
+tt1412528,Table 19,"Comedy, Drama, Romance",romance,5.8,40.0,31789,2017,3,5220.0,"['Anna Kendrick', 'Lisa Kudrow', 'Craig Robinson']",Jeffrey Blitz,"$5,000,000 (estimated)","$5,042,014"
+tt3859310,How to Talk to Girls at Parties,"Comedy, Music, Romance",romance,5.7,50.0,12818,2017,5,6120.0,,,,
+tt5655222,The Hero,"Drama, Romance",romance,6.5,61.0,10654,2017,6,5760.0,"['Sam Elliott', 'Laura Prepon', 'Krysten Ritter']",Brett Haley,"$1,200,000 (estimated)","$4,101,699"
+tt6658066,In Dire Need of Compassion,Romance,romance,6.2,,42,2017,3,4560.0,,,,
+tt6194530,Ava,"Drama, Romance",romance,6.6,62.0,3430,2017,6,6300.0,"['Noée Abita', 'Laure Calamy', 'Juan Cano']",Léa Mysius,"€2,800,000 (estimated)","$497,676"
+tt7308086,Desearás al hombre de tu hermana,"Comedy, Drama, Romance",romance,4.0,,1835,2017,10,5580.0,"['Carolina Ardohain', 'Mónica Antonópulos', 'Guilherme Winter']",Diego Kaplan,,"$442,472"
+tt5539054,You Get Me,"Crime, Drama, Mystery",romance,4.7,,14760,2017,6,5340.0,"['Bella Thorne', 'Halston Sage', 'Taylor John Smith']",Brent Bonacorso,,
+tt5153236,Hampstead,"Comedy, Drama, Romance",romance,6.1,53.0,7717,2017,6,6120.0,"['James Norton', 'Brendan Gleeson', 'Diane Keaton']",Joel Hopkins,,"$6,335,171"
+tt1291566,Sidney Hall,"Drama, Mystery, Romance",romance,6.8,18.0,12050,2017,3,7140.0,"['Logan Lerman', 'Elle Fanning', 'Kyle Chandler']",Shawn Christensen,,
+tt6121444,"Mektoub, My Love: Canto Uno","Comedy, Romance",romance,6.5,59.0,4262,2017,3,10860.0,"['Shaïn Boumedine', 'Ophélie Bau', 'Salim Kechiouche']",Abdellatif Kechiche,,"$1,200,387"
+tt6098794,A Thought of Ecstasy,"Romance, Thriller",romance,3.6,,725,2017,1,5400.0,"['RP Kahl', 'Deborah Kara Unger', 'Ava Verne']",RP Kahl,,
+tt3563262,Submergence,"Drama, Romance, Thriller",romance,5.4,38.0,9563,2017,4,6720.0,,,,
+tt1386691,Shimmer Lake,"Action, Comedy, Crime",romance,6.3,,17189,2017,6,5160.0,"['Benjamin Walker', 'Rainn Wilson', 'Stephanie Sigman']",Oren Uziel,,
+tt6294822,The Post,"Biography, Drama, History",thriller,7.2,83.0,166877,2017,1,6960.0,,,,
+tt2226597,The Mountain Between Us,"Drama, Thriller",thriller,6.4,48.0,85687,2017,10,6720.0,,,,

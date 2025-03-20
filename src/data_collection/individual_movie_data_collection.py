@@ -16,10 +16,10 @@ async def fetch_individual_movie_data(session, imdb_id):
     }
     #print(f"Fetching data for IMDb ID: {imdb_id}")
     try:
-        await asyncio.sleep(random.uniform(1, 3))
+        await asyncio.sleep(random.uniform(1, 5))
 
-        timeout = aiohttp.ClientTimeout(total=10)
-        async with session.get(url, headers=headers, timeout=timeout) as response:
+        timeout = aiohttp.ClientTimeout(total=20)
+        async with session.get(url, headers=headers, timeout = timeout) as response:
             content = await response.text()
             soup = BeautifulSoup(content, "html.parser")
 
